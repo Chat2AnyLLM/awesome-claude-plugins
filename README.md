@@ -789,6 +789,7 @@ Last updated: 2026-01-22 08:40 UTC
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
 | [vercel](https://github.com/vercel/vercel-deploy-claude-code-plugin.git) | anthropics/claude-plugins-official | Vercel deployment platform integration. Manage deployments, check build status, access logs, configure domains, and control your frontend infrastru... | None | 1.0.0 |
+| [myvibe-skills](https://github.com/ArcBlock/myvibe-skills) | ArcBlock/myvibe-skills | Instantly publish AI-generated web apps to MyVibe.so. Auto-detects Static, Vite, Next.js, Astro, Nuxt with smart build integration and version tracking. | ArcBlock | 1.0.0 |
 
 ## design
 
