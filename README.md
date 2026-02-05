@@ -1048,6 +1048,7 @@ Last updated: 2026-01-22 08:40 UTC
 | [explanatory-output-style](https://github.com/anthropics/claude-code/tree/main/plugins/explanatory-output-style) | anthropics/claude-code | Adds educational insights about implementation choices and codebase patterns (mimics the deprecated Explanatory output style) | Dickson Tsai | 1.0.0 |
 | [learning-output-style](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/learning-output-style) | anthropics/claude-plugins-official | Interactive learning mode that requests meaningful code contributions at decision points (mimics the unshipped Learning output style) | Anthropic | 1.0.0 |
 | [learning-output-style](https://github.com/anthropics/claude-code/tree/main/plugins/learning-output-style) | anthropics/claude-code | Interactive learning mode that requests meaningful code contributions at decision points (mimics the unshipped Learning output style) | Boris Cherny | 1.0.0 |
+| [voicebrief](https://github.com/researchaudio/voicebrief-plugin) | researchaudio/voicebrief-plugin | PDF to audio study assistant — converts textbooks to listenable lessons with AI summaries, quizzes, voice chat tutoring, and spaced repetition | VoiceBrief | 1.0.0 |
 
 ## marketing
 
