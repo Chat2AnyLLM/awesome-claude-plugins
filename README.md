@@ -111,6 +111,7 @@ Last updated: 2026-01-22 08:40 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
+| [aws-cost-saver](https://github.com/prajapatimehul/aws-cost-saver) | aws-cost-saver-marketplace | AWS cost optimization scanner with 173 automated checks across 11 domains. Features AWS Compute Optimizer ML integration, Zero Hallucination Pricing System (21 rules), and parallel scanning. Real result: 60% cost reduction ($105/day → $42/day). Read-only and safe. | Mehul Prajapati | 1.0.0 |
 | [deployment-engineer](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/deployment-engineer) | awesome-claude-code-plugins | Use this agent when setting up CI/CD pipelines, configuring Docker containers, deploying applications to cloud platforms, setting up Kubernetes clu... | Jure Šunić | 1.0.0 |
 | [devops-automator](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/devops-automator) | awesome-claude-code-plugins | Use this agent when setting up CI/CD pipelines, configuring cloud infrastructure, implementing monitoring systems, or automating deployment process... | Michael Galpert | 1.0.0 |
 | [infrastructure-maintainer](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/infrastructure-maintainer) | awesome-claude-code-plugins | Use this agent when monitoring system health, optimizing performance, managing scaling, or ensuring infrastructure reliability. This agent excels a... | Michael Galpert | 1.0.0 |
