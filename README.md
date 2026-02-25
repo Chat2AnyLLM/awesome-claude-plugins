@@ -111,6 +111,7 @@ Last updated: 2026-01-22 08:40 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
+| [preflight](https://github.com/Nancy-Chauhan/preflight) | nancy-chauhan-preflight | Scans your codebase, traces every service call, and simulates what happens at scale -- finding bottlenecks, cost cliffs, rate limits, and breaking points before you ship. | Nancy Chauhan | 1.0.0 |
 | [deployment-engineer](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/deployment-engineer) | awesome-claude-code-plugins | Use this agent when setting up CI/CD pipelines, configuring Docker containers, deploying applications to cloud platforms, setting up Kubernetes clu... | Jure Šunić | 1.0.0 |
 | [devops-automator](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/devops-automator) | awesome-claude-code-plugins | Use this agent when setting up CI/CD pipelines, configuring cloud infrastructure, implementing monitoring systems, or automating deployment process... | Michael Galpert | 1.0.0 |
 | [infrastructure-maintainer](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/infrastructure-maintainer) | awesome-claude-code-plugins | Use this agent when monitoring system health, optimizing performance, managing scaling, or ensuring infrastructure reliability. This agent excels a... | Michael Galpert | 1.0.0 |
@@ -1025,6 +1026,7 @@ Last updated: 2026-01-22 08:40 UTC
 | [deployment-strategies](https://github.com/wshobson/agents) | claude-code-workflows | Deployment patterns, rollback automation, and infrastructure templates | Seth Hobson | 1.2.0 |
 | [deployment-validation](https://github.com/wshobson/agents) | claude-code-workflows | Pre-deployment checks, configuration validation, and deployment readiness assessment | Seth Hobson | 1.2.0 |
 | [kubernetes-operations](https://github.com/wshobson/agents) | claude-code-workflows | Kubernetes manifest generation, networking configuration, security policies, observability setup, GitOps workflows, and auto-scaling | Seth Hobson | 1.2.1 |
+| [preflight](https://github.com/Nancy-Chauhan/preflight) | nancy-chauhan-preflight | Scans your codebase, traces every service call, and simulates what happens at scale -- finding bottlenecks, cost cliffs, rate limits, and breaking points before you ship. | Nancy Chauhan | 1.0.0 |
 
 ## languages
 
