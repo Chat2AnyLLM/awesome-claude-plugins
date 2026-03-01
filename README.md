@@ -275,6 +275,12 @@ Last updated: 2026-01-22 08:40 UTC
 | [legal-advisor](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/legal-advisor) | awesome-claude-code-plugins | Use this agent when you need legal advisory, compliance documentation, RFP response creation, and enterprise contract support for B2B applications.... | Alysson Franklin | 1.0.0 |
 | [legal-compliance-checker](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/legal-compliance-checker) | awesome-claude-code-plugins | Use this agent when reviewing terms of service, privacy policies, ensuring regulatory compliance, or handling legal requirements. This agent excels... | Michael Galpert | 1.0.0 |
 
+## Skill & Agent Frameworks
+
+| Name | Description | Stars | Author |
+|------|-------------|-------|--------|
+| [openpaw](https://github.com/daxaur/openpaw) | Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills. No daemon, no cloud, MIT licensed. | New | daxaur |
+
 ## Uncategorized
 
 | Plugin | Marketplace | Description | Author | Version |
