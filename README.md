@@ -632,6 +632,7 @@ Last updated: 2026-01-22 08:40 UTC
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
 | [project-health-auditor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/mcp/project-health-auditor) | claude-code-plugins-plus | Multi-dimensional code health analysis with complexity, churn, and test coverage - identifies technical debt hot spots | Jeremy Longshore | 1.0.0 |
+| [vitals](https://github.com/chopratejas/vitals) | vitals | Codebase vital signs — finds hotspots via git churn x complexity x centrality, ROI-ranked diagnosis where Claude reads hotspot files, co-change coupling, bus factor analysis, health trend tracking, and silent AI provenance capture. Zero dependencies. | Tejas Chopra | 0.2.0 |
 
 ## code-review
 
