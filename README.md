@@ -149,6 +149,7 @@ Last updated: 2026-01-22 08:40 UTC
 | [test-file](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/test-file) | awesome-claude-code-plugins | Generate comprehensive tests for a specific file |  Anand Tyagi | 1.0.0 |
 | [test-results-analyzer](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/test-results-analyzer) | awesome-claude-code-plugins | Use this agent for analyzing test results, synthesizing test data, identifying trends, and generating quality metrics reports. This agent specializ... | Michael Galpert | 1.0.0 |
 | [test-writer-fixer](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/test-writer-fixer) | awesome-claude-code-plugins | Use this agent when code changes have been made and you need to write new tests, run existing tests, analyze failures, and fix them while maintaini... | Michael Galpert | 1.0.0 |
+| [testpilot](https://github.com/Siddhesh2377/testpilot) | GitHub | Autonomous testing autopilot. Analyzes any project, generates tests, runs them, fixes failures, and re-runs until green. Three commands: /testpilot, /testfix, /testwatch. | Siddhesh2377 | 1.0.0 |
 | [unit-test-generator](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/unit-test-generator) | awesome-claude-code-plugins | Expert Flutter/Dart unit test specialist that systematically improves test coverage using automated workflows with strict validation, git managemen... | Community | 1.0.0 |
 
 ## Data Analytics
