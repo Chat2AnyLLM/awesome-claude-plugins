@@ -160,6 +160,7 @@ Last updated: 2026-01-22 08:40 UTC
 | [experiment-tracker](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/experiment-tracker) | awesome-claude-code-plugins | PROACTIVELY use this agent when experiments are started, modified, or when results need analysis. This agent specializes in tracking A/B tests, fea... | Michael Galpert | 1.0.0 |
 | [feedback-synthesizer](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/feedback-synthesizer) | awesome-claude-code-plugins | Use this agent when you need to analyze user feedback from multiple sources, identify patterns in user complaints or requests, synthesize insights ... | Michael Galpert | 1.0.0 |
 | [trend-researcher](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/trend-researcher) | awesome-claude-code-plugins | Use this agent when you need to identify market opportunities, analyze trending topics, research viral content, or understand emerging user behavio... | Michael Galpert | 1.0.0 |
+| [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | Xquik-dev/x-twitter-scraper | X/Twitter data extraction skill — tweet search, user lookup, follower/following extraction, media download, reply/retweet/quote extraction, account monitoring, trending topics. MCP server, REST API, 20 bulk tools. | Burak Bayir | 1.0.0 |
 
 ## Design UX
 
