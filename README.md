@@ -726,6 +726,7 @@ Last updated: 2026-01-22 08:40 UTC
 |--------|-------------|-------------|--------|---------|
 | [data-engineering](https://github.com/wshobson/agents) | claude-code-workflows | ETL pipeline construction, data warehouse design, batch processing workflows, and data-driven feature development | Seth Hobson | 1.2.2 |
 | [data-validation-suite](https://github.com/wshobson/agents) | claude-code-workflows | Schema validation, data quality monitoring, streaming validation pipelines, and input validation for backend APIs | Seth Hobson | 1.2.0 |
+| [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | Xquik-dev/x-twitter-scraper | X (Twitter) data extraction & automation skill for AI coding agents. 40+ tools: tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, write actions, and Telegram integrations. REST API, MCP server & HMAC webhooks. | Burak Bayir | 1.0.0 |
 
 ## data-analytics
 
