@@ -1145,6 +1145,7 @@ Last updated: 2026-01-22 08:40 UTC
 ## productivity
 
 | Plugin | Marketplace | Description | Author | Version |
+| [rhino-os](https://github.com/rhinehart514/rhino-os) | rhino-marketplace | Learning plugin — measurement, predictions, and autonomous building that compounds across sessions. 17 commands, 6 agents, 20 skills. | Jacob Rhinehart | 8.1.0 |
 |--------|-------------|-------------|--------|---------|
 | [000-jeremy-content-consistency-validator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/000-jeremy-content-consistency-validator) | claude-code-plugins-plus | Read-only validator that generates comprehensive discrepancy reports comparing messaging consistency across ANY HTML-based website (WordPress, Hugo... | Jeremy Longshore | 1.0.0 |
 | [002-jeremy-yaml-master-agent](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/002-jeremy-yaml-master-agent) | claude-code-plugins-plus | Intelligent YAML validation, generation, and transformation agent with schema inference, linting, and format conversion capabilities | Jeremy Longshore | 1.0.0 |
