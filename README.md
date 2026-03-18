@@ -262,6 +262,7 @@ Last updated: 2026-01-22 08:40 UTC
 | [studio-producer](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/studio-producer) | awesome-claude-code-plugins | PROACTIVELY use this agent when coordinating across multiple teams, allocating resources, or optimizing studio workflows. This agent specializes in... | Michael Galpert | 1.0.0 |
 | [tool-evaluator](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/tool-evaluator) | awesome-claude-code-plugins | Use this agent when evaluating new development tools, frameworks, or services for the studio. This agent specializes in rapid tool assessment, comp... | Michael Galpert | 1.0.0 |
 | [workflow-optimizer](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/workflow-optimizer) | awesome-claude-code-plugins | Use this agent for optimizing human-agent collaboration workflows and analyzing workflow efficiency. This agent specializes in identifying bottlene... | Michael Galpert | 1.0.0 |
+| [product-manager-skills](https://github.com/Digidai/product-manager-skills) | Digidai/product-manager-skills | Senior PM agent skill for Claude Code with 6 knowledge domains, 30+ product frameworks, and 32 SaaS metrics. Pure Markdown, no dependencies. | Digidai | 1.0.0 |
 
 ## Security, Compliance, & Legal
 
