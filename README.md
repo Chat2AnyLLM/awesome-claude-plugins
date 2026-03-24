@@ -175,6 +175,7 @@ Last updated: 2026-01-22 08:40 UTC
 | [whimsy-injector](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/whimsy-injector) | awesome-claude-code-plugins | PROACTIVELY use this agent after any UI/UX changes to ensure delightful, playful elements are incorporated. This agent specializes in adding joy, s... | Michael Galpert | 1.0.0 |
 
 ## Development Engineering
+| [skills-janitor](https://github.com/khendzel/skills-janitor) | skills-janitor | Audit, deduplicate, check, fix, and track usage of Claude Code skills. 9 actions, zero dependencies. | Krzysztof Hendzel | 1.0.0 |
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
