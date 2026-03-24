@@ -1350,6 +1350,11 @@ Last updated: 2026-01-22 08:40 UTC
 | [full-stack-orchestration](https://github.com/wshobson/agents) | claude-code-workflows | End-to-end feature orchestration with testing, security, performance, and deployment | Seth Hobson | 1.2.1 |
 | [git-pr-workflows](https://github.com/wshobson/agents) | claude-code-workflows | Git workflow automation, pull request enhancement, and team onboarding processes | Seth Hobson | 1.2.1 |
 | [tdd-workflows](https://github.com/wshobson/agents) | claude-code-workflows | Test-driven development methodology with red-green-refactor cycles and code review | Seth Hobson | 1.2.1 |
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
+
 ## Contributing
 
 We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for details on how to add new marketplaces or plugins.
