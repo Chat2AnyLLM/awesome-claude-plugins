@@ -1077,6 +1077,7 @@ Last updated: 2026-01-22 08:40 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
+| [claude-dash](https://github.com/krabat-l/claude-dash) | krabat-l/claude-dash | Real-time statusline for Claude Code showing context, cost, quota, cache, tools, and git status | krabat-l | 1.0.0 |
 | [sentry](https://github.com/getsentry/sentry-for-claude.git) | anthropics/claude-plugins-official | Sentry error monitoring integration. Access error reports, analyze stack traces, search issues by fingerprint, and debug production errors directly... | None | 1.0.0 |
 
 ## operations
