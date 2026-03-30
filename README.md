@@ -134,6 +134,7 @@ Last updated: 2026-01-22 08:40 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
+| [8eyes](https://github.com/AgentBuildersApp/eight-eyes) | 8eyes-marketplace | Hook-enforced multi-agent code review with 8 constrained roles — blind skeptic, security auditor, verifier, and 5 more. Each scoped to a different failure surface. 142 tests, zero dependencies. Claude Code, Copilot CLI, Codex CLI. | AgentBuildersApp | 4.1.0 |
 | [api-tester](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/api-tester) | awesome-claude-code-plugins | Use this agent for comprehensive API testing including performance testing, load testing, and contract testing. This agent specializes in ensuring ... | Michael Galpert | 1.0.0 |
 | [bug-detective](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/bug-detective) | awesome-claude-code-plugins | Systematically debug issues with step-by-step troubleshooting approaches. | Anonymous | 1.0.0 |
 | [code-review](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/code-review) | awesome-claude-code-plugins | Perform a comprehensive code review of recent changes |  Anand Tyagi | 1.0.0 |
