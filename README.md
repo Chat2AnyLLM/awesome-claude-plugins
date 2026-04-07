@@ -452,6 +452,7 @@ Last updated: 2026-01-22 08:40 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
+| [RemoteOpenClaw](https://remoteopenclaw.com) | remoteopenclaw | Open marketplace for discovering, sharing, and distributing AI skills and personas built on OpenClaw | None | 1.0.0 |
 | [sap-ai-core](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-ai-core) | secondsky/sap-skills | Guides development with SAP AI Core and SAP AI Launchpad for enterprise AI/ML workloads on SAP BTP. Use when: deploying generative AI models (GPT, ... | None | 2.1.0 |
 | [sap-cloud-sdk-ai](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-cloud-sdk-ai) | secondsky/sap-skills | Integrates SAP Cloud SDK for AI into JavaScript/TypeScript and Java applications. Use when building applications with SAP AI Core, Generative AI Hu... | None | 2.1.0 |
 
