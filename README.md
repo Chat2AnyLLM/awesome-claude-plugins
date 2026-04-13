@@ -648,6 +648,7 @@ Last updated: 2026-01-22 08:40 UTC
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
 | [teams-channel-post-writer](https://github.com/daymade/claude-code-skills/tree/main/) | daymade/claude-code-skills | Create professional Microsoft Teams channel posts with Adaptive Cards, formatted announcements, and corporate communication standards | None | 1.0.0 |
+| [whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) | Rich627/whatsapp-claude-plugin | WhatsApp channel for Claude Code — connects as linked device via Baileys v7 with bidirectional messaging, media support, voice transcription, permission relay, and access control | Richie Liu | 0.3.3 |
 
 ## communication-writing
 
