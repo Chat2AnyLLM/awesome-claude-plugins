@@ -7,6 +7,7 @@ Total Marketplaces: 43 | Total Plugins: 834
 Last updated: 2026-01-22 08:40 UTC
 
 ## Installation
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 1. Install CAM: `curl -fsSL https://raw.githubusercontent.com/Chat2AnyLLM/code-assistant-manager/main/install.sh | bash`
 2. Find the marketplace to install, or install all marketplace
