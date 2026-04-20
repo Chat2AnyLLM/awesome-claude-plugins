@@ -175,7 +175,6 @@ Last updated: 2026-01-22 08:40 UTC
 | [whimsy-injector](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/whimsy-injector) | awesome-claude-code-plugins | PROACTIVELY use this agent after any UI/UX changes to ensure delightful, playful elements are incorporated. This agent specializes in adding joy, s... | Michael Galpert | 1.0.0 |
 
 ## Development Engineering
-| [skills-janitor](https://github.com/khendzel/skills-janitor) | skills-janitor | Audit, deduplicate, check, fix, and track usage of Claude Code skills. 9 actions, zero dependencies. | Krzysztof Hendzel | 1.0.0 |
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
@@ -194,6 +193,7 @@ Last updated: 2026-01-22 08:40 UTC
 | [react-native-dev](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/react-native-dev) | awesome-claude-code-plugins | Use this agent when you need expert assistance with React Native development tasks including code analysis, component creation, debugging, performa... | abhishek shah | 1.0.0 |
 | [vision-specialist](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/vision-specialist) | awesome-claude-code-plugins | Expert in vision models, OCR systems, barcode detection, and visual AI. Stays current with latest models (GPT-4V, Claude Vision, Mistral-OCR, etc.)... | alanKerrigan | 1.0.0 |
 | [web-dev](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/web-dev) | awesome-claude-code-plugins | Use this agent for expert assistance with web development tasks using React, Next.js, NestJS, and other modern web frameworks with TypeScript and T... | safayavatsal | 1.0.0 |
+| [skills-janitor](https://github.com/khendzel/skills-janitor) | skills-janitor | Audit, track usage, and manage your Claude Code skills. 7 slash commands, zero dependencies. | Krzysztof Hendzel | 1.1.0 |
 
 ## Documentation
 
