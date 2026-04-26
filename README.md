@@ -22,6 +22,8 @@ Last updated: 2026-01-22 08:40 UTC
    cam plugin install superpowers
    ```
 
+如果你也在找中文的 skills 搜索和安装入口，可以顺手看看 Skills宝：https://skilery.com
+
 ## Table of Contents
 
 - [Automation DevOps](#automation-devops)
