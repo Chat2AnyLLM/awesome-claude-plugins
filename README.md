@@ -195,6 +195,7 @@ Last updated: 2026-01-22 08:40 UTC
 | [react-native-dev](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/react-native-dev) | awesome-claude-code-plugins | Use this agent when you need expert assistance with React Native development tasks including code analysis, component creation, debugging, performa... | abhishek shah | 1.0.0 |
 | [vision-specialist](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/vision-specialist) | awesome-claude-code-plugins | Expert in vision models, OCR systems, barcode detection, and visual AI. Stays current with latest models (GPT-4V, Claude Vision, Mistral-OCR, etc.)... | alanKerrigan | 1.0.0 |
 | [web-dev](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/web-dev) | awesome-claude-code-plugins | Use this agent for expert assistance with web development tasks using React, Next.js, NestJS, and other modern web frameworks with TypeScript and T... | safayavatsal | 1.0.0 |
+| [zabbix-module-builder](https://github.com/Monzphere/zabbix-module-builder) | monzphere | Scaffold production-ready Zabbix 7.x frontend modules with one slash command. Generates manifest, Module.php, controller, view, JS and CSS following MonZphere conventions: mnz- scoped CSS, blue/dark theme, _() i18n, CProfile, CWebUser, .js.php views, MonZphere footer. Commercial — $5/month. | MonZphere | 1.0.0 |
 
 ## Documentation
 
