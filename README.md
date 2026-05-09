@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 65 | Total Plugins: 1150
 
-Last updated: 2026-05-09 12:53 UTC
+Last updated: 2026-05-09 13:38 UTC
 
 ## Installation
 
@@ -356,16 +356,16 @@ Last updated: 2026-05-09 12:53 UTC
 | [phantom](https://github.com/athola/claude-night-market/tree/main/plugins/phantom) | athola/claude-night-market | Computer use toolkit for driving desktop environments through Claude's vision and action API with screenshot capture, mouse/keyboard control, and a... | None | 1.9.5 |
 | [plugin-gtm](https://github.com/twofoldtech-dakota/plugin-gtm) | twofoldtech-dakota/plugin-gtm | Go-to-market engine for Claude Code — analyze products, build GTM plans, generate launch content, and orchestrate market entry. | None | 1.0.0 |
 | [postiz](https://github.com/gitroomhq/postiz-agent.git) | anthropics/claude-plugins-official | Social media automation CLI for scheduling posts, managing integrations, uploading media, and tracking analytics across 28+ platforms including X, ... | None | 1.0.0 |
-| [precommit](https://github.com/bradleygolden/claude-marketplace-elixir) | bradleygolden/claude-marketplace-elixir | Phoenix precommit alias automation - runs mix precommit before git commits if alias exists | None | 1.0.0 |
-| [prisma](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Prisma MCP integration for Postgres database management, schema migrations, SQL queries, and connection string management. Provision Prisma Postgre... | None | 1.0.0 |
+| [precommit](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/precommit) | bradleygolden/claude-marketplace-elixir | Phoenix precommit alias automation - runs mix precommit before git commits if alias exists | None | 1.0.0 |
+| [prisma](https://github.com/prisma/claude-plugin.git) | anthropics/claude-plugins-official | Prisma MCP integration for Postgres database management, schema migrations, SQL queries, and connection string management. Provision Prisma Postgre... | None | 1.0.0 |
 | [private-journal-mcp](https://github.com/obra/private-journal-mcp.git) | superpowers-marketplace | Private journaling MCP server with semantic search. Multi-section entries (feelings, project notes, technical insights), local AI embeddings, and f... | None | 1.2.0 |
-| [remember](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Continuous memory for Claude Code. Extracts, summarizes, and compresses conversations into tiered daily logs. Claude remembers what you did yesterday. | None | 1.0.0 |
+| [remember](https://github.com/Digital-Process-Tools/claude-remember.git) | anthropics/claude-plugins-official | Continuous memory for Claude Code. Extracts, summarizes, and compresses conversations into tiered daily logs. Claude remembers what you did yesterday. | None | 1.0.0 |
 | [sanctum](https://github.com/athola/claude-night-market/tree/main/plugins/sanctum) | athola/claude-night-market | Git workflows: commit messages, PR preparation, documentation updates, version management, sessions, and deferred-item capture | None | 1.9.5 |
 | [scribe](https://github.com/athola/claude-night-market/tree/main/plugins/scribe) | athola/claude-night-market | Documentation review, cleanup, and generation with AI slop detection, style learning, and human-quality writing enforcement | None | 1.9.5 |
 | [scry](https://github.com/athola/claude-night-market/tree/main/plugins/scry) | athola/claude-night-market | Media generation: terminal recordings (VHS), browser recordings (Playwright), GIF processing, and media composition | None | 1.9.5 |
 | [skills-janitor](https://github.com/khendzel/skills-janitor/tree/main/) | khendzel/skills-janitor | 7 skill hygiene tools: audit, health report, auto-fix, usage tracking, token cost analysis, GitHub search, and pre-install overlap check. | None | 1.0.0 |
 | [smdd-toolkit](https://github.com/cyvnrs/smdd-toolkit/tree/main/) | cyvnrs/smdd-toolkit | Structured Markdown Driven Development skills for Claude Code. | None | 1.0.0 |
-| [sobelow](https://github.com/bradleygolden/claude-marketplace-elixir) | bradleygolden/claude-marketplace-elixir | Sobelow security-focused static analysis for Phoenix and Elixir projects | None | 1.0.0 |
+| [sobelow](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/sobelow) | bradleygolden/claude-marketplace-elixir | Sobelow security-focused static analysis for Phoenix and Elixir projects | None | 1.0.0 |
 | [spec-kit](https://github.com/athola/claude-night-market/tree/main/plugins/spec-kit) | athola/claude-night-market | Specification-driven development: structured specs, implementation planning, and task orchestration for systematic feature delivery | None | 1.9.5 |
 | [superpowers](https://github.com/obra/superpowers.git) | superpowers-marketplace | Core skills library: TDD, debugging, collaboration patterns, and proven techniques | None | 5.1.0 |
 | [superpowers](https://github.com/obra/superpowers/tree/main/) | superpowers-dev | Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques | Jesse Vincent | 5.1.0 |
@@ -377,22 +377,22 @@ Last updated: 2026-05-09 12:53 UTC
 | [trading-ideas](https://github.com/quant-sentiment-ai/claude-equity-research/tree/main/commands/trading-ideas) | claude-equity-research-marketplace | Institutional-grade equity research reports via /trading-ideas:research command. Analyzes company financials, technical indicators, market position... | quant-sentiment-ai | 1.0.1 |
 | [trends-bulletin](https://github.com/iamzhihuix/happy-claude-skills/tree/main/) | iamzhihuix/happy-claude-skills | Multi-platform trending topics bulletin with AI analysis, sends formatted report to Telegram | None | 1.0.0 |
 | [video-processor](https://github.com/iamzhihuix/happy-claude-skills/tree/main/) | iamzhihuix/happy-claude-skills | Download and process videos from YouTube with audio extraction, format conversion, and Whisper transcription | None | 1.0.0 |
-| [voicebrief](https://voicebrief.io) | researchaudio/voicebrief-plugin | Turn any PDF into an audio lesson with AI summaries, quizzes, and voice chat tutors. Study smarter by listening. | VoiceBrief | 1.1.0 |
+| [voicebrief](https://github.com/researchaudio/voicebrief-plugin) | researchaudio/voicebrief-plugin | Turn any PDF into an audio lesson with AI summaries, quizzes, and voice chat tutors. Study smarter by listening. | VoiceBrief | 1.1.0 |
 | [wechat-article-writer](https://github.com/iamzhihuix/happy-claude-skills/tree/main/) | iamzhihuix/happy-claude-skills | WeChat article writing workflow with research, writing, title generation, and formatting optimization | None | 1.0.0 |
-| [wordpress.com](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Uses Claude Code to create and edit WordPress sites with WordPress Studio before deploying changes to your WordPress.com site. | None | 1.0.0 |
+| [wordpress.com](https://github.com/Automattic/claude-code-wordpress.com.git) | anthropics/claude-plugins-official | Uses Claude Code to create and edit WordPress sites with WordPress Studio before deploying changes to your WordPress.com site. | None | 1.0.0 |
 
 ## Workflow Orchestration
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [angelos-symbo](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | Use this agent when you need to create or convert prompts using the SYMBO (symbolic) notation system. This agent MUST be activated whenever generat... | normalnormie | 1.0.0 |
-| [ceo-quality-controller-agent](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | Universal quality control orchestrator and final authority for any software development project. Dynamically discovers and coordinates with availab... | Beau Lewis | 1.0.0 |
-| [claude-desktop-extension](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
-| [lyra](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
-| [model-context-protocol-mcp-expert](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | Model Context Protocol Mcp Expert subagent | Community | 1.0.0 |
-| [problem-solver-specialist](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | Universal expert problem-solving agent specializing in complex debugging, mysterious runtime behavior, integration issues, and multi-layered techni... | Beau Lewis | 1.0.0 |
-| [studio-coach](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | PROACTIVELY use this agent when complex multi-agent tasks begin, when agents seem stuck or overwhelmed, or when the team needs motivation and coord... | Michael Galpert | 1.0.0 |
-| [ultrathink](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | Use /ultrathink <TASK_DESCRIPTION> to launch a Coordinator Agent that directs four specialist sub-agents—Architect, Research, Coder, and Tester—to ... | Jeronim Morina | 1.0.0 |
+| [angelos-symbo](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/angelos-symbo) | awesome-claude-code-plugins | Use this agent when you need to create or convert prompts using the SYMBO (symbolic) notation system. This agent MUST be activated whenever generat... | normalnormie | 1.0.0 |
+| [ceo-quality-controller-agent](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/ceo-quality-controller-agent) | awesome-claude-code-plugins | Universal quality control orchestrator and final authority for any software development project. Dynamically discovers and coordinates with availab... | Beau Lewis | 1.0.0 |
+| [claude-desktop-extension](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/claude-desktop-extension) | awesome-claude-code-plugins | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
+| [lyra](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/lyra) | awesome-claude-code-plugins | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
+| [model-context-protocol-mcp-expert](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/model-context-protocol-mcp-expert) | awesome-claude-code-plugins | Model Context Protocol Mcp Expert subagent | Community | 1.0.0 |
+| [problem-solver-specialist](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/problem-solver-specialist) | awesome-claude-code-plugins | Universal expert problem-solving agent specializing in complex debugging, mysterious runtime behavior, integration issues, and multi-layered techni... | Beau Lewis | 1.0.0 |
+| [studio-coach](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/studio-coach) | awesome-claude-code-plugins | PROACTIVELY use this agent when complex multi-agent tasks begin, when agents seem stuck or overwhelmed, or when the team needs motivation and coord... | Michael Galpert | 1.0.0 |
+| [ultrathink](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/ultrathink) | awesome-claude-code-plugins | Use /ultrathink <TASK_DESCRIPTION> to launch a Coordinator Agent that directs four specialist sub-agents—Architect, Research, Coder, and Tester—to ... | Jeronim Morina | 1.0.0 |
 
 ## abap
 
@@ -949,7 +949,7 @@ Last updated: 2026-05-09 12:53 UTC
 | [debugging-toolkit](https://github.com/wshobson/agents/tree/main/plugins/debugging-toolkit) | claude-code-workflows | Interactive debugging, developer experience optimization, and smart debugging workflows | Seth Hobson | 1.2.0 |
 | [dev](https://github.com/MadAppGang/claude-code/tree/main/plugins/dev) | mag-claude-plugins | Universal development assistant with real skill discovery. v1.31.3: Statusline extracted to standalone plugin. 46 skills. | Jack Rudenko | 1.31.3 |
 | [developer-essentials](https://github.com/wshobson/agents/tree/main/plugins/developer-essentials) | claude-code-workflows | Essential developer skills including Git workflows, SQL optimization, error handling, code review, E2E testing, authentication, debugging, and mono... | Seth Hobson | 1.0.3 |
-| [expo](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Official Expo skills for building, deploying, upgrading, and debugging React Native apps with Expo. Covers UI development with Expo Router, SwiftUI... | None | 1.0.0 |
+| [expo](https://github.com/expo/skills.git) | anthropics/claude-plugins-official | Official Expo skills for building, deploying, upgrading, and debugging React Native apps with Expo. Covers UI development with Expo Router, SwiftUI... | None | 1.0.0 |
 | [fakechat](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/fakechat) | anthropics/claude-plugins-official | Localhost web chat for testing the channel notification flow. No tokens, no access control, no third-party service. | None | 1.0.0 |
 | [feature-dev](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/feature-dev) | anthropics/claude-plugins-official | Comprehensive feature development workflow with specialized agents for codebase exploration, architecture design, and quality review | Anthropic | 1.0.0 |
 | [feature-dev](https://github.com/anthropics/claude-code/tree/main/plugins/feature-dev) | anthropics/claude-code | Comprehensive feature development workflow with specialized agents for codebase exploration, architecture design, and quality review | Siddharth Bidasaria | 1.0.0 |
