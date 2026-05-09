@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 65 | Total Plugins: 1154
 
-Last updated: 2026-05-09 20:52 UTC
+Last updated: 2026-05-09 21:52 UTC
 
 ## Installation
 
@@ -1011,12 +1011,12 @@ Last updated: 2026-05-09 20:52 UTC
 | [rust-analyzer](https://github.com/Piebald-AI/claude-code-lsps/tree/main/rust-analyzer) | Piebald-AI/claude-code-lsps | Rust language server integration with rust-analyzer | Piebald LLC | 0.1.0 |
 | [rust-analyzer-lsp](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/rust-analyzer-lsp) | anthropics/claude-plugins-official | Rust language server for code intelligence and analysis | Anthropic | 1.0.0 |
 | [sanity](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Sanity content platform integration with MCP server, agent skills, and slash commands. Query and author content, build and optimize GROQ queries, d... | Sanity | 1.0.0 |
-| [sap-fiori-mcp-server](https://github.com/SAP/open-ux-tools.git) | anthropics/claude-plugins-official | MCP server for SAP Fiori development tools for Claude Code. Build and modify SAP Fiori applications with AI assistance. | SAP SE | 1.0.0 |
-| [sap-mdk-server](https://github.com/SAP/mdk-mcp-server.git) | anthropics/claude-plugins-official | MCP server for SAP Mobile Development Kit (MDK). Build and modify MDK applications with AI assistance — schema lookups, action validation, rule edi... | SAP | 1.0.0 |
+| [sap-fiori-mcp-server](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | MCP server for SAP Fiori development tools for Claude Code. Build and modify SAP Fiori applications with AI assistance. | SAP SE | 1.0.0 |
+| [sap-mdk-server](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | MCP server for SAP Mobile Development Kit (MDK). Build and modify MDK applications with AI assistance — schema lookups, action validation, rule edi... | SAP | 1.0.0 |
 | [serena](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/serena) | anthropics/claude-plugins-official | Semantic code analysis MCP server providing intelligent code understanding, refactoring suggestions, and codebase navigation through language serve... | None | 1.0.0 |
 | [servicenow-sdk](https://github.com/ServiceNow/sdk.git) | anthropics/claude-plugins-official | Create, edit, and deploy ServiceNow applications with the Fluent SDK effortlessly through Claude AI. | ServiceNow | 1.0.0 |
 | [shopify](https://github.com/Shopify/shopify-plugins.git) | anthropics/claude-plugins-official | Shopify developer tools for Claude Code — search Shopify docs, generate and validate GraphQL, Liquid, and UI extension code | Shopify | 1.0.0 |
-| [shopify-ai-toolkit](https://github.com/Shopify/Shopify-AI-Toolkit.git) | anthropics/claude-plugins-official | Shopify's AI Toolkit provides 18 development skills for building on the Shopify platform, covering documentation search, API schema access, GraphQL... | Shopify | 1.0.0 |
+| [shopify-ai-toolkit](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Shopify's AI Toolkit provides 18 development skills for building on the Shopify platform, covering documentation search, API schema access, GraphQL... | Shopify | 1.0.0 |
 | [skill-creator](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/skill-creator) | anthropics/claude-plugins-official | Create new skills, improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, update or optimize a... | Anthropic | 1.0.0 |
 | [snowflake-cortex-code](https://github.com/Snowflake-Labs/snowflake-ai-kit.git) | anthropics/claude-plugins-official | Automatically route Snowflake prompts from Claude Code to Cortex Code for execution. Provides slash commands for code review and task delegation, p... | Snowflake | 1.0.0 |
 | [solidity-language-server](https://github.com/Piebald-AI/claude-code-lsps/tree/main/solidity-language-server) | Piebald-AI/claude-code-lsps | Fast Solidity language server powered by Foundry and solc | Piebald LLC | 0.1.0 |
@@ -1602,13 +1602,13 @@ Last updated: 2026-05-09 20:52 UTC
 | [severity1-marketplace](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/severity1-marketplace) | claude-code-plugins-plus | Severity level classification and prompt improvement for marketplace plugins. Assigns severity ratings (S1-Critical through S4-Low) and enhances pl... | severity1 | 1.0.0 |
 | [soc2-audit-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/soc2-audit-helper) | claude-code-plugins-plus | Assist with SOC2 audit preparation | Jeremy Longshore | 1.0.0 |
 | [sonarqube](https://github.com/SonarSource/sonarqube-agent-plugins.git) | anthropics/claude-plugins-official | Automatically enforce SonarQube code quality and security in the agent coding loop — 7,000+ rules, secrets scanning, agentic analysis, and quality ... | SonarSource | 1.0.0 |
-| [sonatype-guide](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Sonatype Guide MCP server for software supply chain intelligence and dependency security. Analyze dependencies for vulnerabilities, get secure vers... | None | 1.0.0 |
+| [sonatype-guide](https://github.com/sonatype/sonatype-guide-claude-plugin.git) | anthropics/claude-plugins-official | Sonatype Guide MCP server for software supply chain intelligence and dependency security. Analyze dependencies for vulnerabilities, get secure vers... | None | 1.0.0 |
 | [sql-injection-detector](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/sql-injection-detector) | claude-code-plugins-plus | Detect SQL injection vulnerabilities | Jeremy Longshore | 1.0.0 |
 | [ssl-certificate-manager](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/ssl-certificate-manager) | claude-code-plugins-plus | Manage and monitor SSL/TLS certificates | Jeremy Longshore | 1.0.0 |
-| [vanta-mcp-plugin](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | The Vanta plugin connects Claude Code to Vanta's security and compliance platform through the Vanta MCP server. It combines Vanta's test-specific r... | Vanta | 1.0.0 |
+| [vanta-mcp-plugin](https://github.com/VantaInc/vanta-mcp-plugin.git) | anthropics/claude-plugins-official | The Vanta plugin connects Claude Code to Vanta's security and compliance platform through the Vanta MCP server. It combines Vanta's test-specific r... | Vanta | 1.0.0 |
 | [vulnerability-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/vulnerability-scanner) | claude-code-plugins-plus | Comprehensive vulnerability scanning for code, dependencies, and configurations with CVE detection | Jeremy Longshore | 1.0.0 |
 | [xss-vulnerability-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/xss-vulnerability-scanner) | claude-code-plugins-plus | Scan for XSS vulnerabilities | Jeremy Longshore | 1.0.0 |
-| [zscaler](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Manage Zscaler cloud security platform including ZPA (private access), ZIA (internet access), ZDX (digital experience), ZCC (client connector), EAS... | Zscaler | 1.0.0 |
+| [zscaler](https://github.com/zscaler/zscaler-mcp-server.git) | anthropics/claude-plugins-official | Manage Zscaler cloud security platform including ZPA (private access), ZIA (internet access), ZDX (digital experience), ZCC (client connector), EAS... | Zscaler | 1.0.0 |
 
 ## seo
 
@@ -1656,9 +1656,9 @@ Last updated: 2026-05-09 20:52 UTC
 | [mobile-app-tester](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/mobile-app-tester) | claude-code-plugins-plus | Mobile app test automation with Appium, Detox, XCUITest - test iOS and Android apps | Claude Code Plugin Hub | 1.0.0 |
 | [mutation-test-runner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/mutation-test-runner) | claude-code-plugins-plus | Mutation testing to validate test quality by introducing code changes and verifying tests catch them | Jeremy Longshore | 1.0.0 |
 | [performance-test-suite](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/performance-test-suite) | claude-code-plugins-plus | Load testing and performance benchmarking with metrics analysis and bottleneck identification | Jeremy Longshore | 1.0.0 |
-| [playwright](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Browser automation and end-to-end testing MCP server by Microsoft. Enables Claude to interact with web pages, take screenshots, fill forms, click e... | None | 1.0.0 |
+| [playwright](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/playwright) | anthropics/claude-plugins-official | Browser automation and end-to-end testing MCP server by Microsoft. Enables Claude to interact with web pages, take screenshots, fill forms, click e... | None | 1.0.0 |
 | [playwright-skill](https://github.com/lackeyjb/playwright-skill/tree/main/) | lackeyjb/playwright-skill | Claude Code Skill for general-purpose browser automation with Playwright. Claude autonomously writes and executes custom automation for testing pag... | lackeyjb | 4.1.0 |
-| [qa-orchestra](https://github.com/wshobson/agents) | claude-code-workflows | Multi-agent QA toolkit with 10 specialized agents covering the full QA lifecycle — orchestrator, environment-manager, functional-reviewer, test-sce... | Anass Rach | 1.0.0 |
+| [qa-orchestra](https://github.com/Anasss/qa-orchestra.git) | claude-code-workflows | Multi-agent QA toolkit with 10 specialized agents covering the full QA lifecycle — orchestrator, environment-manager, functional-reviewer, test-sce... | Anass Rach | 1.0.0 |
 | [regression-test-tracker](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/regression-test-tracker) | claude-code-plugins-plus | Track and run regression tests to ensure new changes don't break existing functionality | Jeremy Longshore | 1.0.0 |
 | [security-test-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/security-test-scanner) | claude-code-plugins-plus | Automated security vulnerability testing covering OWASP Top 10, SQL injection, XSS, CSRF, and authentication issues | Jeremy Longshore | 1.0.0 |
 | [smoke-test-runner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/smoke-test-runner) | claude-code-plugins-plus | Quick smoke test suites to verify critical functionality after deployments | Claude Code Plugin Hub | 1.0.0 |
@@ -1667,11 +1667,11 @@ Last updated: 2026-05-09 20:52 UTC
 | [test-data-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/test-data-generator) | claude-code-plugins-plus | Generate realistic test data including users, products, orders, and custom schemas for comprehensive testing | Jeremy Longshore | 1.0.0 |
 | [test-doubles-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/test-doubles-generator) | claude-code-plugins-plus | Generate mocks, stubs, spies, and fakes for unit testing with Jest, Sinon, and test frameworks | Claude Code Plugin Hub | 1.0.0 |
 | [test-environment-manager](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/test-environment-manager) | claude-code-plugins-plus | Manage test environments with Docker Compose, Testcontainers, and environment isolation | Claude Code Plugin Hub | 1.0.0 |
-| [test-file](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Generate comprehensive tests for a specific file |  Anand Tyagi | 1.0.0 |
+| [test-file](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/test-file) | cc-marketplace | Generate comprehensive tests for a specific file |  Anand Tyagi | 1.0.0 |
 | [test-orchestrator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/test-orchestrator) | claude-code-plugins-plus | Orchestrate complex test workflows with dependencies, parallel execution, and smart test selection | Claude Code Plugin Hub | 1.0.0 |
 | [test-report-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/test-report-generator) | claude-code-plugins-plus | Generate comprehensive test reports with coverage, trends, and stakeholder-friendly formats | Claude Code Plugin Hub | 1.0.0 |
 | [unit-test-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/unit-test-generator) | claude-code-plugins-plus | Automatically generate comprehensive unit tests from source code with multiple testing framework support | Jeremy Longshore | 1.0.0 |
-| [unit-testing](https://github.com/wshobson/agents) | claude-code-workflows | Unit and integration test automation for Python and JavaScript with debugging support | Seth Hobson | 1.2.0 |
+| [unit-testing](https://github.com/wshobson/agents/tree/main/plugins/unit-testing) | claude-code-workflows | Unit and integration test automation for Python and JavaScript with debugging support | Seth Hobson | 1.2.0 |
 | [visual-regression-tester](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/visual-regression-tester) | claude-code-plugins-plus | Visual diff testing with Percy, Chromatic, BackstopJS - catch unintended UI changes | Claude Code Plugin Hub | 1.0.0 |
 
 ## tooling
@@ -1696,12 +1696,12 @@ Last updated: 2026-05-09 20:52 UTC
 | [capture-screen](https://github.com/daymade/claude-code-skills/tree/main/capture-screen) | daymade/claude-code-skills | Programmatic screenshot capture on macOS. Get window IDs via Swift CGWindowListCopyWindowInfo, capture specific windows with screencapture -l, and ... | None | 1.0.1 |
 | [claude-export-txt-better](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/claude-export-txt-better) | daymade/claude-code-skills | Fixes broken line wrapping in Claude Code exported conversation files (.txt), reconstructing tables, paragraphs, paths, and tool calls that were ha... | None | 1.0.1 |
 | [claude-skills-troubleshooting](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/claude-skills-troubleshooting) | daymade/claude-code-skills | Diagnose and resolve Claude Code plugin and skill configuration issues. Debug plugin installation, enablement, and activation problems with systema... | None | 1.0.1 |
-| [code-refactoring](https://github.com/wshobson/agents) | claude-code-workflows | Code cleanup, refactoring automation, and technical debt management with context restoration | Seth Hobson | 1.2.0 |
-| [dependency-management](https://github.com/wshobson/agents) | claude-code-workflows | Dependency auditing, version management, and security vulnerability scanning | Seth Hobson | 1.2.0 |
-| [error-debugging](https://github.com/wshobson/agents) | claude-code-workflows | Error analysis, trace debugging, and multi-agent problem diagnosis | Seth Hobson | 1.2.0 |
+| [code-refactoring](https://github.com/wshobson/agents/tree/main/plugins/code-refactoring) | claude-code-workflows | Code cleanup, refactoring automation, and technical debt management with context restoration | Seth Hobson | 1.2.0 |
+| [dependency-management](https://github.com/wshobson/agents/tree/main/plugins/dependency-management) | claude-code-workflows | Dependency auditing, version management, and security vulnerability scanning | Seth Hobson | 1.2.0 |
+| [error-debugging](https://github.com/wshobson/agents/tree/main/plugins/error-debugging) | claude-code-workflows | Error analysis, trace debugging, and multi-agent problem diagnosis | Seth Hobson | 1.2.0 |
 | [macos-cleaner](https://github.com/daymade/claude-code-skills/tree/main/macos-cleaner) | daymade/claude-code-skills | Intelligent macOS disk space analysis and cleanup with safety-first philosophy. Use when users report disk space issues, need to clean their Mac, o... | None | 1.1.0 |
 | [repomix-unmixer](https://github.com/daymade/claude-code-skills/tree/main/repomix-unmixer) | daymade/claude-code-skills | Extract files from repomix packaged formats (XML, Markdown, JSON) with automatic format detection and validation | None | 1.0.0 |
-| [team-collaboration](https://github.com/wshobson/agents) | claude-code-workflows | Team workflows, issue management, standup automation, and developer experience optimization | Seth Hobson | 1.2.0 |
+| [team-collaboration](https://github.com/wshobson/agents/tree/main/plugins/team-collaboration) | claude-code-workflows | Team workflows, issue management, standup automation, and developer experience optimization | Seth Hobson | 1.2.0 |
 | [twitter-reader](https://github.com/daymade/claude-code-skills/tree/main/twitter-reader) | daymade/claude-code-skills | Fetch Twitter/X post content including long-form Articles with full images and metadata. Use when Claude needs to retrieve tweet/article content, a... | None | 1.1.0 |
 | [youtube-downloader](https://github.com/daymade/claude-code-skills/tree/main/youtube-downloader) | daymade/claude-code-skills | Download YouTube videos and HLS streams (m3u8) from platforms like Mux, Vimeo, etc. using yt-dlp and ffmpeg. Use when users request downloading vid... | None | 1.1.0 |
 
@@ -1715,21 +1715,21 @@ Last updated: 2026-05-09 20:52 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [claude-desktop-extension](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
+| [claude-desktop-extension](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/claude-desktop-extension) | cc-marketplace | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
 | [conductor](https://github.com/MadAppGang/claude-code/tree/main/plugins/conductor) | mag-claude-plugins | Context-Driven Development workflow inspired by Gemini Conductor. v2.1.0: Added explicit name: fields to commands for prefix-free invocation. Full-... | Jack Rudenko | 2.1.0 |
-| [everything-claude-code](https://ecc.tools) | affaan-m/everything-claude-code | The most comprehensive Claude Code plugin — 48 agents, 182 skills, 68 legacy command shims, selective install profiles, and production-ready hooks ... | Affaan Mustafa | 2.0.0-rc.1 |
-| [lyra](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
-| [sugar](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Transform Claude Code into an autonomous AI development powerhouse with rich task context, specialized agents, and intelligent workflow automation | Steven Leggett | 2.0.0 |
+| [everything-claude-code](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | The most comprehensive Claude Code plugin — 48 agents, 182 skills, 68 legacy command shims, selective install profiles, and production-ready hooks ... | Affaan Mustafa | 2.0.0-rc.1 |
+| [lyra](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/lyra) | cc-marketplace | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
+| [sugar](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/sugar) | cc-marketplace | Transform Claude Code into an autonomous AI development powerhouse with rich task context, specialized agents, and intelligent workflow automation | Steven Leggett | 2.0.0 |
 
 ## workflows
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [agent-teams](https://github.com/wshobson/agents) | claude-code-workflows | Orchestrate multi-agent teams for parallel code review, hypothesis-driven debugging, and coordinated feature development using Claude Code's Agent ... | Seth Hobson | 1.0.2 |
-| [conductor](https://github.com/wshobson/agents) | claude-code-workflows | Context-Driven Development plugin that transforms Claude Code into a project management tool with structured workflow: Context → Spec & Plan → Impl... | Seth Hobson | 1.2.1 |
-| [full-stack-orchestration](https://github.com/wshobson/agents) | claude-code-workflows | End-to-end feature orchestration with testing, security, performance, and deployment | Seth Hobson | 1.3.0 |
-| [git-pr-workflows](https://github.com/wshobson/agents) | claude-code-workflows | Git workflow automation, pull request enhancement, and team onboarding processes | Seth Hobson | 1.3.0 |
-| [tdd-workflows](https://github.com/wshobson/agents) | claude-code-workflows | Test-driven development methodology with red-green-refactor cycles and code review | Seth Hobson | 1.3.0 |
+| [agent-teams](https://github.com/wshobson/agents/tree/main/plugins/agent-teams) | claude-code-workflows | Orchestrate multi-agent teams for parallel code review, hypothesis-driven debugging, and coordinated feature development using Claude Code's Agent ... | Seth Hobson | 1.0.2 |
+| [conductor](https://github.com/wshobson/agents/tree/main/plugins/conductor) | claude-code-workflows | Context-Driven Development plugin that transforms Claude Code into a project management tool with structured workflow: Context → Spec & Plan → Impl... | Seth Hobson | 1.2.1 |
+| [full-stack-orchestration](https://github.com/wshobson/agents/tree/main/plugins/full-stack-orchestration) | claude-code-workflows | End-to-end feature orchestration with testing, security, performance, and deployment | Seth Hobson | 1.3.0 |
+| [git-pr-workflows](https://github.com/wshobson/agents/tree/main/plugins/git-pr-workflows) | claude-code-workflows | Git workflow automation, pull request enhancement, and team onboarding processes | Seth Hobson | 1.3.0 |
+| [tdd-workflows](https://github.com/wshobson/agents/tree/main/plugins/tdd-workflows) | claude-code-workflows | Test-driven development methodology with red-green-refactor cycles and code review | Seth Hobson | 1.3.0 |
 ## Contributing
 
 We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for details on how to add new marketplaces or plugins.
