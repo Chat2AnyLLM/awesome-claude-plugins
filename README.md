@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 65 | Total Plugins: 1154
+Total Marketplaces: 67 | Total Plugins: 1156
 
-Last updated: 2026-05-10 06:37 UTC
+Last updated: 2026-05-10 08:58 UTC
 
 ## Installation
 
@@ -277,7 +277,7 @@ Last updated: 2026-05-10 06:37 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [ai-ethics-governance-specialist](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | Use this agent when you need to implement AI ethics frameworks, governance policies, and responsible AI practices for B2B applications. This agent ... | Alysson Franklin | 1.0.0 |
+| [ai-ethics-governance-specialist](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/ai-ethics-governance-specialist) | awesome-claude-code-plugins | Use this agent when you need to implement AI ethics frameworks, governance policies, and responsible AI practices for B2B applications. This agent ... | Alysson Franklin | 1.0.0 |
 | [audit](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/audit) | awesome-claude-code-plugins | Perform security audit on codebase |  Anand Tyagi | 1.0.0 |
 | [compliance-automation-specialist](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/compliance-automation-specialist) | awesome-claude-code-plugins | Use this agent when you need to automate compliance processes for SOC 2, ISO 27001, GDPR, HIPAA, and other enterprise regulatory requirements. This... | Alysson Franklin | 1.0.0 |
 | [data-privacy-engineer](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/data-privacy-engineer) | awesome-claude-code-plugins | Use this agent when you need to implement data privacy engineering, GDPR compliance, data protection frameworks, and privacy-by-design principles f... | Alysson Franklin | 1.0.0 |
@@ -320,6 +320,7 @@ Last updated: 2026-05-10 06:37 UTC
 | [docx-format-replicator](https://github.com/iamzhihuix/happy-claude-skills/tree/main/) | iamzhihuix/happy-claude-skills | Extract formatting from Word documents and generate new documents with the same format | None | 1.0.0 |
 | [double-shot-latte](https://github.com/obra/double-shot-latte.git) | superpowers-marketplace | Stop 'Would you like me to continue?' interruptions. Automatically evaluates whether Claude should continue working using Claude-judged decision ma... | None | 1.2.0 |
 | [egregore](https://github.com/athola/claude-night-market/tree/main/plugins/egregore) | athola/claude-night-market | Autonomous agent orchestrator: parallel worktree execution, agent specialization, cross-item learning, and crash recovery | None | 1.9.5 |
+| [ejentum](https://github.com/ejentum/ejentum-mcp) | ejentum/ejentum-mcp | Reasoning Harness for agentic AI: 4 cognitive operating modes (reasoning, code, anti-deception, memory) over 679 engineered cognitive operations se... | Ejentum | 0.1.0 |
 | [elements-of-style](https://github.com/obra/the-elements-of-style.git) | superpowers-marketplace | Writing guidance based on William Strunk Jr.'s The Elements of Style (1918) - foundational rules for clear, concise, grammatically correct writing | None | 1.0.0 |
 | [elixir](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/elixir) | bradleygolden/claude-marketplace-elixir | Comprehensive Elixir development support - formatting, compilation, testing, and static analysis in one plugin (recommended) | None | 1.0.0 |
 | [encode-toolkit](https://github.com/ammawla/encode-toolkit/tree/main/plugin) | ammawla/encode-toolkit | 20 ENCODE API tools + 47 expert skills for genomics research. Search experiments, download files with MD5 verification, run pipelines, and cross-re... | None | 0.3.0 |
@@ -345,6 +346,7 @@ Last updated: 2026-05-10 06:37 UTC
 | [microsoft-docs](https://github.com/MicrosoftDocs/mcp/tree/main/) | microsoft-docs-mcp | Access official Microsoft documentation, API references, and code samples for Azure, .NET, Windows, and more. | None | 1.0.0 |
 | [minister](https://github.com/athola/claude-night-market/tree/main/plugins/minister) | athola/claude-night-market | GitHub issue management, label taxonomy, and initiative tracking: turns repositories, issues, and projects into status dashboards | None | 1.9.5 |
 | [mix_audit](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/mix_audit) | bradleygolden/claude-marketplace-elixir | Dependency security audit plugin that scans Mix dependencies for known vulnerabilities | None | 1.0.0 |
+| [mobile-spine](https://github.com/bentleypark/claude-code-mobile-spine/tree/main/plugins/mobile-spine) | bentleypark/claude-code-mobile-spine | Scaffold a mobile-spine workspace (Android + iOS + Backend in separate repos) with four specialized Claude Code subagents. | None | 1.0.0 |
 | [myvibe](https://github.com/ArcBlock/myvibe-skills/tree/main/) | ArcBlock/myvibe-skills | Web page creation and MyVibe publishing skills, works with MyVibe to generate and deploy various web project types | None | 1.0.0 |
 | [nightvision](https://github.com/nvsecurity/nightvision-skills.git) | anthropics/claude-plugins-official | Skills for working with NightVision, a DAST and API Discovery platform that finds exploitable vulnerabilities in web applications and REST APIs | None | 1.0.0 |
 | [nimble](https://github.com/Nimbleway/agent-skills.git) | anthropics/claude-plugins-official | Nimble web data toolkit — search, extract, map, crawl the web and work with structured data agents | None | 1.0.0 |
@@ -455,7 +457,7 @@ Last updated: 2026-05-10 06:37 UTC
 | [legal-compliance-checker](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/legal-compliance-checker) | cc-marketplace | Use this agent when reviewing terms of service, privacy policies, ensuring regulatory compliance, or handling legal requirements. This agent excels... | Michael Galpert | 1.0.0 |
 | [mobile-app-builder](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/mobile-app-builder) | cc-marketplace | Use this agent when developing native iOS or Android applications, implementing React Native features, or optimizing mobile performance. This agent... | Michael Galpert | 1.0.0 |
 | [mobile-ux-optimizer](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/mobile-ux-optimizer) | cc-marketplace | Use this agent when you need to optimize UI/UX components or interfaces for mobile-first experiences, analyze existing design themes, or ensure mob... | abhishek shah | 1.0.0 |
-| [model-context-protocol-mcp-expert](https://github.com/ananddtyagi/claude-code-marketplace/blob/main/plugins/model-context-protocol-mcp-expert) | cc-marketplace | Model Context Protocol Mcp Expert subagent | Community | 1.0.0 |
+| [model-context-protocol-mcp-expert](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/model-context-protocol-mcp-expert) | cc-marketplace | Model Context Protocol Mcp Expert subagent | Community | 1.0.0 |
 | [monitoring-observability-specialist](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/monitoring-observability-specialist) | cc-marketplace | Use this agent when you need to implement comprehensive monitoring, observability, and alerting systems for enterprise B2B applications. This agent... | Alysson Franklin | 1.0.0 |
 | [n8n-workflow-builder](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/n8n-workflow-builder) | cc-marketplace | Use this agent when you need to design, build, or validate n8n automation workflows. This agent specializes in creating efficient n8n workflows usi... | Jure Šunić | 1.0.0 |
 | [onomastophes](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/onomastophes) | cc-marketplace | Use proactively for generating creative non-olympian Greek god names with rich backstories, mythological authenticity, and modern accessibility for... | normalnormie | 1.0.0 |
