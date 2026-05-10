@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 67 | Total Plugins: 1156
 
-Last updated: 2026-05-10 13:47 UTC
+Last updated: 2026-05-10 14:58 UTC
 
 ## Installation
 
@@ -435,7 +435,7 @@ Last updated: 2026-05-10 13:47 UTC
 | [context7-docs-fetcher](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/context7-docs-fetcher) | cc-marketplace | Use this agent when you need to fetch and utilize documentation from Context7 for specific libraries or frameworks. Examples: <example>Context: Use... | normalnormie | 1.0.0 |
 | [customer-success-manager](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/customer-success-manager) | cc-marketplace | Use this agent when you need to optimize customer success operations for B2B enterprise clients. This agent specializes in customer health monitori... | Alysson Franklin | 1.0.0 |
 | [data-privacy-engineer](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/data-privacy-engineer) | cc-marketplace | Use this agent when you need to implement data privacy engineering, GDPR compliance, data protection frameworks, and privacy-by-design principles f... | Alysson Franklin | 1.0.0 |
-| [data-scientist](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Data analysis expert for SQL queries, BigQuery operations, and data insights. Use proactively for data analysis tasks and queries. | Anand Tyagi | 1.0.0 |
+| [data-scientist](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/data-scientist) | cc-marketplace | Data analysis expert for SQL queries, BigQuery operations, and data insights. Use proactively for data analysis tasks and queries. | Anand Tyagi | 1.0.0 |
 | [database-performance-optimizer](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/database-performance-optimizer) | cc-marketplace | Use this agent when you need to optimize database performance for B2B applications at enterprise scale. This agent specializes in multi-tenant data... | Alysson Franklin | 1.0.0 |
 | [debugger](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/debugger) | cc-marketplace | Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encountering any issues. | Anand Tyagi | 1.0.0 |
 | [deployment-engineer](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/deployment-engineer) | cc-marketplace | Use this agent when setting up CI/CD pipelines, configuring Docker containers, deploying applications to cloud platforms, setting up Kubernetes clu... | Jure Šunić | 1.0.0 |
@@ -698,7 +698,7 @@ Last updated: 2026-05-10 13:47 UTC
 | [audit](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/audit) | cc-marketplace | Perform security audit on codebase |  Anand Tyagi | 1.0.0 |
 | [code-review](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/code-review) | cc-marketplace | Perform a comprehensive code review of recent changes |  Anand Tyagi | 1.0.0 |
 | [code-review-assistant](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/code-review-assistant) | cc-marketplace | Get comprehensive code reviews with suggestions for improvements, best practices, and potential issues. | Anonymous | 1.0.0 |
-| [pr-issue-resolve](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | this is to analyze the PRs and solve the requested changes in them | safayavatsal | 1.0.0 |
+| [pr-issue-resolve](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/pr-issue-resolve) | cc-marketplace | this is to analyze the PRs and solve the requested changes in them | safayavatsal | 1.0.0 |
 | [update-claudemd](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/update-claudemd) | cc-marketplace | Automatically update CLAUDE.md file based on recent code changes |  Anand Tyagi | 1.0.0 |
 
 ## communication
