@@ -1732,10 +1732,6 @@ Last updated: 2026-05-10 03:50 UTC
 | [tdd-workflows](https://github.com/wshobson/agents/tree/main/plugins/tdd-workflows) | claude-code-workflows | Test-driven development methodology with red-green-refactor cycles and code review | Seth Hobson | 1.3.0 |
 ## Contributing
 
-We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for details on how to add new marketplaces or plugins.
+We welcome contributions! If you want to contribute by adding a new plugin, please go to [https://github.com/Chat2AnyLLM/awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and add your plugin config to the corresponding config file there.
 
-To add a new plugin or marketplace:
-1. Fork this repository
-2. Add the entry to the appropriate section
-3. Ensure the plugin is verified and documented
-4. Submit a pull request with a clear description
+This README is auto-generated from those configs, so that is the right place to make your additions.
