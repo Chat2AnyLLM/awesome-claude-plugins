@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 67 | Total Plugins: 1156
 
-Last updated: 2026-05-11 04:16 UTC
+Last updated: 2026-05-11 08:27 UTC
 
 ## Installation
 
@@ -304,7 +304,7 @@ Last updated: 2026-05-11 04:16 UTC
 | [cartograph](https://github.com/athola/claude-night-market/tree/main/plugins/cartograph) | athola/claude-night-market | Codebase visualization: architecture, data flow, dependency, call chains, community detection, and class diagrams via Mermaid Chart MCP | None | 1.9.5 |
 | [cc-best](https://github.com/xiaobei930/claude-code-best-practices/tree/main/) | xiaobei930/claude-code-best-practices | Complete development environment with role-based workflows (PM→Lead→Designer→Dev→QA), 30 hook scripts across 19 events with 3-tier profiles, 44 com... | xiaobei930 | 0.10.0 |
 | [claude-api](https://github.com/anthropics/skills/tree/main/) | anthropic-agent-skills | Claude API and SDK documentation skill for building LLM-powered applications | None | 1.0.0 |
-| [claude-mem](https://github.com/thedotmack/claude-mem/tree/main/plugin) | thedotmack | Persistent memory system for Claude Code - context compression across sessions | None | 13.0.1 |
+| [claude-mem](https://github.com/thedotmack/claude-mem/tree/main/plugin) | thedotmack | Persistent memory system for Claude Code - context compression across sessions | None | 13.1.0 |
 | [claude-session-driver](https://github.com/obra/claude-session-driver.git) | superpowers-marketplace | Launch, control, and monitor other Claude Code sessions as workers via tmux | None | 1.0.1 |
 | [cloudinary](https://github.com/cloudinary-devs/cloudinary-plugin.git) | anthropics/claude-plugins-official | Use Cloudinary directly in Claude. Manage assets, apply transformations, optimize media, and more through natural conversation. | None | 1.0.0 |
 | [coding-tutor](https://github.com/EveryInc/compounding-engineering-plugin/tree/main/plugins/coding-tutor) | compounding-engineering | Personalized coding tutorials that build on your existing knowledge and use your actual codebase for examples. Includes spaced repetition quizzes t... | Nityesh Agarwal | 1.0.0 |
@@ -1719,7 +1719,7 @@ Last updated: 2026-05-11 04:16 UTC
 |--------|-------------|-------------|--------|---------|
 | [claude-desktop-extension](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/claude-desktop-extension) | cc-marketplace | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
 | [conductor](https://github.com/MadAppGang/claude-code/tree/main/plugins/conductor) | mag-claude-plugins | Context-Driven Development workflow inspired by Gemini Conductor. v2.1.0: Added explicit name: fields to commands for prefix-free invocation. Full-... | Jack Rudenko | 2.1.0 |
-| [everything-claude-code](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | The most comprehensive Claude Code plugin — 48 agents, 182 skills, 68 legacy command shims, selective install profiles, and production-ready hooks ... | Affaan Mustafa | 2.0.0-rc.1 |
+| [ecc](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | The most comprehensive Claude Code plugin — 48 agents, 185 skills, 68 legacy command shims, selective install profiles, and production-ready hooks ... | Affaan Mustafa | 2.0.0-rc.1 |
 | [lyra](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/lyra) | cc-marketplace | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
 | [sugar](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/sugar) | cc-marketplace | Transform Claude Code into an autonomous AI development powerhouse with rich task context, specialized agents, and intelligent workflow automation | Steven Leggett | 2.0.0 |
 
