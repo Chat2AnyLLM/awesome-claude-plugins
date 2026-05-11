@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 67 | Total Plugins: 1156
 
-Last updated: 2026-05-11 08:27 UTC
+Last updated: 2026-05-11 12:15 UTC
 
 ## Installation
 
@@ -892,7 +892,7 @@ Last updated: 2026-05-11 08:27 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 14 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 6.3.0 |
+| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 15 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 6.7.0 |
 | [claude-code-history-files-finder](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/claude-code-history-files-finder) | daymade/claude-code-skills | Find and recover content from Claude Code session history files. Use when searching for deleted files, tracking changes across sessions, analyzing ... | None | 1.0.3 |
 | [cli-demo-generator](https://github.com/daymade/claude-code-skills/tree/main/cli-demo-generator) | daymade/claude-code-skills | Generate professional animated CLI demos and terminal recordings with VHS. Supports automated generation, batch processing, and interactive recordi... | None | 1.0.0 |
 | [cloudflare-troubleshooting](https://github.com/daymade/claude-code-skills/tree/main/cloudflare-troubleshooting) | daymade/claude-code-skills | Investigate and resolve Cloudflare configuration issues using API-driven evidence gathering. Use when troubleshooting ERR_TOO_MANY_REDIRECTS, SSL e... | None | 1.0.0 |
@@ -1719,7 +1719,7 @@ Last updated: 2026-05-11 08:27 UTC
 |--------|-------------|-------------|--------|---------|
 | [claude-desktop-extension](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/claude-desktop-extension) | cc-marketplace | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
 | [conductor](https://github.com/MadAppGang/claude-code/tree/main/plugins/conductor) | mag-claude-plugins | Context-Driven Development workflow inspired by Gemini Conductor. v2.1.0: Added explicit name: fields to commands for prefix-free invocation. Full-... | Jack Rudenko | 2.1.0 |
-| [ecc](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | The most comprehensive Claude Code plugin — 48 agents, 185 skills, 68 legacy command shims, selective install profiles, and production-ready hooks ... | Affaan Mustafa | 2.0.0-rc.1 |
+| [ecc](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | The most comprehensive Claude Code plugin — 53 agents, 192 skills, 69 legacy command shims, selective install profiles, and production-ready hooks ... | Affaan Mustafa | 2.0.0-rc.1 |
 | [lyra](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/lyra) | cc-marketplace | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
 | [sugar](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/sugar) | cc-marketplace | Transform Claude Code into an autonomous AI development powerhouse with rich task context, specialized agents, and intelligent workflow automation | Steven Leggett | 2.0.0 |
 
