@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 67 | Total Plugins: 1156
+Total Marketplaces: 67 | Total Plugins: 1158
 
-Last updated: 2026-05-11 16:04 UTC
+Last updated: 2026-05-11 19:00 UTC
 
 ## Installation
 
@@ -934,7 +934,7 @@ Last updated: 2026-05-11 16:04 UTC
 | [base44](https://github.com/base44/skills.git) | anthropics/claude-plugins-official | Build and deploy Base44 full-stack apps with CLI project management and JavaScript/TypeScript SDK development skills | None | 1.0.0 |
 | [basedpyright](https://github.com/Piebald-AI/claude-code-lsps/tree/main/basedpyright) | Piebald-AI/claude-code-lsps | Python language server using basedpyright with stricter type checking | Tyler Laprade | 0.1.0 |
 | [bsl-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/bsl-lsp) | Piebald-AI/claude-code-lsps | BSL Language Server for 1C:Enterprise and OneScript | Nikita Fedkin | 0.1.0 |
-| [cds-mcp](https://github.com/cap-js/mcp-server.git) | anthropics/claude-plugins-official | AI-assisted development of SAP Cloud Application Programming Model (CAP) projects. Search CDS models and CAP documentation. | None | 1.0.0 |
+| [cds-mcp](https://github.com/cap-js/mcp-server.git) | anthropics/claude-plugins-official | AI-assisted development of SAP Cloud Application Programming Model (CAP) projects. Search CDS models and CAP documentation. | SAP SE | 1.0.0 |
 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp.git) | anthropics/claude-plugins-official | Control and inspect a live Chrome browser from your coding agent. Record performance traces, analyze network requests, check console messages with ... | None | 1.0.0 |
 | [clangd](https://github.com/Piebald-AI/claude-code-lsps/tree/main/clangd) | Piebald-AI/claude-code-lsps | LLVM-based language server for C and C++ | Piebald LLC | 0.1.0 |
 | [clangd-lsp](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/clangd-lsp) | anthropics/claude-plugins-official | C/C++ language server (clangd) for code intelligence | Anthropic | 1.0.0 |
@@ -979,6 +979,7 @@ Last updated: 2026-05-11 16:04 UTC
 | [lua-lsp](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/lua-lsp) | anthropics/claude-plugins-official | Lua language server for code intelligence | Anthropic | 1.0.0 |
 | [mcp-server-dev](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/mcp-server-dev) | anthropics/claude-plugins-official | Skills for designing and building MCP servers that work seamlessly with Claude. Guides you through deployment models (remote HTTP, MCPB, local), to... | Anthropic | 1.0.0 |
 | [mdbase-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/mdbase-lsp) | Piebald-AI/claude-code-lsps | Language server for mdbase markdown collections | Piebald LLC | 0.1.0 |
+| [mercadopago](https://github.com/mercadopago/mercadopago-claude-marketplace.git) | anthropics/claude-plugins-official | Mercado Pago full-product integration toolkit. Covers online checkout (Pro, Bricks, API), in-store (QR, Point), subscriptions, marketplace, wallet,... | Mercado Pago Developer Experience | 1.0.0 |
 | [metals](https://github.com/Piebald-AI/claude-code-lsps/tree/main/metals) | Piebald-AI/claude-code-lsps | Scala language server with rich IDE features | Piebald LLC | 0.1.0 |
 | [microsoft-docs](https://github.com/MicrosoftDocs/mcp.git) | anthropics/claude-plugins-official | Access official Microsoft documentation, API references, and code samples for Azure, .NET, Windows, and more. | None | 1.0.0 |
 | [mintlify](https://github.com/mintlify/mintlify-claude-plugin.git) | anthropics/claude-plugins-official | Build beautiful documentation sites with Mintlify. Convert non-markdown files into properly formatted MDX pages, add and modify content with correc... | None | 1.0.0 |
@@ -1013,8 +1014,9 @@ Last updated: 2026-05-11 16:04 UTC
 | [rust-analyzer](https://github.com/Piebald-AI/claude-code-lsps/tree/main/rust-analyzer) | Piebald-AI/claude-code-lsps | Rust language server integration with rust-analyzer | Piebald LLC | 0.1.0 |
 | [rust-analyzer-lsp](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/rust-analyzer-lsp) | anthropics/claude-plugins-official | Rust language server for code intelligence and analysis | Anthropic | 1.0.0 |
 | [sanity](https://github.com/sanity-io/agent-toolkit.git) | anthropics/claude-plugins-official | Sanity content platform integration with MCP server, agent skills, and slash commands. Query and author content, build and optimize GROQ queries, d... | Sanity | 1.0.0 |
+| [sap-cds-mcp](https://github.com/cap-js/mcp-server.git) | anthropics/claude-plugins-official | AI-assisted development of SAP Cloud Application Programming Model (CAP) projects. Search CDS models and CAP documentation. | SAP SE | 1.0.0 |
 | [sap-fiori-mcp-server](https://github.com/SAP/open-ux-tools.git) | anthropics/claude-plugins-official | MCP server for SAP Fiori development tools for Claude Code. Build and modify SAP Fiori applications with AI assistance. | SAP SE | 1.0.0 |
-| [sap-mdk-server](https://github.com/SAP/mdk-mcp-server.git) | anthropics/claude-plugins-official | MCP server for SAP Mobile Development Kit (MDK). Build and modify MDK applications with AI assistance — schema lookups, action validation, rule edi... | SAP | 1.0.0 |
+| [sap-mdk-server](https://github.com/SAP/mdk-mcp-server.git) | anthropics/claude-plugins-official | MCP server for SAP Mobile Development Kit (MDK). Build and modify MDK applications with AI assistance — schema lookups, action validation, rule edi... | SAP SE | 1.0.0 |
 | [serena](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/serena) | anthropics/claude-plugins-official | Semantic code analysis MCP server providing intelligent code understanding, refactoring suggestions, and codebase navigation through language serve... | None | 1.0.0 |
 | [servicenow-sdk](https://github.com/ServiceNow/sdk.git) | anthropics/claude-plugins-official | Create, edit, and deploy ServiceNow applications with the Fluent SDK effortlessly through Claude AI. | ServiceNow | 1.0.0 |
 | [shopify](https://github.com/Shopify/shopify-plugins.git) | anthropics/claude-plugins-official | Shopify developer tools for Claude Code — search Shopify docs, generate and validate GraphQL, Liquid, and UI extension code | Shopify | 1.0.0 |
@@ -1039,8 +1041,8 @@ Last updated: 2026-05-11 16:04 UTC
 | [ty](https://github.com/Piebald-AI/claude-code-lsps/tree/main/ty) | Piebald-AI/claude-code-lsps | Extremely fast Python type checker by Astral | Piebald LLC | 0.1.0 |
 | [typescript-lsp](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/typescript-lsp) | anthropics/claude-plugins-official | TypeScript/JavaScript language server for enhanced code intelligence | Anthropic | 1.0.0 |
 | [ui-design](https://github.com/wshobson/agents/tree/main/plugins/ui-design) | claude-code-workflows | Comprehensive UI/UX design plugin for mobile (iOS, Android, React Native) and web applications with design systems, accessibility, and modern patterns | Seth Hobson | 1.0.4 |
-| [ui5](https://github.com/UI5/plugins-claude.git) | anthropics/claude-plugins-official | SAPUI5 / OpenUI5 plugin for Claude. Create and validate UI5 projects, access API documentation, run UI5 linter, get development guidelines and best... | None | 1.0.0 |
-| [ui5-typescript-conversion](https://github.com/UI5/plugins-claude.git) | anthropics/claude-plugins-official | SAPUI5 / OpenUI5 plugin for Claude. Convert JavaScript based UI5 projects to TypeScript. | None | 1.0.0 |
+| [ui5](https://github.com/UI5/plugins-claude.git) | anthropics/claude-plugins-official | SAPUI5 / OpenUI5 plugin for Claude. Create and validate UI5 projects, access API documentation, run UI5 linter, get development guidelines and best... | SAP SE | 1.0.0 |
+| [ui5-typescript-conversion](https://github.com/UI5/plugins-claude.git) | anthropics/claude-plugins-official | SAPUI5 / OpenUI5 plugin for Claude. Convert JavaScript based UI5 projects to TypeScript. | SAP SE | 1.0.0 |
 | [vscode-langservers](https://github.com/Piebald-AI/claude-code-lsps/tree/main/vscode-langservers) | Piebald-AI/claude-code-lsps | HTML and CSS language servers from VS Code | Piebald LLC | 0.1.0 |
 | [vtsls](https://github.com/Piebald-AI/claude-code-lsps/tree/main/vtsls) | Piebald-AI/claude-code-lsps | TypeScript and JavaScript language server integration (using vtsls) | Piebald LLC | 0.1.0 |
 | [vue-volar](https://github.com/Piebald-AI/claude-code-lsps/tree/main/vue-volar) | Piebald-AI/claude-code-lsps | Vue.js language server integration (Volar) | Piebald LLC | 0.1.0 |
@@ -1719,7 +1721,7 @@ Last updated: 2026-05-11 16:04 UTC
 |--------|-------------|-------------|--------|---------|
 | [claude-desktop-extension](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/claude-desktop-extension) | cc-marketplace | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
 | [conductor](https://github.com/MadAppGang/claude-code/tree/main/plugins/conductor) | mag-claude-plugins | Context-Driven Development workflow inspired by Gemini Conductor. v2.1.0: Added explicit name: fields to commands for prefix-free invocation. Full-... | Jack Rudenko | 2.1.0 |
-| [ecc](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | The most comprehensive Claude Code plugin — 53 agents, 202 skills, 69 legacy command shims, selective install profiles, and production-ready hooks ... | Affaan Mustafa | 2.0.0-rc.1 |
+| [ecc](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | The most comprehensive Claude Code plugin — 53 agents, 203 skills, 69 legacy command shims, selective install profiles, and production-ready hooks ... | Affaan Mustafa | 2.0.0-rc.1 |
 | [lyra](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/lyra) | cc-marketplace | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
 | [sugar](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/sugar) | cc-marketplace | Transform Claude Code into an autonomous AI development powerhouse with rich task context, specialized agents, and intelligent workflow automation | Steven Leggett | 2.0.0 |
 
