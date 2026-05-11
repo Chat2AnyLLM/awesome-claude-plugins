@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 67 | Total Plugins: 1158
+Total Marketplaces: 67 | Total Plugins: 1159
 
-Last updated: 2026-05-11 19:00 UTC
+Last updated: 2026-05-11 20:51 UTC
 
 ## Installation
 
@@ -1369,6 +1369,7 @@ Last updated: 2026-05-11 19:00 UTC
 | [004-jeremy-google-cloud-agent-sdk](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/004-jeremy-google-cloud-agent-sdk) | claude-code-plugins-plus | Google Cloud Agent Development Kit (ADK) and Agent Starter Pack mastery - build containerized multi-agent systems with production-ready templates, ... | Jeremy Longshore | 2.0.0 |
 | [agent-context-manager](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/agent-context-manager) | claude-code-plugins-plus | Automatically detects and loads AGENTS.md files to provide agent-specific instructions | Jeremy Longshore | 1.0.0 |
 | [ai-commit-gen](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/ai-commit-gen) | claude-code-plugins-plus | AI-powered commit message generator - analyzes your git diff and creates conventional commit messages instantly | Jeremy Longshore | 1.0.0 |
+| [airtable](https://github.com/Airtable/skills.git) | anthropics/claude-plugins-official | Airtable is the database and operations layer for your agents — whether running product, marketing, sales, ops, HR, or a custom business app. It co... | Airtable | 1.0.0 |
 | [apollo](https://github.com/apolloio/apollo-mcp-plugin.git) | anthropics/claude-plugins-official | Prospect, enrich leads, load outreach sequences, and query sales analytics with Apollo.io — one-click MCP server integration for Claude Code and Co... | Apollo.io | 1.0.0 |
 | [asana](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/asana) | anthropics/claude-plugins-official | Asana project management integration. Create and manage tasks, search projects, update assignments, track progress, and integrate your development ... | None | 1.0.0 |
 | [asr-transcribe-to-text](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio/asr-transcribe-to-text) | daymade/claude-code-skills | Transcribe audio and video files to text using a remote ASR service (Qwen3-ASR or OpenAI-compatible endpoint). Extracts audio from video, sends to ... | None | 1.0.0 |
