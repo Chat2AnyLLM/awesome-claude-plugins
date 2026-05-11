@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 67 | Total Plugins: 1156
 
-Last updated: 2026-05-11 12:15 UTC
+Last updated: 2026-05-11 16:04 UTC
 
 ## Installation
 
@@ -320,7 +320,7 @@ Last updated: 2026-05-11 12:15 UTC
 | [docx-format-replicator](https://github.com/iamzhihuix/happy-claude-skills/tree/main/) | iamzhihuix/happy-claude-skills | Extract formatting from Word documents and generate new documents with the same format | None | 1.0.0 |
 | [double-shot-latte](https://github.com/obra/double-shot-latte.git) | superpowers-marketplace | Stop 'Would you like me to continue?' interruptions. Automatically evaluates whether Claude should continue working using Claude-judged decision ma... | None | 1.2.0 |
 | [egregore](https://github.com/athola/claude-night-market/tree/main/plugins/egregore) | athola/claude-night-market | Autonomous agent orchestrator: parallel worktree execution, agent specialization, cross-item learning, and crash recovery | None | 1.9.5 |
-| [ejentum](https://github.com/ejentum/ejentum-mcp) | ejentum/ejentum-mcp | Reasoning Harness for agentic AI: 4 cognitive operating modes (reasoning, code, anti-deception, memory) over 679 engineered cognitive operations se... | Ejentum | 0.1.0 |
+| [ejentum](https://github.com/ejentum/ejentum-mcp) | ejentum/ejentum-mcp | Reasoning Harness for agentic AI. Four MCP tools (reasoning, code, anti-deception, memory) over a library of 679 cognitive operations engineered in... | Ejentum | 0.1.0 |
 | [elements-of-style](https://github.com/obra/the-elements-of-style.git) | superpowers-marketplace | Writing guidance based on William Strunk Jr.'s The Elements of Style (1918) - foundational rules for clear, concise, grammatically correct writing | None | 1.0.0 |
 | [elixir](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/elixir) | bradleygolden/claude-marketplace-elixir | Comprehensive Elixir development support - formatting, compilation, testing, and static analysis in one plugin (recommended) | None | 1.0.0 |
 | [encode-toolkit](https://github.com/ammawla/encode-toolkit/tree/main/plugin) | ammawla/encode-toolkit | 20 ENCODE API tools + 47 expert skills for genomics research. Search experiments, download files with MD5 verification, run pipelines, and cross-re... | None | 0.3.0 |
@@ -1719,7 +1719,7 @@ Last updated: 2026-05-11 12:15 UTC
 |--------|-------------|-------------|--------|---------|
 | [claude-desktop-extension](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/claude-desktop-extension) | cc-marketplace | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
 | [conductor](https://github.com/MadAppGang/claude-code/tree/main/plugins/conductor) | mag-claude-plugins | Context-Driven Development workflow inspired by Gemini Conductor. v2.1.0: Added explicit name: fields to commands for prefix-free invocation. Full-... | Jack Rudenko | 2.1.0 |
-| [ecc](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | The most comprehensive Claude Code plugin — 53 agents, 192 skills, 69 legacy command shims, selective install profiles, and production-ready hooks ... | Affaan Mustafa | 2.0.0-rc.1 |
+| [ecc](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | The most comprehensive Claude Code plugin — 53 agents, 202 skills, 69 legacy command shims, selective install profiles, and production-ready hooks ... | Affaan Mustafa | 2.0.0-rc.1 |
 | [lyra](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/lyra) | cc-marketplace | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
 | [sugar](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/sugar) | cc-marketplace | Transform Claude Code into an autonomous AI development powerhouse with rich task context, specialized agents, and intelligent workflow automation | Steven Leggett | 2.0.0 |
 
