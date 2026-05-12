@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 67 | Total Plugins: 1160
 
-Last updated: 2026-05-12 21:23 UTC
+Last updated: 2026-05-12 23:06 UTC
 
 ## Installation
 
@@ -946,7 +946,7 @@ Last updated: 2026-05-12 21:23 UTC
 | [csharp-lsp](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/csharp-lsp) | anthropics/claude-plugins-official | C# language server for code intelligence | Anthropic | 1.0.0 |
 | [dart](https://github.com/Piebald-AI/claude-code-lsps/tree/main/dart) | Piebald-AI/claude-code-lsps | Dart language server for Claude Code, providing code intelligence for Dart and Flutter projects | Piebald LLC | 0.1.0 |
 | [data](https://github.com/astronomer/agents.git) | anthropics/claude-plugins-official | Data engineering for Apache Airflow and Astronomer. Author DAGs with best practices, debug pipeline failures, trace data lineage, profile tables, m... | None | 1.0.0 |
-| [data-agent-kit-starter-pack](https://github.com/gemini-cli-extensions/data-agent-kit-starter-pack.git) | anthropics/claude-plugins-official | Specialized suite of skills for data engineers on Google Cloud — architect data pipelines, transform data with dbt, write Spark and BigQuery SQL no... | Google LLC | 1.0.0 |
+| [data-agent-kit-starter-pack](https://github.com/gemini-cli-extensions/data-agent-kit-starter-pack.git) | anthropics/claude-plugins-official | This plugin provides a specialized suite of skills for data engineers and database practitioners working on Google Cloud. It acts as an expert assi... | Google LLC | 1.0.0 |
 | [datarobot-agent-skills](https://github.com/datarobot-oss/datarobot-agent-skills.git) | anthropics/claude-plugins-official | DataRobot skills for AI/ML workflows — model training, deployment, predictions, feature engineering, monitoring, explainability, data preparation, ... | DataRobot | 1.0.0 |
 | [debugging-toolkit](https://github.com/wshobson/agents/tree/main/plugins/debugging-toolkit) | claude-code-workflows | Interactive debugging, developer experience optimization, and smart debugging workflows | Seth Hobson | 1.2.0 |
 | [dev](https://github.com/MadAppGang/claude-code/tree/main/plugins/dev) | mag-claude-plugins | Universal development assistant with real skill discovery. v1.31.3: Statusline extracted to standalone plugin. 46 skills. | Jack Rudenko | 1.31.3 |
