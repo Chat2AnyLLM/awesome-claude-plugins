@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 67 | Total Plugins: 1160
 
-Last updated: 2026-05-13 12:08 UTC
+Last updated: 2026-05-13 15:45 UTC
 
 ## Installation
 
@@ -1095,7 +1095,7 @@ Last updated: 2026-05-13 12:08 UTC
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
 | [doc-to-markdown](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs/doc-to-markdown) | daymade/claude-code-skills | Converts DOCX/PDF/PPTX to high-quality Markdown. Pandoc engine + 8 post-processing fixes: grid/simple tables to pipe tables, CJK bold spacing, JSON... | None | 2.1.1 |
-| [pdf-creator](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs/pdf-creator) | daymade/claude-code-skills | Create PDF documents from markdown with Chinese font support. Supports theme system (default for formal docs, warm-terra for training materials) an... | None | 1.4.0 |
+| [pdf-creator](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs/pdf-creator) | daymade/claude-code-skills | Create PDF documents from markdown with Chinese font support. Supports theme system (default for formal docs, cjk-auto for content-driven tables, w... | None | 1.6.0 |
 
 ## documentation
 
