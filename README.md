@@ -1291,6 +1291,7 @@ Last updated: 2026-05-13 03:54 UTC
 | [pagerduty](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Enhance code quality and security through PagerDuty risk scoring and incident correlation. Score pre-commit diffs against historical incident data ... | None | 1.0.0 |
 | [posthog](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Access PostHog analytics, feature flags, experiments, error tracking, and insights directly from Claude Code. | None | 1.0.0 |
 | [sentry](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Sentry error monitoring integration. Access error reports, analyze stack traces, search issues by fingerprint, and debug production errors directly... | None | 1.0.0 |
+| [ctop](https://github.com/aakashadesara/ctop) | - | htop for AI coding agents. Monitor Claude Code and Codex CLI sessions with real-time CPU, memory, token usage, context window tracking, and cost e... | Aakash Adesara | 1.0.0 |
 
 ## operations
 
