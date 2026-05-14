@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 67 | Total Plugins: 1160
 
-Last updated: 2026-05-14 10:25 UTC
+Last updated: 2026-05-14 12:56 UTC
 
 ## Installation
 
@@ -742,7 +742,7 @@ Last updated: 2026-05-14 10:25 UTC
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
 | [brand-landingpage](https://github.com/wshobson/agents/tree/main/plugins/brand-landingpage) | claude-code-workflows | Guides developers from brand discovery through iterative design to deployment-ready HTML via Stitch. | Travis D. Elliott | 1.0.0 |
-| [meigen-ai-design](https://github.com/wshobson/agents/tree/main/plugins/meigen-ai-design) | claude-code-workflows | AI image generation with creative workflow orchestration, prompt engineering, and curated inspiration library via MCP server | MeiGen | 1.0.5 |
+| [meigen-ai-design](https://github.com/wshobson/agents/tree/main/plugins/meigen-ai-design) | claude-code-workflows | AI image generation with creative workflow orchestration, prompt engineering, and curated inspiration library via MCP server | MeiGen | 1.0.7 |
 
 ## crypto
 
