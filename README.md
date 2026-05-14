@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 67 | Total Plugins: 1160
 
-Last updated: 2026-05-14 07:46 UTC
+Last updated: 2026-05-14 10:25 UTC
 
 ## Installation
 
@@ -892,7 +892,7 @@ Last updated: 2026-05-14 07:46 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 15 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 6.7.1 |
+| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 15 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 6.8.0 |
 | [claude-code-history-files-finder](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/claude-code-history-files-finder) | daymade/claude-code-skills | Find and recover content from Claude Code session history files. Use when searching for deleted files, tracking changes across sessions, analyzing ... | None | 1.0.3 |
 | [cli-demo-generator](https://github.com/daymade/claude-code-skills/tree/main/cli-demo-generator) | daymade/claude-code-skills | Generate professional animated CLI demos and terminal recordings with VHS. Supports automated generation, batch processing, and interactive recordi... | None | 1.0.0 |
 | [cloudflare-troubleshooting](https://github.com/daymade/claude-code-skills/tree/main/cloudflare-troubleshooting) | daymade/claude-code-skills | Investigate and resolve Cloudflare configuration issues using API-driven evidence gathering. Use when troubleshooting ERR_TOO_MANY_REDIRECTS, SSL e... | None | 1.0.0 |
