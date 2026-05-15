@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 67 | Total Plugins: 1160
+Total Marketplaces: 69 | Total Plugins: 1162
 
-Last updated: 2026-05-14 23:01 UTC
+Last updated: 2026-05-15 03:57 UTC
 
 ## Installation
 
@@ -104,6 +104,7 @@ Last updated: 2026-05-14 23:01 UTC
 - [productivity](#productivity)
 - [quality](#quality)
 - [refactoring](#refactoring)
+- [research](#research)
 - [saas-packs](#saas-packs)
 - [security](#security)
 - [seo](#seo)
@@ -787,6 +788,7 @@ Last updated: 2026-05-14 23:01 UTC
 |--------|-------------|-------------|--------|---------|
 | [data-engineering](https://github.com/wshobson/agents/tree/main/plugins/data-engineering) | claude-code-workflows | ETL pipeline construction, data warehouse design, batch processing workflows, and data-driven feature development | Seth Hobson | 1.3.1 |
 | [data-validation-suite](https://github.com/wshobson/agents/tree/main/plugins/data-validation-suite) | claude-code-workflows | Schema validation, data quality monitoring, streaming validation pipelines, and input validation for backend APIs | Seth Hobson | 1.2.0 |
+| [vpai](https://github.com/explorium-ai/vibeprospecting-plugin) | vibeprospecting | Power your chat with B2B data: lead lists, company research, contact enrichment, and outreach personalization. | None | 1.0.0 |
 
 ## data-analytics
 
@@ -1455,6 +1457,12 @@ Last updated: 2026-05-14 23:01 UTC
 |--------|-------------|-------------|--------|---------|
 | [refractor](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/refractor) | cc-marketplace | Refactor code following best practices and design patterns |  Anand Tyagi | 1.0.0 |
 
+## research
+
+| Plugin | Marketplace | Description | Author | Version |
+|--------|-------------|-------------|--------|---------|
+| [research-co-pilot](https://github.com/Marazii/research-co-pilot/tree/main/) | Marazii/research-co-pilot | Comprehensive research co-pilot — literature review, methodology, ethics review, data analysis, qualitative coding, brainstorming, manuscript draft... | None | 0.10.0 |
+
 ## saas-packs
 
 | Plugin | Marketplace | Description | Author | Version |
@@ -1722,7 +1730,7 @@ Last updated: 2026-05-14 23:01 UTC
 |--------|-------------|-------------|--------|---------|
 | [claude-desktop-extension](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/claude-desktop-extension) | cc-marketplace | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
 | [conductor](https://github.com/MadAppGang/claude-code/tree/main/plugins/conductor) | mag-claude-plugins | Context-Driven Development workflow inspired by Gemini Conductor. v2.1.0: Added explicit name: fields to commands for prefix-free invocation. Full-... | Jack Rudenko | 2.1.0 |
-| [ecc](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | The most comprehensive Claude Code plugin — 60 agents, 228 skills, 75 legacy command shims, selective install profiles, and production-ready hooks ... | Affaan Mustafa | 2.0.0-rc.1 |
+| [ecc](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | The most comprehensive Claude Code plugin — 60 agents, 229 skills, 75 legacy command shims, selective install profiles, and production-ready hooks ... | Affaan Mustafa | 2.0.0-rc.1 |
 | [lyra](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/lyra) | cc-marketplace | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
 | [sugar](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/sugar) | cc-marketplace | Transform Claude Code into an autonomous AI development powerhouse with rich task context, specialized agents, and intelligent workflow automation | Steven Leggett | 2.0.0 |
 
