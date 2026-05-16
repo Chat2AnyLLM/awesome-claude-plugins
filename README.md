@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 69 | Total Plugins: 1162
 
-Last updated: 2026-05-16 08:50 UTC
+Last updated: 2026-05-16 10:20 UTC
 
 ## Installation
 
@@ -786,7 +786,7 @@ Last updated: 2026-05-16 08:50 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [data-engineering](https://github.com/wshobson/agents/tree/main/plugins/data-engineering) | claude-code-workflows | ETL pipeline construction, data warehouse design, batch processing workflows, and data-driven feature development | Seth Hobson | 1.3.1 |
+| [data-engineering](https://github.com/wshobson/agents/blob/main/plugins/data-engineering) | claude-code-workflows | ETL pipeline construction, data warehouse design, batch processing workflows, and data-driven feature development | Seth Hobson | 1.3.1 |
 | [data-validation-suite](https://github.com/wshobson/agents/tree/main/plugins/data-validation-suite) | claude-code-workflows | Schema validation, data quality monitoring, streaming validation pipelines, and input validation for backend APIs | Seth Hobson | 1.2.0 |
 | [vpai](https://github.com/explorium-ai/vibeprospecting-plugin) | vibeprospecting | Power your chat with B2B data: lead lists, company research, contact enrichment, and outreach personalization. | None | 1.0.0 |
 
@@ -976,8 +976,8 @@ Last updated: 2026-05-16 08:50 UTC
 | [laravel-boost](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/laravel-boost) | anthropics/claude-plugins-official | Laravel development toolkit MCP server. Provides intelligent assistance for Laravel applications including Artisan commands, Eloquent queries, rout... | None | 1.0.0 |
 | [lean4-lake-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/lean4-lake-lsp) | Piebald-AI/claude-code-lsps | Lean 4 language server via Lake — for Lake projects with dependencies (e.g., Mathlib). Replaces the inefficient CLI-based lake build workflow with ... | Yingte Xu | 0.1.0 |
 | [lean4-lean-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/lean4-lean-lsp) | Piebald-AI/claude-code-lsps | Lean 4 language server via the lean binary — for standalone .lean files outside Lake projects. Replaces the inefficient CLI-based workflow with nat... | Yingte Xu | 0.1.0 |
-| [liquid-lsp](https://github.com/Shopify/liquid-skills.git) | anthropics/claude-plugins-official | LSP integration for Shopify Liquid templates via the Shopify CLI theme language server. | Shopify | 1.0.0 |
-| [liquid-skills](https://github.com/Shopify/liquid-skills.git) | anthropics/claude-plugins-official | Liquid language fundamentals, CSS/JS/HTML coding standards, and WCAG accessibility patterns for Shopify themes | Shopify | 1.0.0 |
+| [liquid-lsp](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | LSP integration for Shopify Liquid templates via the Shopify CLI theme language server. | Shopify | 1.0.0 |
+| [liquid-skills](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Liquid language fundamentals, CSS/JS/HTML coding standards, and WCAG accessibility patterns for Shopify themes | Shopify | 1.0.0 |
 | [lua-lsp](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/lua-lsp) | anthropics/claude-plugins-official | Lua language server for code intelligence | Anthropic | 1.0.0 |
 | [mcp-server-dev](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/mcp-server-dev) | anthropics/claude-plugins-official | Skills for designing and building MCP servers that work seamlessly with Claude. Guides you through deployment models (remote HTTP, MCPB, local), to... | Anthropic | 1.0.0 |
 | [mdbase-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/mdbase-lsp) | Piebald-AI/claude-code-lsps | Language server for mdbase markdown collections | Piebald LLC | 0.1.0 |
