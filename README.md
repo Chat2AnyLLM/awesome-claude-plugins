@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 69 | Total Plugins: 1163
 
-Last updated: 2026-05-16 13:44 UTC
+Last updated: 2026-05-16 15:01 UTC
 
 ## Installation
 
@@ -393,7 +393,7 @@ Last updated: 2026-05-16 13:44 UTC
 | [claude-desktop-extension](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/claude-desktop-extension) | awesome-claude-code-plugins | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
 | [lyra](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/lyra) | awesome-claude-code-plugins | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
 | [model-context-protocol-mcp-expert](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/model-context-protocol-mcp-expert) | awesome-claude-code-plugins | Model Context Protocol Mcp Expert subagent | Community | 1.0.0 |
-| [problem-solver-specialist](https://github.com/ccplugins/awesome-claude-code-plugins/blob/main/plugins/problem-solver-specialist) | awesome-claude-code-plugins | Universal expert problem-solving agent specializing in complex debugging, mysterious runtime behavior, integration issues, and multi-layered techni... | Beau Lewis | 1.0.0 |
+| [problem-solver-specialist](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/problem-solver-specialist) | awesome-claude-code-plugins | Universal expert problem-solving agent specializing in complex debugging, mysterious runtime behavior, integration issues, and multi-layered techni... | Beau Lewis | 1.0.0 |
 | [studio-coach](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/studio-coach) | awesome-claude-code-plugins | PROACTIVELY use this agent when complex multi-agent tasks begin, when agents seem stuck or overwhelmed, or when the team needs motivation and coord... | Michael Galpert | 1.0.0 |
 | [ultrathink](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/ultrathink) | awesome-claude-code-plugins | Use /ultrathink <TASK_DESCRIPTION> to launch a Coordinator Agent that directs four specialist sub-agents—Architect, Research, Coder, and Tester—to ... | Jeronim Morina | 1.0.0 |
 
@@ -525,7 +525,7 @@ Last updated: 2026-05-16 13:44 UTC
 | [classification-model-builder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/classification-model-builder) | claude-code-plugins-plus | Build classification models | Jeremy Longshore | 1.0.0 |
 | [clustering-algorithm-runner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/clustering-algorithm-runner) | claude-code-plugins-plus | Run clustering algorithms on datasets | Jeremy Longshore | 1.0.0 |
 | [computer-vision-processor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/computer-vision-processor) | claude-code-plugins-plus | Computer vision image processing and analysis | Jeremy Longshore | 1.0.0 |
-| [context-management](https://github.com/wshobson/agents/tree/main/plugins/context-management) | claude-code-workflows | Context persistence, restoration, and long-running conversation management | Seth Hobson | 1.2.0 |
+| [context-management](https://github.com/wshobson/agents) | claude-code-workflows | Context persistence, restoration, and long-running conversation management | Seth Hobson | 1.2.0 |
 | [data-preprocessing-pipeline](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/data-preprocessing-pipeline) | claude-code-plugins-plus | Automated data preprocessing and cleaning pipelines | Jeremy Longshore | 1.0.0 |
 | [data-visualization-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/data-visualization-creator) | claude-code-plugins-plus | Create data visualizations and plots | Jeremy Longshore | 1.0.0 |
 | [dataset-splitter](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/dataset-splitter) | claude-code-plugins-plus | Split datasets for training, validation, and testing | Jeremy Longshore | 1.0.0 |
