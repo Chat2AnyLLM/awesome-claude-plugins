@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 69 | Total Plugins: 1162
+Total Marketplaces: 69 | Total Plugins: 1163
 
-Last updated: 2026-05-16 11:55 UTC
+Last updated: 2026-05-16 13:44 UTC
 
 ## Installation
 
@@ -393,7 +393,7 @@ Last updated: 2026-05-16 11:55 UTC
 | [claude-desktop-extension](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/claude-desktop-extension) | awesome-claude-code-plugins | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
 | [lyra](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/lyra) | awesome-claude-code-plugins | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
 | [model-context-protocol-mcp-expert](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/model-context-protocol-mcp-expert) | awesome-claude-code-plugins | Model Context Protocol Mcp Expert subagent | Community | 1.0.0 |
-| [problem-solver-specialist](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/problem-solver-specialist) | awesome-claude-code-plugins | Universal expert problem-solving agent specializing in complex debugging, mysterious runtime behavior, integration issues, and multi-layered techni... | Beau Lewis | 1.0.0 |
+| [problem-solver-specialist](https://github.com/ccplugins/awesome-claude-code-plugins/blob/main/plugins/problem-solver-specialist) | awesome-claude-code-plugins | Universal expert problem-solving agent specializing in complex debugging, mysterious runtime behavior, integration issues, and multi-layered techni... | Beau Lewis | 1.0.0 |
 | [studio-coach](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/studio-coach) | awesome-claude-code-plugins | PROACTIVELY use this agent when complex multi-agent tasks begin, when agents seem stuck or overwhelmed, or when the team needs motivation and coord... | Michael Galpert | 1.0.0 |
 | [ultrathink](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/ultrathink) | awesome-claude-code-plugins | Use /ultrathink <TASK_DESCRIPTION> to launch a Coordinator Agent that directs four specialist sub-agents—Architect, Research, Coder, and Tester—to ... | Jeronim Morina | 1.0.0 |
 
@@ -1378,6 +1378,7 @@ Last updated: 2026-05-16 11:55 UTC
 | [atlassian](https://github.com/atlassian/atlassian-mcp-server.git) | anthropics/claude-plugins-official | Connect to Atlassian products including Jira and Confluence. Search and create issues, access documentation, manage sprints, and integrate your dev... | None | 1.0.0 |
 | [box](https://github.com/box/box-for-ai.git) | anthropics/claude-plugins-official | Work with your Box content directly from Claude Code — search files, organize folders, collaborate with your team, and use Box AI to answer questio... | None | 1.0.0 |
 | [box-cloud-filesystem](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/box-cloud-filesystem) | claude-code-plugins-plus | Transparent cloud filesystem for AI agents using Box CLI (@box/cli). Upload, download, search, share, and sync files to Box cloud storage with oper... | Jeremy Longshore | 1.0.0 |
+| [carta-cap-table](https://github.com/carta/plugins.git) | anthropics/claude-plugins-official | Carta Cap Table plugin — skills and hooks for querying cap tables, grants, SAFEs, 409A valuations, waterfall scenarios, and more | Carta Engineering | 1.0.0 |
 | [circleback](https://github.com/circlebackai/claude-code-plugin.git) | anthropics/claude-plugins-official | Circleback conversational context integration. Search and access meetings, emails, calendar events, and more. | None | 1.0.0 |
 | [claude-code-setup](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-code-setup) | anthropics/claude-plugins-official | Analyze codebases and recommend tailored Claude Code automations such as hooks, skills, MCP servers, and subagents. | Anthropic | 1.0.0 |
 | [claude-md-management](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-md-management) | anthropics/claude-plugins-official | Tools to maintain and improve CLAUDE.md files - audit quality, capture session learnings, and keep project memory current. | Anthropic | 1.0.0 |
