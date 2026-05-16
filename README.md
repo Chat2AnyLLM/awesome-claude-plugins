@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 69 | Total Plugins: 1162
 
-Last updated: 2026-05-15 23:57 UTC
+Last updated: 2026-05-16 03:53 UTC
 
 ## Installation
 
@@ -683,7 +683,7 @@ Last updated: 2026-05-15 23:57 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [whatsapp](https://github.com/Rich627/whatsapp-claude-plugin/tree/main/plugins/whatsapp-channel) | Rich627/whatsapp-claude-plugin | WhatsApp channel for Claude Code — linked-device messaging bridge with built-in access control, pairing, allowlists, and group policy. | None | 0.6.2 |
+| [whatsapp](https://github.com/Rich627/whatsapp-claude-plugin/tree/main/plugins/whatsapp-channel) | Rich627/whatsapp-claude-plugin | WhatsApp channel for Claude Code — linked-device messaging bridge with built-in access control, pairing, allowlists, and group policy. | None | 0.6.3 |
 
 ## code-quality
 
@@ -1730,7 +1730,7 @@ Last updated: 2026-05-15 23:57 UTC
 |--------|-------------|-------------|--------|---------|
 | [claude-desktop-extension](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/claude-desktop-extension) | cc-marketplace | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
 | [conductor](https://github.com/MadAppGang/claude-code/tree/main/plugins/conductor) | mag-claude-plugins | Context-Driven Development workflow inspired by Gemini Conductor. v2.1.0: Added explicit name: fields to commands for prefix-free invocation. Full-... | Jack Rudenko | 2.1.0 |
-| [ecc](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | The most comprehensive Claude Code plugin — 60 agents, 229 skills, 75 legacy command shims, selective install profiles, and production-ready hooks ... | Affaan Mustafa | 2.0.0-rc.1 |
+| [ecc](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | The most comprehensive Claude Code plugin — 60 agents, 230 skills, 75 legacy command shims, selective install profiles, and production-ready hooks ... | Affaan Mustafa | 2.0.0-rc.1 |
 | [lyra](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/lyra) | cc-marketplace | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
 | [sugar](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/sugar) | cc-marketplace | Transform Claude Code into an autonomous AI development powerhouse with rich task context, specialized agents, and intelligent workflow automation | Steven Leggett | 2.0.0 |
 
