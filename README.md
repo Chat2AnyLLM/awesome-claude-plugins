@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 70 | Total Plugins: 1173
 
-Last updated: 2026-05-17 04:14 UTC
+Last updated: 2026-05-17 07:35 UTC
 
 ## Installation
 
@@ -352,7 +352,7 @@ Last updated: 2026-05-17 04:14 UTC
 | [mobile-spine](https://github.com/bentleypark/claude-code-mobile-spine/tree/main/plugins/mobile-spine) | bentleypark/claude-code-mobile-spine | Scaffold a mobile-spine workspace (Android + iOS + Backend in separate repos) with four specialized Claude Code subagents. | None | 1.0.0 |
 | [myvibe](https://github.com/ArcBlock/myvibe-skills/tree/main/) | ArcBlock/myvibe-skills | Web page creation and MyVibe publishing skills, works with MyVibe to generate and deploy various web project types | None | 1.0.0 |
 | [nightvision](https://github.com/nvsecurity/nightvision-skills.git) | anthropics/claude-plugins-official | Skills for working with NightVision, a DAST and API Discovery platform that finds exploitable vulnerabilities in web applications and REST APIs | None | 1.0.0 |
-| [nimble](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Nimble web data toolkit — search, extract, map, crawl the web and work with structured data agents | None | 1.0.0 |
+| [nimble](https://github.com/Nimbleway/agent-skills.git) | anthropics/claude-plugins-official | Nimble web data toolkit — search, extract, map, crawl the web and work with structured data agents | None | 1.0.0 |
 | [obsidian](https://github.com/kepano/obsidian-skills/tree/main/) | kepano/obsidian-skills | Claude Skills for Obsidian | None | 1.0.1 |
 | [open-source-prep](https://github.com/iamzhihuix/happy-claude-skills/tree/main/) | iamzhihuix/happy-claude-skills | Prepare a private project for open-source release: scan for leaked secrets/tokens in code and git history, recommend a license via decision tree (M... | None | 1.0.0 |
 | [oracle](https://github.com/athola/claude-night-market/tree/main/plugins/oracle) | athola/claude-night-market | ONNX Runtime inference daemon for ML-enhanced plugin capabilities with local model inference over HTTP and opt-in activation | None | 1.9.5 |
@@ -934,7 +934,7 @@ Last updated: 2026-05-17 04:14 UTC
 | [agent-sdk-dev](https://github.com/anthropics/claude-code/tree/main/plugins/agent-sdk-dev) | anthropics/claude-code | Development kit for working with the Claude Agent SDK | None | 1.0.0 |
 | [agentdev](https://github.com/MadAppGang/claude-code/tree/main/plugins/agentdev) | mag-claude-plugins | Create, implement, and review Claude Code agents and commands with multi-model validation, LLM performance tracking, and session-based artifact iso... | Jack Rudenko | 1.5.2 |
 | [agentforce-adlc](https://github.com/SalesforceAIResearch/agentforce-adlc.git) | anthropics/claude-plugins-official | Agentforce Agent Development Life Cycle — author, discover, scaffold, deploy, test, and optimize .agent files | None | 1.0.0 |
-| [api-contract-sync-manager](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Validate and synchronize API contracts (OpenAPI, GraphQL) with implementation, detect breaking changes, and generate type-safe client code | Claude Code Marketplace | 1.0.0 |
+| [api-contract-sync-manager](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/api-contract-sync-manager) | cc-marketplace | Validate and synchronize API contracts (OpenAPI, GraphQL) with implementation, detect breaking changes, and generate type-safe client code | Claude Code Marketplace | 1.0.0 |
 | [astronomer-data-agents](https://github.com/astronomer/agents.git) | anthropics/claude-plugins-official | Data engineering for Apache Airflow and Astronomer. Author DAGs with best practices, debug pipeline failures, trace data lineage, profile tables, m... | None | 1.0.0 |
 | [atomic-agents](https://github.com/BrainBlend-AI/atomic-agents.git) | anthropics/claude-plugins-official | Comprehensive development workflow for building AI agents with the Atomic Agents framework. Includes specialized agents for schema design, architec... | None | 1.0.0 |
 | [aws-agents](https://github.com/aws/agent-toolkit-for-aws.git) | anthropics/claude-plugins-official | Build, deploy, and operate AI agents on AWS. Skills for scaffolding agents with Amazon Bedrock AgentCore, connecting tools, memory, policies, evalu... | Amazon Web Services | 1.0.0 |
@@ -1544,7 +1544,6 @@ Last updated: 2026-05-17 04:14 UTC
 | [juicebox-pack](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/juicebox-pack) | claude-code-plugins-plus | Complete Juicebox integration skill pack with 24 skills covering people data, enrichment, contact search, and AI-powered discovery. Flagship tier v... | Jeremy Longshore | 1.0.0 |
 | [klaviyo-pack](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/klaviyo-pack) | claude-code-plugins-plus | Claude Code skill pack for Klaviyo (24 skills) | Jeremy Longshore | 1.0.0 |
 | [klingai-pack](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/klingai-pack) | claude-code-plugins-plus | Complete Kling AI integration skill pack with 30 skills covering AI video generation, text-to-video, image-to-video, and creative workflows. Flagsh... | Jeremy Longshore | 1.0.0 |
-| [langchain-pack](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack) | claude-code-plugins-plus | Legacy LangChain integration skill pack with 24 skills covering chains, agents, RAG pipelines, memory, and LLM application development. Deprecated ... | Jeremy Longshore | 1.0.0 |
 | [langchain-py-pack](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack) | claude-code-plugins-plus | LangChain 1.0 + LangGraph 1.0 skill pack for Python. Pain-first skills anchored to a 68-entry pain catalog covering content blocks, streaming token... | Jeremy Longshore | 2.0.0 |
 | [langfuse-pack](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack) | claude-code-plugins-plus | Complete Langfuse integration skill pack with 24 skills covering LLM observability, tracing, prompt management, and evaluation. Flagship tier vendo... | Jeremy Longshore | 1.0.0 |
 | [lindy-pack](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/lindy-pack) | claude-code-plugins-plus | Complete Lindy integration skill pack with 24 skills covering AI assistants, task automation, workflows, and intelligent automation. Flagship tier ... | Jeremy Longshore | 1.0.0 |
@@ -1664,6 +1663,7 @@ Last updated: 2026-05-17 04:14 UTC
 | [skill-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/skill-enhancers/skill-creator) | claude-code-plugins-plus | Create and validate production-grade agent skills with 100-point marketplace grading. Supports creation workflows, eval-driven development, and aut... | Jeremy Longshore | 5.0.0 |
 | [validate-plugin](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/skill-enhancers/validate-plugin) | claude-code-plugins-plus | Validate Claude Code plugin structure against official Anthropic spec and Intent Solutions enterprise standard with 100-point grading. | Jeremy Longshore | 1.0.0 |
 | [web-to-github-issue](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/skill-enhancers/web-to-github-issue) | claude-code-plugins-plus | Enhances web_search Skill by automatically creating GitHub issues from research findings. Research topics, extract key insights, and generate forma... | Claude Code Plugins Team | 1.0.0 |
+| [zero-tech-debt](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/skill-enhancers/zero-tech-debt) | claude-code-plugins-plus | Rebuild a feature as if the correct product architecture existed from day one. Removes compatibility cruft, dead abstractions, and historical compr... | Jeremy Longshore | 1.0.0 |
 
 ## suite
 
