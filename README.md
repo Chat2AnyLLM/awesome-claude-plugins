@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 69 | Total Plugins: 1163
+Total Marketplaces: 70 | Total Plugins: 1173
 
-Last updated: 2026-05-16 23:59 UTC
+Last updated: 2026-05-17 04:14 UTC
 
 ## Installation
 
@@ -56,6 +56,7 @@ Last updated: 2026-05-16 23:59 UTC
 - [cap](#cap)
 - [channels](#channels)
 - [code-quality](#code-quality)
+- [code-quality-testing](#code-quality-testing)
 - [code-review](#code-review)
 - [communication](#communication)
 - [community](#community)
@@ -82,6 +83,7 @@ Last updated: 2026-05-16 23:59 UTC
 - [finance](#finance)
 - [gaming](#gaming)
 - [general](#general)
+- [git-workflow](#git-workflow)
 - [governance](#governance)
 - [hana](#hana)
 - [infrastructure](#infrastructure)
@@ -350,7 +352,7 @@ Last updated: 2026-05-16 23:59 UTC
 | [mobile-spine](https://github.com/bentleypark/claude-code-mobile-spine/tree/main/plugins/mobile-spine) | bentleypark/claude-code-mobile-spine | Scaffold a mobile-spine workspace (Android + iOS + Backend in separate repos) with four specialized Claude Code subagents. | None | 1.0.0 |
 | [myvibe](https://github.com/ArcBlock/myvibe-skills/tree/main/) | ArcBlock/myvibe-skills | Web page creation and MyVibe publishing skills, works with MyVibe to generate and deploy various web project types | None | 1.0.0 |
 | [nightvision](https://github.com/nvsecurity/nightvision-skills.git) | anthropics/claude-plugins-official | Skills for working with NightVision, a DAST and API Discovery platform that finds exploitable vulnerabilities in web applications and REST APIs | None | 1.0.0 |
-| [nimble](https://github.com/Nimbleway/agent-skills.git) | anthropics/claude-plugins-official | Nimble web data toolkit — search, extract, map, crawl the web and work with structured data agents | None | 1.0.0 |
+| [nimble](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Nimble web data toolkit — search, extract, map, crawl the web and work with structured data agents | None | 1.0.0 |
 | [obsidian](https://github.com/kepano/obsidian-skills/tree/main/) | kepano/obsidian-skills | Claude Skills for Obsidian | None | 1.0.1 |
 | [open-source-prep](https://github.com/iamzhihuix/happy-claude-skills/tree/main/) | iamzhihuix/happy-claude-skills | Prepare a private project for open-source release: scan for leaked secrets/tokens in code and git history, recommend a license via decision tree (M... | None | 1.0.0 |
 | [oracle](https://github.com/athola/claude-night-market/tree/main/plugins/oracle) | athola/claude-night-market | ONNX Runtime inference daemon for ML-enhanced plugin capabilities with local model inference over HTTP and opt-in activation | None | 1.9.5 |
@@ -692,6 +694,15 @@ Last updated: 2026-05-16 23:59 UTC
 | [8eyes](https://github.com/AgentBuildersApp/eight-eyes/tree/main/) | AgentBuildersApp/eight-eyes | Multi-agent code review with 8 hook-enforced roles. Parallel audit, TDD mode, custom roles, blind skeptic review. | AgentBuildersApp | 4.2.0 |
 | [vitals](https://github.com/chopratejas/vitals/tree/main/) | chopratejas/vitals | Codebase vital signs — hotspot detection, ROI-ranked diagnosis, co-change coupling, knowledge risk, trend tracking, and AI provenance | None | 1.0.0 |
 
+## code-quality-testing
+
+| Plugin | Marketplace | Description | Author | Version |
+|--------|-------------|-------------|--------|---------|
+| [env-lint](https://github.com/mturac/pluginpool) | pluginpool | Compare .env vs .env.example key parity — never prints values. | None | 0.1.0 |
+| [flaky-detector](https://github.com/mturac/pluginpool) | pluginpool | Run a test command N times and report per-test flakiness percentage. | None | 0.1.0 |
+| [test-gap](https://github.com/mturac/pluginpool) | pluginpool | Find lines in your diff lacking test coverage (Cobertura / lcov / coverage.json). | None | 0.1.0 |
+| [todo-harvest](https://github.com/mturac/pluginpool) | pluginpool | Scan for TODO/FIXME/HACK comments with git blame author and age. | None | 0.1.0 |
+
 ## code-review
 
 | Plugin | Marketplace | Description | Author | Version |
@@ -923,7 +934,7 @@ Last updated: 2026-05-16 23:59 UTC
 | [agent-sdk-dev](https://github.com/anthropics/claude-code/tree/main/plugins/agent-sdk-dev) | anthropics/claude-code | Development kit for working with the Claude Agent SDK | None | 1.0.0 |
 | [agentdev](https://github.com/MadAppGang/claude-code/tree/main/plugins/agentdev) | mag-claude-plugins | Create, implement, and review Claude Code agents and commands with multi-model validation, LLM performance tracking, and session-based artifact iso... | Jack Rudenko | 1.5.2 |
 | [agentforce-adlc](https://github.com/SalesforceAIResearch/agentforce-adlc.git) | anthropics/claude-plugins-official | Agentforce Agent Development Life Cycle — author, discover, scaffold, deploy, test, and optimize .agent files | None | 1.0.0 |
-| [api-contract-sync-manager](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/api-contract-sync-manager) | cc-marketplace | Validate and synchronize API contracts (OpenAPI, GraphQL) with implementation, detect breaking changes, and generate type-safe client code | Claude Code Marketplace | 1.0.0 |
+| [api-contract-sync-manager](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Validate and synchronize API contracts (OpenAPI, GraphQL) with implementation, detect breaking changes, and generate type-safe client code | Claude Code Marketplace | 1.0.0 |
 | [astronomer-data-agents](https://github.com/astronomer/agents.git) | anthropics/claude-plugins-official | Data engineering for Apache Airflow and Astronomer. Author DAGs with best practices, debug pipeline failures, trace data lineage, profile tables, m... | None | 1.0.0 |
 | [atomic-agents](https://github.com/BrainBlend-AI/atomic-agents.git) | anthropics/claude-plugins-official | Comprehensive development workflow for building AI agents with the Atomic Agents framework. Includes specialized agents for schema design, architec... | None | 1.0.0 |
 | [aws-agents](https://github.com/aws/agent-toolkit-for-aws.git) | anthropics/claude-plugins-official | Build, deploy, and operate AI agents on AWS. Skills for scaffolding agents with Amazon Bedrock AgentCore, connecting tools, memory, policies, evalu... | Amazon Web Services | 1.0.0 |
@@ -1104,6 +1115,7 @@ Last updated: 2026-05-16 23:59 UTC
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
 | [c4-architecture](https://github.com/wshobson/agents/tree/main/plugins/c4-architecture) | claude-code-workflows | Comprehensive C4 architecture documentation workflow with bottom-up code analysis, component synthesis, container mapping, and context diagram gene... | Seth Hobson | 1.0.0 |
+| [changelog-forge](https://github.com/mturac/pluginpool) | pluginpool | Convert conventional commits into a CHANGELOG section with a semver bump suggestion. | None | 0.1.0 |
 | [code-documentation](https://github.com/wshobson/agents/tree/main/plugins/code-documentation) | claude-code-workflows | Documentation generation, code explanation, and technical writing with automated doc generation and tutorial creation | Seth Hobson | 1.2.0 |
 | [deep-research](https://github.com/daymade/claude-code-skills/tree/main/deep-research) | daymade/claude-code-skills | Generate format-controlled research reports with evidence tracking, source governance, and multi-pass synthesis. V6.1 adds: source accessibility (c... | None | 2.4.0 |
 | [documentation-generation](https://github.com/wshobson/agents/tree/main/plugins/documentation-generation) | claude-code-workflows | OpenAPI specification generation, Mermaid diagram creation, tutorial writing, API reference documentation | Seth Hobson | 1.2.2 |
@@ -1166,6 +1178,13 @@ Last updated: 2026-05-16 23:59 UTC
 | [husky](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/husky) | cc-marketplace | Sets up and manages Husky Git hooks by configuring pre-commit hooks, establishing commit message standards, integrating with linting tools, and ens... | evmts | 1.0.0 |
 | [pr-review](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/pr-review) | cc-marketplace | Reviews pull request changes to provide feedback, check for issues, and suggest improvements before merging into the main codebase. | arkavo-org | 1.0.0 |
 | [update-branch-name](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/update-branch-name) | cc-marketplace | Updates branch names with proper prefixes and formats, enforcing naming conventions, supporting semantic prefixes, and managing remote branch updates. | giselles-ai | 1.0.0 |
+
+## git-workflow
+
+| Plugin | Marketplace | Description | Author | Version |
+|--------|-------------|-------------|--------|---------|
+| [commit-narrator](https://github.com/mturac/pluginpool) | pluginpool | Generate conventional commit messages from staged diffs, including the *why*. | None | 0.1.0 |
+| [pr-storyteller](https://github.com/mturac/pluginpool) | pluginpool | Generate PR title, body, and test plan from commits and diff vs base branch. | None | 0.1.0 |
 
 ## governance
 
@@ -1429,6 +1448,7 @@ Last updated: 2026-05-16 23:59 UTC
 | [sitemd](https://github.com/sitemd-cc/sitemd/tree/main/) | sitemd | The complete sitemd toolkit for Claude Code — a full suite of MCP tools and skills, plus a complete website framework. Requires the sitemd binary; ... | None | 0.1.3 |
 | [slack](https://github.com/slackapi/slack-mcp-plugin.git) | anthropics/claude-plugins-official | Slack workspace integration. Search messages, access channels, read threads, and stay connected with your team's communications while coding. Find ... | None | 1.0.0 |
 | [spotify-ads-api](https://github.com/spotify/ads-claude-plugin.git) | anthropics/claude-plugins-official | Manage Spotify ad campaigns with natural language. Create campaigns, ad sets, ads, pull reports, and handle OAuth — all through conversation. | None | 1.0.0 |
+| [standup-gen](https://github.com/mturac/pluginpool) | pluginpool | Generate daily standup notes from git activity across one or many repos. | None | 0.1.0 |
 | [stepfun-asr](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio/stepfun-asr) | daymade/claude-code-skills | Transcribe audio with StepFun's stepaudio-2.5-asr — an SSE endpoint (NOT /v1/audio/transcriptions) with 32K context, ~85-101x RTF on long audio, an... | None | 1.0.0 |
 | [stepfun-tts](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio/stepfun-tts) | daymade/claude-code-skills | Generate Chinese / Japanese speech with StepFun's stepaudio-2.5-tts — Contextual TTS that replaces step-tts-2's `voice_label` with natural-language... | None | 2.0.0 |
 | [studiomeyer-crew](https://github.com/studiomeyer-io/studiomeyer-marketplace/tree/main/plugins/studiomeyer-crew) | studiomeyer-marketplace | 8 expert agent personas (CEO, CFO, CMO, CTO, PM, Analyst, Creative Director, Support Lead) plus 3 multi-persona workflows. Zero extra API cost, run... | None | 1.0.0 |
@@ -1591,6 +1611,7 @@ Last updated: 2026-05-16 23:59 UTC
 | [csrf-protection-validator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/csrf-protection-validator) | claude-code-plugins-plus | Validate CSRF protection | Jeremy Longshore | 1.0.0 |
 | [data-privacy-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/data-privacy-scanner) | claude-code-plugins-plus | Scan for data privacy issues | Jeremy Longshore | 1.0.0 |
 | [dependency-checker](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/dependency-checker) | claude-code-plugins-plus | Check dependencies for known vulnerabilities, outdated packages, and license compliance | Jeremy Longshore | 1.0.0 |
+| [deps-doctor](https://github.com/mturac/pluginpool) | pluginpool | Multi-ecosystem dependency audit (npm, pip, cargo, go) — one unified report. | None | 0.1.0 |
 | [encryption-tool](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/encryption-tool) | claude-code-plugins-plus | Encrypt and decrypt data with various algorithms | Jeremy Longshore | 1.0.0 |
 | [frontend-mobile-security](https://github.com/wshobson/agents/tree/main/plugins/frontend-mobile-security) | claude-code-workflows | XSS prevention, CSRF protection, content security policies, mobile app security, and secure storage patterns | Seth Hobson | 1.2.0 |
 | [gdpr-compliance-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/gdpr-compliance-scanner) | claude-code-plugins-plus | Scan for GDPR compliance issues | Jeremy Longshore | 1.0.0 |
@@ -1602,6 +1623,7 @@ Last updated: 2026-05-16 23:59 UTC
 | [penetration-tester](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester) | claude-code-plugins-plus | Automated penetration testing for web applications with OWASP Top 10 coverage | Jeremy Longshore | 1.0.0 |
 | [repomix-safe-mixer](https://github.com/daymade/claude-code-skills/tree/main/repomix-safe-mixer) | daymade/claude-code-skills | Safely package codebases with repomix by automatically detecting and removing hardcoded credentials before packing. Use when packaging code for dis... | None | 1.0.0 |
 | [reverse-engineering](https://github.com/wshobson/agents/tree/main/plugins/reverse-engineering) | claude-code-workflows | Binary reverse engineering, malware analysis, firmware security, and software protection research for authorized security research, CTF competition... | Dávid Balatoni | 1.0.0 |
+| [secret-guard](https://github.com/mturac/pluginpool) | pluginpool | Pre-commit secret scanner using pattern and entropy detection, with redacted output. | None | 0.1.0 |
 | [secret-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/secret-scanner) | claude-code-plugins-plus | Scan codebase for exposed secrets, API keys, passwords, and sensitive credentials | Jeremy Longshore | 1.0.0 |
 | [security-audit-reporter](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/security-audit-reporter) | claude-code-plugins-plus | Generate comprehensive security audit reports | Jeremy Longshore | 1.0.0 |
 | [security-compliance](https://github.com/wshobson/agents/tree/main/plugins/security-compliance) | claude-code-workflows | SOC2, HIPAA, and GDPR compliance validation, secrets scanning, compliance checklists, and regulatory documentation | Seth Hobson | 1.2.0 |
