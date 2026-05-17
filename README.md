@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 72 | Total Plugins: 1175
 
-Last updated: 2026-05-17 21:00 UTC
+Last updated: 2026-05-17 22:03 UTC
 
 ## Installation
 
@@ -267,7 +267,7 @@ Last updated: 2026-05-17 21:00 UTC
 |--------|-------------|-------------|--------|---------|
 | [discuss](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/discuss) | awesome-claude-code-plugins | Collaborative technical discussion with proactive requirements gathering | Bohdan Triapitsyn | 1.0.0 |
 | [explore](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/explore) | awesome-claude-code-plugins | Helps Claude read a planning document and explore related files to get familiar with a topic. Asking Claude to prepare to discuss seems to work bet... | Galen Ward | 1.0.0 |
-| [plan](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | For easy problems, start here. For harder problems, do this after Explore. | Galen Ward | 1.0.0 |
+| [plan](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/plan) | awesome-claude-code-plugins | For easy problems, start here. For harder problems, do this after Explore. | Galen Ward | 1.0.0 |
 | [planning-prd-agent](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/planning-prd-agent) | awesome-claude-code-plugins | 'MUST BE USED PROACTIVELY when user mentions: planning, PRD, product requirements document, project plan, roadmap, specification, requirements anal... | clouddna-au | 1.0.0 |
 | [prd-specialist](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/prd-specialist) | awesome-claude-code-plugins | Use this agent when you need to create comprehensive Product Requirements Documents (PRDs) that combine business strategy, technical architecture, ... | Jure Šunić | 1.0.0 |
 | [project-shipper](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/project-shipper) | awesome-claude-code-plugins | PROACTIVELY use this agent when approaching launch milestones, release deadlines, or go-to-market activities. This agent specializes in coordinatin... | Michael Galpert | 1.0.0 |
