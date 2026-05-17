@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 70 | Total Plugins: 1173
+Total Marketplaces: 71 | Total Plugins: 1174
 
-Last updated: 2026-05-17 07:35 UTC
+Last updated: 2026-05-17 09:51 UTC
 
 ## Installation
 
@@ -345,6 +345,7 @@ Last updated: 2026-05-17 07:35 UTC
 | [iothackbot](https://github.com/BrownFineSecurity/iothackbot/tree/master/) | BrownFineSecurity/iothackbot | IoT security testing toolkit with skills for firmware analysis, network reconnaissance, UEFI security, and device exploitation | None | 1.0.0 |
 | [leyline](https://github.com/athola/claude-night-market/tree/main/plugins/leyline) | athola/claude-night-market | Foundation infrastructure: auth flows, quota management, error patterns, markdown formatting, trust verification, and injection detection | None | 1.9.5 |
 | [math](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/math) | cc-marketplace | Deterministic math operations using SymPy - arithmetic, algebra, calculus, linear algebra, number theory, and statistics | Anand Tyagi | 1.0.0 |
+| [memory-pack](https://github.com/nvwalj/claude-code-memory-pack/tree/main/) | nvwalj-memory-pack | Six slash commands for Claude Code: /scope, /review, /explain-this, /postmortem, /upgrade-deps, /release-notes — opinionated, hand-written, MIT lic... | None | 1.0.0 |
 | [memory-palace](https://github.com/athola/claude-night-market/tree/main/plugins/memory-palace) | athola/claude-night-market | Spatial knowledge organization with memory palace techniques: build, navigate, and maintain virtual memory structures with PR review capture | None | 1.9.5 |
 | [microsoft-docs](https://github.com/MicrosoftDocs/mcp/tree/main/) | microsoft-docs-mcp | Access official Microsoft documentation, API references, and code samples for Azure, .NET, Windows, and more. | None | 1.0.0 |
 | [minister](https://github.com/athola/claude-night-market/tree/main/plugins/minister) | athola/claude-night-market | GitHub issue management, label taxonomy, and initiative tracking: turns repositories, issues, and projects into status dashboards | None | 1.9.5 |
@@ -418,10 +419,10 @@ Last updated: 2026-05-17 07:35 UTC
 |--------|-------------|-------------|--------|---------|
 | [accessibility-expert](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | Examples: | Alysson Franklin | 1.0.0 |
 | [accessibility-expert](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/accessibility-expert) | cc-marketplace | Examples: | Alysson Franklin | 1.0.0 |
-| [ai-engineer](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/ai-engineer) | cc-marketplace | Use this agent when implementing AI/ML features, integrating language models, building recommendation systems, or adding intelligent automation to ... | Michael Galpert | 1.0.0 |
-| [ai-ethics-governance-specialist](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/ai-ethics-governance-specialist) | cc-marketplace | Use this agent when you need to implement AI ethics frameworks, governance policies, and responsible AI practices for B2B applications. This agent ... | Alysson Franklin | 1.0.0 |
-| [analytics-reporter](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/analytics-reporter) | cc-marketplace | Use this agent when analyzing metrics, generating insights from data, creating performance reports, or making data-driven recommendations. This age... | Michael Galpert | 1.0.0 |
-| [angelos-symbo](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/angelos-symbo) | cc-marketplace | Use this agent when you need to create or convert prompts using the SYMBO (symbolic) notation system. This agent MUST be activated whenever generat... | normalnormie | 1.0.0 |
+| [ai-engineer](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Use this agent when implementing AI/ML features, integrating language models, building recommendation systems, or adding intelligent automation to ... | Michael Galpert | 1.0.0 |
+| [ai-ethics-governance-specialist](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Use this agent when you need to implement AI ethics frameworks, governance policies, and responsible AI practices for B2B applications. This agent ... | Alysson Franklin | 1.0.0 |
+| [analytics-reporter](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Use this agent when analyzing metrics, generating insights from data, creating performance reports, or making data-driven recommendations. This age... | Michael Galpert | 1.0.0 |
+| [angelos-symbo](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Use this agent when you need to create or convert prompts using the SYMBO (symbolic) notation system. This agent MUST be activated whenever generat... | normalnormie | 1.0.0 |
 | [api-integration-specialist](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/api-integration-specialist) | cc-marketplace | Use this agent when you need to design and implement internal API architecture, developer experience, and API infrastructure for B2B applications. ... | Alysson Franklin | 1.0.0 |
 | [api-tester](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/api-tester) | cc-marketplace | Use this agent for comprehensive API testing including performance testing, load testing, and contract testing. This agent specializes in ensuring ... | Michael Galpert | 1.0.0 |
 | [app-store-optimizer](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/app-store-optimizer) | cc-marketplace | Use this agent when preparing app store listings, researching keywords, optimizing app metadata, improving conversion rates, or analyzing app store... | Michael Galpert | 1.0.0 |
