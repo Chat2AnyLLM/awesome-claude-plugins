@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 71 | Total Plugins: 1174
 
-Last updated: 2026-05-17 09:51 UTC
+Last updated: 2026-05-17 11:13 UTC
 
 ## Installation
 
@@ -419,10 +419,10 @@ Last updated: 2026-05-17 09:51 UTC
 |--------|-------------|-------------|--------|---------|
 | [accessibility-expert](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | Examples: | Alysson Franklin | 1.0.0 |
 | [accessibility-expert](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/accessibility-expert) | cc-marketplace | Examples: | Alysson Franklin | 1.0.0 |
-| [ai-engineer](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Use this agent when implementing AI/ML features, integrating language models, building recommendation systems, or adding intelligent automation to ... | Michael Galpert | 1.0.0 |
-| [ai-ethics-governance-specialist](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Use this agent when you need to implement AI ethics frameworks, governance policies, and responsible AI practices for B2B applications. This agent ... | Alysson Franklin | 1.0.0 |
-| [analytics-reporter](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Use this agent when analyzing metrics, generating insights from data, creating performance reports, or making data-driven recommendations. This age... | Michael Galpert | 1.0.0 |
-| [angelos-symbo](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Use this agent when you need to create or convert prompts using the SYMBO (symbolic) notation system. This agent MUST be activated whenever generat... | normalnormie | 1.0.0 |
+| [ai-engineer](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/ai-engineer) | cc-marketplace | Use this agent when implementing AI/ML features, integrating language models, building recommendation systems, or adding intelligent automation to ... | Michael Galpert | 1.0.0 |
+| [ai-ethics-governance-specialist](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/ai-ethics-governance-specialist) | cc-marketplace | Use this agent when you need to implement AI ethics frameworks, governance policies, and responsible AI practices for B2B applications. This agent ... | Alysson Franklin | 1.0.0 |
+| [analytics-reporter](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/analytics-reporter) | cc-marketplace | Use this agent when analyzing metrics, generating insights from data, creating performance reports, or making data-driven recommendations. This age... | Michael Galpert | 1.0.0 |
+| [angelos-symbo](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/angelos-symbo) | cc-marketplace | Use this agent when you need to create or convert prompts using the SYMBO (symbolic) notation system. This agent MUST be activated whenever generat... | normalnormie | 1.0.0 |
 | [api-integration-specialist](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/api-integration-specialist) | cc-marketplace | Use this agent when you need to design and implement internal API architecture, developer experience, and API infrastructure for B2B applications. ... | Alysson Franklin | 1.0.0 |
 | [api-tester](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/api-tester) | cc-marketplace | Use this agent for comprehensive API testing including performance testing, load testing, and contract testing. This agent specializes in ensuring ... | Michael Galpert | 1.0.0 |
 | [app-store-optimizer](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/app-store-optimizer) | cc-marketplace | Use this agent when preparing app store listings, researching keywords, optimizing app metadata, improving conversion rates, or analyzing app store... | Michael Galpert | 1.0.0 |
