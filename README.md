@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 74 | Total Plugins: 1207
+Total Marketplaces: 74 | Total Plugins: 1206
 
-Last updated: 2026-05-20 21:01 UTC
+Last updated: 2026-05-20 23:17 UTC
 
 ## Installation
 
@@ -347,7 +347,6 @@ Last updated: 2026-05-20 21:01 UTC
 | [iothackbot](https://github.com/BrownFineSecurity/iothackbot/tree/master/) | BrownFineSecurity/iothackbot | IoT security testing toolkit with skills for firmware analysis, network reconnaissance, UEFI security, and device exploitation | None | 1.0.0 |
 | [leyline](https://github.com/athola/claude-night-market/tree/main/plugins/leyline) | athola/claude-night-market | Foundation infrastructure: auth flows, quota management, error patterns, markdown formatting, trust verification, and injection detection | None | 1.9.7 |
 | [math](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/math) | cc-marketplace | Deterministic math operations using SymPy - arithmetic, algebra, calculus, linear algebra, number theory, and statistics | Anand Tyagi | 1.0.0 |
-| [memory-pack](https://github.com/nvwalj/claude-code-memory-pack/tree/main/) | nvwalj-memory-pack | Six slash commands for Claude Code: /scope, /review, /explain-this, /postmortem, /upgrade-deps, /release-notes — opinionated, hand-written, MIT lic... | None | 1.0.0 |
 | [memory-palace](https://github.com/athola/claude-night-market/tree/main/plugins/memory-palace) | athola/claude-night-market | Spatial knowledge organization with memory palace techniques: build, navigate, and maintain virtual memory structures with PR review capture | None | 1.9.7 |
 | [microsoft-docs](https://github.com/MicrosoftDocs/mcp/tree/main/) | microsoft-docs-mcp | Access official Microsoft documentation, API references, and code samples for Azure, .NET, Windows, and more. | None | 1.0.0 |
 | [minister](https://github.com/athola/claude-night-market/tree/main/plugins/minister) | athola/claude-night-market | GitHub issue management, label taxonomy, and initiative tracking: turns repositories, issues, and projects into status dashboards | None | 1.9.7 |
@@ -1011,7 +1010,7 @@ Last updated: 2026-05-20 21:01 UTC
 | [mcp-apps](https://github.com/modelcontextprotocol/ext-apps.git) | anthropics/claude-plugins-official | Skills for creating MCP Apps with the MCP Apps SDK | Anthropic / Model Context Protocol | 1.0.0 |
 | [mcp-server-dev](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/mcp-server-dev) | anthropics/claude-plugins-official | Skills for designing and building MCP servers that work seamlessly with Claude. Guides you through deployment models (remote HTTP, MCPB, local), to... | Anthropic | 1.0.0 |
 | [mdbase-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/mdbase-lsp) | Piebald-AI/claude-code-lsps | Language server for mdbase markdown collections | Piebald LLC | 0.1.0 |
-| [mercadopago](https://github.com/mercadopago/mercadopago-claude-marketplace.git) | anthropics/claude-plugins-official | Mercado Pago full-product integration toolkit. Covers online checkout (Pro, Bricks, API), in-store (QR, Point), subscriptions, marketplace, wallet,... | Mercado Pago Developer Experience | 1.0.0 |
+| [mercadopago](https://github.com/mercadopago/mercadopago-claude-marketplace.git) | anthropics/claude-plugins-official | Mercado Pago full-product integration toolkit. One agent routes to four orchestration skills (mp-integrate wizard, mp-webhooks, mp-test-setup, mp-r... | Mercado Pago Developer Experience | 1.0.0 |
 | [metals](https://github.com/Piebald-AI/claude-code-lsps/tree/main/metals) | Piebald-AI/claude-code-lsps | Scala language server with rich IDE features | Piebald LLC | 0.1.0 |
 | [microsoft-docs](https://github.com/MicrosoftDocs/mcp.git) | anthropics/claude-plugins-official | Access official Microsoft documentation, API references, and code samples for Azure, .NET, Windows, and more. | None | 1.0.0 |
 | [mintlify](https://github.com/mintlify/mintlify-claude-plugin.git) | anthropics/claude-plugins-official | Build beautiful documentation sites with Mintlify. Convert non-markdown files into properly formatted MDX pages, add and modify content with correc... | None | 1.0.0 |
