@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 74 | Total Plugins: 1206
+Total Marketplaces: 74 | Total Plugins: 1207
 
-Last updated: 2026-05-20 04:05 UTC
+Last updated: 2026-05-20 08:29 UTC
 
 ## Installation
 
@@ -1721,6 +1721,7 @@ Last updated: 2026-05-20 04:05 UTC
 | [database-test-manager](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/database-test-manager) | claude-code-plugins-plus | Database testing utilities with test data setup, transaction rollback, and schema validation | Claude Code Plugin Hub | 1.0.0 |
 | [e2e-test-framework](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/e2e-test-framework) | claude-code-plugins-plus | End-to-end test automation with Playwright, Cypress, and Selenium for browser-based testing | Jeremy Longshore | 1.0.0 |
 | [integration-test-runner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/integration-test-runner) | claude-code-plugins-plus | Run and manage integration test suites with environment setup, database seeding, and cleanup | Jeremy Longshore | 1.0.0 |
+| [kobiton-automate](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/kobiton-automate) | claude-code-plugins-plus | Real mobile devices on demand via Kobiton's remote MCP — no emulators, no flaky CI. 12 tools across Devices, Sessions, and Apps surfaces, plus spec... | Kobiton Inc. | 1.0.2 |
 | [load-balancer-tester](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/load-balancer-tester) | claude-code-plugins-plus | Test load balancing strategies with traffic distribution validation and failover testing | Claude Code Plugin Hub | 1.0.0 |
 | [mobile-app-tester](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/mobile-app-tester) | claude-code-plugins-plus | Mobile app test automation with Appium, Detox, XCUITest - test iOS and Android apps | Claude Code Plugin Hub | 1.0.0 |
 | [mutation-test-runner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/mutation-test-runner) | claude-code-plugins-plus | Mutation testing to validate test quality by introducing code changes and verifying tests catch them | Jeremy Longshore | 1.0.0 |
