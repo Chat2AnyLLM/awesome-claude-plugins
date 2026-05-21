@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 74 | Total Plugins: 1206
+Total Marketplaces: 74 | Total Plugins: 1208
 
-Last updated: 2026-05-20 23:17 UTC
+Last updated: 2026-05-21 04:14 UTC
 
 ## Installation
 
@@ -44,6 +44,7 @@ Last updated: 2026-05-20 23:17 UTC
 - [ai](#ai)
 - [ai-agency](#ai-agency)
 - [ai-ml](#ai-ml)
+- [analytics](#analytics)
 - [api](#api)
 - [api-development](#api-development)
 - [architecture](#architecture)
@@ -561,6 +562,12 @@ Last updated: 2026-05-20 23:17 UTC
 | [sentiment-analysis-tool](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/sentiment-analysis-tool) | claude-code-plugins-plus | Sentiment analysis on text data | Jeremy Longshore | 1.0.0 |
 | [time-series-forecaster](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/time-series-forecaster) | claude-code-plugins-plus | Time series forecasting and analysis | Jeremy Longshore | 1.0.0 |
 | [transfer-learning-adapter](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/transfer-learning-adapter) | claude-code-plugins-plus | Transfer learning adaptation | Jeremy Longshore | 1.0.0 |
+
+## analytics
+
+| Plugin | Marketplace | Description | Author | Version |
+|--------|-------------|-------------|--------|---------|
+| [web-analytics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/analytics/web-analytics) | claude-code-plugins-plus | Push-based web analytics intelligence team — self-hosted Umami via MCP (primary) + GA4 (fallback). 9 specialist agents fetch data, detect anomalies... | Jeremy Longshore | 1.1.0 |
 
 ## api
 
@@ -1559,6 +1566,7 @@ Last updated: 2026-05-20 23:17 UTC
 | [flyio-pack](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/flyio-pack) | claude-code-plugins-plus | Claude Code skill pack for Fly.io (18 skills) | Jeremy Longshore | 1.0.0 |
 | [fondo-pack](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/fondo-pack) | claude-code-plugins-plus | Claude Code skill pack for Fondo (18 skills) | Jeremy Longshore | 1.0.0 |
 | [framer-pack](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/framer-pack) | claude-code-plugins-plus | Claude Code skill pack for Framer (18 skills) | Jeremy Longshore | 1.0.0 |
+| [ga4-pack](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/ga4-pack) | claude-code-plugins-plus | Claude Code skill pack for Google Analytics 4 — 5 starter skills covering auth (OAuth + service account), Data API v1 queries (runReport, filters, ... | Jeremy Longshore | 1.0.0 |
 | [gamma-pack](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/gamma-pack) | claude-code-plugins-plus | Complete Gamma integration skill pack with 24 skills covering AI presentations, document generation, templates, and visual content creation. Flagsh... | Jeremy Longshore | 1.0.0 |
 | [glean-pack](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/glean-pack) | claude-code-plugins-plus | Claude Code skill pack for Glean (24 skills) | Jeremy Longshore | 1.0.0 |
 | [grammarly-pack](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/grammarly-pack) | claude-code-plugins-plus | Claude Code skill pack for Grammarly (24 skills) | Jeremy Longshore | 1.0.0 |
