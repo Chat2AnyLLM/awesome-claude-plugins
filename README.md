@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 74 | Total Plugins: 1208
+Total Marketplaces: 74 | Total Plugins: 1209
 
-Last updated: 2026-05-21 04:14 UTC
+Last updated: 2026-05-21 08:36 UTC
 
 ## Installation
 
@@ -1016,6 +1016,7 @@ Last updated: 2026-05-21 04:14 UTC
 | [lumen](https://github.com/ory/lumen.git) | anthropics/claude-plugins-official | Precise local semantic code search via MCP. Indexes your codebase with Go AST parsing, embeds with Ollama or LM Studio, and exposes vector search t... | Ory Corp | 1.0.0 |
 | [mcp-apps](https://github.com/modelcontextprotocol/ext-apps.git) | anthropics/claude-plugins-official | Skills for creating MCP Apps with the MCP Apps SDK | Anthropic / Model Context Protocol | 1.0.0 |
 | [mcp-server-dev](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/mcp-server-dev) | anthropics/claude-plugins-official | Skills for designing and building MCP servers that work seamlessly with Claude. Guides you through deployment models (remote HTTP, MCPB, local), to... | Anthropic | 1.0.0 |
+| [mcp-tunnels](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/mcp-tunnels) | anthropics/claude-plugins-official | Connect Claude to a private MCP server through an Anthropic MCP tunnel. The /create-docker-mcp-tunnel command drives the Docker Compose quickstart ... | Anthropic | 1.0.0 |
 | [mdbase-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/mdbase-lsp) | Piebald-AI/claude-code-lsps | Language server for mdbase markdown collections | Piebald LLC | 0.1.0 |
 | [mercadopago](https://github.com/mercadopago/mercadopago-claude-marketplace.git) | anthropics/claude-plugins-official | Mercado Pago full-product integration toolkit. One agent routes to four orchestration skills (mp-integrate wizard, mp-webhooks, mp-test-setup, mp-r... | Mercado Pago Developer Experience | 1.0.0 |
 | [metals](https://github.com/Piebald-AI/claude-code-lsps/tree/main/metals) | Piebald-AI/claude-code-lsps | Scala language server with rich IDE features | Piebald LLC | 0.1.0 |
