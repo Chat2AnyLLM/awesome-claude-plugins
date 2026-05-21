@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 74 | Total Plugins: 1209
 
-Last updated: 2026-05-21 19:01 UTC
+Last updated: 2026-05-21 21:40 UTC
 
 ## Installation
 
@@ -329,7 +329,7 @@ Last updated: 2026-05-21 19:01 UTC
 | [elements-of-style](https://github.com/obra/the-elements-of-style.git) | superpowers-marketplace | Writing guidance based on William Strunk Jr.'s The Elements of Style (1918) - foundational rules for clear, concise, grammatically correct writing | None | 1.0.0 |
 | [elixir](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/elixir) | bradleygolden/claude-marketplace-elixir | Comprehensive Elixir development support - formatting, compilation, testing, and static analysis in one plugin (recommended) | None | 1.0.0 |
 | [encode-toolkit](https://github.com/ammawla/encode-toolkit/tree/main/plugin) | ammawla/encode-toolkit | 20 ENCODE API tools + 47 expert skills for genomics research. Search experiments, download files with MD5 verification, run pipelines, and cross-re... | None | 0.3.0 |
-| [episodic-memory](https://github.com/obra/episodic-memory.git) | superpowers-marketplace | Semantic search for Claude Code and Codex conversations. Remember past discussions, decisions, and patterns across sessions. Gives you memory that ... | None | 1.4.1 |
+| [episodic-memory](https://github.com/obra/episodic-memory.git) | superpowers-marketplace | Semantic search for Claude Code and Codex conversations. Remember past discussions, decisions, and patterns across sessions. Gives you memory that ... | None | 1.4.2 |
 | [ex_doc](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/ex_doc) | bradleygolden/claude-marketplace-elixir | ExDoc documentation validation plugin that checks for documentation issues before commits | None | 1.0.0 |
 | [ex_unit](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/ex_unit) | bradleygolden/claude-marketplace-elixir | ExUnit testing automation with pre-commit test validation | None | 1.0.0 |
 | [example-skills](https://github.com/anthropics/skills/tree/main/) | anthropic-agent-skills | Collection of example skills demonstrating various capabilities including skill creation, MCP building, visual design, algorithmic art, internal co... | None | 1.0.0 |
@@ -763,7 +763,7 @@ Last updated: 2026-05-21 19:01 UTC
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
 | [brand-landingpage](https://github.com/wshobson/agents/tree/main/plugins/brand-landingpage) | claude-code-workflows | Guides developers from brand discovery through iterative design to deployment-ready HTML via Stitch. | Travis D. Elliott | 1.0.0 |
-| [meigen-ai-design](https://github.com/wshobson/agents/tree/main/plugins/meigen-ai-design) | claude-code-workflows | AI image generation with creative workflow orchestration, prompt engineering, and curated inspiration library via MCP server | MeiGen | 1.0.7 |
+| [meigen-ai-design](https://github.com/wshobson/agents/tree/main/plugins/meigen-ai-design) | claude-code-workflows | AI image generation with creative workflow orchestration, prompt engineering, and curated inspiration library via MCP server | MeiGen | 1.0.8 |
 
 ## crypto
 
