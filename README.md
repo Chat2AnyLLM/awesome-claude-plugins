@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 74 | Total Plugins: 1209
 
-Last updated: 2026-05-22 14:49 UTC
+Last updated: 2026-05-22 17:11 UTC
 
 ## Installation
 
@@ -1083,8 +1083,8 @@ Last updated: 2026-05-22 14:49 UTC
 | [ty](https://github.com/Piebald-AI/claude-code-lsps/tree/main/ty) | Piebald-AI/claude-code-lsps | Extremely fast Python type checker by Astral | Piebald LLC | 0.1.0 |
 | [typescript-lsp](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/typescript-lsp) | anthropics/claude-plugins-official | TypeScript/JavaScript language server for enhanced code intelligence | Anthropic | 1.0.0 |
 | [ui-design](https://github.com/wshobson/agents/tree/main/plugins/ui-design) | claude-code-workflows | Comprehensive UI/UX design plugin for mobile (iOS, Android, React Native) and web applications with design systems, accessibility, and modern patterns | Seth Hobson | 1.0.5 |
-| [ui5](https://github.com/UI5/plugins-claude.git) | anthropics/claude-plugins-official | SAPUI5 / OpenUI5 plugin for Claude. Create and validate UI5 projects, access API documentation, run UI5 linter, get development guidelines and best... | SAP SE | 1.0.0 |
-| [ui5-typescript-conversion](https://github.com/UI5/plugins-claude.git) | anthropics/claude-plugins-official | SAPUI5 / OpenUI5 plugin for Claude. Convert JavaScript based UI5 projects to TypeScript. | SAP SE | 1.0.0 |
+| [ui5](https://github.com/UI5/plugins-coding-agents.git) | anthropics/claude-plugins-official | SAPUI5 / OpenUI5 plugin for coding agents. Create and validate UI5 projects, access API documentation, run UI5 linter, get development guidelines a... | SAP SE | 1.0.0 |
+| [ui5-typescript-conversion](https://github.com/UI5/plugins-coding-agents.git) | anthropics/claude-plugins-official | SAPUI5 / OpenUI5 plugin for coding agents. Convert JavaScript based UI5 projects to TypeScript. | SAP SE | 1.0.0 |
 | [vscode-langservers](https://github.com/Piebald-AI/claude-code-lsps/tree/main/vscode-langservers) | Piebald-AI/claude-code-lsps | HTML and CSS language servers from VS Code | Piebald LLC | 0.1.0 |
 | [vtsls](https://github.com/Piebald-AI/claude-code-lsps/tree/main/vtsls) | Piebald-AI/claude-code-lsps | TypeScript and JavaScript language server integration (using vtsls) | Piebald LLC | 0.1.0 |
 | [vue-volar](https://github.com/Piebald-AI/claude-code-lsps/tree/main/vue-volar) | Piebald-AI/claude-code-lsps | Vue.js language server integration (Volar) | Piebald LLC | 0.1.0 |
