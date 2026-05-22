@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 74 | Total Plugins: 1209
 
-Last updated: 2026-05-22 21:16 UTC
+Last updated: 2026-05-22 23:06 UTC
 
 ## Installation
 
