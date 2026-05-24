@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 75 | Total Plugins: 1195
+Total Marketplaces: 75 | Total Plugins: 1196
 
-Last updated: 2026-05-24 20:09 UTC
+Last updated: 2026-05-24 21:59 UTC
 
 ## Installation
 
@@ -95,6 +95,7 @@ Last updated: 2026-05-24 20:09 UTC
 - [math](#math)
 - [mcp](#mcp)
 - [media](#media)
+- [memory](#memory)
 - [modernization](#modernization)
 - [monitoring](#monitoring)
 - [operations](#operations)
@@ -1305,6 +1306,12 @@ Last updated: 2026-05-24 20:09 UTC
 | [nanobanana](https://github.com/MadAppGang/claude-code/tree/main/plugins/nanobanana) | mag-claude-plugins | AI image generation and editing using Google Gemini 3 Pro Image API. v2.3.0: Added explicit name: fields to commands for prefix-free invocation (/g... | Jack Rudenko | 2.3.0 |
 | [video-comparer](https://github.com/daymade/claude-code-skills/tree/main/video-comparer) | daymade/claude-code-skills | Compare two videos and generate interactive HTML reports with quality metrics (PSNR, SSIM) and frame-by-frame visual comparisons. Use when analyzin... | None | 1.0.0 |
 | [video-editing](https://github.com/MadAppGang/claude-code/tree/main/plugins/video-editing) | mag-claude-plugins | Professional video editing toolkit with FFmpeg operations, Whisper transcription, and Apple Final Cut Pro project generation. v1.1.0: Added explici... | Jack Rudenko | 1.1.0 |
+
+## memory
+
+| Plugin | Marketplace | Description | Author | Version |
+|--------|-------------|-------------|--------|---------|
+| [pensyve](https://github.com/major7apps/pensyve.git) | claude-code-workflows | Universal memory runtime for Claude Code with cross-session memory, entity-aware recall, lifecycle hooks, skills, commands, and memory-curator agents | Major7 Apps | 1.3.0 |
 
 ## modernization
 
