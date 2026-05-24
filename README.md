@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 75 | Total Plugins: 1211
 
-Last updated: 2026-05-24 08:37 UTC
+Last updated: 2026-05-24 10:44 UTC
 
 ## Installation
 
@@ -515,7 +515,7 @@ Last updated: 2026-05-24 08:37 UTC
 | [make-scenario-builder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/make-scenario-builder) | claude-code-plugins-plus | Create Make.com (Integromat) scenarios with AI assistance | Claude Code Plugin Hub | 1.0.0 |
 | [n8n-workflow-designer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/n8n-workflow-designer) | claude-code-plugins-plus | Design complex n8n workflows with AI assistance - loops, branching, error handling | Claude Code Plugin Hub | 1.0.0 |
 | [roi-calculator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/roi-calculator) | claude-code-plugins-plus | Calculate and present ROI for AI automation projects | Claude Code Plugin Hub | 1.0.0 |
-| [shipwright](https://github.com/jeremylongshore/claude-code-plugins-plus/blob/main/plugins/ai-agency/shipwright) | claude-code-plugins-plus | Describe your app in plain English — Shipwright builds, tests, and deploys it autonomously via a 9-phase pipeline. | Nate Nelson | 1.0.0 |
+| [shipwright](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/shipwright) | claude-code-plugins-plus | Describe your app in plain English — Shipwright builds, tests, and deploys it autonomously via a 9-phase pipeline. | Nate Nelson | 1.0.0 |
 | [sow-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/sow-generator) | claude-code-plugins-plus | Generate professional Statements of Work for AI projects | Claude Code Plugin Hub | 1.0.0 |
 | [zapier-zap-builder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/zapier-zap-builder) | claude-code-plugins-plus | Create multi-step Zapier Zaps with filters, paths, and formatters | Claude Code Plugin Hub | 1.0.0 |
 
