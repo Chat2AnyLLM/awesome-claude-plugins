@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 75 | Total Plugins: 1196
 
-Last updated: 2026-05-26 20:16 UTC
+Last updated: 2026-05-26 22:23 UTC
 
 ## Installation
 
@@ -1649,7 +1649,7 @@ Last updated: 2026-05-26 20:16 UTC
 | [secret-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/secret-scanner) | claude-code-plugins-plus | Scan codebase for exposed secrets, API keys, passwords, and sensitive credentials | Jeremy Longshore | 1.0.0 |
 | [security-audit-reporter](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/security-audit-reporter) | claude-code-plugins-plus | Generate comprehensive security audit reports | Jeremy Longshore | 1.0.0 |
 | [security-compliance](https://github.com/wshobson/agents/tree/main/plugins/security-compliance) | claude-code-workflows | SOC2, HIPAA, and GDPR compliance validation, secrets scanning, compliance checklists, and regulatory documentation | Seth Hobson | 1.2.1 |
-| [security-guidance](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/security-guidance) | anthropics/claude-plugins-official | Security reminder hook that warns about potential security issues when editing files, including command injection, XSS, and unsafe code patterns | Anthropic | 1.0.0 |
+| [security-guidance](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/security-guidance) | anthropics/claude-plugins-official | Security review for Claude-generated code. Pattern-based warnings on edits, LLM-powered diff review on Stop, and an agentic commit reviewer that ca... | Anthropic | 2.0.0 |
 | [security-guidance](https://github.com/anthropics/claude-code/tree/main/plugins/security-guidance) | anthropics/claude-code | Security reminder hook that warns about potential security issues when editing files, including command injection, XSS, and unsafe code patterns | David Dworken | 1.0.0 |
 | [security-headers-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/security-headers-analyzer) | claude-code-plugins-plus | Analyze HTTP security headers | Jeremy Longshore | 1.0.0 |
 | [security-incident-responder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/security-incident-responder) | claude-code-plugins-plus | Assist with security incident response | Jeremy Longshore | 1.0.0 |
