@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 75 | Total Plugins: 1196
 
-Last updated: 2026-05-27 10:04 UTC
+Last updated: 2026-05-27 14:30 UTC
 
 ## Installation
 
@@ -914,7 +914,7 @@ Last updated: 2026-05-27 10:04 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 15 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 7.0.0 |
+| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 15 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 7.2.0 |
 | [cli-demo-generator](https://github.com/daymade/claude-code-skills/tree/main/cli-demo-generator) | daymade/claude-code-skills | Generate professional animated CLI demos and terminal recordings with VHS. Supports automated generation, batch processing, and interactive recordi... | None | 1.0.0 |
 | [cloudflare-troubleshooting](https://github.com/daymade/claude-code-skills/tree/main/cloudflare-troubleshooting) | daymade/claude-code-skills | Investigate and resolve Cloudflare configuration issues using API-driven evidence gathering. Use when troubleshooting ERR_TOO_MANY_REDIRECTS, SSL e... | None | 1.0.0 |
 | [debugging-network-issues](https://github.com/daymade/claude-code-skills/tree/main/debugging-network-issues) | daymade/claude-code-skills | Evidence-driven investigation for network, streaming, and protocol-layer bugs. Use when debugging connection resets, SSE or long-polling stalls, fi... | None | 1.0.0 |
