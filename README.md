@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 76 | Total Plugins: 1197
+Total Marketplaces: 76 | Total Plugins: 1198
 
-Last updated: 2026-05-28 12:33 UTC
+Last updated: 2026-05-28 16:57 UTC
 
 ## Installation
 
@@ -988,6 +988,7 @@ Last updated: 2026-05-28 12:33 UTC
 | [frontend-design](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/frontend-design) | anthropics/claude-plugins-official | Create distinctive, production-grade frontend interfaces with high design quality. Generates creative, polished code that avoids generic AI aesthet... | Anthropic | 1.0.0 |
 | [frontend-design](https://github.com/anthropics/claude-code/tree/main/plugins/frontend-design) | anthropics/claude-code | Create distinctive, production-grade frontend interfaces with high design quality. Generates creative, polished code that avoids generic AI aesthet... | Prithvi Rajasekaran & Alexander Bricken | 1.0.0 |
 | [frontend-mobile-development](https://github.com/wshobson/agents/tree/main/plugins/frontend-mobile-development) | claude-code-workflows | Frontend UI development and mobile application implementation across platforms | Seth Hobson | 1.2.3 |
+| [gleam](https://github.com/Piebald-AI/claude-code-lsps/tree/main/gleam) | Piebald-AI/claude-code-lsps | Gleam language server integration (bundled with the Gleam compiler) | Piebald LLC | 0.1.0 |
 | [gopls](https://github.com/Piebald-AI/claude-code-lsps/tree/main/gopls) | Piebald-AI/claude-code-lsps | Official Go language server | Piebald LLC | 0.1.0 |
 | [gopls-lsp](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/gopls-lsp) | anthropics/claude-plugins-official | Go language server for code intelligence and refactoring | Anthropic | 1.0.0 |
 | [graphql-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/graphql-lsp) | Piebald-AI/claude-code-lsps | GraphQL language server for schema and operation intelligence | Dale Seo | 0.1.0 |
