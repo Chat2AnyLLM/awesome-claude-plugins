@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 76 | Total Plugins: 1198
+Total Marketplaces: 76 | Total Plugins: 1199
 
-Last updated: 2026-05-28 21:59 UTC
+Last updated: 2026-05-28 23:37 UTC
 
 ## Installation
 
@@ -1479,6 +1479,7 @@ Last updated: 2026-05-28 21:59 UTC
 | [telegram](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/telegram) | anthropics/claude-plugins-official | Telegram messaging bridge with built-in access control. Manage pairing, allowlists, and policy via /telegram:access. | None | 1.0.0 |
 | [travel-assistant](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/travel-assistant) | claude-code-plugins-plus | Intelligent travel assistant with real-time weather, currency conversion, timezone info, and AI-powered itinerary planning. Your complete travel co... | Jeremy Longshore | 1.0.0 |
 | [vibe-guide](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/vibe-guide) | claude-code-plugins-plus | Non-technical progress summaries for Claude Code work (hides diffs/log noise). | Intent Solutions | 1.0.0 |
+| [vibe-prospecting](https://github.com/explorium-ai/vibeprospecting-plugin.git) | anthropics/claude-plugins-official | Vibe Prospecting connects Claude to live B2B company and contact data so users can search, match, enrich, filter, and export prospects at scale. It... | vibeprospecting.ai | 1.0.0 |
 | [windsor-ai](https://github.com/windsor-ai/claude-windsor-ai-plugin.git) | anthropics/claude-plugins-official | Connect Claude Code to 325+ business data sources via Windsor.ai. Query marketing, sales, CRM, ecommerce, finance, and analytics data from Google A... | Windsor.ai | 1.0.0 |
 | [wondelai-design-sprint](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/wondelai-design-sprint) | claude-code-plugins-plus | Google Ventures Design Sprint methodology. Validate product ideas in 5 days with rapid prototyping, user testing, and structured decision-making. | Wondel.ai | 1.0.0 |
 | [wondelai-lean-startup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/wondelai-lean-startup) | claude-code-plugins-plus | Lean Startup methodology for validated learning, MVPs, and innovation accounting. Design experiments, decide when to pivot vs. persevere, and reduc... | Wondel.ai | 1.0.0 |
