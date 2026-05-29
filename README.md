@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 76 | Total Plugins: 1199
 
-Last updated: 2026-05-29 12:20 UTC
+Last updated: 2026-05-29 16:46 UTC
 
 ## Installation
 
@@ -941,7 +941,7 @@ Last updated: 2026-05-29 12:20 UTC
 | [agent-sdk-dev](https://github.com/anthropics/claude-code/tree/main/plugins/agent-sdk-dev) | anthropics/claude-code | Development kit for working with the Claude Agent SDK | None | 1.0.0 |
 | [agentdev](https://github.com/MadAppGang/claude-code/tree/main/plugins/agentdev) | mag-claude-plugins | Create, implement, and review Claude Code agents and commands with multi-model validation, LLM performance tracking, and session-based artifact iso... | Jack Rudenko | 1.5.2 |
 | [agentforce-adlc](https://github.com/SalesforceAIResearch/agentforce-adlc.git) | anthropics/claude-plugins-official | Agentforce Agent Development Life Cycle — author, discover, scaffold, deploy, test, and optimize .agent files | None | 1.0.0 |
-| [align](https://github.com/ggrigo/align/tree/main/) | ggrigo/align | Personal evals for Claude Code and Cowork. Three skills: /align rates LLM claims (correct/wrong/almost/needs-nuance/can't-verify/skipped) in a loca... | Georgios Grigoriadis | 1.0.0 |
+| [align](https://github.com/ggrigo/align/tree/main/) | ggrigo/align | Output review for Claude Code and Cowork — redline what's wrong in an AI output, keep the correction, feed it back. Three skills: /align rates each... | Georgios Grigoriadis | 1.0.0 |
 | [api-contract-sync-manager](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/api-contract-sync-manager) | cc-marketplace | Validate and synchronize API contracts (OpenAPI, GraphQL) with implementation, detect breaking changes, and generate type-safe client code | Claude Code Marketplace | 1.0.0 |
 | [apollo-skills](https://github.com/apollographql/skills.git) | anthropics/claude-plugins-official | Apollo GraphQL agent skills for Claude Code — Apollo Client, Server, Federation, Connectors, Router, Rover CLI, iOS, Kotlin, and the Apollo MCP ser... | Apollo GraphQL | 1.0.0 |
 | [appwrite](https://github.com/appwrite/claude-plugin.git) | anthropics/claude-plugins-official | Appwrite tools for Claude Code, including SDK skills, Appwrite MCP servers, and deployment commands. | Appwrite | 1.0.0 |
