@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 76 | Total Plugins: 1199
 
-Last updated: 2026-05-29 04:09 UTC
+Last updated: 2026-05-29 08:45 UTC
 
 ## Installation
 
@@ -694,7 +694,7 @@ Last updated: 2026-05-29 04:09 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [whatsapp](https://github.com/Rich627/whatsapp-claude-plugin/tree/main/plugins/whatsapp-channel) | Rich627/whatsapp-claude-plugin | WhatsApp channel for Claude Code — linked-device messaging bridge with built-in access control, pairing, allowlists, and group policy. | None | 0.6.3 |
+| [whatsapp-claude-channel](https://github.com/Rich627/whatsapp-claude-plugin/tree/main/) | Rich627/whatsapp-claude-plugin | WhatsApp channel for Claude Code — linked-device messaging bridge with built-in access control, pairing, allowlists, and group policy. | None | 0.8.0 |
 
 ## code-quality
 
