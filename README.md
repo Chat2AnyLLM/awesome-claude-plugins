@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 76 | Total Plugins: 1199
+Total Marketplaces: 76 | Total Plugins: 1201
 
-Last updated: 2026-05-30 15:13 UTC
+Last updated: 2026-05-30 17:14 UTC
 
 ## Installation
 
@@ -916,6 +916,7 @@ Last updated: 2026-05-30 15:13 UTC
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
 | [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 15 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 7.2.0 |
+| [bigdata-skill](https://github.com/daymade/claude-code-skills/tree/main/bigdata-skill) | daymade/claude-code-skills | Pull Bigdata.com (RavenPack) financial and news data through the official bigdata-client Python SDK and its /v1/* REST endpoints when the Bigdata M... | None | 1.0.0 |
 | [cli-demo-generator](https://github.com/daymade/claude-code-skills/tree/main/cli-demo-generator) | daymade/claude-code-skills | Generate professional animated CLI demos and terminal recordings with VHS. Supports automated generation, batch processing, and interactive recordi... | None | 1.0.0 |
 | [cloudflare-troubleshooting](https://github.com/daymade/claude-code-skills/tree/main/cloudflare-troubleshooting) | daymade/claude-code-skills | Investigate and resolve Cloudflare configuration issues using API-driven evidence gathering. Use when troubleshooting ERR_TOO_MANY_REDIRECTS, SSL e... | None | 1.0.1 |
 | [debugging-network-issues](https://github.com/daymade/claude-code-skills/tree/main/debugging-network-issues) | daymade/claude-code-skills | Evidence-driven investigation for network, streaming, and protocol-layer bugs. Use when debugging connection resets, SSE or long-polling stalls, fi... | None | 1.0.1 |
@@ -1420,6 +1421,7 @@ Last updated: 2026-05-30 15:13 UTC
 | [apollo](https://github.com/apolloio/apollo-mcp-plugin.git) | anthropics/claude-plugins-official | Prospect, enrich leads, load outreach sequences, and query sales analytics with Apollo.io — one-click MCP server integration for Claude Code and Co... | Apollo.io | 1.0.0 |
 | [asana](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/asana) | anthropics/claude-plugins-official | Asana project management integration. Create and manage tasks, search projects, update assignments, track progress, and integrate your development ... | None | 1.0.0 |
 | [atlassian](https://github.com/atlassian/atlassian-mcp-server.git) | anthropics/claude-plugins-official | Connect to Atlassian products including Jira and Confluence. Search and create issues, access documentation, manage sprints, and integrate your dev... | None | 1.0.0 |
+| [benchmark-due-diligence](https://github.com/daymade/claude-code-skills/tree/main/benchmark-due-diligence) | daymade/claude-code-skills | Adversarial due-diligence on a benchmark you envy (a founder, KOL, company, or product whose claimed success you suspect is inflated). Inline four-... | None | 1.0.0 |
 | [box](https://github.com/box/box-for-ai.git) | anthropics/claude-plugins-official | Work with your Box content directly from Claude Code — search files, organize folders, collaborate with your team, and use Box AI to answer questio... | None | 1.0.0 |
 | [box-cloud-filesystem](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/box-cloud-filesystem) | claude-code-plugins-plus | Transparent cloud filesystem for AI agents using Box CLI (@box/cli). Upload, download, search, share, and sync files to Box cloud storage with oper... | Jeremy Longshore | 1.0.0 |
 | [carta-cap-table](https://github.com/carta/plugins.git) | anthropics/claude-plugins-official | Carta Cap Table plugin — skills and hooks for querying cap tables, grants, SAFEs, 409A valuations, waterfall scenarios, and more | Carta Engineering | 1.0.0 |
