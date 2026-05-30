@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 76 | Total Plugins: 1201
 
-Last updated: 2026-05-30 17:14 UTC
+Last updated: 2026-05-30 19:25 UTC
 
 ## Installation
 
@@ -324,7 +324,7 @@ Last updated: 2026-05-30 17:14 UTC
 | [docx-format-replicator](https://github.com/iamzhihuix/happy-claude-skills/tree/main/) | iamzhihuix/happy-claude-skills | Extract formatting from Word documents and generate new documents with the same format | None | 1.0.0 |
 | [double-shot-latte](https://github.com/obra/double-shot-latte.git) | superpowers-marketplace | Stop 'Would you like me to continue?' interruptions. Automatically evaluates whether Claude should continue working using Claude-judged decision ma... | None | 1.2.0 |
 | [egregore](https://github.com/athola/claude-night-market/tree/main/plugins/egregore) | athola/claude-night-market | Autonomous agent orchestrator: parallel worktree execution, agent specialization, cross-item learning, and crash recovery | None | 1.9.9 |
-| [ejentum](https://github.com/ejentum/ejentum-mcp) | ejentum/ejentum-mcp | Reasoning Harness for agentic AI. Four MCP tools (reasoning, code, anti-deception, memory) over a library of 679 cognitive operations engineered in... | Ejentum | 0.1.11 |
+| [ejentum](https://github.com/ejentum/ejentum-mcp) | ejentum/ejentum-mcp | Ejentum MCP server. Eight tools (four dynamic: reasoning, code, anti-deception, memory; four adaptive: adaptive-reasoning, adaptive-code, adaptive-... | Ejentum | 0.2.0 |
 | [elements-of-style](https://github.com/obra/the-elements-of-style.git) | superpowers-marketplace | Writing guidance based on William Strunk Jr.'s The Elements of Style (1918) - foundational rules for clear, concise, grammatically correct writing | None | 1.0.0 |
 | [elixir](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/elixir) | bradleygolden/claude-marketplace-elixir | Comprehensive Elixir development support - formatting, compilation, testing, and static analysis in one plugin (recommended) | None | 1.0.0 |
 | [encode-toolkit](https://github.com/ammawla/encode-toolkit/tree/main/plugin) | ammawla/encode-toolkit | 20 ENCODE API tools + 47 expert skills for genomics research. Search experiments, download files with MD5 verification, run pipelines, and cross-re... | None | 0.3.0 |
@@ -397,7 +397,7 @@ Last updated: 2026-05-30 17:14 UTC
 | [claude-desktop-extension](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/claude-desktop-extension) | awesome-claude-code-plugins | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
 | [lyra](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/lyra) | awesome-claude-code-plugins | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
 | [model-context-protocol-mcp-expert](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/model-context-protocol-mcp-expert) | awesome-claude-code-plugins | Model Context Protocol Mcp Expert subagent | Community | 1.0.0 |
-| [problem-solver-specialist](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/problem-solver-specialist) | awesome-claude-code-plugins | Universal expert problem-solving agent specializing in complex debugging, mysterious runtime behavior, integration issues, and multi-layered techni... | Beau Lewis | 1.0.0 |
+| [problem-solver-specialist](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | Universal expert problem-solving agent specializing in complex debugging, mysterious runtime behavior, integration issues, and multi-layered techni... | Beau Lewis | 1.0.0 |
 | [studio-coach](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/studio-coach) | awesome-claude-code-plugins | PROACTIVELY use this agent when complex multi-agent tasks begin, when agents seem stuck or overwhelmed, or when the team needs motivation and coord... | Michael Galpert | 1.0.0 |
 | [ultrathink](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/ultrathink) | awesome-claude-code-plugins | Use /ultrathink <TASK_DESCRIPTION> to launch a Coordinator Agent that directs four specialist sub-agents—Architect, Research, Coder, and Tester—to ... | Jeronim Morina | 1.0.0 |
 
@@ -405,8 +405,8 @@ Last updated: 2026-05-30 17:14 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [sap-abap](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-abap) | secondsky/sap-skills | Comprehensive ABAP development skill for SAP systems. Use when writing ABAP code, working with internal tables, structures, ABAP SQL, object-orient... | None | 2.2.0 |
-| [sap-abap-cds](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-abap-cds) | secondsky/sap-skills | Comprehensive SAP ABAP CDS (Core Data Services) reference for data modeling, view development, and semantic enrichment. Use when creating CDS views... | None | 2.2.0 |
+| [sap-abap](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-abap) | secondsky/sap-skills | Comprehensive ABAP development skill for SAP systems. Use when writing ABAP code, working with internal tables, structures, ABAP SQL, object-orient... | None | 2.2.1 |
+| [sap-abap-cds](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-abap-cds) | secondsky/sap-skills | Comprehensive SAP ABAP CDS (Core Data Services) reference for data modeling, view development, and semantic enrichment. Use when creating CDS views... | None | 2.2.1 |
 
 ## accessibility
 
@@ -502,8 +502,8 @@ Last updated: 2026-05-30 17:14 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [sap-ai-core](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-ai-core) | secondsky/sap-skills | Guides development with SAP AI Core and SAP AI Launchpad for enterprise AI/ML workloads on SAP BTP. Use when: deploying generative AI models (GPT, ... | None | 2.2.0 |
-| [sap-cloud-sdk-ai](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-cloud-sdk-ai) | secondsky/sap-skills | Integrates SAP Cloud SDK for AI into JavaScript/TypeScript and Java applications. Use when building applications with SAP AI Core, Generative AI Hu... | None | 2.2.0 |
+| [sap-ai-core](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-ai-core) | secondsky/sap-skills | Guides development with SAP AI Core and SAP AI Launchpad for enterprise AI/ML workloads on SAP BTP. Use when: deploying generative AI models (GPT, ... | None | 2.2.1 |
+| [sap-cloud-sdk-ai](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-cloud-sdk-ai) | secondsky/sap-skills | Integrates SAP Cloud SDK for AI into JavaScript/TypeScript and Java applications. Use when building applications with SAP AI Core, Generative AI Hu... | None | 2.2.1 |
 
 ## ai-agency
 
@@ -634,26 +634,26 @@ Last updated: 2026-05-30 17:14 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [sap-btp-best-practices](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-best-practices) | secondsky/sap-skills | Production-ready SAP BTP best practices for enterprise architecture, account management, security, and operations. Use when planning BTP implementa... | None | 2.2.0 |
-| [sap-btp-build-work-zone-advanced](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-build-work-zone-advanced) | secondsky/sap-skills | Develops and administers SAP Build Work Zone, advanced edition digital workplace solutions. Use when creating workspaces, workpages, and collaborat... | None | 2.2.0 |
-| [sap-btp-business-application-studio](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-business-application-studio) | secondsky/sap-skills | This skill provides comprehensive guidance for SAP Business Application Studio (BAS), the cloud-based IDE on SAP BTP built on Code-OSS. Use when se... | None | 2.2.0 |
-| [sap-btp-cias](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-cias) | secondsky/sap-skills | SAP BTP Cloud Integration Automation Service (CIAS) skill for guided integration workflows. Use when: setting up CIAS subscriptions, configuring de... | None | 2.2.0 |
-| [sap-btp-cloud-logging](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-cloud-logging) | secondsky/sap-skills | This skill provides comprehensive guidance for SAP Cloud Logging service on SAP BTP. Use when setting up Cloud Logging instances, configuring log i... | None | 2.2.0 |
-| [sap-btp-cloud-platform](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-cloud-platform) | secondsky/sap-skills | Comprehensive SAP Business Technology Platform (BTP) reference for cloud development, deployment, and operations. Use when setting up BTP accounts,... | None | 2.2.0 |
-| [sap-btp-cloud-transport-management](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-cloud-transport-management) | secondsky/sap-skills | Comprehensive skill for SAP Cloud Transport Management service on SAP BTP. Use when setting up transport landscapes, configuring transport nodes an... | None | 2.2.0 |
-| [sap-btp-connectivity](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-connectivity) | secondsky/sap-skills | SAP BTP Connectivity skill covering Destination Service, Connectivity Service, Cloud Connector, Connectivity Proxy, and Transparent Proxy for Kuber... | None | 2.2.0 |
-| [sap-btp-developer-guide](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-developer-guide) | secondsky/sap-skills | Develops business applications on SAP Business Technology Platform (BTP) using CAP (Node.js/Java) or ABAP Cloud.  Use when: building cloud applicat... | None | 2.2.0 |
-| [sap-btp-integration-suite](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-integration-suite) | secondsky/sap-skills | Enterprise integration solutions using SAP Integration Suite on BTP. Covers Cloud Integration (iFlows), API Management, Event Mesh, Edge Integratio... | None | 2.2.0 |
-| [sap-btp-intelligent-situation-automation](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-intelligent-situation-automation) | secondsky/sap-skills | This skill provides comprehensive guidance for SAP BTP Intelligent Situation Automation setup, configuration, and operations. It should be used whe... | None | 2.2.0 |
-| [sap-btp-job-scheduling](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-job-scheduling) | secondsky/sap-skills | This skill provides comprehensive guidance for SAP BTP Job Scheduling Service development, configuration, and operations. It should be used when cr... | None | 2.2.0 |
-| [sap-btp-master-data-integration](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-master-data-integration) | secondsky/sap-skills | Configures and integrates SAP Master Data Integration (MDI) service on SAP Business Technology Platform. Use when setting up MDI tenants, connectin... | None | 2.2.0 |
-| [sap-btp-service-manager](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-service-manager) | secondsky/sap-skills | This skill provides comprehensive knowledge for SAP Service Manager on SAP Business Technology Platform (BTP). It should be used when managing serv... | None | 2.2.0 |
+| [sap-btp-best-practices](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-best-practices) | secondsky/sap-skills | Production-ready SAP BTP best practices for enterprise architecture, account management, security, and operations. Use when planning BTP implementa... | None | 2.2.1 |
+| [sap-btp-build-work-zone-advanced](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-build-work-zone-advanced) | secondsky/sap-skills | Develops and administers SAP Build Work Zone, advanced edition digital workplace solutions. Use when creating workspaces, workpages, and collaborat... | None | 2.2.1 |
+| [sap-btp-business-application-studio](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-business-application-studio) | secondsky/sap-skills | This skill provides comprehensive guidance for SAP Business Application Studio (BAS), the cloud-based IDE on SAP BTP built on Code-OSS. Use when se... | None | 2.2.1 |
+| [sap-btp-cias](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-cias) | secondsky/sap-skills | SAP BTP Cloud Integration Automation Service (CIAS) skill for guided integration workflows. Use when: setting up CIAS subscriptions, configuring de... | None | 2.2.1 |
+| [sap-btp-cloud-logging](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-cloud-logging) | secondsky/sap-skills | This skill provides comprehensive guidance for SAP Cloud Logging service on SAP BTP. Use when setting up Cloud Logging instances, configuring log i... | None | 2.2.1 |
+| [sap-btp-cloud-platform](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-cloud-platform) | secondsky/sap-skills | Comprehensive SAP Business Technology Platform (BTP) reference for cloud development, deployment, and operations. Use when setting up BTP accounts,... | None | 2.2.1 |
+| [sap-btp-cloud-transport-management](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-cloud-transport-management) | secondsky/sap-skills | Comprehensive skill for SAP Cloud Transport Management service on SAP BTP. Use when setting up transport landscapes, configuring transport nodes an... | None | 2.2.1 |
+| [sap-btp-connectivity](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-connectivity) | secondsky/sap-skills | SAP BTP Connectivity skill covering Destination Service, Connectivity Service, Cloud Connector, Connectivity Proxy, and Transparent Proxy for Kuber... | None | 2.2.1 |
+| [sap-btp-developer-guide](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-developer-guide) | secondsky/sap-skills | Develops business applications on SAP Business Technology Platform (BTP) using CAP (Node.js/Java) or ABAP Cloud.  Use when: building cloud applicat... | None | 2.2.1 |
+| [sap-btp-integration-suite](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-integration-suite) | secondsky/sap-skills | Enterprise integration solutions using SAP Integration Suite on BTP. Covers Cloud Integration (iFlows), API Management, Event Mesh, Edge Integratio... | None | 2.2.1 |
+| [sap-btp-intelligent-situation-automation](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-intelligent-situation-automation) | secondsky/sap-skills | This skill provides comprehensive guidance for SAP BTP Intelligent Situation Automation setup, configuration, and operations. It should be used whe... | None | 2.2.1 |
+| [sap-btp-job-scheduling](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-job-scheduling) | secondsky/sap-skills | This skill provides comprehensive guidance for SAP BTP Job Scheduling Service development, configuration, and operations. It should be used when cr... | None | 2.2.1 |
+| [sap-btp-master-data-integration](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-master-data-integration) | secondsky/sap-skills | Configures and integrates SAP Master Data Integration (MDI) service on SAP Business Technology Platform. Use when setting up MDI tenants, connectin... | None | 2.2.1 |
+| [sap-btp-service-manager](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-service-manager) | secondsky/sap-skills | This skill provides comprehensive knowledge for SAP Service Manager on SAP Business Technology Platform (BTP). It should be used when managing serv... | None | 2.2.1 |
 
 ## business
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [business-analytics](https://github.com/wshobson/agents/tree/main/plugins/business-analytics) | claude-code-workflows | Business metrics analysis, KPI tracking, financial reporting, and data-driven decision making | Seth Hobson | 1.2.3 |
+| [business-analytics](https://github.com/wshobson/agents) | claude-code-workflows | Business metrics analysis, KPI tracking, financial reporting, and data-driven decision making | Seth Hobson | 1.2.3 |
 | [customer-sales-automation](https://github.com/wshobson/agents/tree/main/plugins/customer-sales-automation) | claude-code-workflows | Customer support workflow automation, sales pipeline management, email campaigns, and CRM integration | Seth Hobson | 1.2.1 |
 | [hr-legal-compliance](https://github.com/wshobson/agents/tree/main/plugins/hr-legal-compliance) | claude-code-workflows | HR policy documentation, legal compliance templates (GDPR/SOC2/HIPAA), employment contracts, and regulatory documentation | Seth Hobson | 1.2.3 |
 | [startup-business-analyst](https://github.com/wshobson/agents/tree/main/plugins/startup-business-analyst) | claude-code-workflows | Comprehensive startup business analysis with market sizing (TAM/SAM/SOM), financial modeling, team planning, and strategic research for early-stage... | Seth Hobson | 1.0.6 |
@@ -688,7 +688,7 @@ Last updated: 2026-05-30 17:14 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [sap-cap-capire](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-cap-capire) | secondsky/sap-skills | SAP Cloud Application Programming Model (CAP) development skill using Capire documentation. Use when: building CAP applications, defining CDS model... | None | 2.2.0 |
+| [sap-cap-capire](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-cap-capire) | secondsky/sap-skills | SAP Cloud Application Programming Model (CAP) development skill using Capire documentation. Use when: building CAP applications, defining CDS model... | None | 2.2.1 |
 
 ## channels
 
@@ -808,11 +808,11 @@ Last updated: 2026-05-30 17:14 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [sap-datasphere](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-datasphere) | secondsky/sap-skills | SAP Datasphere development skill with 3 specialized agents, 5 slash commands, and validation hooks. Use when building data warehouses on SAP BTP, c... | None | 2.2.0 |
-| [sap-sac-custom-widget](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-sac-custom-widget) | secondsky/sap-skills | SAP Analytics Cloud (SAC) Custom Widget development. Use when building custom visualizations, extending SAC with Web Components, or creating Widget... | None | 2.2.0 |
-| [sap-sac-planning](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-sac-planning) | secondsky/sap-skills | This skill should be used when developing SAP Analytics Cloud (SAC) planning applications, including building planning-enabled stories, analytics d... | None | 2.2.0 |
-| [sap-sac-scripting](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-sac-scripting) | secondsky/sap-skills | Comprehensive SAC scripting skill for SAP Analytics Cloud Analytics Designer and Optimized Story Experience. This skill should be used when the use... | None | 2.2.0 |
-| [sap-sqlscript](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-sqlscript) | secondsky/sap-skills | This skill should be used when the user asks to "write a SQLScript procedure", "create HANA stored procedure", "implement AMDP method", "optimize S... | None | 2.2.0 |
+| [sap-datasphere](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-datasphere) | secondsky/sap-skills | SAP Datasphere development skill with 3 specialized agents, 5 slash commands, and validation hooks. Use when building data warehouses on SAP BTP, c... | None | 2.2.1 |
+| [sap-sac-custom-widget](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-sac-custom-widget) | secondsky/sap-skills | SAP Analytics Cloud (SAC) Custom Widget development. Use when building custom visualizations, extending SAC with Web Components, or creating Widget... | None | 2.2.1 |
+| [sap-sac-planning](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-sac-planning) | secondsky/sap-skills | This skill should be used when developing SAP Analytics Cloud (SAC) planning applications, including building planning-enabled stories, analytics d... | None | 2.2.1 |
+| [sap-sac-scripting](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-sac-scripting) | secondsky/sap-skills | Comprehensive SAC scripting skill for SAP Analytics Cloud Analytics Designer and Optimized Story Experience. This skill should be used when the use... | None | 2.2.1 |
+| [sap-sqlscript](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-sqlscript) | secondsky/sap-skills | This skill should be used when the user asks to "write a SQLScript procedure", "create HANA stored procedure", "implement AMDP method", "optimize S... | None | 2.2.1 |
 
 ## database
 
@@ -1214,9 +1214,9 @@ Last updated: 2026-05-30 17:14 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [sap-hana-cli](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-hana-cli) | secondsky/sap-skills | Assists with SAP HANA Developer CLI (hana-cli) for database development and administration. Use when: installing hana-cli, connecting to SAP HANA d... | None | 2.2.0 |
-| [sap-hana-cloud-data-intelligence](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-hana-cloud-data-intelligence) | secondsky/sap-skills | Develops data processing pipelines, integrations, and machine learning scenarios in SAP Data Intelligence Cloud. Use when building graphs/pipelines... | None | 2.2.0 |
-| [sap-hana-ml](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-hana-ml) | secondsky/sap-skills | SAP HANA Machine Learning Python Client (hana-ml) development skill. Use when: Building ML solutions with SAP HANA's in-database machine learning u... | None | 2.2.0 |
+| [sap-hana-cli](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-hana-cli) | secondsky/sap-skills | Assists with SAP HANA Developer CLI (hana-cli) for database development and administration. Use when: installing hana-cli, connecting to SAP HANA d... | None | 2.2.1 |
+| [sap-hana-cloud-data-intelligence](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-hana-cloud-data-intelligence) | secondsky/sap-skills | Develops data processing pipelines, integrations, and machine learning scenarios in SAP Data Intelligence Cloud. Use when building graphs/pipelines... | None | 2.2.1 |
+| [sap-hana-ml](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-hana-ml) | secondsky/sap-skills | SAP HANA Machine Learning Python Client (hana-ml) development skill. Use when: Building ML solutions with SAP HANA's in-database machine learning u... | None | 2.2.1 |
 
 ## infrastructure
 
@@ -1279,7 +1279,7 @@ Last updated: 2026-05-30 17:14 UTC
 | [seo-analysis-monitoring](https://github.com/wshobson/agents/tree/main/plugins/seo-analysis-monitoring) | claude-code-workflows | Content freshness analysis, cannibalization detection, and authority building for SEO | Seth Hobson | 1.2.1 |
 | [seo-content-creation](https://github.com/wshobson/agents/tree/main/plugins/seo-content-creation) | claude-code-workflows | SEO content writing, planning, and quality auditing with E-E-A-T optimization | Seth Hobson | 1.2.1 |
 | [seo-technical-optimization](https://github.com/wshobson/agents/tree/main/plugins/seo-technical-optimization) | claude-code-workflows | Technical SEO optimization including meta tags, keywords, structure, and featured snippets | Seth Hobson | 1.2.1 |
-| [studiomeyer-geo](https://github.com/studiomeyer-io/studiomeyer-marketplace/tree/main/plugins/studiomeyer-geo) | studiomeyer-marketplace | Generative Engine Optimization (GEO). 23 tools to measure and improve AI visibility across ChatGPT, Gemini, Perplexity, Claude, Grok, DeepSeek, Met... | None | 1.0.0 |
+| [studiomeyer-geo](https://github.com/studiomeyer-io/studiomeyer-marketplace) | studiomeyer-marketplace | Generative Engine Optimization (GEO). 23 tools to measure and improve AI visibility across ChatGPT, Gemini, Perplexity, Claude, Grok, DeepSeek, Met... | None | 1.0.0 |
 
 ## math
 
@@ -1744,16 +1744,16 @@ Last updated: 2026-05-30 17:14 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [sap-api-style](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-api-style) | secondsky/sap-skills | This skill provides comprehensive guidance for documenting SAP APIs following the SAP API Style Guide standards. It should be used when creating or... | None | 2.2.0 |
+| [sap-api-style](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-api-style) | secondsky/sap-skills | This skill provides comprehensive guidance for documenting SAP APIs following the SAP API Style Guide standards. It should be used when creating or... | None | 2.2.1 |
 
 ## ui-development
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [sap-fiori-tools](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-fiori-tools) | secondsky/sap-skills | Develops SAP Fiori applications using SAP Fiori tools extensions for VS Code and SAP Business Application Studio. Use when: generating Fiori Elemen... | None | 2.2.0 |
-| [sapui5](https://github.com/secondsky/sap-skills/tree/main/plugins/sapui5) | secondsky/sap-skills | This skill should be used when developing SAP UI5 applications, including creating freestyle apps, Fiori Elements apps, custom controls, testing, d... | None | 2.2.0 |
-| [sapui5-cli](https://github.com/secondsky/sap-skills/tree/main/plugins/sapui5-cli) | secondsky/sap-skills | Manages SAPUI5/OpenUI5 projects using the UI5 Tooling CLI (@ui5/cli). Use when initializing UI5 projects, configuring ui5.yaml or ui5-workspace.yam... | None | 2.2.0 |
-| [sapui5-linter](https://github.com/secondsky/sap-skills/tree/main/plugins/sapui5-linter) | secondsky/sap-skills | Use this skill when working with the UI5 Linter (@ui5/linter) for static code analysis of SAPUI5/OpenUI5 applications and libraries. Covers setup, ... | None | 2.2.0 |
+| [sap-fiori-tools](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-fiori-tools) | secondsky/sap-skills | Develops SAP Fiori applications using SAP Fiori tools extensions for VS Code and SAP Business Application Studio. Use when: generating Fiori Elemen... | None | 2.2.1 |
+| [sapui5](https://github.com/secondsky/sap-skills/tree/main/plugins/sapui5) | secondsky/sap-skills | This skill should be used when developing SAP UI5 applications, including creating freestyle apps, Fiori Elements apps, custom controls, testing, d... | None | 2.2.1 |
+| [sapui5-cli](https://github.com/secondsky/sap-skills/tree/main/plugins/sapui5-cli) | secondsky/sap-skills | Manages SAPUI5/OpenUI5 projects using the UI5 Tooling CLI (@ui5/cli). Use when initializing UI5 projects, configuring ui5.yaml or ui5-workspace.yam... | None | 2.2.1 |
+| [sapui5-linter](https://github.com/secondsky/sap-skills/tree/main/plugins/sapui5-linter) | secondsky/sap-skills | Use this skill when working with the UI5 Linter (@ui5/linter) for static code analysis of SAPUI5/OpenUI5 applications and libraries. Covers setup, ... | None | 2.2.1 |
 
 ## utilities
 
