@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 76 | Total Plugins: 1205
+Total Marketplaces: 77 | Total Plugins: 1208
 
-Last updated: 2026-06-01 10:25 UTC
+Last updated: 2026-06-01 16:42 UTC
 
 ## Installation
 
@@ -308,6 +308,7 @@ Last updated: 2026-06-01 10:25 UTC
 | [cartograph](https://github.com/athola/claude-night-market/tree/main/plugins/cartograph) | athola/claude-night-market | Codebase visualization: architecture, data flow, dependency, call chains, community detection, and class diagrams via Mermaid Chart MCP | None | 1.9.9 |
 | [cc-best](https://github.com/xiaobei930/claude-code-best-practices/tree/main/) | xiaobei930/claude-code-best-practices | Complete development environment with role-based workflows (PM→Lead→Designer→Dev→QA), 30 hook scripts across 19 events with 3-tier profiles, 44 com... | xiaobei930 | 0.10.0 |
 | [claude-api](https://github.com/anthropics/skills/tree/main/) | anthropic-agent-skills | Claude API and SDK documentation skill for building LLM-powered applications | None | 1.0.0 |
+| [claude-bridge](https://github.com/Stigmavlc/claude-bridge) | claude-bridge | When a task needs the web, Claude Code drives the browser itself: your real logged-in Chrome for account work, a headless browser for public lookup... | Ivan Aguilar | 0.1.0 |
 | [claude-mem](https://github.com/thedotmack/claude-mem/tree/main/plugin) | thedotmack | Persistent memory system for Claude Code - context compression across sessions | None | 13.4.0 |
 | [claude-session-driver](https://github.com/obra/claude-session-driver.git) | superpowers-marketplace | Launch, control, and monitor other Claude Code sessions as workers via tmux | None | 3.0.2 |
 | [cloudinary](https://github.com/cloudinary-devs/cloudinary-plugin.git) | anthropics/claude-plugins-official | Use Cloudinary directly in Claude. Manage assets, apply transformations, optimize media, and more through natural conversation. | None | 1.0.0 |
@@ -397,7 +398,7 @@ Last updated: 2026-06-01 10:25 UTC
 | [claude-desktop-extension](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/claude-desktop-extension) | awesome-claude-code-plugins | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
 | [lyra](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/lyra) | awesome-claude-code-plugins | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
 | [model-context-protocol-mcp-expert](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/model-context-protocol-mcp-expert) | awesome-claude-code-plugins | Model Context Protocol Mcp Expert subagent | Community | 1.0.0 |
-| [problem-solver-specialist](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/problem-solver-specialist) | awesome-claude-code-plugins | Universal expert problem-solving agent specializing in complex debugging, mysterious runtime behavior, integration issues, and multi-layered techni... | Beau Lewis | 1.0.0 |
+| [problem-solver-specialist](https://github.com/ccplugins/awesome-claude-code-plugins/blob/main/plugins/problem-solver-specialist) | awesome-claude-code-plugins | Universal expert problem-solving agent specializing in complex debugging, mysterious runtime behavior, integration issues, and multi-layered techni... | Beau Lewis | 1.0.0 |
 | [studio-coach](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/studio-coach) | awesome-claude-code-plugins | PROACTIVELY use this agent when complex multi-agent tasks begin, when agents seem stuck or overwhelmed, or when the team needs motivation and coord... | Michael Galpert | 1.0.0 |
 | [ultrathink](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/ultrathink) | awesome-claude-code-plugins | Use /ultrathink <TASK_DESCRIPTION> to launch a Coordinator Agent that directs four specialist sub-agents—Architect, Research, Coder, and Tester—to ... | Jeronim Morina | 1.0.0 |
 
@@ -916,7 +917,7 @@ Last updated: 2026-06-01 10:25 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 15 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 7.2.0 |
+| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 15 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 7.3.0 |
 | [auto-repo-setup](https://github.com/daymade/claude-code-skills/tree/main/auto-repo-setup) | daymade/claude-code-skills | Automated repository environment configuration, fault diagnosis, and repair for non-technical users. When someone clones a repo and says 'it won't ... | None | 1.0.0 |
 | [bigdata-skill](https://github.com/daymade/claude-code-skills/tree/main/bigdata-skill) | daymade/claude-code-skills | Pull Bigdata.com (RavenPack) financial and news data through the official bigdata-client Python SDK and its /v1/* REST endpoints when the Bigdata M... | None | 1.0.0 |
 | [cli-demo-generator](https://github.com/daymade/claude-code-skills/tree/main/cli-demo-generator) | daymade/claude-code-skills | Generate professional animated CLI demos and terminal recordings with VHS. Supports automated generation, batch processing, and interactive recordi... | None | 1.0.0 |
@@ -1024,6 +1025,7 @@ Last updated: 2026-06-01 10:25 UTC
 | [multimodel](https://github.com/MadAppGang/claude-code/tree/main/plugins/multimodel) | mag-claude-plugins | Multi-model collaboration, orchestration, and workflow patterns. v2.4.1: Updated for claudish v4.5.1 (--agent flag removed). Hook logging simplifie... | Jack Rudenko | 2.4.1 |
 | [netlify-skills](https://github.com/netlify/context-and-tools.git) | anthropics/claude-plugins-official | Netlify platform skills for Claude Code — functions, edge functions, blobs, database, image CDN, forms, config, CLI, frameworks, caching, AI gatewa... | None | 1.0.0 |
 | [netsuite-suitecloud](https://github.com/oracle/netsuite-suitecloud-sdk.git) | anthropics/claude-plugins-official | NetSuite agent skills from Oracle — authoring guidance for SuiteCloud Development Framework (SDF) objects and UIF single-page-app components, plus ... | Oracle NetSuite | 1.0.0 |
+| [nvidia-skills](https://github.com/NVIDIA/skills.git) | anthropics/claude-plugins-official | NVIDIA agent skills for accelerated-computing workflows — starting with cuOpt vehicle-routing optimization (VRP, TSP, PDP) via the cuOpt Python API. | NVIDIA | 1.0.0 |
 | [ocaml-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/ocaml-lsp) | Piebald-AI/claude-code-lsps | OCaml language server (ocaml-lsp-server) | yousleepwhen | 0.1.0 |
 | [omnisharp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/omnisharp) | Piebald-AI/claude-code-lsps | Official .NET language server with rich C# support | Piebald LLC | 0.1.0 |
 | [oracle-ai-data-platform-workbench-spark-connectors](https://github.com/oracle-samples/oracle-aidp-samples.git) | anthropics/claude-plugins-official | Oracle AI Data Platform Workbench Spark connectors for Claude Code. 18 connector skills covering every data source workbench customers commonly nee... | Oracle | 1.0.0 |
@@ -1067,6 +1069,7 @@ Last updated: 2026-06-01 10:25 UTC
 | [sumup](https://github.com/sumup/sumup-skills.git) | anthropics/claude-plugins-official | SumUp payment integrations across terminal and online checkout flows. Build Android and iOS POS apps with SumUp card readers, online checkout with ... | None | 1.0.0 |
 | [superpowers](https://github.com/obra/superpowers.git) | anthropics/claude-plugins-official | Superpowers teaches Claude brainstorming, subagent driven development with built in code review, systematic debugging, and red/green TDD. Additiona... | None | 1.0.0 |
 | [svelte-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/svelte) | Piebald-AI/claude-code-lsps | Svelte language server integration | RaviTharuma | 0.1.0 |
+| [swift-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/swift-lsp) | Piebald-AI/claude-code-lsps | Swift and Objective-C language server (sourcekit-lsp, macOS/Xcode) | Piebald LLC | 0.1.0 |
 | [swift-lsp](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/swift-lsp) | anthropics/claude-plugins-official | Swift language server (SourceKit-LSP) for code intelligence | Anthropic | 1.0.0 |
 | [teamcity-cli](https://github.com/JetBrains/teamcity-cli.git) | anthropics/claude-plugins-official | Agent skill for interacting with TeamCity CI/CD using the teamcity CLI. Enables Claude to explore builds, view logs, start jobs, manage queues, age... | JetBrains | 1.0.0 |
 | [terraform](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/terraform) | anthropics/claude-plugins-official | The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infr... | HashiCorp | 1.0.0 |
