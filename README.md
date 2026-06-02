@@ -287,6 +287,7 @@ Last updated: 2026-06-01 23:05 UTC
 | [enterprise-security-reviewer](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/enterprise-security-reviewer) | awesome-claude-code-plugins | Use this agent for comprehensive B2B security assessments, enterprise compliance validation, multi-tenant security reviews, and security audit prep... | Alysson Franklin | 1.0.0 |
 | [legal-advisor](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/legal-advisor) | awesome-claude-code-plugins | Use this agent when you need legal advisory, compliance documentation, RFP response creation, and enterprise contract support for B2B applications.... | Alysson Franklin | 1.0.0 |
 | [legal-compliance-checker](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/legal-compliance-checker) | awesome-claude-code-plugins | Use this agent when reviewing terms of service, privacy policies, ensuring regulatory compliance, or handling legal requirements. This agent excels... | Michael Galpert | 1.0.0 |
+| [authsome](https://github.com/agentrhq/authsome) | agentrhq/authsome | Local credential broker for AI agents. Log in once via OAuth2 or API key, encrypted local vault and a loopback HTTPS proxy inject credentials into outbound provider requests so the agent's process env never holds raw secrets. 45 providers bundled. Install via `/plugin marketplace add agentrhq/authsome` then `/plugin install authsome@authsome`. | Agentr | 0.3.2 |
 
 ## Uncategorized
 
