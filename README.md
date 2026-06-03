@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 79 | Total Plugins: 1231
 
-Last updated: 2026-06-03 04:47 UTC
+Last updated: 2026-06-03 09:57 UTC
 
 ## Installation
 
@@ -219,7 +219,7 @@ Last updated: 2026-06-03 04:47 UTC
 | [documentation-generator](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/documentation-generator) | awesome-claude-code-plugins | Create comprehensive documentation for code, APIs, and projects. | Anonymous | 1.0.0 |
 | [generate-api-docs](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/generate-api-docs) | awesome-claude-code-plugins | Generate API documentation for endpoints |  Anand Tyagi | 1.0.0 |
 | [openapi-expert](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/openapi-expert) | awesome-claude-code-plugins | Use this agent to update, synchronize, or validate the OpenAPI specification (openapi.yml) against the actual REST API implementation. This include... | Meiring de Wet | 1.0.0 |
-| [update-claudemd](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | Automatically update CLAUDE.md file based on recent code changes |  Anand Tyagi | 1.0.0 |
+| [update-claudemd](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/update-claudemd) | awesome-claude-code-plugins | Automatically update CLAUDE.md file based on recent code changes |  Anand Tyagi | 1.0.0 |
 
 ## Git Workflow
 
