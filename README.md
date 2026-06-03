@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 79 | Total Plugins: 1231
+Total Marketplaces: 79 | Total Plugins: 1232
 
-Last updated: 2026-06-03 14:52 UTC
+Last updated: 2026-06-03 18:49 UTC
 
 ## Installation
 
@@ -1485,6 +1485,7 @@ Last updated: 2026-06-03 14:52 UTC
 | [intercom](https://github.com/intercom/claude-plugin-external.git) | anthropics/claude-plugins-official | Intercom integration for Claude Code. Search conversations, analyze customer support patterns, look up contacts and companies, and install the Inte... | None | 1.0.0 |
 | [legalzoom](https://github.com/legalzoom/claude-plugins.git) | anthropics/claude-plugins-official | Attorney guidance and legal tools for business and personal needs. AI-powered document review identifies critical risks and important clauses, advi... | None | 1.0.0 |
 | [linear](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/linear) | anthropics/claude-plugins-official | Linear issue tracking integration. Create issues, manage projects, update statuses, search across workspaces, and streamline your software developm... | None | 1.0.0 |
+| [lusha](https://github.com/lusha-oss/lusha-mcp-plugin.git) | anthropics/claude-plugins-official | Prospect, enrich, and build call-ready lead lists using Lusha's B2B intelligence platform — verified phone numbers, company signals, and lookalike ... | Lusha | 1.0.0 |
 | [navigating-github](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/navigating-github) | claude-code-plugins-plus | First-time GitHub setup and interactive git learning. Walks users from zero to a working GitHub repo, then teaches git through 9 hands-on lessons o... | Jeremy Longshore | 2.0.0 |
 | [neurodivergent-visual-org](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/neurodivergent-visual-org) | claude-code-plugins-plus | Create ADHD-friendly visual organizational tools (Mermaid diagrams) optimized for neurodivergent thinking patterns with accessibility modes | Jack Reis | 3.1.1 |
 | [notion](https://github.com/makenotion/claude-code-notion-plugin.git) | anthropics/claude-plugins-official | Notion workspace integration. Search pages, create and update documents, manage databases, and access your team's knowledge base directly from Clau... | None | 1.0.0 |
@@ -1540,7 +1541,7 @@ Last updated: 2026-06-03 14:52 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [research-co-pilot](https://github.com/Marazii/research-co-pilot/tree/main/) | Marazii/research-co-pilot | Comprehensive research co-pilot — literature review, methodology, ethics review, data analysis, qualitative coding, brainstorming, manuscript draft... | None | 0.10.0 |
+| [research-co-pilot](https://github.com/Marazii/research-co-pilot/tree/main/) | Marazii/research-co-pilot | Comprehensive research co-pilot — literature review, methodology, ethics review, data analysis, qualitative coding, brainstorming, manuscript draft... | None | 0.11.1 |
 
 ## saas-packs
 
