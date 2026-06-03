@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 79 | Total Plugins: 1232
+Total Marketplaces: 79 | Total Plugins: 1234
 
-Last updated: 2026-06-03 18:49 UTC
+Last updated: 2026-06-03 21:53 UTC
 
 ## Installation
 
@@ -1443,6 +1443,7 @@ Last updated: 2026-06-03 18:49 UTC
 | [agent-context-manager](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/agent-context-manager) | claude-code-plugins-plus | Automatically detects and loads AGENTS.md files to provide agent-specific instructions | Jeremy Longshore | 1.0.0 |
 | [ai-commit-gen](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/ai-commit-gen) | claude-code-plugins-plus | AI-powered commit message generator - analyzes your git diff and creates conventional commit messages instantly | Jeremy Longshore | 1.0.0 |
 | [airtable](https://github.com/Airtable/skills.git) | anthropics/claude-plugins-official | Airtable is the database and operations layer for your agents — whether running product, marketing, sales, ops, HR, or a custom business app. It co... | Airtable | 1.0.0 |
+| [airwallex](https://github.com/airwallex/airwallex-marketplace.git) | anthropics/claude-plugins-official | Airwallex CLI plugin for Claude — skills for payments, billing, invoicing, beneficiary creation, card provisioning, and cashflow management. | Airwallex | 1.0.0 |
 | [apollo](https://github.com/apolloio/apollo-mcp-plugin.git) | anthropics/claude-plugins-official | Prospect, enrich leads, load outreach sequences, and query sales analytics with Apollo.io — one-click MCP server integration for Claude Code and Co... | Apollo.io | 1.0.0 |
 | [asana](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/asana) | anthropics/claude-plugins-official | Asana project management integration. Create and manage tasks, search projects, update assignments, track progress, and integrate your development ... | None | 1.0.0 |
 | [atlassian](https://github.com/atlassian/atlassian-mcp-server.git) | anthropics/claude-plugins-official | Connect to Atlassian products including Jira and Confluence. Search and create issues, access documentation, manage sprints, and integrate your dev... | None | 1.0.0 |
@@ -1541,7 +1542,7 @@ Last updated: 2026-06-03 18:49 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [research-co-pilot](https://github.com/Marazii/research-co-pilot/tree/main/) | Marazii/research-co-pilot | Comprehensive research co-pilot — literature review, methodology, ethics review, data analysis, qualitative coding, brainstorming, manuscript draft... | None | 0.11.1 |
+| [research-co-pilot](https://github.com/Marazii/research-co-pilot/tree/main/) | Marazii/research-co-pilot | Comprehensive research co-pilot — literature review, methodology, ethics review, data analysis, qualitative coding, brainstorming, manuscript draft... | None | 0.11.3 |
 
 ## saas-packs
 
@@ -1703,6 +1704,7 @@ Last updated: 2026-06-03 18:49 UTC
 | [sonatype-guide](https://github.com/sonatype/sonatype-guide-claude-plugin.git) | anthropics/claude-plugins-official | Sonatype Guide MCP server for software supply chain intelligence and dependency security. Analyze dependencies for vulnerabilities, get secure vers... | None | 1.0.0 |
 | [sql-injection-detector](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/sql-injection-detector) | claude-code-plugins-plus | Detect SQL injection vulnerabilities | Jeremy Longshore | 1.0.0 |
 | [ssl-certificate-manager](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/ssl-certificate-manager) | claude-code-plugins-plus | Manage and monitor SSL/TLS certificates | Jeremy Longshore | 1.0.0 |
+| [vanta](https://github.com/VantaInc/vanta-mcp-plugin.git) | anthropics/claude-plugins-official | The Vanta plugin connects Claude Code to Vanta's security and compliance platform through the Vanta MCP server. It combines Vanta's test-specific r... | Vanta | 1.0.0 |
 | [vanta-mcp-plugin](https://github.com/VantaInc/vanta-mcp-plugin.git) | anthropics/claude-plugins-official | The Vanta plugin connects Claude Code to Vanta's security and compliance platform through the Vanta MCP server. It combines Vanta's test-specific r... | Vanta | 1.0.0 |
 | [vulnerability-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/vulnerability-scanner) | claude-code-plugins-plus | Comprehensive vulnerability scanning for code, dependencies, and configurations with CVE detection | Jeremy Longshore | 1.0.0 |
 | [workos](https://github.com/workos/skills.git) | anthropics/claude-plugins-official | WorkOS integration skills for AuthKit, SSO, Directory Sync, RBAC, Vault, Audit Logs, migrations, and API references. | WorkOS | 1.0.0 |
