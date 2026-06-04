@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 79 | Total Plugins: 1234
+Total Marketplaces: 79 | Total Plugins: 1235
 
-Last updated: 2026-06-04 16:22 UTC
+Last updated: 2026-06-04 19:25 UTC
 
 ## Installation
 
@@ -900,6 +900,7 @@ Last updated: 2026-06-04 16:22 UTC
 | [cloudflare](https://github.com/cloudflare/skills.git) | anthropics/claude-plugins-official | Skills for the Cloudflare developer platform: Workers, Durable Objects, Agents SDK, MCP servers, Wrangler CLI, and web performance. | None | 1.0.0 |
 | [deploy-on-aws](https://github.com/awslabs/agent-plugins.git) | anthropics/claude-plugins-official | Deploy applications to AWS with architecture recommendations, cost estimates, and IaC deployment. | None | 1.0.0 |
 | [railway](https://github.com/railwayapp/railway-skills.git) | anthropics/claude-plugins-official | Deploy and manage apps, databases, and infrastructure on Railway. Covers project setup, deploys, environment configuration, networking, troubleshoo... | None | 1.0.0 |
+| [valtown](https://github.com/val-town/plugins.git) | anthropics/claude-plugins-official | Build and deploy on Val Town. Bundles the Val Town MCP server and platform skills (HTTP vals, cron/intervals, SQLite, email, OAuth, React UI, third... | Val Town | 1.0.0 |
 | [vercel](https://github.com/vercel/vercel-plugin.git) | anthropics/claude-plugins-official | Vercel deployment platform integration. Manage deployments, check build status, access logs, configure domains, and control your frontend infrastru... | None | 1.0.0 |
 
 ## design
@@ -1542,7 +1543,7 @@ Last updated: 2026-06-04 16:22 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [research-co-pilot](https://github.com/Marazii/research-co-pilot/tree/main/) | Marazii/research-co-pilot | Comprehensive research co-pilot — literature review, methodology, ethics review, data analysis, qualitative coding, brainstorming, manuscript draft... | None | 0.11.3 |
+| [research-co-pilot](https://github.com/Marazii/research-co-pilot/tree/main/) | Marazii/research-co-pilot | Comprehensive research co-pilot — literature review, methodology, ethics review, data analysis, qualitative coding, brainstorming, manuscript draft... | None | 0.11.4 |
 
 ## saas-packs
 
@@ -1802,7 +1803,7 @@ Last updated: 2026-06-04 16:22 UTC
 | [code-refactoring](https://github.com/wshobson/agents/tree/main/plugins/code-refactoring) | claude-code-workflows | Code cleanup, refactoring automation, and technical debt management with context restoration | Seth Hobson | 1.2.1 |
 | [dependency-management](https://github.com/wshobson/agents/tree/main/plugins/dependency-management) | claude-code-workflows | Dependency auditing, version management, and security vulnerability scanning | Seth Hobson | 1.2.1 |
 | [error-debugging](https://github.com/wshobson/agents/tree/main/plugins/error-debugging) | claude-code-workflows | Error analysis, trace debugging, and multi-agent problem diagnosis | Seth Hobson | 1.2.1 |
-| [macos-cleaner](https://github.com/daymade/claude-code-skills/tree/main/macos-cleaner) | daymade/claude-code-skills | Intelligent macOS disk space analysis and cleanup with safety-first philosophy. Use when users report disk space issues, need to clean their Mac, o... | None | 1.1.0 |
+| [macos-cleaner](https://github.com/daymade/claude-code-skills/tree/main/macos-cleaner) | daymade/claude-code-skills | Intelligent macOS disk space analysis and cleanup with safety-first philosophy. Use when users report disk space issues, need to clean their Mac, o... | None | 1.1.1 |
 | [repomix-unmixer](https://github.com/daymade/claude-code-skills/tree/main/repomix-unmixer) | daymade/claude-code-skills | Extract files from repomix packaged formats (XML, Markdown, JSON) with automatic format detection and validation | None | 1.0.0 |
 | [team-collaboration](https://github.com/wshobson/agents/tree/main/plugins/team-collaboration) | claude-code-workflows | Team workflows, issue management, standup automation, and developer experience optimization | Seth Hobson | 1.2.1 |
 | [twitter-reader](https://github.com/daymade/claude-code-skills/tree/main/twitter-reader) | daymade/claude-code-skills | Fetch Twitter/X post content including long-form Articles with full images and metadata. Use when Claude needs to retrieve tweet/article content, a... | None | 1.1.0 |
