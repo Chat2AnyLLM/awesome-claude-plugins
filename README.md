@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 79 | Total Plugins: 1234
 
-Last updated: 2026-06-04 12:05 UTC
+Last updated: 2026-06-04 16:22 UTC
 
 ## Installation
 
@@ -971,7 +971,7 @@ Last updated: 2026-06-04 12:05 UTC
 | [aws-data-analytics](https://github.com/aws/agent-toolkit-for-aws.git) | anthropics/claude-plugins-official | Data lake, analytics, and ETL workflows with S3 Tables, AWS Glue, and Athena. | Amazon Web Services | 1.0.0 |
 | [aws-dev-toolkit](https://github.com/aws-samples/sample-claude-code-plugins-for-startups.git) | anthropics/claude-plugins-official | AWS development toolkit — 34 skills, 11 agents, and 3 MCP servers for building, migrating, and performing architecture reviews on AWS. | aws-samples | 1.0.0 |
 | [aws-serverless](https://github.com/awslabs/agent-plugins.git) | anthropics/claude-plugins-official | Design, build, deploy, test, and debug serverless applications with AWS Serverless services. | None | 1.0.0 |
-| [aws-startup-advisor](https://github.com/awslabs/startups.git) | anthropics/claude-plugins-official | Skills for startups building on AWS: an Activate knowledge base (FAQ, credits, programs, partner offers, sample architectures, 277+ learn articles)... | Amazon Web Services | 1.0.0 |
+| [aws-startup-advisor](https://github.com/awslabs/startups.git) | anthropics/claude-plugins-official | Personalized architecture, cost, security, and migration guidance for startups. From day-one account setup and security baselines to production-rea... | Amazon Web Services | 1.0.0 |
 | [backend-development](https://github.com/wshobson/agents/tree/main/plugins/backend-development) | claude-code-workflows | Backend API design, GraphQL architecture, workflow orchestration with Temporal, and test-driven backend development | Seth Hobson | 1.3.2 |
 | [base44](https://github.com/base44/skills.git) | anthropics/claude-plugins-official | Build and deploy Base44 full-stack apps with CLI project management and JavaScript/TypeScript SDK development skills | None | 1.0.0 |
 | [basedpyright](https://github.com/Piebald-AI/claude-code-lsps/tree/main/basedpyright) | Piebald-AI/claude-code-lsps | Python language server using basedpyright with stricter type checking | Tyler Laprade | 0.1.0 |
@@ -1820,7 +1820,7 @@ Last updated: 2026-06-04 12:05 UTC
 |--------|-------------|-------------|--------|---------|
 | [claude-desktop-extension](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/claude-desktop-extension) | cc-marketplace | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
 | [conductor](https://github.com/MadAppGang/claude-code/tree/main/plugins/conductor) | mag-claude-plugins | Context-Driven Development workflow inspired by Gemini Conductor. v2.1.0: Added explicit name: fields to commands for prefix-free invocation. Full-... | Jack Rudenko | 2.1.0 |
-| [ecc](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | Harness-native ECC operator layer - 63 agents, 249 skills, 79 legacy command shims, reusable hooks, rules, selective install profiles, and producti... | Affaan Mustafa | 2.0.0-rc.1 |
+| [ecc](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | Harness-native ECC operator layer - 63 agents, 251 skills, 79 legacy command shims, reusable hooks, rules, selective install profiles, and producti... | Affaan Mustafa | 2.0.0-rc.1 |
 | [lyra](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/lyra) | cc-marketplace | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
 | [sugar](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/sugar) | cc-marketplace | Transform Claude Code into an autonomous AI development powerhouse with rich task context, specialized agents, and intelligent workflow automation | Steven Leggett | 2.0.0 |
 
