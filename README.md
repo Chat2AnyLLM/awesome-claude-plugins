@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 79 | Total Plugins: 1235
 
-Last updated: 2026-06-05 04:16 UTC
+Last updated: 2026-06-05 08:46 UTC
 
 ## Installation
 
@@ -1256,7 +1256,7 @@ Last updated: 2026-06-05 04:16 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | Xquik-dev/x-twitter-scraper | 100+ REST API endpoints, 2 MCP tools, 23 extraction types. Tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, tren... | Xquik | 2.4.15 |
+| [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | Xquik-dev/x-twitter-scraper | 100+ REST API endpoints, 2 MCP tools, 23 extraction types. Tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, tren... | Xquik | 2.4.16 |
 
 ## knowledge-management
 
