@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 79 | Total Plugins: 1235
+Total Marketplaces: 79 | Total Plugins: 1245
 
-Last updated: 2026-06-05 18:59 UTC
+Last updated: 2026-06-05 20:51 UTC
 
 ## Installation
 
@@ -835,11 +835,15 @@ Last updated: 2026-06-05 18:59 UTC
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
 | [alloydb](https://github.com/gemini-cli-extensions/alloydb.git) | anthropics/claude-plugins-official | Create, connect, and interact with an AlloyDB for PostgreSQL database and data. | Google LLC | 1.0.0 |
+| [alloydb-omni](https://github.com/gemini-cli-extensions/alloydb-omni.git) | anthropics/claude-plugins-official | Create, connect, and interact with an AlloyDB Omni database and data. | Google LLC | 1.0.0 |
 | [azure-cosmos-db-assistant](https://github.com/AzureCosmosDB/cosmosdb-claude-code-plugin.git) | anthropics/claude-plugins-official | Expert assistant for Azure Cosmos DB — data modeling, query optimization, performance tuning, and best practices. | None | 1.0.0 |
 | [bigdata-com](https://github.com/Bigdata-com/bigdata-plugins-marketplace.git) | anthropics/claude-plugins-official | Official Bigdata.com plugin providing financial research, analytics, and intelligence tools powered by Bigdata MCP. | RavenPack | 1.0.0 |
+| [bigquery-data-analytics](https://github.com/gemini-cli-extensions/bigquery-data-analytics.git) | anthropics/claude-plugins-official | Connect, query, and generate data insights for BigQuery datasets and data. | Google LLC | 1.0.0 |
 | [clickhouse](https://github.com/ClickHouse/clickhouse-claude-code-plugin.git) | anthropics/claude-plugins-official | Connect Claude to your ClickHouse Cloud databases. Browse organizations, services, databases, and table schemas. Run read-only SQL queries against ... | ClickHouse | 1.0.0 |
 | [clickhouse-best-practices](https://github.com/ClickHouse/agent-skills.git) | anthropics/claude-plugins-official | 28 best practice rules for ClickHouse schema design, query optimization, and data ingestion — prioritized by impact | ClickHouse Inc | 1.0.0 |
+| [cloud-sql-mysql](https://github.com/gemini-cli-extensions/cloud-sql-mysql.git) | anthropics/claude-plugins-official | Connect and interact with a Cloud SQL for MySQL database and data. | Google LLC | 1.0.0 |
 | [cloud-sql-postgresql](https://github.com/gemini-cli-extensions/cloud-sql-postgresql.git) | anthropics/claude-plugins-official | Create, connect, and interact with a Cloud SQL for PostgreSQL database and data. | Google LLC | 1.0.0 |
+| [cloud-sql-sqlserver](https://github.com/gemini-cli-extensions/cloud-sql-sqlserver.git) | anthropics/claude-plugins-official | Connect to Cloud SQL for SQL Server | Google LLC | 1.0.0 |
 | [cockroachdb](https://github.com/cockroachdb/claude-plugin.git) | anthropics/claude-plugins-official | Connect Claude Code directly to your CockroachDB clusters for hands-on database work — explore schemas, write optimized SQL, debug queries, and man... | Cockroach Labs | 1.0.0 |
 | [convex](https://github.com/get-convex/convex-backend-skill.git) | anthropics/claude-plugins-official | Official Convex plugin for Claude Code with bundled Convex skills, the convex-expert subagent for code-writing, a runtime-error monitor, and MCP ac... | Convex | 1.0.0 |
 | [data-seeder-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/data-seeder-generator) | claude-code-plugins-plus | Generate realistic test data and database seed scripts for development and testing environments | Jeremy Longshore | 1.0.0 |
@@ -866,19 +870,25 @@ Last updated: 2026-06-05 18:59 UTC
 | [database-transaction-monitor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/database-transaction-monitor) | claude-code-plugins-plus | Database plugin for database-transaction-monitor | Jeremy Longshore | 1.0.0 |
 | [databases-on-aws](https://github.com/awslabs/agent-plugins.git) | anthropics/claude-plugins-official | Expert database guidance for the AWS database portfolio. Design schemas, execute queries, handle migrations, and choose the right database for your... | None | 1.0.0 |
 | [datahub-skills](https://github.com/datahub-project/datahub-skills.git) | anthropics/claude-plugins-official | DataHub development and interaction toolkit with connector planning, PR review, catalog search, metadata enrichment, lineage tracing, data quality ... | DataHub | 1.0.0 |
+| [dataproc](https://github.com/gemini-cli-extensions/dataproc.git) | anthropics/claude-plugins-official | Manage Dataproc clusters and jobs. | Google LLC | 1.0.0 |
 | [dataverse](https://github.com/microsoft/Dataverse-skills.git) | anthropics/claude-plugins-official | Agent skills for building on, analyzing, and managing Microsoft Dataverse — with Dataverse MCP, PAC CLI, and Python SDK. | None | 1.0.0 |
 | [duckdb-skills](https://github.com/duckdb/duckdb-skills.git) | anthropics/claude-plugins-official | DuckDB-powered skills for Claude Code: read any data file, attach and query DuckDB databases, search DuckDB/DuckLake docs, search past session logs... | DuckDB Foundation | 1.0.0 |
 | [firebase](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/firebase) | anthropics/claude-plugins-official | Google Firebase MCP integration. Manage Firestore databases, authentication, cloud functions, hosting, and storage. Build and manage your Firebase ... | None | 1.0.0 |
+| [firestore-native](https://github.com/gemini-cli-extensions/firestore-native.git) | anthropics/claude-plugins-official | Connect and interact with Firestore databases, collections, and documents. | Google LLC | 1.0.0 |
 | [freshie-inventory-manager](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/freshie-inventory-manager) | claude-code-plugins-plus | Interactive command center for the freshie ecosystem inventory database — conversational wizard with subagents for discovery scans, compliance grad... | Jeremy Longshore | 1.0.0 |
+| [knowledge-catalog](https://github.com/gemini-cli-extensions/knowledge-catalog.git) | anthropics/claude-plugins-official | Connect to Knowledge Catalog to discover, manage, monitor, and govern data and AI artifacts across your data platform | Google LLC | 1.0.0 |
+| [looker](https://github.com/gemini-cli-extensions/looker.git) | anthropics/claude-plugins-official | Connect to Looker and interact with your data using LookML. | Google LLC | 1.0.0 |
 | [mongodb](https://github.com/mongodb/agent-skills.git) | anthropics/claude-plugins-official | Official Claude plugin for MongoDB (MCP Server + Skills). Connect to databases, explore data, manage collections, optimize queries, generate reliab... | None | 1.0.0 |
 | [neon](https://github.com/neondatabase/agent-skills.git) | anthropics/claude-plugins-official | Manage your Neon projects and databases with the neon-postgres agent skill and the Neon MCP Server. | None | 1.0.0 |
 | [nosql-data-modeler](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/nosql-data-modeler) | claude-code-plugins-plus | Database plugin for nosql-data-modeler | Jeremy Longshore | 1.0.0 |
+| [oracledb](https://github.com/gemini-cli-extensions/oracledb.git) | anthropics/claude-plugins-official | Connect, query, and interact with Oracle Databases and their data. | Google LLC | 1.0.0 |
 | [orm-code-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/orm-code-generator) | claude-code-plugins-plus | Generate ORM models from database schemas or create database schemas from models for TypeORM, Prisma, Sequelize, SQLAlchemy, and more | Jeremy Longshore | 1.0.0 |
 | [pinecone](https://github.com/pinecone-io/pinecone-claude-code-plugin.git) | anthropics/claude-plugins-official | Pinecone vector database integration. Streamline your Pinecone development with powerful tools for managing vector indexes, querying data, and rapi... | None | 1.0.0 |
 | [planetscale](https://github.com/planetscale/claude-plugin.git) | anthropics/claude-plugins-official | An authenticated hosted MCP server that accesses your PlanetScale organizations, databases, branches, schema, and Insights data. Query against your... | None | 1.0.0 |
 | [qdrant-skills](https://github.com/qdrant/skills.git) | anthropics/claude-plugins-official | Agent skills for Qdrant vector search covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version ... | Qdrant | 1.0.0 |
 | [query-performance-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/query-performance-analyzer) | claude-code-plugins-plus | Analyze query performance with EXPLAIN plan interpretation, bottleneck identification, and optimization recommendations | Jeremy Longshore | 1.0.0 |
 | [redis-development](https://github.com/redis/agent-skills.git) | anthropics/claude-plugins-official | Redis development best practices — data structures, query engine, vector search, caching, and performance optimization | Redis | 1.0.0 |
+| [spanner](https://github.com/gemini-cli-extensions/spanner.git) | anthropics/claude-plugins-official | Connect and interact with Spanner data using natural language. | Google LLC | 1.0.0 |
 | [sql-query-optimizer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/sql-query-optimizer) | claude-code-plugins-plus | Analyze and optimize SQL queries for better performance, suggesting indexes, query rewrites, and execution plan improvements | Jeremy Longshore | 1.0.0 |
 | [stored-procedure-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/stored-procedure-generator) | claude-code-plugins-plus | Database plugin for stored-procedure-generator | Jeremy Longshore | 1.0.0 |
 | [supabase](https://github.com/supabase-community/supabase-plugin.git) | anthropics/claude-plugins-official | Supabase MCP integration for database operations, authentication, storage, and real-time subscriptions. Manage your Supabase projects, run SQL quer... | None | 1.0.0 |
