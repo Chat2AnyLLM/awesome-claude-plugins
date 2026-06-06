@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 79 | Total Plugins: 1246
 
-Last updated: 2026-06-06 18:11 UTC
+Last updated: 2026-06-06 20:13 UTC
 
 ## Installation
 
@@ -947,7 +947,7 @@ Last updated: 2026-06-06 18:11 UTC
 | [bigdata-skill](https://github.com/daymade/claude-code-skills/tree/main/bigdata-skill) | daymade/claude-code-skills | Pull Bigdata.com (RavenPack) financial and news data through the official bigdata-client Python SDK and its /v1/* REST endpoints when the Bigdata M... | None | 1.0.0 |
 | [cli-demo-generator](https://github.com/daymade/claude-code-skills/tree/main/cli-demo-generator) | daymade/claude-code-skills | Generate professional animated CLI demos and terminal recordings with VHS. Supports automated generation, batch processing, and interactive recordi... | None | 1.0.0 |
 | [cloudflare-troubleshooting](https://github.com/daymade/claude-code-skills/tree/main/cloudflare-troubleshooting) | daymade/claude-code-skills | Investigate and resolve Cloudflare configuration issues using API-driven evidence gathering. Use when troubleshooting ERR_TOO_MANY_REDIRECTS, SSL e... | None | 1.0.1 |
-| [debugging-network-issues](https://github.com/daymade/claude-code-skills/tree/main/debugging-network-issues) | daymade/claude-code-skills | Evidence-driven investigation for network, streaming, and protocol-layer bugs. Use when debugging connection resets, SSE or long-polling stalls, fi... | None | 1.0.1 |
+| [debugging-network-issues](https://github.com/daymade/claude-code-skills/tree/main/debugging-network-issues) | daymade/claude-code-skills | Evidence-driven investigation for network, streaming, and protocol-layer bugs. Use when debugging connection resets, SSE or long-polling stalls, fi... | None | 1.1.0 |
 | [gangtise-copilot](https://github.com/daymade/claude-code-skills/tree/main/gangtise-copilot) | daymade/claude-code-skills | One-stop installer and companion for the full Gangtise (岗底斯投研) OpenAPI skill suite — 19 official skills covering data retrieval (OHLC 行情, 财务, 估值, 研... | None | 1.2.0 |
 | [github-contributor](https://github.com/daymade/claude-code-skills/tree/main/github-contributor) | daymade/claude-code-skills | Strategic guide for becoming an effective GitHub contributor. Covers opportunity discovery, project selection, high-quality PR creation, and reputa... | None | 1.1.0 |
 | [github-ops](https://github.com/daymade/claude-code-skills/tree/main/github-ops) | daymade/claude-code-skills | Comprehensive GitHub operations using gh CLI and GitHub API for pull requests, issues, repositories, workflows, and API interactions | None | 1.0.0 |
@@ -958,7 +958,7 @@ Last updated: 2026-06-06 18:11 UTC
 | [qa-expert](https://github.com/daymade/claude-code-skills/tree/main/qa-expert) | daymade/claude-code-skills | Comprehensive QA testing infrastructure with autonomous LLM execution, Google Testing Standards (AAA pattern), and OWASP security testing. Use when... | None | 1.0.0 |
 | [scrapling-skill](https://github.com/daymade/claude-code-skills/tree/main/scrapling-skill) | daymade/claude-code-skills | Install, troubleshoot, and use Scrapling CLI for extracting HTML, Markdown, or text from webpages. Diagnoses missing extras, Playwright browser run... | None | 1.0.0 |
 | [terraform-skill](https://github.com/daymade/claude-code-skills/tree/main/terraform-skill) | daymade/claude-code-skills | Operational traps for Terraform provisioners, multi-environment isolation, and zero-to-deployment reliability. Covers provisioner timing races, SSH... | None | 1.0.0 |
-| [tunnel-doctor](https://github.com/daymade/claude-code-skills/tree/main/tunnel-doctor) | daymade/claude-code-skills | Diagnoses and fixes conflicts between Tailscale and proxy/VPN tools (Shadowrocket, Clash, Surge) on macOS. Covers six conflict layers: route hijack... | None | 1.5.2 |
+| [tunnel-doctor](https://github.com/daymade/claude-code-skills/tree/main/tunnel-doctor) | daymade/claude-code-skills | Diagnoses and fixes conflicts between Tailscale and proxy/VPN tools (Shadowrocket, Clash, Surge) on macOS. Covers six conflict layers: route hijack... | None | 1.6.0 |
 | [windows-remote-desktop-connection-doctor](https://github.com/daymade/claude-code-skills/tree/main/windows-remote-desktop-connection-doctor) | daymade/claude-code-skills | Diagnose Windows App (Microsoft Remote Desktop / Azure Virtual Desktop / W365) connection quality issues on macOS. Analyze transport protocol selec... | None | 1.0.1 |
 
 ## development
