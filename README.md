@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 79 | Total Plugins: 1245
+Total Marketplaces: 79 | Total Plugins: 1246
 
-Last updated: 2026-06-06 16:11 UTC
+Last updated: 2026-06-06 18:11 UTC
 
 ## Installation
 
@@ -958,7 +958,7 @@ Last updated: 2026-06-06 16:11 UTC
 | [qa-expert](https://github.com/daymade/claude-code-skills/tree/main/qa-expert) | daymade/claude-code-skills | Comprehensive QA testing infrastructure with autonomous LLM execution, Google Testing Standards (AAA pattern), and OWASP security testing. Use when... | None | 1.0.0 |
 | [scrapling-skill](https://github.com/daymade/claude-code-skills/tree/main/scrapling-skill) | daymade/claude-code-skills | Install, troubleshoot, and use Scrapling CLI for extracting HTML, Markdown, or text from webpages. Diagnoses missing extras, Playwright browser run... | None | 1.0.0 |
 | [terraform-skill](https://github.com/daymade/claude-code-skills/tree/main/terraform-skill) | daymade/claude-code-skills | Operational traps for Terraform provisioners, multi-environment isolation, and zero-to-deployment reliability. Covers provisioner timing races, SSH... | None | 1.0.0 |
-| [tunnel-doctor](https://github.com/daymade/claude-code-skills/tree/main/tunnel-doctor) | daymade/claude-code-skills | Diagnoses and fixes conflicts between Tailscale and proxy/VPN tools (Shadowrocket, Clash, Surge) on macOS. Covers six conflict layers: route hijack... | None | 1.5.1 |
+| [tunnel-doctor](https://github.com/daymade/claude-code-skills/tree/main/tunnel-doctor) | daymade/claude-code-skills | Diagnoses and fixes conflicts between Tailscale and proxy/VPN tools (Shadowrocket, Clash, Surge) on macOS. Covers six conflict layers: route hijack... | None | 1.5.2 |
 | [windows-remote-desktop-connection-doctor](https://github.com/daymade/claude-code-skills/tree/main/windows-remote-desktop-connection-doctor) | daymade/claude-code-skills | Diagnose Windows App (Microsoft Remote Desktop / Azure Virtual Desktop / W365) connection quality issues on macOS. Analyze transport protocol selec... | None | 1.0.1 |
 
 ## development
@@ -1173,6 +1173,7 @@ Last updated: 2026-06-06 16:11 UTC
 | [documentation-generator](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/documentation-generator) | cc-marketplace | Create comprehensive documentation for code, APIs, and projects. | Anonymous | 1.0.0 |
 | [documentation-standards](https://github.com/wshobson/agents/tree/main/plugins/documentation-standards) | claude-code-workflows | HADS (Human-AI Document Standard) — semantic tagging convention for writing docs that work efficiently for both humans and AI models. Reduces token... | Niksa Barlovic | 1.0.1 |
 | [generate-api-docs](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/generate-api-docs) | cc-marketplace | Generate API documentation for endpoints |  Anand Tyagi | 1.0.0 |
+| [llm-wiki-setup](https://github.com/daymade/claude-code-skills/tree/main/llm-wiki-setup) | daymade/claude-code-skills | Co-create a personal investment-research LLM Wiki (Andrej Karpathy's pattern) where the user's OWN analysis framework becomes a living CLAUDE.md — ... | None | 1.0.0 |
 | [openapi-expert](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/openapi-expert) | cc-marketplace | Use this agent to update, synchronize, or validate the OpenAPI specification (openapi.yml) against the actual REST API implementation. This include... | Meiring de Wet | 1.0.0 |
 
 ## education
@@ -1458,7 +1459,7 @@ Last updated: 2026-06-06 16:11 UTC
 | [apollo](https://github.com/apolloio/apollo-mcp-plugin.git) | anthropics/claude-plugins-official | Prospect, enrich leads, load outreach sequences, and query sales analytics with Apollo.io — one-click MCP server integration for Claude Code and Co... | Apollo.io | 1.0.0 |
 | [asana](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/asana) | anthropics/claude-plugins-official | Asana project management integration. Create and manage tasks, search projects, update assignments, track progress, and integrate your development ... | None | 1.0.0 |
 | [atlassian](https://github.com/atlassian/atlassian-mcp-server.git) | anthropics/claude-plugins-official | Connect to Atlassian products including Jira and Confluence. Search and create issues, access documentation, manage sprints, and integrate your dev... | None | 1.0.0 |
-| [benchmark-due-diligence](https://github.com/daymade/claude-code-skills/tree/main/benchmark-due-diligence) | daymade/claude-code-skills | Adversarial due-diligence on a benchmark you envy (a founder, KOL, company, or product whose claimed success you suspect is inflated). Inline four-... | None | 1.0.0 |
+| [benchmark-due-diligence](https://github.com/daymade/claude-code-skills/tree/main/benchmark-due-diligence) | daymade/claude-code-skills | Adversarial due-diligence on a benchmark you envy (a founder, KOL, company, or product whose claimed success you suspect is inflated). Inline four-... | None | 1.0.1 |
 | [box](https://github.com/box/box-for-ai.git) | anthropics/claude-plugins-official | Work with your Box content directly from Claude Code — search files, organize folders, collaborate with your team, and use Box AI to answer questio... | None | 1.0.0 |
 | [box-cloud-filesystem](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/box-cloud-filesystem) | claude-code-plugins-plus | Transparent cloud filesystem for AI agents using Box CLI (@box/cli). Upload, download, search, share, and sync files to Box cloud storage with oper... | Jeremy Longshore | 1.0.0 |
 | [carta-cap-table](https://github.com/carta/plugins.git) | anthropics/claude-plugins-official | Carta Cap Table plugin — skills and hooks for querying cap tables, grants, SAFEs, 409A valuations, waterfall scenarios, and more | Carta Engineering | 1.0.0 |
@@ -1746,9 +1747,9 @@ Last updated: 2026-06-06 16:11 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [daymade-audio](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio) | daymade/claude-code-skills | Audio processing suite covering the full speech pipeline: ASR transcription (Qwen3, StepFun), transcript error correction, structured meeting minut... | None | 1.1.0 |
-| [daymade-claude-code](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code) | daymade/claude-code-skills | Claude Code operations suite that bundles session history recovery, interrupted-work continuation, plugin/skill troubleshooting, CLAUDE.md progress... | None | 1.0.0 |
-| [daymade-docs](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs) | daymade/claude-code-skills | Documentation suite plugin that exposes document conversion, Mermaid diagram generation, PDF/PPT creation, and documentation cleanup skills under o... | None | 1.0.2 |
+| [daymade-audio](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio) | daymade/claude-code-skills | Audio processing suite covering the full speech pipeline: ASR transcription (Qwen3, StepFun), transcript error correction, structured meeting minut... | None | 1.2.0 |
+| [daymade-claude-code](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code) | daymade/claude-code-skills | Claude Code operations suite that bundles session history recovery, interrupted-work continuation, plugin/skill troubleshooting, CLAUDE.md progress... | None | 1.1.0 |
+| [daymade-docs](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs) | daymade/claude-code-skills | Documentation suite plugin that exposes document conversion, Mermaid diagram generation, PDF/PPT creation, and documentation cleanup skills under o... | None | 1.2.0 |
 | [daymade-skill](https://github.com/daymade/claude-code-skills/tree/main/daymade-skill) | daymade/claude-code-skills | Daymade skills core suite. Bundles skill creation, quality review, search, and marketplace development tooling under one shared namespace. | None | 1.1.0 |
 
 ## testing
