@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 79 | Total Plugins: 1246
+Total Marketplaces: 80 | Total Plugins: 1247
 
-Last updated: 2026-06-07 00:10 UTC
+Last updated: 2026-06-07 05:26 UTC
 
 ## Installation
 
@@ -347,6 +347,7 @@ Last updated: 2026-06-07 00:10 UTC
 | [hookify](https://github.com/athola/claude-night-market/tree/main/plugins/hookify) | athola/claude-night-market | Behavioral rules engine: create safety hooks through markdown configuration with pattern matching and zero-code rule authoring | None | 1.9.10 |
 | [imbue](https://github.com/athola/claude-night-market/tree/main/plugins/imbue) | athola/claude-night-market | TDD enforcement, proof-of-work validation, scope guarding, rigorous reasoning, and research-enriched feature review with RICE/WSJF/Kano scoring | None | 1.9.10 |
 | [iothackbot](https://github.com/BrownFineSecurity/iothackbot/tree/master/) | BrownFineSecurity/iothackbot | IoT security testing toolkit with skills for firmware analysis, network reconnaissance, UEFI security, and device exploitation | None | 1.0.0 |
+| [keelson](https://github.com/innovestrum/keelson.git) | keelson | Port a disciplined, issue-driven agentic flow into any repo and any project-management tracker. Establisher skill + standalone quality-gate skill +... | None | 1.0.0 |
 | [leyline](https://github.com/athola/claude-night-market/tree/main/plugins/leyline) | athola/claude-night-market | Foundation infrastructure: auth flows, quota management, error patterns, markdown formatting, trust verification, and injection detection | None | 1.9.10 |
 | [math](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/math) | cc-marketplace | Deterministic math operations using SymPy - arithmetic, algebra, calculus, linear algebra, number theory, and statistics | Anand Tyagi | 1.0.0 |
 | [memory-palace](https://github.com/athola/claude-night-market/tree/main/plugins/memory-palace) | athola/claude-night-market | Spatial knowledge organization with memory palace techniques: build, navigate, and maintain virtual memory structures with PR review capture | None | 1.9.10 |
