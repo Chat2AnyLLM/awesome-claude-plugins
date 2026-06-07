@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 80 | Total Plugins: 1247
 
-Last updated: 2026-06-07 09:23 UTC
+Last updated: 2026-06-07 11:52 UTC
 
 ## Installation
 
@@ -249,7 +249,7 @@ Last updated: 2026-06-07 09:23 UTC
 | [growth-hacker](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/growth-hacker) | awesome-claude-code-plugins | Growth Hacker subagent | Michael Galpert | 1.0.0 |
 | [instagram-curator](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/instagram-curator) | awesome-claude-code-plugins | Instagram Curator subagent | Michael Galpert | 1.0.0 |
 | [reddit-community-builder](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/reddit-community-builder) | awesome-claude-code-plugins | Reddit Community Builder subagent | Michael Galpert | 1.0.0 |
-| [tiktok-strategist](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/tiktok-strategist) | awesome-claude-code-plugins | Use this agent when you need to create TikTok marketing strategies, develop viral content ideas, plan TikTok campaigns, or optimize for TikTok's al... | Michael Galpert | 1.0.0 |
+| [tiktok-strategist](https://github.com/ccplugins/awesome-claude-code-plugins/blob/main/plugins/tiktok-strategist) | awesome-claude-code-plugins | Use this agent when you need to create TikTok marketing strategies, develop viral content ideas, plan TikTok campaigns, or optimize for TikTok's al... | Michael Galpert | 1.0.0 |
 | [twitter-engager](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/twitter-engager) | awesome-claude-code-plugins | Twitter Engager subagent | Michael Galpert | 1.0.0 |
 
 ## Official Claude Code Plugins
@@ -272,7 +272,7 @@ Last updated: 2026-06-07 09:23 UTC
 | [planning-prd-agent](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/planning-prd-agent) | awesome-claude-code-plugins | 'MUST BE USED PROACTIVELY when user mentions: planning, PRD, product requirements document, project plan, roadmap, specification, requirements anal... | clouddna-au | 1.0.0 |
 | [prd-specialist](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/prd-specialist) | awesome-claude-code-plugins | Use this agent when you need to create comprehensive Product Requirements Documents (PRDs) that combine business strategy, technical architecture, ... | Jure Šunić | 1.0.0 |
 | [project-shipper](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/project-shipper) | awesome-claude-code-plugins | PROACTIVELY use this agent when approaching launch milestones, release deadlines, or go-to-market activities. This agent specializes in coordinatin... | Michael Galpert | 1.0.0 |
-| [sprint-prioritizer](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/sprint-prioritizer) | awesome-claude-code-plugins | Use this agent when planning 6-day development cycles, prioritizing features, managing product roadmaps, or making trade-off decisions. This agent ... | Michael Galpert | 1.0.0 |
+| [sprint-prioritizer](https://github.com/ccplugins/awesome-claude-code-plugins/blob/main/plugins/sprint-prioritizer) | awesome-claude-code-plugins | Use this agent when planning 6-day development cycles, prioritizing features, managing product roadmaps, or making trade-off decisions. This agent ... | Michael Galpert | 1.0.0 |
 | [studio-producer](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/studio-producer) | awesome-claude-code-plugins | PROACTIVELY use this agent when coordinating across multiple teams, allocating resources, or optimizing studio workflows. This agent specializes in... | Michael Galpert | 1.0.0 |
 | [tool-evaluator](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/tool-evaluator) | awesome-claude-code-plugins | Use this agent when evaluating new development tools, frameworks, or services for the studio. This agent specializes in rapid tool assessment, comp... | Michael Galpert | 1.0.0 |
 | [workflow-optimizer](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/workflow-optimizer) | awesome-claude-code-plugins | Use this agent for optimizing human-agent collaboration workflows and analyzing workflow efficiency. This agent specializes in identifying bottlene... | Michael Galpert | 1.0.0 |
@@ -300,7 +300,7 @@ Last updated: 2026-06-07 09:23 UTC
 | [archcore](https://github.com/archcore-ai/plugin/tree/main/) | archcore-plugins | Make your AI agent code with your project's architecture, rules, and decisions. | None | 1.0.0 |
 | [archetypes](https://github.com/athola/claude-night-market/tree/main/plugins/archetypes) | athola/claude-night-market | Architecture paradigm selection and implementation planning: 14 paradigms from functional-core to hexagonal to microservices | None | 1.9.10 |
 | [ash](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/ash) | bradleygolden/claude-marketplace-elixir | Ash Framework code generation validation and automation | None | 1.0.0 |
-| [atlan](https://github.com/atlanhq/agent-toolkit.git) | anthropics/claude-plugins-official | Atlan data catalog plugin for Claude Code. Search, explore, govern, and manage your data assets through natural language. Powered by the Atlan MCP ... | None | 1.0.0 |
+| [atlan](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Atlan data catalog plugin for Claude Code. Search, explore, govern, and manage your data assets through natural language. Powered by the Atlan MCP ... | None | 1.0.0 |
 | [attune](https://github.com/athola/claude-night-market/tree/main/plugins/attune) | athola/claude-night-market | Full-cycle project development: brainstorm, specify, plan, initialize, execute, and polish with war-room deliberation for strategic decisions | None | 1.9.10 |
 | [aurakit](https://github.com/smorky850612/Aurakit) | smorky850612/Aurakit | All-in-one Claude Code skill: build, fix, review, deploy with one /aura command. 46 modes, 23 agents, 6-layer security (OWASP+), 10 hooks, 8 langua... | smorky85 | 6.5.2 |
 | [autoresearch](https://github.com/lendtrain/autoresearch-for-skills) | lendtrain/autoresearch-for-skills | Autonomous skill optimizer using Karpathy's autoresearch methodology. Includes PostToolUse hook for auto-screenshotting HTML outputs and Stop hook ... | Tony Davis | 1.1.1 |
