@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 80 | Total Plugins: 1246
 
-Last updated: 2026-06-08 19:24 UTC
+Last updated: 2026-06-08 21:54 UTC
 
 ## Installation
 
@@ -1673,8 +1673,8 @@ Last updated: 2026-06-08 19:24 UTC
 |--------|-------------|-------------|--------|---------|
 | [42crunch-api-security-testing](https://github.com/42Crunch-AI/claude-plugins.git) | anthropics/claude-plugins-official | Automate API security directly in Claude Code with 42Crunch - automatically audit OpenAPI specs, detect vulnerabilities aligned with OWASP API Secu... | 42Crunch | 1.0.0 |
 | [access-control-auditor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/access-control-auditor) | claude-code-plugins-plus | Audit access control implementations | Jeremy Longshore | 1.0.0 |
-| [armorclaude](https://github.com/armoriq/armorClaude/tree/main/) | armoriq/armorClaude | Intent-based security enforcement for Claude Code: declared plans, policy rules, intent-drift blocking, CSRG cryptographic proofs, and audit loggin... | ArmorIQ | 0.2.2 |
-| [armorclaude-dev](https://github.com/armoriq/armorClaude) | armoriq/armorClaude | Intent-based security enforcement for Claude Code — dev variant. Staging/local toggleable via ARMORIQ_ENV (development → 127.0.0.1; default → stagi... | ArmorIQ | 0.2.2 |
+| [armorclaude](https://github.com/armoriq/armorClaude/tree/main/) | armoriq/armorClaude | Intent-based security enforcement for Claude Code: declared plans, policy rules, intent-drift blocking, CSRG cryptographic proofs, and audit loggin... | ArmorIQ | 0.2.3 |
+| [armorclaude-dev](https://github.com/armoriq/armorClaude) | armoriq/armorClaude | Intent-based security enforcement for Claude Code — dev variant. Staging/local toggleable via ARMORIQ_ENV (development → 127.0.0.1; default → stagi... | ArmorIQ | 0.2.3 |
 | [auth0](https://github.com/auth0/agent-skills.git) | anthropics/claude-plugins-official | Add authentication to any app with Auth0. This plugin detects your framework, scaffolds the right Auth0 SDK integration, and guides you through log... | Auth0 | 1.0.0 |
 | [authentication-validator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/authentication-validator) | claude-code-plugins-plus | Validate authentication implementations | Jeremy Longshore | 1.0.0 |
 | [backend-api-security](https://github.com/wshobson/agents/tree/main/plugins/backend-api-security) | claude-code-workflows | API security hardening, authentication implementation, authorization patterns, rate limiting, and input validation | Seth Hobson | 1.2.1 |
