@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 80 | Total Plugins: 1246
 
-Last updated: 2026-06-09 12:08 UTC
+Last updated: 2026-06-09 16:07 UTC
 
 ## Installation
 
@@ -997,7 +997,7 @@ Last updated: 2026-06-09 12:08 UTC
 | [claude-dev-infrastructure](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/claude-dev-infrastructure) | cc-marketplace | Complete development infrastructure for Claude Code projects - 12 AI skills, task coordination hooks, multi-instance locking, templates, and visual... | endlessblink | 1.0.0 |
 | [claude-opus-4-5-migration](https://github.com/anthropics/claude-code/tree/main/plugins/claude-opus-4-5-migration) | anthropics/claude-code | Migrate your code and prompts from Sonnet 4.x and Opus 4.1 to Opus 4.5. | William Hu | 1.0.0 |
 | [code-analysis](https://github.com/MadAppGang/claude-code/tree/main/plugins/code-analysis) | mag-claude-plugins | Deep code investigation with claudemem. v3.2.2: Updated for claudish v4.5.1 (--agent flag removed). v3.0.0: ENRICHMENT MODE. | Jack Rudenko | 3.2.2 |
-| [code-modernization](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/code-modernization) | anthropics/claude-plugins-official | Modernize legacy codebases (COBOL, legacy Java/C++, monolith web apps) with a structured assess / map / extract-rules / reimagine / transform / har... | Anthropic | 1.0.0 |
+| [code-modernization](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/code-modernization) | anthropics/claude-plugins-official | Modernize legacy codebases (COBOL, legacy Java/C++, monolith web apps) with a structured preflight / assess / map / extract-rules / brief / reimagi... | Anthropic | 1.0.0 |
 | [codspeed](https://github.com/CodSpeedHQ/codspeed.git) | anthropics/claude-plugins-official | CodSpeed is the all-in-one performance testing toolkit. Dive into benchmarking results, flamegraphs, and performance comparisons — give Claude gran... | CodSpeed | 1.0.0 |
 | [context7](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/context7) | anthropics/claude-plugins-official | Upstash Context7 MCP server for up-to-date documentation lookup. Pull version-specific documentation and code examples directly from source reposit... | None | 1.0.0 |
 | [csharp-lsp](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/csharp-lsp) | anthropics/claude-plugins-official | C# language server for code intelligence | Anthropic | 1.0.0 |
