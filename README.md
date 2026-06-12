@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 83 | Total Plugins: 1250
+Total Marketplaces: 84 | Total Plugins: 1251
 
-Last updated: 2026-06-12 13:29 UTC
+Last updated: 2026-06-12 16:46 UTC
 
 ## Installation
 
@@ -371,11 +371,12 @@ Last updated: 2026-06-12 13:29 UTC
 | [postiz](https://github.com/gitroomhq/postiz-agent.git) | anthropics/claude-plugins-official | Social media automation CLI for scheduling posts, managing integrations, uploading media, and tracking analytics across 28+ platforms including X, ... | None | 1.0.0 |
 | [precommit](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/precommit) | bradleygolden/claude-marketplace-elixir | Phoenix precommit alias automation - runs mix precommit before git commits if alias exists | None | 1.0.0 |
 | [prisma](https://github.com/prisma/claude-plugin.git) | anthropics/claude-plugins-official | Prisma MCP integration for Postgres database management, schema migrations, SQL queries, and connection string management. Provision Prisma Postgre... | None | 1.0.0 |
-| [private-journal-mcp](https://github.com/obra/private-journal-mcp.git) | superpowers-marketplace | Private journaling MCP server with semantic search. Multi-section entries (feelings, project notes, technical insights), local AI embeddings, and f... | None | 1.2.0 |
+| [private-journal-mcp](https://github.com/obra/private-journal-mcp.git) | superpowers-marketplace | Private journaling MCP server with semantic search. Multi-section entries (reflections, observations, project notes, technical insights), local AI ... | None | 2.0.1 |
 | [remember](https://github.com/Digital-Process-Tools/claude-remember.git) | anthropics/claude-plugins-official | Continuous memory for Claude Code. Extracts, summarizes, and compresses conversations into tiered daily logs. Claude remembers what you did yesterday. | None | 1.0.0 |
 | [sanctum](https://github.com/athola/claude-night-market/tree/main/plugins/sanctum) | athola/claude-night-market | Git workflows: commit messages, PR preparation, documentation updates, version management, sessions, and deferred-item capture | None | 1.9.11 |
 | [scribe](https://github.com/athola/claude-night-market/tree/main/plugins/scribe) | athola/claude-night-market | Documentation review, cleanup, and generation with AI slop detection, style learning, and human-quality writing enforcement | None | 1.9.11 |
 | [scry](https://github.com/athola/claude-night-market/tree/main/plugins/scry) | athola/claude-night-market | Media generation: terminal recordings (VHS), browser recordings (Playwright), GIF processing, and media composition | None | 1.9.11 |
+| [seedance-prompts-skill](https://github.com/mantoufan/seedance-prompts-skill/tree/main/) | seedance-prompts | 覆盖「创意→完整短剧剧本→AI 视频提示词」全链路的 Skill：上游可从一句创意/小说创作 50-100 集完整短剧剧本（选题/付费卡点/爽点矩阵/反派体系/合规/出海），下游把剧本转为 Seedance 2.0 标准剧本、资产生成提示词与分镜脚本。含 12 条生产铁律 + 17 个模板 +... | None | 1.7.0 |
 | [skills-janitor](https://github.com/khendzel/skills-janitor/tree/main/) | khendzel/skills-janitor | 4 skill hygiene tools: health report, auto-fix, value (tokens+usage), discover (search+precheck). Now sees plugin-namespaced skills. | None | 1.0.0 |
 | [smdd-toolkit](https://github.com/cyvnrs/smdd-toolkit/tree/main/) | cyvnrs/smdd-toolkit | Structured Markdown Driven Development skills for Claude Code. | None | 1.0.0 |
 | [sobelow](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/sobelow) | bradleygolden/claude-marketplace-elixir | Sobelow security-focused static analysis for Phoenix and Elixir projects | None | 1.0.0 |
@@ -643,7 +644,7 @@ Last updated: 2026-06-12 13:29 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [n8n-mcp-skills](https://github.com/czlonkowski/n8n-skills/tree/main/) | czlonkowski/n8n-skills | Complete bundle: 8 expert skills for building flawless n8n workflows using n8n-mcp MCP server. Includes skills for expression syntax, MCP tools usa... | Romuald Członkowski | 1.10.0 |
+| [n8n-mcp-skills](https://github.com/czlonkowski/n8n-skills/tree/main/) | czlonkowski/n8n-skills | Complete bundle: 8 expert skills for building flawless n8n workflows using n8n-mcp MCP server. Includes skills for expression syntax, MCP tools usa... | Romuald Członkowski | 1.11.1 |
 
 ## blockchain
 
@@ -1712,7 +1713,7 @@ Last updated: 2026-06-12 13:29 UTC
 | [secret-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/secret-scanner) | claude-code-plugins-plus | Scan codebase for exposed secrets, API keys, passwords, and sensitive credentials | Jeremy Longshore | 1.0.0 |
 | [security-audit-reporter](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/security-audit-reporter) | claude-code-plugins-plus | Generate comprehensive security audit reports | Jeremy Longshore | 1.0.0 |
 | [security-compliance](https://github.com/wshobson/agents/tree/main/plugins/security-compliance) | claude-code-workflows | SOC2, HIPAA, and GDPR compliance validation, secrets scanning, compliance checklists, and regulatory documentation | Seth Hobson | 1.2.1 |
-| [security-guidance](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/security-guidance) | anthropics/claude-plugins-official | Security review for Claude-generated code. Pattern-based warnings on edits, LLM-powered diff review on Stop, and an agentic commit reviewer that ca... | Anthropic | 2.0.5 |
+| [security-guidance](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/security-guidance) | anthropics/claude-plugins-official | Security review for Claude-generated code. Pattern-based warnings on edits, LLM-powered diff review on Stop, and an agentic commit reviewer that ca... | Anthropic | 2.0.6 |
 | [security-guidance](https://github.com/anthropics/claude-code/tree/main/plugins/security-guidance) | anthropics/claude-code | Security reminder hook that warns about potential security issues when editing files, including command injection, XSS, and unsafe code patterns | David Dworken | 1.0.0 |
 | [security-headers-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/security-headers-analyzer) | claude-code-plugins-plus | Analyze HTTP security headers | Jeremy Longshore | 1.0.0 |
 | [security-incident-responder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/security-incident-responder) | claude-code-plugins-plus | Assist with security incident response | Jeremy Longshore | 1.0.0 |
