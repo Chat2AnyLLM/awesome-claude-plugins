@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 84 | Total Plugins: 1251
+Total Marketplaces: 85 | Total Plugins: 1255
 
-Last updated: 2026-06-12 19:10 UTC
+Last updated: 2026-06-12 21:53 UTC
 
 ## Installation
 
@@ -324,6 +324,7 @@ Last updated: 2026-06-12 19:10 UTC
 | [dialyzer](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/dialyzer) | bradleygolden/claude-marketplace-elixir | Dialyzer static type analysis for Elixir projects | None | 1.0.0 |
 | [document-skills](https://github.com/anthropics/skills/tree/main/) | anthropic-agent-skills | Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities | None | 1.0.0 |
 | [docx-format-replicator](https://github.com/iamzhihuix/happy-claude-skills/tree/main/) | iamzhihuix/happy-claude-skills | Extract formatting from Word documents and generate new documents with the same format | None | 1.0.0 |
+| [dos-kernel](https://github.com/anthony-chaudhary/dos-kernel/tree/master/claude-plugin) | dos-kernel | Bundles the DOS hooks + MCP server + the generic skill pack into one install. Requires the dos-kernel Python package (pip install 'dos-kernel[mcp]'). | Anthony Chaudhary | 0.25.0 |
 | [double-shot-latte](https://github.com/obra/double-shot-latte.git) | superpowers-marketplace | Stop 'Would you like me to continue?' interruptions. Automatically evaluates whether Claude should continue working using Claude-judged decision ma... | None | 1.2.0 |
 | [egregore](https://github.com/athola/claude-night-market/tree/main/plugins/egregore) | athola/claude-night-market | Autonomous agent orchestrator: parallel worktree execution, agent specialization, cross-item learning, and crash recovery | None | 1.9.11 |
 | [ejentum](https://github.com/ejentum/ejentum-mcp) | ejentum/ejentum-mcp | Ejentum MCP server. Eight tools (four dynamic: reasoning, code, anti-deception, memory; four adaptive: adaptive-reasoning, adaptive-code, adaptive-... | Ejentum | 0.2.0 |
@@ -510,8 +511,9 @@ Last updated: 2026-06-12 19:10 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [sap-ai-core](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-ai-core) | secondsky/sap-skills | Guides development with SAP AI Core and SAP AI Launchpad for enterprise AI/ML workloads on SAP BTP. Use when: deploying generative AI models (GPT, ... | None | 2.2.3 |
+| [sap-ai-core](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-ai-core) | secondsky/sap-skills | Guides development with SAP AI Core and SAP AI Launchpad for enterprise AI/ML workloads on SAP BTP. Use when: deploying generative AI models, build... | None | 2.2.3 |
 | [sap-cloud-sdk-ai](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-cloud-sdk-ai) | secondsky/sap-skills | Integrates SAP Cloud SDK for AI into JavaScript/TypeScript and Java applications. Use when building applications with SAP AI Core, Generative AI Hu... | None | 2.2.3 |
+| [sap-cloud-sdk-ai-python](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-cloud-sdk-ai-python) | secondsky/sap-skills | Integrates the SAP Cloud SDK for AI for Python (sap-ai-sdk-gen, formerly generative-ai-hub-sdk) into Python applications. Use when building Python ... | None | 2.2.3 |
 
 ## ai-agency
 
@@ -660,6 +662,7 @@ Last updated: 2026-06-12 19:10 UTC
 | [sap-btp-build-work-zone-advanced](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-build-work-zone-advanced) | secondsky/sap-skills | Develops and administers SAP Build Work Zone, advanced edition digital workplace solutions. Use when creating workspaces, workpages, and collaborat... | None | 2.2.3 |
 | [sap-btp-business-application-studio](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-business-application-studio) | secondsky/sap-skills | This skill provides comprehensive guidance for SAP Business Application Studio (BAS), the cloud-based IDE on SAP BTP built on Code-OSS. Use when se... | None | 2.2.3 |
 | [sap-btp-cias](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-cias) | secondsky/sap-skills | SAP BTP Cloud Integration Automation Service (CIAS) skill for guided integration workflows. Use when: setting up CIAS subscriptions, configuring de... | None | 2.2.3 |
+| [sap-btp-cloud-identity-services](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-cloud-identity-services) | secondsky/sap-skills | SAP Cloud Identity Services for BTP applications: Identity Authentication (IAS), Identity Provisioning (IPS), and Authorization Management (AMS). U... | None | 2.2.3 |
 | [sap-btp-cloud-logging](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-cloud-logging) | secondsky/sap-skills | This skill provides comprehensive guidance for SAP Cloud Logging service on SAP BTP. Use when setting up Cloud Logging instances, configuring log i... | None | 2.2.3 |
 | [sap-btp-cloud-platform](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-cloud-platform) | secondsky/sap-skills | Comprehensive SAP Business Technology Platform (BTP) reference for cloud development, deployment, and operations. Use when setting up BTP accounts,... | None | 2.2.3 |
 | [sap-btp-cloud-transport-management](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-cloud-transport-management) | secondsky/sap-skills | Comprehensive skill for SAP Cloud Transport Management service on SAP BTP. Use when setting up transport landscapes, configuring transport nodes an... | None | 2.2.3 |
@@ -1380,6 +1383,7 @@ Last updated: 2026-06-12 19:10 UTC
 | [dash0](https://github.com/dash0hq/dash0-agent-plugin.git) | anthropics/claude-plugins-official | OpenTelemetry observability for Claude Code sessions. Captures tool calls, LLM invocations, token usage, and errors as OTel traces. Send telemetry ... | Dash0 | 1.0.0 |
 | [datadog](https://github.com/datadog-labs/claude-code-plugin.git) | anthropics/claude-plugins-official | Use Datadog directly in Claude Code through a preconfigured Datadog MCP server. Query logs, metrics, traces, dashboards, and more through natural c... | Datadog | 1.0.0 |
 | [fullstory](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Connect Claude to Fullstory to query behavioral analytics, session replays, and customer experience insights. | Fullstory | 1.0.0 |
+| [langfuse-observability](https://github.com/langfuse/claude-observability-plugin.git) | anthropics/claude-plugins-official | The Langfuse x Claude Code Observability Plugin | Langfuse | 1.0.0 |
 | [logfire](https://github.com/pydantic/skills.git) | anthropics/claude-plugins-official | Add Logfire observability to Python applications with auto-instrumentation for FastAPI, httpx, asyncpg, SQLAlchemy, and more | Pydantic | 1.0.0 |
 | [pagerduty](https://github.com/PagerDuty/claude-code-plugins.git) | anthropics/claude-plugins-official | Enhance code quality and security through PagerDuty risk scoring and incident correlation. Score pre-commit diffs against historical incident data ... | None | 1.0.0 |
 | [posthog](https://github.com/PostHog/ai-plugin.git) | anthropics/claude-plugins-official | Access PostHog analytics, feature flags, experiments, error tracking, and insights directly from Claude Code. | None | 1.0.0 |
