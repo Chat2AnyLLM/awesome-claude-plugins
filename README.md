@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 85 | Total Plugins: 1256
+Total Marketplaces: 86 | Total Plugins: 1258
 
-Last updated: 2026-06-13 08:25 UTC
+Last updated: 2026-06-13 11:19 UTC
 
 ## Installation
 
@@ -79,6 +79,7 @@ Last updated: 2026-06-13 08:25 UTC
 - [devops](#devops)
 - [documentation](#documentation)
 - [education](#education)
+- [engineering](#engineering)
 - [examples](#examples)
 - [explore](#explore)
 - [finance](#finance)
@@ -969,11 +970,12 @@ Last updated: 2026-06-13 08:25 UTC
 | [i18n-expert](https://github.com/daymade/claude-code-skills/tree/main/i18n-expert) | daymade/claude-code-skills | Complete internationalization/localization setup and auditing for UI codebases. Configure i18n frameworks, replace hard-coded strings with translat... | None | 1.0.0 |
 | [iOS-APP-developer](https://github.com/daymade/claude-code-skills/tree/main/iOS-APP-developer) | daymade/claude-code-skills | Develops iOS applications with XcodeGen, SwiftUI, and SPM. Use when configuring XcodeGen project.yml, resolving SPM dependency issues, deploying to... | None | 1.1.0 |
 | [ima-copilot](https://github.com/daymade/claude-code-skills/tree/main/ima-copilot) | daymade/claude-code-skills | One-stop companion and installer for the official Tencent IMA skill (ima.qq.com). Installs upstream ima-skill to Claude Code/Codex/OpenClaw via npx... | None | 1.0.1 |
+| [marketplace-health-check](https://github.com/daymade/claude-code-skills/tree/main/marketplace-health-check) | daymade/claude-code-skills | Run a full 6-dimension health check of this Claude Code skills marketplace repo — code/script safety, documentation/SSOT consistency, security/PII ... | None | 1.0.0 |
 | [promptfoo-evaluation](https://github.com/daymade/claude-code-skills/tree/main/promptfoo-evaluation) | daymade/claude-code-skills | Configures and runs LLM evaluation using Promptfoo framework. Use when setting up prompt testing, creating evaluation configs (promptfooconfig.yaml... | None | 1.1.0 |
 | [qa-expert](https://github.com/daymade/claude-code-skills/tree/main/qa-expert) | daymade/claude-code-skills | Comprehensive QA testing infrastructure with autonomous LLM execution, Google Testing Standards (AAA pattern), and OWASP security testing. Use when... | None | 1.0.0 |
 | [scrapling-skill](https://github.com/daymade/claude-code-skills/tree/main/scrapling-skill) | daymade/claude-code-skills | Install, troubleshoot, and use Scrapling CLI for extracting HTML, Markdown, or text from webpages. Diagnoses missing extras, Playwright browser run... | None | 1.0.0 |
-| [terraform-skill](https://github.com/daymade/claude-code-skills/tree/main/terraform-skill) | daymade/claude-code-skills | Operational traps for Terraform provisioners, multi-environment isolation, and zero-to-deployment reliability. Covers provisioner timing races, SSH... | None | 1.0.0 |
-| [tunnel-doctor](https://github.com/daymade/claude-code-skills/tree/main/tunnel-doctor) | daymade/claude-code-skills | Diagnoses and fixes conflicts between Tailscale and proxy/VPN tools (Shadowrocket, Clash, Surge) on macOS. Covers six conflict layers: route hijack... | None | 1.6.0 |
+| [terraform-skill](https://github.com/daymade/claude-code-skills/tree/main/terraform-skill) | daymade/claude-code-skills | Operational traps for Terraform provisioners, multi-environment isolation, and zero-to-deployment reliability. Covers provisioner timing races, SSH... | None | 1.0.1 |
+| [tunnel-doctor](https://github.com/daymade/claude-code-skills/tree/main/tunnel-doctor) | daymade/claude-code-skills | Diagnoses and fixes conflicts between Tailscale and proxy/VPN tools (Shadowrocket, Clash, Surge) on macOS. Covers six conflict layers: route hijack... | None | 1.6.1 |
 | [windows-remote-desktop-connection-doctor](https://github.com/daymade/claude-code-skills/tree/main/windows-remote-desktop-connection-doctor) | daymade/claude-code-skills | Diagnose Windows App (Microsoft Remote Desktop / Azure Virtual Desktop / W365) connection quality issues on macOS. Analyze transport protocol selec... | None | 1.0.1 |
 
 ## development
@@ -1196,6 +1198,12 @@ Last updated: 2026-06-13 08:25 UTC
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
 | [studiomeyer-academy](https://github.com/studiomeyer-io/studiomeyer-marketplace/tree/main/plugins/studiomeyer-academy) | studiomeyer-marketplace | Memory-First AI Operator School. 23 tools — lessons, quiz, recipes, knowledge graph, certificates, AI tutor. Open Source MCP server (npm: mcp-acade... | None | 1.0.0 |
+
+## engineering
+
+| Plugin | Marketplace | Description | Author | Version |
+|--------|-------------|-------------|--------|---------|
+| [agentic-harness](https://github.com/MrBogomips/agentic-harness/tree/main/) | agentic-harness | Stand up, assess, and maintain an agentic harness in an existing repo — generate project-specific agent teams and the skills they use, assess how e... | None | 0.9.2 |
 
 ## examples
 
@@ -1763,7 +1771,7 @@ Last updated: 2026-06-13 08:25 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [daymade-audio](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio) | daymade/claude-code-skills | Audio processing suite covering the full speech pipeline: ASR transcription (Qwen3, StepFun), transcript error correction, structured meeting minut... | None | 1.2.0 |
+| [daymade-audio](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio) | daymade/claude-code-skills | Audio processing suite covering the full speech pipeline: ASR transcription (Qwen3, StepFun), transcript error correction, structured meeting minut... | None | 1.2.1 |
 | [daymade-claude-code](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code) | daymade/claude-code-skills | Claude Code operations suite that bundles session history recovery, interrupted-work continuation, plugin/skill troubleshooting, CLAUDE.md progress... | None | 1.2.0 |
 | [daymade-docs](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs) | daymade/claude-code-skills | Documentation suite plugin that exposes document conversion, Mermaid diagram generation, PDF/PPT creation, and documentation cleanup skills under o... | None | 1.2.0 |
 | [daymade-skill](https://github.com/daymade/claude-code-skills/tree/main/daymade-skill) | daymade/claude-code-skills | Daymade skills core suite. Bundles skill creation, quality review, search, and marketplace development tooling under one shared namespace. | None | 1.2.0 |
