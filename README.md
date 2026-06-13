@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 85 | Total Plugins: 1255
+Total Marketplaces: 85 | Total Plugins: 1256
 
-Last updated: 2026-06-13 04:17 UTC
+Last updated: 2026-06-13 08:25 UTC
 
 ## Installation
 
@@ -324,7 +324,7 @@ Last updated: 2026-06-13 04:17 UTC
 | [dialyzer](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/dialyzer) | bradleygolden/claude-marketplace-elixir | Dialyzer static type analysis for Elixir projects | None | 1.0.0 |
 | [document-skills](https://github.com/anthropics/skills/tree/main/) | anthropic-agent-skills | Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities | None | 1.0.0 |
 | [docx-format-replicator](https://github.com/iamzhihuix/happy-claude-skills/tree/main/) | iamzhihuix/happy-claude-skills | Extract formatting from Word documents and generate new documents with the same format | None | 1.0.0 |
-| [dos-kernel](https://github.com/anthony-chaudhary/dos-kernel/tree/master/claude-plugin) | dos-kernel | Bundles the DOS hooks + MCP server + the generic skill pack into one install. Requires the dos-kernel Python package (pip install 'dos-kernel[mcp]'). | Anthony Chaudhary | 0.25.0 |
+| [dos-kernel](https://github.com/anthony-chaudhary/dos-kernel/tree/master/claude-plugin) | dos-kernel | Bundles the DOS hooks + MCP server + the generic skill pack into one install. Requires the dos-kernel Python package (pip install 'dos-kernel[mcp]'). | Anthony Chaudhary | 0.26.0 |
 | [double-shot-latte](https://github.com/obra/double-shot-latte.git) | superpowers-marketplace | Stop 'Would you like me to continue?' interruptions. Automatically evaluates whether Claude should continue working using Claude-judged decision ma... | None | 1.2.0 |
 | [egregore](https://github.com/athola/claude-night-market/tree/main/plugins/egregore) | athola/claude-night-market | Autonomous agent orchestrator: parallel worktree execution, agent specialization, cross-item learning, and crash recovery | None | 1.9.11 |
 | [ejentum](https://github.com/ejentum/ejentum-mcp) | ejentum/ejentum-mcp | Ejentum MCP server. Eight tools (four dynamic: reasoning, code, anti-deception, memory; four adaptive: adaptive-reasoning, adaptive-code, adaptive-... | Ejentum | 0.2.0 |
@@ -719,7 +719,7 @@ Last updated: 2026-06-13 04:17 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [whatsapp-claude-channel](https://github.com/Rich627/whatsapp-claude-plugin/tree/main/) | Rich627/whatsapp-claude-plugin | WhatsApp channel for Claude Code — linked-device messaging bridge with built-in access control, pairing, allowlists, and group policy. | None | 0.8.0 |
+| [whatsapp-claude-channel](https://github.com/Rich627/whatsapp-claude-plugin/tree/main/) | Rich627/whatsapp-claude-plugin | WhatsApp channel for Claude Code — linked-device messaging bridge with built-in access control, pairing, allowlists, and group policy. | None | 0.8.1 |
 
 ## code-quality
 
@@ -959,9 +959,10 @@ Last updated: 2026-06-13 04:17 UTC
 | [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 17 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 8.5.0 |
 | [auto-repo-setup](https://github.com/daymade/claude-code-skills/tree/main/auto-repo-setup) | daymade/claude-code-skills | Automated repository environment configuration, fault diagnosis, and repair for non-technical users. When someone clones a repo and says 'it won't ... | None | 1.0.0 |
 | [bigdata-skill](https://github.com/daymade/claude-code-skills/tree/main/bigdata-skill) | daymade/claude-code-skills | Pull Bigdata.com (RavenPack) financial and news data through the official bigdata-client Python SDK and its /v1/* REST endpoints when the Bigdata M... | None | 1.0.0 |
+| [bilibili-source](https://github.com/daymade/claude-code-skills/tree/main/bilibili-source) | daymade/claude-code-skills | Fetch comprehensive, login-free data for any Bilibili (B站) video — title, UP name and follower count, publish date, partition, tags, per-part cids,... | None | 1.0.0 |
 | [cli-demo-generator](https://github.com/daymade/claude-code-skills/tree/main/cli-demo-generator) | daymade/claude-code-skills | Generate professional animated CLI demos and terminal recordings with VHS. Supports automated generation, batch processing, and interactive recordi... | None | 1.0.0 |
 | [cloudflare-troubleshooting](https://github.com/daymade/claude-code-skills/tree/main/cloudflare-troubleshooting) | daymade/claude-code-skills | Investigate and resolve Cloudflare configuration issues using API-driven evidence gathering. Use when troubleshooting ERR_TOO_MANY_REDIRECTS, SSL e... | None | 1.0.1 |
-| [debugging-network-issues](https://github.com/daymade/claude-code-skills/tree/main/debugging-network-issues) | daymade/claude-code-skills | Evidence-driven investigation for network, streaming, and protocol-layer bugs. Use when debugging connection resets, SSE or long-polling stalls, fi... | None | 1.1.0 |
+| [debugging-network-issues](https://github.com/daymade/claude-code-skills/tree/main/debugging-network-issues) | daymade/claude-code-skills | Evidence-driven investigation for network, streaming, and protocol-layer bugs. Use when debugging connection resets, SSE or long-polling stalls, fi... | None | 1.2.0 |
 | [gangtise-copilot](https://github.com/daymade/claude-code-skills/tree/main/gangtise-copilot) | daymade/claude-code-skills | One-stop installer and companion for the full Gangtise (岗底斯投研) OpenAPI skill suite — 19 official skills covering data retrieval (OHLC 行情, 财务, 估值, 研... | None | 1.2.0 |
 | [github-contributor](https://github.com/daymade/claude-code-skills/tree/main/github-contributor) | daymade/claude-code-skills | Strategic guide for becoming an effective GitHub contributor. Covers opportunity discovery, project selection, high-quality PR creation, and reputa... | None | 1.1.0 |
 | [github-ops](https://github.com/daymade/claude-code-skills/tree/main/github-ops) | daymade/claude-code-skills | Comprehensive GitHub operations using gh CLI and GitHub API for pull requests, issues, repositories, workflows, and API interactions | None | 1.0.0 |
@@ -1763,9 +1764,9 @@ Last updated: 2026-06-13 04:17 UTC
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
 | [daymade-audio](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio) | daymade/claude-code-skills | Audio processing suite covering the full speech pipeline: ASR transcription (Qwen3, StepFun), transcript error correction, structured meeting minut... | None | 1.2.0 |
-| [daymade-claude-code](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code) | daymade/claude-code-skills | Claude Code operations suite that bundles session history recovery, interrupted-work continuation, plugin/skill troubleshooting, CLAUDE.md progress... | None | 1.1.0 |
+| [daymade-claude-code](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code) | daymade/claude-code-skills | Claude Code operations suite that bundles session history recovery, interrupted-work continuation, plugin/skill troubleshooting, CLAUDE.md progress... | None | 1.2.0 |
 | [daymade-docs](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs) | daymade/claude-code-skills | Documentation suite plugin that exposes document conversion, Mermaid diagram generation, PDF/PPT creation, and documentation cleanup skills under o... | None | 1.2.0 |
-| [daymade-skill](https://github.com/daymade/claude-code-skills/tree/main/daymade-skill) | daymade/claude-code-skills | Daymade skills core suite. Bundles skill creation, quality review, search, and marketplace development tooling under one shared namespace. | None | 1.1.0 |
+| [daymade-skill](https://github.com/daymade/claude-code-skills/tree/main/daymade-skill) | daymade/claude-code-skills | Daymade skills core suite. Bundles skill creation, quality review, search, and marketplace development tooling under one shared namespace. | None | 1.2.0 |
 
 ## testing
 
@@ -1829,7 +1830,7 @@ Last updated: 2026-06-13 04:17 UTC
 | [code-refactoring](https://github.com/wshobson/agents/tree/main/plugins/code-refactoring) | claude-code-workflows | Code cleanup, refactoring automation, and technical debt management with context restoration | Seth Hobson | 1.2.1 |
 | [dependency-management](https://github.com/wshobson/agents/tree/main/plugins/dependency-management) | claude-code-workflows | Dependency auditing, version management, and security vulnerability scanning | Seth Hobson | 1.2.1 |
 | [error-debugging](https://github.com/wshobson/agents/tree/main/plugins/error-debugging) | claude-code-workflows | Error analysis, trace debugging, and multi-agent problem diagnosis | Seth Hobson | 1.2.1 |
-| [macos-cleaner](https://github.com/daymade/claude-code-skills/tree/main/macos-cleaner) | daymade/claude-code-skills | Intelligent macOS disk space analysis and cleanup with safety-first philosophy. Use when users report disk space issues, need to clean their Mac, o... | None | 1.1.1 |
+| [macos-cleaner](https://github.com/daymade/claude-code-skills/tree/main/macos-cleaner) | daymade/claude-code-skills | Intelligent macOS disk space analysis and cleanup with safety-first philosophy. Use when users report disk space issues, need to clean their Mac, o... | None | 1.2.0 |
 | [repomix-unmixer](https://github.com/daymade/claude-code-skills/tree/main/repomix-unmixer) | daymade/claude-code-skills | Extract files from repomix packaged formats (XML, Markdown, JSON) with automatic format detection and validation | None | 1.0.0 |
 | [team-collaboration](https://github.com/wshobson/agents/tree/main/plugins/team-collaboration) | claude-code-workflows | Team workflows, issue management, standup automation, and developer experience optimization | Seth Hobson | 1.2.1 |
 | [twitter-reader](https://github.com/daymade/claude-code-skills/tree/main/twitter-reader) | daymade/claude-code-skills | Fetch Twitter/X post content including long-form Articles with full images and metadata. Use when Claude needs to retrieve tweet/article content, a... | None | 1.1.0 |
