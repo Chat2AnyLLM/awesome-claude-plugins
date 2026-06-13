@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 86 | Total Plugins: 1258
 
-Last updated: 2026-06-13 11:19 UTC
+Last updated: 2026-06-13 14:11 UTC
 
 ## Installation
 
@@ -1720,7 +1720,7 @@ Last updated: 2026-06-13 11:19 UTC
 | [owasp-compliance-checker](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/owasp-compliance-checker) | claude-code-plugins-plus | Check OWASP Top 10 compliance | Jeremy Longshore | 1.0.0 |
 | [pci-dss-validator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/pci-dss-validator) | claude-code-plugins-plus | Validate PCI DSS compliance | Jeremy Longshore | 1.0.0 |
 | [penetration-tester](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester) | claude-code-plugins-plus | 25-skill pentest pack with engagement governance, network/code/dependency scans, OWASP Top 10 mapping, and exec-readable reporting. Heavy-hitter co... | Jeremy Longshore | 3.0.0 |
-| [repomix-safe-mixer](https://github.com/daymade/claude-code-skills/tree/main/repomix-safe-mixer) | daymade/claude-code-skills | Safely package codebases with repomix by automatically detecting and removing hardcoded credentials before packing. Use when packaging code for dis... | None | 1.0.0 |
+| [repomix-safe-mixer](https://github.com/daymade/claude-code-skills/tree/main/repomix-safe-mixer) | daymade/claude-code-skills | Safely package codebases with repomix by automatically detecting and removing hardcoded credentials before packing. Use when packaging code for dis... | None | 1.0.1 |
 | [reverse-engineering](https://github.com/wshobson/agents/tree/main/plugins/reverse-engineering) | claude-code-workflows | Binary reverse engineering, malware analysis, firmware security, and software protection research for authorized security research, CTF competition... | Dávid Balatoni | 1.0.1 |
 | [secret-guard](https://github.com/mturac/pluginpool) | pluginpool | Pre-commit secret scanner using pattern and entropy detection, with redacted output. | None | 0.1.0 |
 | [secret-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/secret-scanner) | claude-code-plugins-plus | Scan codebase for exposed secrets, API keys, passwords, and sensitive credentials | Jeremy Longshore | 1.0.0 |
@@ -1772,7 +1772,7 @@ Last updated: 2026-06-13 11:19 UTC
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
 | [daymade-audio](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio) | daymade/claude-code-skills | Audio processing suite covering the full speech pipeline: ASR transcription (Qwen3, StepFun), transcript error correction, structured meeting minut... | None | 1.2.1 |
-| [daymade-claude-code](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code) | daymade/claude-code-skills | Claude Code operations suite that bundles session history recovery, interrupted-work continuation, plugin/skill troubleshooting, CLAUDE.md progress... | None | 1.2.0 |
+| [daymade-claude-code](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code) | daymade/claude-code-skills | Claude Code operations suite that bundles session history recovery, interrupted-work continuation, plugin/skill troubleshooting, CLAUDE.md progress... | None | 1.2.1 |
 | [daymade-docs](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs) | daymade/claude-code-skills | Documentation suite plugin that exposes document conversion, Mermaid diagram generation, PDF/PPT creation, and documentation cleanup skills under o... | None | 1.2.0 |
 | [daymade-skill](https://github.com/daymade/claude-code-skills/tree/main/daymade-skill) | daymade/claude-code-skills | Daymade skills core suite. Bundles skill creation, quality review, search, and marketplace development tooling under one shared namespace. | None | 1.2.0 |
 
