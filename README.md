@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 86 | Total Plugins: 1258
 
-Last updated: 2026-06-14 05:55 UTC
+Last updated: 2026-06-14 09:45 UTC
 
 ## Installation
 
@@ -370,18 +370,18 @@ Last updated: 2026-06-14 05:55 UTC
 | [pensive](https://github.com/athola/claude-night-market/tree/main/plugins/pensive) | athola/claude-night-market | Multi-discipline code review: architecture, bugs, APIs, blast radius analysis, security, tests, Makefiles, and NASA Power of 10 analysis | None | 1.9.11 |
 | [phantom](https://github.com/athola/claude-night-market/tree/main/plugins/phantom) | athola/claude-night-market | Computer use toolkit for driving desktop environments through Claude's vision and action API with screenshot capture, mouse/keyboard control, and a... | None | 1.9.11 |
 | [plugin-gtm](https://github.com/twofoldtech-dakota/plugin-gtm) | twofoldtech-dakota/plugin-gtm | Go-to-market engine for Claude Code — analyze products, build GTM plans, generate launch content, and orchestrate market entry. | None | 1.0.0 |
-| [postiz](https://github.com/gitroomhq/postiz-agent.git) | anthropics/claude-plugins-official | Social media automation CLI for scheduling posts, managing integrations, uploading media, and tracking analytics across 28+ platforms including X, ... | None | 1.0.0 |
-| [precommit](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/precommit) | bradleygolden/claude-marketplace-elixir | Phoenix precommit alias automation - runs mix precommit before git commits if alias exists | None | 1.0.0 |
-| [prisma](https://github.com/prisma/claude-plugin.git) | anthropics/claude-plugins-official | Prisma MCP integration for Postgres database management, schema migrations, SQL queries, and connection string management. Provision Prisma Postgre... | None | 1.0.0 |
+| [postiz](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Social media automation CLI for scheduling posts, managing integrations, uploading media, and tracking analytics across 28+ platforms including X, ... | None | 1.0.0 |
+| [precommit](https://github.com/bradleygolden/claude-marketplace-elixir) | bradleygolden/claude-marketplace-elixir | Phoenix precommit alias automation - runs mix precommit before git commits if alias exists | None | 1.0.0 |
+| [prisma](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Prisma MCP integration for Postgres database management, schema migrations, SQL queries, and connection string management. Provision Prisma Postgre... | None | 1.0.0 |
 | [private-journal-mcp](https://github.com/obra/private-journal-mcp.git) | superpowers-marketplace | Private journaling MCP server with semantic search. Multi-section entries (reflections, observations, project notes, technical insights), local AI ... | None | 2.0.1 |
-| [remember](https://github.com/Digital-Process-Tools/claude-remember.git) | anthropics/claude-plugins-official | Continuous memory for Claude Code. Extracts, summarizes, and compresses conversations into tiered daily logs. Claude remembers what you did yesterday. | None | 1.0.0 |
+| [remember](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Continuous memory for Claude Code. Extracts, summarizes, and compresses conversations into tiered daily logs. Claude remembers what you did yesterday. | None | 1.0.0 |
 | [sanctum](https://github.com/athola/claude-night-market/tree/main/plugins/sanctum) | athola/claude-night-market | Git workflows: commit messages, PR preparation, documentation updates, version management, sessions, and deferred-item capture | None | 1.9.11 |
 | [scribe](https://github.com/athola/claude-night-market/tree/main/plugins/scribe) | athola/claude-night-market | Documentation review, cleanup, and generation with AI slop detection, style learning, and human-quality writing enforcement | None | 1.9.11 |
 | [scry](https://github.com/athola/claude-night-market/tree/main/plugins/scry) | athola/claude-night-market | Media generation: terminal recordings (VHS), browser recordings (Playwright), GIF processing, and media composition | None | 1.9.11 |
 | [seedance-prompts-skill](https://github.com/mantoufan/seedance-prompts-skill/tree/main/) | seedance-prompts | 覆盖「创意→完整短剧剧本→AI 视频提示词」全链路的 Skill：上游可从一句创意/小说创作完整短剧剧本（集数/时长可自定义），下游把剧本、文章或大纲转为 Seedance 2.0 标准剧本、资产生成提示词与分镜脚本。默认尊重用户素材与目标时长，不强拆固定 15 秒/固定集数；含生产铁律、防提... | None | 1.7.1 |
 | [skills-janitor](https://github.com/khendzel/skills-janitor/tree/main/) | khendzel/skills-janitor | 4 skill hygiene tools: health report, auto-fix, value (tokens+usage), discover (search+precheck). Now sees plugin-namespaced skills. | None | 1.0.0 |
 | [smdd-toolkit](https://github.com/cyvnrs/smdd-toolkit/tree/main/) | cyvnrs/smdd-toolkit | Structured Markdown Driven Development skills for Claude Code. | None | 1.0.0 |
-| [sobelow](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/sobelow) | bradleygolden/claude-marketplace-elixir | Sobelow security-focused static analysis for Phoenix and Elixir projects | None | 1.0.0 |
+| [sobelow](https://github.com/bradleygolden/claude-marketplace-elixir) | bradleygolden/claude-marketplace-elixir | Sobelow security-focused static analysis for Phoenix and Elixir projects | None | 1.0.0 |
 | [spec-kit](https://github.com/athola/claude-night-market/tree/main/plugins/spec-kit) | athola/claude-night-market | Specification-driven development: structured specs, implementation planning, and task orchestration for systematic feature delivery | None | 1.9.11 |
 | [startup-superpowers](https://github.com/SergeiGorbatiuk/startup-superpowers) | startup-superpowers | A local-first startup advisor that guides founders through idea idea validation, competitors research, hypotheses generation, MVP/prototype design,... | None | 1.0.0 |
 | [superpowers](https://github.com/obra/superpowers.git) | superpowers-marketplace | Core skills library: TDD, debugging, collaboration patterns, and proven techniques | None | 5.1.0 |
@@ -394,7 +394,7 @@ Last updated: 2026-06-14 05:55 UTC
 | [trading-ideas](https://github.com/quant-sentiment-ai/claude-equity-research/tree/main/commands/trading-ideas) | claude-equity-research-marketplace | Institutional-grade equity research reports via /trading-ideas:research command. Analyzes company financials, technical indicators, market position... | quant-sentiment-ai | 1.0.1 |
 | [trends-bulletin](https://github.com/iamzhihuix/happy-claude-skills/tree/main/) | iamzhihuix/happy-claude-skills | Multi-platform trending topics bulletin with AI analysis, sends formatted report to Telegram | None | 1.0.0 |
 | [video-processor](https://github.com/iamzhihuix/happy-claude-skills/tree/main/) | iamzhihuix/happy-claude-skills | Download and process videos from YouTube with audio extraction, format conversion, and Whisper transcription | None | 1.0.0 |
-| [voicebrief](https://github.com/researchaudio/voicebrief-plugin) | researchaudio/voicebrief-plugin | Turn any PDF into an audio lesson with AI summaries, quizzes, and voice chat tutors. Study smarter by listening. | VoiceBrief | 1.1.0 |
+| [voicebrief](https://voicebrief.io) | researchaudio/voicebrief-plugin | Turn any PDF into an audio lesson with AI summaries, quizzes, and voice chat tutors. Study smarter by listening. | VoiceBrief | 1.1.0 |
 | [wechat-article-writer](https://github.com/iamzhihuix/happy-claude-skills/tree/main/) | iamzhihuix/happy-claude-skills | WeChat article writing workflow with research, writing, title generation, and formatting optimization | None | 1.0.0 |
 | [wordpress.com](https://github.com/Automattic/claude-code-wordpress.com.git) | anthropics/claude-plugins-official | Uses Claude Code to create and edit WordPress sites with WordPress Studio before deploying changes to your WordPress.com site. | None | 1.0.0 |
 
@@ -428,7 +428,7 @@ Last updated: 2026-06-14 05:55 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [accessibility-expert](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/accessibility-expert) | awesome-claude-code-plugins | Examples: | Alysson Franklin | 1.0.0 |
+| [accessibility-expert](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | Examples: | Alysson Franklin | 1.0.0 |
 | [accessibility-expert](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/accessibility-expert) | cc-marketplace | Examples: | Alysson Franklin | 1.0.0 |
 | [ai-engineer](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/ai-engineer) | cc-marketplace | Use this agent when implementing AI/ML features, integrating language models, building recommendation systems, or adding intelligent automation to ... | Michael Galpert | 1.0.0 |
 | [ai-ethics-governance-specialist](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/ai-ethics-governance-specialist) | cc-marketplace | Use this agent when you need to implement AI ethics frameworks, governance policies, and responsible AI practices for B2B applications. This agent ... | Alysson Franklin | 1.0.0 |
@@ -1189,7 +1189,7 @@ Last updated: 2026-06-14 05:55 UTC
 | [documentation-generation](https://github.com/wshobson/agents/tree/main/plugins/documentation-generation) | claude-code-workflows | OpenAPI specification generation, Mermaid diagram creation, tutorial writing, API reference documentation | Seth Hobson | 1.2.3 |
 | [documentation-generator](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/documentation-generator) | cc-marketplace | Create comprehensive documentation for code, APIs, and projects. | Anonymous | 1.0.0 |
 | [documentation-standards](https://github.com/wshobson/agents/tree/main/plugins/documentation-standards) | claude-code-workflows | HADS (Human-AI Document Standard) — semantic tagging convention for writing docs that work efficiently for both humans and AI models. Reduces token... | Niksa Barlovic | 1.0.1 |
-| [generate-api-docs](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/generate-api-docs) | cc-marketplace | Generate API documentation for endpoints |  Anand Tyagi | 1.0.0 |
+| [generate-api-docs](https://github.com/ananddtyagi/claude-code-marketplace/blob/main/plugins/generate-api-docs) | cc-marketplace | Generate API documentation for endpoints |  Anand Tyagi | 1.0.0 |
 | [llm-wiki-setup](https://github.com/daymade/claude-code-skills/tree/main/llm-wiki-setup) | daymade/claude-code-skills | Co-create a personal investment-research LLM Wiki (Andrej Karpathy's pattern) where the user's OWN analysis framework becomes a living CLAUDE.md — ... | None | 1.0.0 |
 | [openapi-expert](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/openapi-expert) | cc-marketplace | Use this agent to update, synchronize, or validate the OpenAPI specification (openapi.yml) against the actual REST API implementation. This include... | Meiring de Wet | 1.0.0 |
 
@@ -1238,7 +1238,7 @@ Last updated: 2026-06-14 05:55 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [2-commit-fast](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/2-commit-fast) | awesome-claude-code-plugins | Automates git commit process by selecting the first suggested message, generating structured commits with consistent formatting while skipping manu... | steadycursor | 1.0.0 |
+| [2-commit-fast](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | Automates git commit process by selecting the first suggested message, generating structured commits with consistent formatting while skipping manu... | steadycursor | 1.0.0 |
 | [2-commit-fast](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/2-commit-fast) | cc-marketplace | Automates git commit process by selecting the first suggested message, generating structured commits with consistent formatting while skipping manu... | steadycursor | 1.0.0 |
 | [analyze-issue](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/analyze-issue) | cc-marketplace | Fetches GitHub issue details to create comprehensive implementation specifications, analyzing requirements and planning structured approach with cl... | jerseycheese | 1.0.0 |
 | [bug-fix](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/bug-fix) | cc-marketplace | Streamlines bug fixing by creating a GitHub issue first, then a feature branch for implementing and thoroughly testing the solution before merging. | danielscholl | 1.0.0 |
