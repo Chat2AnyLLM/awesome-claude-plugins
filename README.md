@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 86 | Total Plugins: 1258
 
-Last updated: 2026-06-14 00:13 UTC
+Last updated: 2026-06-14 05:55 UTC
 
 ## Installation
 
@@ -378,7 +378,7 @@ Last updated: 2026-06-14 00:13 UTC
 | [sanctum](https://github.com/athola/claude-night-market/tree/main/plugins/sanctum) | athola/claude-night-market | Git workflows: commit messages, PR preparation, documentation updates, version management, sessions, and deferred-item capture | None | 1.9.11 |
 | [scribe](https://github.com/athola/claude-night-market/tree/main/plugins/scribe) | athola/claude-night-market | Documentation review, cleanup, and generation with AI slop detection, style learning, and human-quality writing enforcement | None | 1.9.11 |
 | [scry](https://github.com/athola/claude-night-market/tree/main/plugins/scry) | athola/claude-night-market | Media generation: terminal recordings (VHS), browser recordings (Playwright), GIF processing, and media composition | None | 1.9.11 |
-| [seedance-prompts-skill](https://github.com/mantoufan/seedance-prompts-skill/tree/main/) | seedance-prompts | 覆盖「创意→完整短剧剧本→AI 视频提示词」全链路的 Skill：上游可从一句创意/小说创作 50-100 集完整短剧剧本（选题/付费卡点/爽点矩阵/反派体系/合规/出海），下游把剧本转为 Seedance 2.0 标准剧本、资产生成提示词与分镜脚本。含 12 条生产铁律 + 17 个模板 +... | None | 1.7.0 |
+| [seedance-prompts-skill](https://github.com/mantoufan/seedance-prompts-skill/tree/main/) | seedance-prompts | 覆盖「创意→完整短剧剧本→AI 视频提示词」全链路的 Skill：上游可从一句创意/小说创作完整短剧剧本（集数/时长可自定义），下游把剧本、文章或大纲转为 Seedance 2.0 标准剧本、资产生成提示词与分镜脚本。默认尊重用户素材与目标时长，不强拆固定 15 秒/固定集数；含生产铁律、防提... | None | 1.7.1 |
 | [skills-janitor](https://github.com/khendzel/skills-janitor/tree/main/) | khendzel/skills-janitor | 4 skill hygiene tools: health report, auto-fix, value (tokens+usage), discover (search+precheck). Now sees plugin-namespaced skills. | None | 1.0.0 |
 | [smdd-toolkit](https://github.com/cyvnrs/smdd-toolkit/tree/main/) | cyvnrs/smdd-toolkit | Structured Markdown Driven Development skills for Claude Code. | None | 1.0.0 |
 | [sobelow](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/sobelow) | bradleygolden/claude-marketplace-elixir | Sobelow security-focused static analysis for Phoenix and Elixir projects | None | 1.0.0 |
@@ -428,7 +428,7 @@ Last updated: 2026-06-14 00:13 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [accessibility-expert](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | Examples: | Alysson Franklin | 1.0.0 |
+| [accessibility-expert](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/accessibility-expert) | awesome-claude-code-plugins | Examples: | Alysson Franklin | 1.0.0 |
 | [accessibility-expert](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/accessibility-expert) | cc-marketplace | Examples: | Alysson Franklin | 1.0.0 |
 | [ai-engineer](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/ai-engineer) | cc-marketplace | Use this agent when implementing AI/ML features, integrating language models, building recommendation systems, or adding intelligent automation to ... | Michael Galpert | 1.0.0 |
 | [ai-ethics-governance-specialist](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/ai-ethics-governance-specialist) | cc-marketplace | Use this agent when you need to implement AI ethics frameworks, governance policies, and responsible AI practices for B2B applications. This agent ... | Alysson Franklin | 1.0.0 |
@@ -1238,7 +1238,7 @@ Last updated: 2026-06-14 00:13 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [2-commit-fast](https://github.com/ccplugins/awesome-claude-code-plugins) | awesome-claude-code-plugins | Automates git commit process by selecting the first suggested message, generating structured commits with consistent formatting while skipping manu... | steadycursor | 1.0.0 |
+| [2-commit-fast](https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/2-commit-fast) | awesome-claude-code-plugins | Automates git commit process by selecting the first suggested message, generating structured commits with consistent formatting while skipping manu... | steadycursor | 1.0.0 |
 | [2-commit-fast](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/2-commit-fast) | cc-marketplace | Automates git commit process by selecting the first suggested message, generating structured commits with consistent formatting while skipping manu... | steadycursor | 1.0.0 |
 | [analyze-issue](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/analyze-issue) | cc-marketplace | Fetches GitHub issue details to create comprehensive implementation specifications, analyzing requirements and planning structured approach with cl... | jerseycheese | 1.0.0 |
 | [bug-fix](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/bug-fix) | cc-marketplace | Streamlines bug fixing by creating a GitHub issue first, then a feature branch for implementing and thoroughly testing the solution before merging. | danielscholl | 1.0.0 |
