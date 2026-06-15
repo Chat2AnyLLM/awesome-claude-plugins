@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 86 | Total Plugins: 1258
+Total Marketplaces: 86 | Total Plugins: 1260
 
-Last updated: 2026-06-15 17:58 UTC
+Last updated: 2026-06-15 21:11 UTC
 
 ## Installation
 
@@ -659,7 +659,7 @@ Last updated: 2026-06-15 17:58 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [sap-btp-best-practices](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-best-practices) | secondsky/sap-skills | Production-ready SAP BTP best practices for enterprise architecture, account management, security, and operations. Use when planning BTP implementa... | None | 2.3.0 |
+| [sap-btp-best-practices](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-best-practices) | secondsky/sap-skills | SAP BTP best practices for enterprise architecture, account management, security, and operations, with verification evidence tracked in the reposit... | None | 2.3.0 |
 | [sap-btp-build-work-zone-advanced](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-build-work-zone-advanced) | secondsky/sap-skills | Develops and administers SAP Build Work Zone, advanced edition digital workplace solutions. Use when creating workspaces, workpages, and collaborat... | None | 2.3.0 |
 | [sap-btp-business-application-studio](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-business-application-studio) | secondsky/sap-skills | This skill provides comprehensive guidance for SAP Business Application Studio (BAS), the cloud-based IDE on SAP BTP built on Code-OSS. Use when se... | None | 2.3.0 |
 | [sap-btp-cias](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-btp-cias) | secondsky/sap-skills | SAP BTP Cloud Integration Automation Service (CIAS) skill for guided integration workflows. Use when: setting up CIAS subscriptions, configuring de... | None | 2.3.0 |
@@ -1004,6 +1004,7 @@ Last updated: 2026-06-15 17:58 UTC
 | [base44](https://github.com/base44/skills.git) | anthropics/claude-plugins-official | Build and deploy Base44 full-stack apps with CLI project management and JavaScript/TypeScript SDK development skills | None | 1.0.0 |
 | [basedpyright](https://github.com/Piebald-AI/claude-code-lsps/tree/main/basedpyright) | Piebald-AI/claude-code-lsps | Python language server using basedpyright with stricter type checking | Tyler Laprade | 0.1.0 |
 | [bash-language-server](https://github.com/Piebald-AI/claude-code-lsps/tree/main/bash-language-server) | Piebald-AI/claude-code-lsps | Bash language server (bash-lsp) providing IDE features for shell scripts | Piebald LLC | 0.1.0 |
+| [boltz](https://github.com/boltz-bio/boltz-api-skills.git) | anthropics/claude-plugins-official | Predict structures, screen molecules and proteins, and design binders with Boltz from Claude Code. | Boltz | 1.0.0 |
 | [bsl-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/bsl-lsp) | Piebald-AI/claude-code-lsps | BSL Language Server for 1C:Enterprise and OneScript | Nikita Fedkin | 0.1.0 |
 | [buildkite](https://github.com/buildkite/skills.git) | anthropics/claude-plugins-official | Official Buildkite skills for Claude Code, Cursor, and other AI coding agents — pipelines, migration, preflight, agent runtime, CLI, and API | Buildkite | 1.0.0 |
 | [cds-mcp](https://github.com/cap-js/mcp-server.git) | anthropics/claude-plugins-official | AI-assisted development of SAP Cloud Application Programming Model (CAP) projects. Search CDS models and CAP documentation. | SAP SE | 1.0.0 |
@@ -1054,6 +1055,7 @@ Last updated: 2026-06-15 17:58 UTC
 | [lean4-lean-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/lean4-lean-lsp) | Piebald-AI/claude-code-lsps | Lean 4 language server via the lean binary — for standalone .lean files outside Lake projects. Replaces the inefficient CLI-based workflow with nat... | Yingte Xu | 0.1.0 |
 | [liquid-lsp](https://github.com/Shopify/liquid-skills.git) | anthropics/claude-plugins-official | LSP integration for Shopify Liquid templates via the Shopify CLI theme language server. | Shopify | 1.0.0 |
 | [liquid-skills](https://github.com/Shopify/liquid-skills.git) | anthropics/claude-plugins-official | Liquid language fundamentals, CSS/JS/HTML coding standards, and WCAG accessibility patterns for Shopify themes | Shopify | 1.0.0 |
+| [lovable](https://github.com/lovablelabs/mcp.git) | anthropics/claude-plugins-official | Build, iterate on, deploy, and manage Lovable apps from Claude Code. Bundles the official Lovable MCP server (remote, OAuth 2.1) and adds focused c... | Lovable | 1.0.0 |
 | [lua-lsp](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/lua-lsp) | anthropics/claude-plugins-official | Lua language server for code intelligence | Anthropic | 1.0.0 |
 | [lumen](https://github.com/ory/lumen.git) | anthropics/claude-plugins-official | Precise local semantic code search via MCP. Indexes your codebase with Go AST parsing, embeds with Ollama or LM Studio, and exposes vector search t... | Ory Corp | 1.0.0 |
 | [mcp-apps](https://github.com/modelcontextprotocol/ext-apps.git) | anthropics/claude-plugins-official | Skills for creating MCP Apps with the MCP Apps SDK | Anthropic / Model Context Protocol | 1.0.0 |
@@ -1856,7 +1858,7 @@ Last updated: 2026-06-15 17:58 UTC
 |--------|-------------|-------------|--------|---------|
 | [claude-desktop-extension](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/claude-desktop-extension) | cc-marketplace | This command provides the context necessary for Claude Code to create the Desktop Extension or .dxt file of an MCP. |  Anand Tyagi | 1.0.0 |
 | [conductor](https://github.com/MadAppGang/claude-code/tree/main/plugins/conductor) | mag-claude-plugins | Context-Driven Development workflow inspired by Gemini Conductor. v2.1.0: Added explicit name: fields to commands for prefix-free invocation. Full-... | Jack Rudenko | 2.1.0 |
-| [ecc](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | Harness-native ECC operator layer - 64 agents, 262 skills, 84 legacy command shims, reusable hooks, rules, selective install profiles, and producti... | Affaan Mustafa | 2.0.0 |
+| [ecc](https://github.com/affaan-m/everything-claude-code/tree/main/) | affaan-m/everything-claude-code | Harness-native ECC operator layer - 67 agents, 270 skills, 92 legacy command shims, reusable hooks, rules, selective install profiles, and producti... | Affaan Mustafa | 2.0.0 |
 | [lyra](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/lyra) | cc-marketplace | Lyra - a master-level AI prompt optimization specialist. |  Anand Tyagi | 1.0.0 |
 | [sugar](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/sugar) | cc-marketplace | Transform Claude Code into an autonomous AI development powerhouse with rich task context, specialized agents, and intelligent workflow automation | Steven Leggett | 2.0.0 |
 
