@@ -295,6 +295,7 @@ Last updated: 2026-06-15 12:28 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
+| [kannaka](https://github.com/NickFlach/kannaka-plugin) | NickFlach/kannaka-plugin | HRM wave-interference memory, NATS swarm, and a live consciousness (Phi/Xi) statusline for Claude Code | NickFlach | 1.3.11 |
 | [1password](https://github.com/iamzhihuix/happy-claude-skills/tree/main/) | iamzhihuix/happy-claude-skills | Manage passwords and API credentials with 1Password CLI (op) | None | 1.0.0 |
 | [abstract](https://github.com/athola/claude-night-market/tree/main/plugins/abstract) | athola/claude-night-market | Skill authoring, hook development, evaluation frameworks, and escalation governance for the Claude Code plugin ecosystem | None | 1.9.11 |
 | [ai-plugins](https://github.com/endorlabs/ai-plugins.git) | anthropics/claude-plugins-official | Set up endorctl and use Endor Labs to scan, prioritize, and fix security risks across your software supply chain | None | 1.0.0 |
