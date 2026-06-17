@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 87 | Total Plugins: 1266
+Total Marketplaces: 87 | Total Plugins: 1267
 
-Last updated: 2026-06-17 19:27 UTC
+Last updated: 2026-06-17 22:05 UTC
 
 ## Installation
 
@@ -313,7 +313,7 @@ Last updated: 2026-06-17 19:27 UTC
 | [cc-best](https://github.com/xiaobei930/claude-code-best-practices/tree/main/) | xiaobei930/claude-code-best-practices | Complete development environment with role-based workflows (PM→Lead→Designer→Dev→QA), 30 hook scripts across 20 events with 3-tier profiles, 44 com... | xiaobei930 | 0.11.0 |
 | [claude-api](https://github.com/anthropics/skills/tree/main/) | anthropic-agent-skills | Claude API and SDK documentation skill for building LLM-powered applications | None | 1.0.0 |
 | [claude-bridge](https://github.com/Stigmavlc/claude-bridge) | claude-bridge | When a task needs the web, Claude Code drives the browser itself: your real logged-in Chrome for account work, a headless browser for public lookup... | Ivan Aguilar | 0.1.0 |
-| [claude-mem](https://github.com/thedotmack/claude-mem/tree/main/plugin) | thedotmack | Persistent memory system for Claude Code - context compression across sessions | None | 13.6.1 |
+| [claude-mem](https://github.com/thedotmack/claude-mem/tree/main/plugin) | thedotmack | Persistent memory system for Claude Code - context compression across sessions | None | 13.6.2 |
 | [claude-session-driver](https://github.com/obra/claude-session-driver.git) | superpowers-marketplace | Launch, control, and monitor other Claude Code sessions as workers via tmux | None | 4.0.0 |
 | [cloudinary](https://github.com/cloudinary-devs/cloudinary-plugin.git) | anthropics/claude-plugins-official | Use Cloudinary directly in Claude. Manage assets, apply transformations, optimize media, and more through natural conversation. | None | 1.0.0 |
 | [compound-engineering](https://github.com/EveryInc/compounding-engineering-plugin/tree/main/plugins/compound-engineering) | compounding-engineering | AI-powered development tools that get smarter with every use. Make each unit of engineering work easier than the last. | Kieran Klaassen | 1.0.0 |
@@ -1081,6 +1081,7 @@ Last updated: 2026-06-17 19:27 UTC
 | [oracle-ai-data-platform-workbench-engineer-agent](https://github.com/oracle-samples/oracle-aidp-samples.git) | anthropics/claude-plugins-official | Oracle AI Data Platform (AIDP) Workbench engineer agent for Claude Code — a 37-skill agent that operates the full Spark/Delta lakehouse in natural ... | Oracle | 1.0.0 |
 | [oracle-ai-data-platform-workbench-spark-connectors](https://github.com/oracle-samples/oracle-aidp-samples.git) | anthropics/claude-plugins-official | Oracle AI Data Platform Workbench Spark connectors for Claude Code. 18 connector skills covering every data source workbench customers commonly nee... | Oracle | 1.0.0 |
 | [outputai](https://github.com/growthxai/output.git) | anthropics/claude-plugins-official | Output.ai workflow development toolkit for Claude Code. Adds 5 specialist agents (planner, builder, debugger, prompt writer, quality reviewer), 40+... | Output.ai | 1.0.0 |
+| [perl-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/perl-lsp) | Piebald-AI/claude-code-lsps | Perl language server (perl-lsp) with type inference, cross-file navigation, and framework intelligence | Piebald LLC | 0.1.0 |
 | [php-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/php-lsp) | Piebald-AI/claude-code-lsps | Full-featured PHP language server written in Rust — semantic diagnostics, code actions, refactoring, PSR-4/Composer, PHPUnit test runner | Jorg Sowa | 0.1.0 |
 | [php-lsp](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/php-lsp) | anthropics/claude-plugins-official | PHP language server (Intelephense) for code intelligence | Anthropic | 1.0.0 |
 | [phpactor](https://github.com/Piebald-AI/claude-code-lsps/tree/main/phpactor) | Piebald-AI/claude-code-lsps | Intelligent PHP completion and refactoring language server | Piebald LLC | 0.1.0 |
