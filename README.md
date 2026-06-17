@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 87 | Total Plugins: 1262
+Total Marketplaces: 87 | Total Plugins: 1264
 
-Last updated: 2026-06-16 23:26 UTC
+Last updated: 2026-06-17 04:45 UTC
 
 ## Installation
 
@@ -385,7 +385,7 @@ Last updated: 2026-06-16 23:26 UTC
 | [spec-kit](https://github.com/athola/claude-night-market/tree/main/plugins/spec-kit) | athola/claude-night-market | Specification-driven development: structured specs, implementation planning, and task orchestration for systematic feature delivery | None | 1.9.11 |
 | [startup-superpowers](https://github.com/SergeiGorbatiuk/startup-superpowers) | startup-superpowers | A local-first startup advisor that guides founders through idea idea validation, competitors research, hypotheses generation, MVP/prototype design,... | None | 1.0.0 |
 | [superpowers](https://github.com/obra/superpowers.git) | superpowers-marketplace | Core skills library: TDD, debugging, collaboration patterns, and proven techniques | None | 6.0.0 |
-| [superpowers](https://github.com/obra/superpowers/tree/main/) | superpowers-dev | Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques | Jesse Vincent | 6.0.0 |
+| [superpowers](https://github.com/obra/superpowers/tree/main/) | superpowers-dev | Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques | Jesse Vincent | 6.0.1 |
 | [superpowers-chrome](https://github.com/obra/superpowers-chrome.git) | superpowers-marketplace | Direct Chrome DevTools Protocol access via 'browsing' skill. Skill mode (CLI commands) + MCP mode (single use_browser tool). Zero dependencies, aut... | None | 3.0.1 |
 | [superpowers-dev](https://github.com/obra/superpowers.git) | superpowers-marketplace | DEV BRANCH: YOU MUST UNINSTALL OTHER VERSIONS OF SUPERPOWERS BEFORE INSTALLING THIS | None | 0.0.2026021001 |
 | [superpowers-developing-for-claude-code](https://github.com/obra/superpowers-developing-for-claude-code.git) | superpowers-marketplace | Skills and resources for developing Claude Code plugins, skills, MCP servers, and extensions. Includes comprehensive official documentation and sel... | None | 0.3.1 |
@@ -1097,6 +1097,7 @@ Last updated: 2026-06-16 23:26 UTC
 | [rc](https://github.com/RevenueCat/rc-claude-code-plugin.git) | anthropics/claude-plugins-official | Configure RevenueCat projects, apps, products, entitlements, and offerings directly from Claude Code. Manage your in-app purchase backend without l... | None | 1.0.0 |
 | [resend](https://github.com/resend/resend-skills.git) | anthropics/claude-plugins-official | Agent skills for working with Resend to send and receive emails — email API integration, agent inbox, CLI, React Email components, and deliverabili... | Resend | 1.0.0 |
 | [revenuecat](https://github.com/RevenueCat/rc-claude-code-plugin.git) | anthropics/claude-plugins-official | Configure RevenueCat projects, apps, products, entitlements, and offerings directly from Claude Code. Manage your in-app purchase backend without l... | None | 1.0.0 |
+| [rill](https://github.com/rilldata/agent-skills.git) | anthropics/claude-plugins-official | Skills for developing and querying projects in the Rill business intelligence platform | Rill Data | 1.0.0 |
 | [ruby-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/ruby-lsp) | Piebald-AI/claude-code-lsps | Modern Ruby language server by Shopify | Piebald LLC | 0.1.0 |
 | [ruby-lsp](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ruby-lsp) | anthropics/claude-plugins-official | Ruby language server for code intelligence and analysis | Anthropic | 1.0.0 |
 | [rust-analyzer](https://github.com/Piebald-AI/claude-code-lsps/tree/main/rust-analyzer) | Piebald-AI/claude-code-lsps | Rust language server integration with rust-analyzer | Piebald LLC | 0.1.0 |
@@ -1484,6 +1485,7 @@ Last updated: 2026-06-16 23:26 UTC
 | [ai-commit-gen](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/ai-commit-gen) | claude-code-plugins-plus | AI-powered commit message generator - analyzes your git diff and creates conventional commit messages instantly | Jeremy Longshore | 1.0.0 |
 | [airtable](https://github.com/Airtable/skills.git) | anthropics/claude-plugins-official | Airtable is the database and operations layer for your agents — whether running product, marketing, sales, ops, HR, or a custom business app. It co... | Airtable | 1.0.0 |
 | [airwallex](https://github.com/airwallex/airwallex-marketplace.git) | anthropics/claude-plugins-official | Airwallex CLI plugin for Claude — skills for payments, billing, invoicing, beneficiary creation, card provisioning, and cashflow management. | Airwallex | 1.0.0 |
+| [airwallex-agentos](https://github.com/airwallex/airwallex-marketplace.git) | anthropics/claude-plugins-official | Bring Airwallex's global financial infrastructure to Claude. Orchestrate actions across your account in plain language, e.g., set up invoices from ... | Airwallex | 1.0.0 |
 | [apollo](https://github.com/apolloio/apollo-mcp-plugin.git) | anthropics/claude-plugins-official | Prospect, enrich leads, load outreach sequences, and query sales analytics with Apollo.io — one-click MCP server integration for Claude Code and Co... | Apollo.io | 1.0.0 |
 | [asana](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/asana) | anthropics/claude-plugins-official | Asana project management integration. Create and manage tasks, search projects, update assignments, track progress, and integrate your development ... | None | 1.0.0 |
 | [atlassian](https://github.com/atlassian/atlassian-mcp-server.git) | anthropics/claude-plugins-official | Connect to Atlassian products including Jira and Confluence. Search and create issues, access documentation, manage sprints, and integrate your dev... | None | 1.0.0 |
