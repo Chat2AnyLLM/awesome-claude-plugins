@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 87 | Total Plugins: 1264
 
-Last updated: 2026-06-17 04:45 UTC
+Last updated: 2026-06-17 09:53 UTC
 
 ## Installation
 
@@ -384,8 +384,8 @@ Last updated: 2026-06-17 04:45 UTC
 | [sobelow](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/sobelow) | bradleygolden/claude-marketplace-elixir | Sobelow security-focused static analysis for Phoenix and Elixir projects | None | 1.0.0 |
 | [spec-kit](https://github.com/athola/claude-night-market/tree/main/plugins/spec-kit) | athola/claude-night-market | Specification-driven development: structured specs, implementation planning, and task orchestration for systematic feature delivery | None | 1.9.11 |
 | [startup-superpowers](https://github.com/SergeiGorbatiuk/startup-superpowers) | startup-superpowers | A local-first startup advisor that guides founders through idea idea validation, competitors research, hypotheses generation, MVP/prototype design,... | None | 1.0.0 |
-| [superpowers](https://github.com/obra/superpowers.git) | superpowers-marketplace | Core skills library: TDD, debugging, collaboration patterns, and proven techniques | None | 6.0.0 |
-| [superpowers](https://github.com/obra/superpowers/tree/main/) | superpowers-dev | Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques | Jesse Vincent | 6.0.1 |
+| [superpowers](https://github.com/obra/superpowers.git) | superpowers-marketplace | Core skills library: TDD, debugging, collaboration patterns, and proven techniques | None | 6.0.2 |
+| [superpowers](https://github.com/obra/superpowers/tree/main/) | superpowers-dev | Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques | Jesse Vincent | 6.0.2 |
 | [superpowers-chrome](https://github.com/obra/superpowers-chrome.git) | superpowers-marketplace | Direct Chrome DevTools Protocol access via 'browsing' skill. Skill mode (CLI commands) + MCP mode (single use_browser tool). Zero dependencies, aut... | None | 3.0.1 |
 | [superpowers-dev](https://github.com/obra/superpowers.git) | superpowers-marketplace | DEV BRANCH: YOU MUST UNINSTALL OTHER VERSIONS OF SUPERPOWERS BEFORE INSTALLING THIS | None | 0.0.2026021001 |
 | [superpowers-developing-for-claude-code](https://github.com/obra/superpowers-developing-for-claude-code.git) | superpowers-marketplace | Skills and resources for developing Claude Code plugins, skills, MCP servers, and extensions. Includes comprehensive official documentation and sel... | None | 0.3.1 |
