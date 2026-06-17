@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 87 | Total Plugins: 1264
 
-Last updated: 2026-06-17 13:44 UTC
+Last updated: 2026-06-17 16:56 UTC
 
 ## Installation
 
@@ -99,6 +99,7 @@ Last updated: 2026-06-17 13:44 UTC
 - [mcp](#mcp)
 - [media](#media)
 - [memory](#memory)
+- [migration](#migration)
 - [modernization](#modernization)
 - [monitoring](#monitoring)
 - [operations](#operations)
@@ -1381,6 +1382,12 @@ Last updated: 2026-06-17 13:44 UTC
 |--------|-------------|-------------|--------|---------|
 | [pensyve](https://github.com/major7apps/pensyve.git) | claude-code-workflows | Universal memory runtime for Claude Code with cross-session memory, entity-aware recall, lifecycle hooks, skills, commands, and memory-curator agents | Major7 Apps | 1.3.0 |
 
+## migration
+
+| Plugin | Marketplace | Description | Author | Version |
+|--------|-------------|-------------|--------|---------|
+| [aws-transform](https://github.com/awslabs/agent-plugins.git) | anthropics/claude-plugins-official | Migrate, modernize, and upgrade codebases to AWS. Transforms .NET Framework to .NET 8/10, mainframe COBOL to Java, VMware VMs to EC2, SQL Server to... | Amazon Web Services | 1.0.0 |
+
 ## modernization
 
 | Plugin | Marketplace | Description | Author | Version |
@@ -1484,7 +1491,6 @@ Last updated: 2026-06-17 13:44 UTC
 | [agent-context-manager](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/agent-context-manager) | claude-code-plugins-plus | Automatically detects and loads AGENTS.md files to provide agent-specific instructions | Jeremy Longshore | 1.0.0 |
 | [ai-commit-gen](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/ai-commit-gen) | claude-code-plugins-plus | AI-powered commit message generator - analyzes your git diff and creates conventional commit messages instantly | Jeremy Longshore | 1.0.0 |
 | [airtable](https://github.com/Airtable/skills.git) | anthropics/claude-plugins-official | Airtable is the database and operations layer for your agents — whether running product, marketing, sales, ops, HR, or a custom business app. It co... | Airtable | 1.0.0 |
-| [airwallex](https://github.com/airwallex/airwallex-marketplace.git) | anthropics/claude-plugins-official | Airwallex CLI plugin for Claude — skills for payments, billing, invoicing, beneficiary creation, card provisioning, and cashflow management. | Airwallex | 1.0.0 |
 | [airwallex-agentos](https://github.com/airwallex/airwallex-marketplace.git) | anthropics/claude-plugins-official | Bring Airwallex's global financial infrastructure to Claude. Orchestrate actions across your account in plain language, e.g., set up invoices from ... | Airwallex | 1.0.0 |
 | [apollo](https://github.com/apolloio/apollo-mcp-plugin.git) | anthropics/claude-plugins-official | Prospect, enrich leads, load outreach sequences, and query sales analytics with Apollo.io — one-click MCP server integration for Claude Code and Co... | Apollo.io | 1.0.0 |
 | [asana](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/asana) | anthropics/claude-plugins-official | Asana project management integration. Create and manage tasks, search projects, update assignments, track progress, and integrate your development ... | None | 1.0.0 |
