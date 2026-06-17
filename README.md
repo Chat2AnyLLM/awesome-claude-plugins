@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 87 | Total Plugins: 1264
+Total Marketplaces: 87 | Total Plugins: 1266
 
-Last updated: 2026-06-17 16:56 UTC
+Last updated: 2026-06-17 19:27 UTC
 
 ## Installation
 
@@ -845,6 +845,7 @@ Last updated: 2026-06-17 16:56 UTC
 | [sap-sac-custom-widget](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-sac-custom-widget) | secondsky/sap-skills | SAP Analytics Cloud (SAC) Custom Widget development. Use when building custom visualizations, extending SAC with Web Components, or creating Widget... | None | 2.3.0 |
 | [sap-sac-planning](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-sac-planning) | secondsky/sap-skills | SAP Analytics Cloud (SAC) planning guidance for planning models, planning-enabled stories, data actions, multi actions, version management, data lo... | None | 2.3.0 |
 | [sap-sac-scripting](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-sac-scripting) | secondsky/sap-skills | Comprehensive SAC scripting skill for SAP Analytics Cloud Analytics Designer and Optimized Story Experience. This skill should be used when the use... | None | 2.3.0 |
+| [sap-sac-test-automation](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-sac-test-automation) | secondsky/sap-skills | SAP Analytics Cloud (SAC) automated testing skill for designing capability-gated browser discovery and deterministic Playwright test suites for SAC... | None | 2.3.0 |
 | [sap-sqlscript](https://github.com/secondsky/sap-skills/tree/main/plugins/sap-sqlscript) | secondsky/sap-skills | This skill should be used when the user asks to "write a SQLScript procedure", "create HANA stored procedure", "implement AMDP method", "optimize S... | None | 2.3.0 |
 
 ## database
@@ -1077,6 +1078,7 @@ Last updated: 2026-06-17 16:56 UTC
 | [nvidia-skills](https://github.com/NVIDIA/skills.git) | anthropics/claude-plugins-official | NVIDIA agent skills for accelerated-computing workflows — starting with cuOpt vehicle-routing optimization (VRP, TSP, PDP) via the cuOpt Python API. | NVIDIA | 1.0.0 |
 | [ocaml-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/ocaml-lsp) | Piebald-AI/claude-code-lsps | OCaml language server (ocaml-lsp-server) | yousleepwhen | 0.1.0 |
 | [omnisharp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/omnisharp) | Piebald-AI/claude-code-lsps | Official .NET language server with rich C# support | Piebald LLC | 0.1.0 |
+| [oracle-ai-data-platform-workbench-engineer-agent](https://github.com/oracle-samples/oracle-aidp-samples.git) | anthropics/claude-plugins-official | Oracle AI Data Platform (AIDP) Workbench engineer agent for Claude Code — a 37-skill agent that operates the full Spark/Delta lakehouse in natural ... | Oracle | 1.0.0 |
 | [oracle-ai-data-platform-workbench-spark-connectors](https://github.com/oracle-samples/oracle-aidp-samples.git) | anthropics/claude-plugins-official | Oracle AI Data Platform Workbench Spark connectors for Claude Code. 18 connector skills covering every data source workbench customers commonly nee... | Oracle | 1.0.0 |
 | [outputai](https://github.com/growthxai/output.git) | anthropics/claude-plugins-official | Output.ai workflow development toolkit for Claude Code. Adds 5 specialist agents (planner, builder, debugger, prompt writer, quality reviewer), 40+... | Output.ai | 1.0.0 |
 | [php-lsp](https://github.com/Piebald-AI/claude-code-lsps/tree/main/php-lsp) | Piebald-AI/claude-code-lsps | Full-featured PHP language server written in Rust — semantic diagnostics, code actions, refactoring, PSR-4/Composer, PHPUnit test runner | Jorg Sowa | 0.1.0 |
