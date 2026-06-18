@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 88 | Total Plugins: 1272
 
-Last updated: 2026-06-18 14:13 UTC
+Last updated: 2026-06-18 18:07 UTC
 
 ## Installation
 
@@ -650,7 +650,7 @@ Last updated: 2026-06-18 14:13 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [n8n-mcp-skills](https://github.com/czlonkowski/n8n-skills/tree/main/) | czlonkowski/n8n-skills | Complete bundle: 12 expert skills for building flawless n8n workflows using the n8n-mcp MCP server (expression syntax, MCP tools usage, workflow pa... | Romuald Członkowski | 1.18.0 |
+| [n8n-mcp-skills](https://github.com/czlonkowski/n8n-skills/tree/main/) | czlonkowski/n8n-skills | Complete bundle: 14 expert skills for building flawless n8n workflows with the n8n-mcp MCP server — and deploying the self-hosted n8n that runs the... | Romuald Członkowski | 1.20.0 |
 
 ## blockchain
 
