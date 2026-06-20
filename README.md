@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 88 | Total Plugins: 1275
 
-Last updated: 2026-06-20 05:20 UTC
+Last updated: 2026-06-20 09:26 UTC
 
 ## Installation
 
@@ -313,7 +313,7 @@ Last updated: 2026-06-20 05:20 UTC
 | [cc-best](https://github.com/xiaobei930/claude-code-best-practices/tree/main/) | xiaobei930/claude-code-best-practices | Complete development environment with role-based workflows (PM→Lead→Designer→Dev→QA), 30 hook scripts across 20 events with 3-tier profiles, 44 com... | xiaobei930 | 0.11.0 |
 | [claude-api](https://github.com/anthropics/skills/tree/main/) | anthropic-agent-skills | Claude API and SDK documentation skill for building LLM-powered applications | None | 1.0.0 |
 | [claude-bridge](https://github.com/Stigmavlc/claude-bridge) | claude-bridge | When a task needs the web, Claude Code drives the browser itself: your real logged-in Chrome for account work, a headless browser for public lookup... | Ivan Aguilar | 0.1.0 |
-| [claude-mem](https://github.com/thedotmack/claude-mem/tree/main/plugin) | thedotmack | Persistent memory system for Claude Code - context compression across sessions | None | 13.6.2 |
+| [claude-mem](https://github.com/thedotmack/claude-mem/tree/main/plugin) | thedotmack | Persistent memory system for Claude Code - context compression across sessions | None | 13.7.0 |
 | [claude-session-driver](https://github.com/obra/claude-session-driver.git) | superpowers-marketplace | Launch, control, and monitor other Claude Code sessions as workers via tmux | None | 4.0.0 |
 | [cloudinary](https://github.com/cloudinary-devs/cloudinary-plugin.git) | anthropics/claude-plugins-official | Use Cloudinary directly in Claude. Manage assets, apply transformations, optimize media, and more through natural conversation. | None | 1.0.0 |
 | [compound-engineering](https://github.com/EveryInc/compounding-engineering-plugin/tree/main/plugins/compound-engineering) | compounding-engineering | AI-powered development tools that get smarter with every use. Make each unit of engineering work easier than the last. | Kieran Klaassen | 1.0.0 |
@@ -353,7 +353,7 @@ Last updated: 2026-06-20 05:20 UTC
 | [iothackbot](https://github.com/BrownFineSecurity/iothackbot/tree/master/) | BrownFineSecurity/iothackbot | IoT security testing toolkit with skills for firmware analysis, network reconnaissance, UEFI security, and device exploitation | None | 1.0.0 |
 | [keelson](https://github.com/innovestrum/keelson.git) | keelson | Port a disciplined, issue-driven agentic flow into any repo and any project-management tracker. Establisher skill + standalone quality-gate skill +... | None | 1.0.0 |
 | [kreuzberg](https://github.com/kreuzberg-dev/plugins/tree/main/plugins/kreuzberg) | kreuzberg | Local document extraction: text, tables, metadata, images from 91+ formats with optional OCR. | None | 1.0.0 |
-| [kreuzberg-cloud](https://github.com/kreuzberg-dev/plugins/tree/main/plugins/kreuzberg-cloud) | kreuzberg | Offload document extraction to api.kreuzberg.dev via REST API and skills. CLI + MCP server arrive in v0.2.0. | None | 1.0.0 |
+| [kreuzberg-cloud](https://github.com/kreuzberg-dev/plugins/tree/main/plugins/kreuzberg-cloud) | kreuzberg | Managed Kreuzberg document intelligence on api.kreuzberg.dev: async extraction with OCR, URL crawling, presigned uploads, document versioning and d... | None | 1.0.0 |
 | [kreuzcrawl](https://github.com/kreuzberg-dev/plugins/tree/main/plugins/kreuzcrawl) | kreuzberg | Web crawling and scraping with HTML→Markdown and headless-Chrome fallback. | None | 1.0.0 |
 | [leyline](https://github.com/athola/claude-night-market/tree/main/plugins/leyline) | athola/claude-night-market | Foundation infrastructure: auth flows, quota management, error patterns, markdown formatting, trust verification, and injection detection | None | 1.9.12 |
 | [math](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/math) | cc-marketplace | Deterministic math operations using SymPy - arithmetic, algebra, calculus, linear algebra, number theory, and statistics | Anand Tyagi | 1.0.0 |
