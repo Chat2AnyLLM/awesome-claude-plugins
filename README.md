@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 88 | Total Plugins: 1278
 
-Last updated: 2026-06-20 15:05 UTC
+Last updated: 2026-06-20 17:40 UTC
 
 ## Installation
 
@@ -382,7 +382,7 @@ Last updated: 2026-06-20 15:05 UTC
 | [sanctum](https://github.com/athola/claude-night-market/tree/main/plugins/sanctum) | athola/claude-night-market | Git workflows: commit messages, PR preparation, documentation updates, version management, sessions, and deferred-item capture | None | 1.9.12 |
 | [scribe](https://github.com/athola/claude-night-market/tree/main/plugins/scribe) | athola/claude-night-market | Documentation review, cleanup, and generation with AI slop detection, style learning, and human-quality writing enforcement | None | 1.9.12 |
 | [scry](https://github.com/athola/claude-night-market/tree/main/plugins/scry) | athola/claude-night-market | Media generation: terminal recordings (VHS), browser recordings (Playwright), GIF processing, and media composition | None | 1.9.12 |
-| [seedance-prompts-skill](https://github.com/mantoufan/seedance-prompts-skill/tree/main/) | seedance-prompts | 覆盖「创意→完整短剧剧本→AI 视频提示词」全链路的 Skill：上游可从一句创意/小说创作完整短剧剧本（集数/时长可自定义），下游把剧本、文章或大纲转为 Seedance 2.0 标准剧本、资产生成提示词与分镜脚本。默认尊重用户素材与目标时长，不强拆固定 15 秒/固定集数；含生产铁律、防提... | None | 1.7.1 |
+| [seedance-prompts-skill](https://github.com/mantoufan/seedance-prompts-skill/tree/main/) | seedance-prompts | 覆盖「创意→完整短剧剧本→AI 视频提示词」全链路的 Skill：上游可从一句创意/小说创作完整短剧剧本（集数/时长可自定义），下游把剧本、文章或大纲转为 Seedance 2.0 标准剧本、资产生成提示词与分镜脚本。默认尊重用户素材与目标时长，不强拆固定 15 秒/固定集数；含生产铁律、防提... | None | 1.8.1 |
 | [skills-janitor](https://github.com/khendzel/skills-janitor/tree/main/) | khendzel/skills-janitor | 4 skill hygiene tools: health report, auto-fix, value (tokens+usage), discover (search+precheck). Now sees plugin-namespaced skills. | None | 1.0.0 |
 | [smdd-toolkit](https://github.com/cyvnrs/smdd-toolkit/tree/main/) | cyvnrs/smdd-toolkit | Structured Markdown Driven Development skills for Claude Code. | None | 1.0.0 |
 | [sobelow](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/sobelow) | bradleygolden/claude-marketplace-elixir | Sobelow security-focused static analysis for Phoenix and Elixir projects | None | 1.0.0 |
@@ -965,7 +965,7 @@ Last updated: 2026-06-20 15:05 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 17 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 8.6.0 |
+| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 17 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 8.6.1 |
 | [auto-repo-setup](https://github.com/daymade/claude-code-skills/tree/main/auto-repo-setup) | daymade/claude-code-skills | Automated repository environment configuration, fault diagnosis, and repair for non-technical users. When someone clones a repo and says 'it won't ... | None | 1.0.0 |
 | [bigdata-skill](https://github.com/daymade/claude-code-skills/tree/main/bigdata-skill) | daymade/claude-code-skills | Pull Bigdata.com (RavenPack) financial and news data through the official bigdata-client Python SDK and its /v1/* REST endpoints when the Bigdata M... | None | 1.0.0 |
 | [bilibili-source](https://github.com/daymade/claude-code-skills/tree/main/bilibili-source) | daymade/claude-code-skills | Fetch comprehensive, login-free data for any Bilibili (B站) video — title, UP name and follower count, publish date, partition, tags, per-part cids,... | None | 1.0.0 |
