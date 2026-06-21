@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 88 | Total Plugins: 1278
+Total Marketplaces: 88 | Total Plugins: 1277
 
-Last updated: 2026-06-20 23:14 UTC
+Last updated: 2026-06-21 04:53 UTC
 
 ## Installation
 
@@ -383,7 +383,6 @@ Last updated: 2026-06-20 23:14 UTC
 | [sanctum](https://github.com/athola/claude-night-market/tree/main/plugins/sanctum) | athola/claude-night-market | Git workflows: commit messages, PR preparation, documentation updates, version management, sessions, and deferred-item capture | None | 1.9.12 |
 | [scribe](https://github.com/athola/claude-night-market/tree/main/plugins/scribe) | athola/claude-night-market | Documentation review, cleanup, and generation with AI slop detection, style learning, and human-quality writing enforcement | None | 1.9.12 |
 | [scry](https://github.com/athola/claude-night-market/tree/main/plugins/scry) | athola/claude-night-market | Media generation: terminal recordings (VHS), browser recordings (Playwright), GIF processing, and media composition | None | 1.9.12 |
-| [seedance-prompts-skill](https://github.com/mantoufan/seedance-prompts-skill/tree/main/) | seedance-prompts | 覆盖「创意→完整短剧剧本→AI 视频提示词」全链路的 Skill：上游可从一句创意/小说创作完整短剧剧本（集数/时长可自定义），下游把剧本、文章或大纲转为 Seedance 2.0 标准剧本、资产生成提示词与分镜脚本。默认尊重用户素材与目标时长，不强拆固定 15 秒/固定集数；含生产铁律、防提... | None | 1.8.1 |
 | [skills-janitor](https://github.com/khendzel/skills-janitor/tree/main/) | khendzel/skills-janitor | 4 skill hygiene tools: health report, auto-fix, value (tokens+usage), discover (search+precheck). Now sees plugin-namespaced skills. | None | 1.0.0 |
 | [smdd-toolkit](https://github.com/cyvnrs/smdd-toolkit/tree/main/) | cyvnrs/smdd-toolkit | Structured Markdown Driven Development skills for Claude Code. | None | 1.0.0 |
 | [sobelow](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/sobelow) | bradleygolden/claude-marketplace-elixir | Sobelow security-focused static analysis for Phoenix and Elixir projects | None | 1.0.0 |
@@ -475,7 +474,7 @@ Last updated: 2026-06-20 23:14 UTC
 | [instagram-curator](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/instagram-curator) | cc-marketplace | Instagram Curator subagent | Michael Galpert | 1.0.0 |
 | [joker](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/joker) | cc-marketplace | Use this agent when you need to lighten the mood, create funny content, or add humor to any situation. This agent specializes in dad jokes, program... | Michael Galpert | 1.0.0 |
 | [legal-advisor](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/legal-advisor) | cc-marketplace | Use this agent when you need legal advisory, compliance documentation, RFP response creation, and enterprise contract support for B2B applications.... | Alysson Franklin | 1.0.0 |
-| [legal-compliance-checker](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/legal-compliance-checker) | cc-marketplace | Use this agent when reviewing terms of service, privacy policies, ensuring regulatory compliance, or handling legal requirements. This agent excels... | Michael Galpert | 1.0.0 |
+| [legal-compliance-checker](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Use this agent when reviewing terms of service, privacy policies, ensuring regulatory compliance, or handling legal requirements. This agent excels... | Michael Galpert | 1.0.0 |
 | [mobile-app-builder](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/mobile-app-builder) | cc-marketplace | Use this agent when developing native iOS or Android applications, implementing React Native features, or optimizing mobile performance. This agent... | Michael Galpert | 1.0.0 |
 | [mobile-ux-optimizer](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/mobile-ux-optimizer) | cc-marketplace | Use this agent when you need to optimize UI/UX components or interfaces for mobile-first experiences, analyze existing design themes, or ensure mob... | abhishek shah | 1.0.0 |
 | [model-context-protocol-mcp-expert](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/model-context-protocol-mcp-expert) | cc-marketplace | Model Context Protocol Mcp Expert subagent | Community | 1.0.0 |
@@ -1202,7 +1201,7 @@ Last updated: 2026-06-20 23:14 UTC
 | [code-documentation](https://github.com/wshobson/agents/tree/main/plugins/code-documentation) | claude-code-workflows | Documentation generation, code explanation, and technical writing with automated doc generation and tutorial creation | Seth Hobson | 1.2.1 |
 | [deep-research](https://github.com/daymade/claude-code-skills/tree/main/deep-research) | daymade/claude-code-skills | Generate format-controlled research reports with evidence tracking, source governance, and multi-pass synthesis. V6.1 adds: source accessibility (c... | None | 2.4.0 |
 | [documentation-generation](https://github.com/wshobson/agents/tree/main/plugins/documentation-generation) | claude-code-workflows | OpenAPI specification generation, Mermaid diagram creation, tutorial writing, API reference documentation | Seth Hobson | 1.2.3 |
-| [documentation-generator](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/documentation-generator) | cc-marketplace | Create comprehensive documentation for code, APIs, and projects. | Anonymous | 1.0.0 |
+| [documentation-generator](https://github.com/ananddtyagi/claude-code-marketplace/blob/main/plugins/documentation-generator) | cc-marketplace | Create comprehensive documentation for code, APIs, and projects. | Anonymous | 1.0.0 |
 | [documentation-standards](https://github.com/wshobson/agents/tree/main/plugins/documentation-standards) | claude-code-workflows | HADS (Human-AI Document Standard) — semantic tagging convention for writing docs that work efficiently for both humans and AI models. Reduces token... | Niksa Barlovic | 1.0.1 |
 | [generate-api-docs](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/generate-api-docs) | cc-marketplace | Generate API documentation for endpoints |  Anand Tyagi | 1.0.0 |
 | [llm-wiki-setup](https://github.com/daymade/claude-code-skills/tree/main/llm-wiki-setup) | daymade/claude-code-skills | Co-create a personal investment-research LLM Wiki (Andrej Karpathy's pattern) where the user's OWN analysis framework becomes a living CLAUDE.md — ... | None | 1.0.0 |
