@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 88 | Total Plugins: 1277
 
-Last updated: 2026-06-21 20:26 UTC
+Last updated: 2026-06-21 22:18 UTC
 
 ## Installation
 
@@ -314,7 +314,7 @@ Last updated: 2026-06-21 20:26 UTC
 | [cc-best](https://github.com/xiaobei930/claude-code-best-practices/tree/main/) | xiaobei930/claude-code-best-practices | Complete development environment with role-based workflows (PM→Lead→Designer→Dev→QA), 30 hook scripts across 20 events with 3-tier profiles, 44 com... | xiaobei930 | 0.11.0 |
 | [claude-api](https://github.com/anthropics/skills/tree/main/) | anthropic-agent-skills | Claude API and SDK documentation skill for building LLM-powered applications | None | 1.0.0 |
 | [claude-bridge](https://github.com/Stigmavlc/claude-bridge) | claude-bridge | When a task needs the web, Claude Code drives the browser itself: your real logged-in Chrome for account work, a headless browser for public lookup... | Ivan Aguilar | 0.1.0 |
-| [claude-mem](https://github.com/thedotmack/claude-mem/tree/main/plugin) | thedotmack | Persistent memory system for Claude Code - context compression across sessions | None | 13.7.1 |
+| [claude-mem](https://github.com/thedotmack/claude-mem/tree/main/plugin) | thedotmack | Persistent memory system for Claude Code - context compression across sessions | None | 13.8.0 |
 | [claude-session-driver](https://github.com/obra/claude-session-driver.git) | superpowers-marketplace | Launch, control, and monitor other Claude Code sessions as workers via tmux | None | 4.0.0 |
 | [cloudinary](https://github.com/cloudinary-devs/cloudinary-plugin.git) | anthropics/claude-plugins-official | Use Cloudinary directly in Claude. Manage assets, apply transformations, optimize media, and more through natural conversation. | None | 1.0.0 |
 | [compound-engineering](https://github.com/EveryInc/compounding-engineering-plugin/tree/main/plugins/compound-engineering) | compounding-engineering | AI-powered development tools that get smarter with every use. Make each unit of engineering work easier than the last. | Kieran Klaassen | 1.0.0 |
@@ -511,7 +511,7 @@ Last updated: 2026-06-21 20:26 UTC
 | [visual-storyteller](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/visual-storyteller) | cc-marketplace | Use this agent when creating visual narratives, designing infographics, building presentations, or communicating complex ideas through imagery. Thi... | Michael Galpert | 1.0.0 |
 | [web-dev](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/web-dev) | cc-marketplace | Use this agent for expert assistance with web development tasks using React, Next.js, NestJS, and other modern web frameworks with TypeScript and T... | safayavatsal | 1.0.0 |
 | [whimsy-injector](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/whimsy-injector) | cc-marketplace | PROACTIVELY use this agent after any UI/UX changes to ensure delightful, playful elements are incorporated. This agent specializes in adding joy, s... | Michael Galpert | 1.0.0 |
-| [workflow-optimizer](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/workflow-optimizer) | cc-marketplace | Use this agent for optimizing human-agent collaboration workflows and analyzing workflow efficiency. This agent specializes in identifying bottlene... | Michael Galpert | 1.0.0 |
+| [workflow-optimizer](https://github.com/ananddtyagi/claude-code-marketplace) | cc-marketplace | Use this agent for optimizing human-agent collaboration workflows and analyzing workflow efficiency. This agent specializes in identifying bottlene... | Michael Galpert | 1.0.0 |
 
 ## ai
 
@@ -542,7 +542,7 @@ Last updated: 2026-06-21 20:26 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [agent-orchestration](https://github.com/wshobson/agents/tree/main/plugins/agent-orchestration) | claude-code-workflows | Multi-agent system optimization, agent improvement workflows, and context management | Seth Hobson | 1.2.2 |
+| [agent-orchestration](https://github.com/wshobson/agents) | claude-code-workflows | Multi-agent system optimization, agent improvement workflows, and context management | Seth Hobson | 1.2.2 |
 | [ai-ethics-validator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/ai-ethics-validator) | claude-code-plugins-plus | AI ethics and fairness validation | Jeremy Longshore | 1.0.0 |
 | [ai-sdk-agents](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/ai-sdk-agents) | claude-code-plugins-plus | Multi-agent orchestration with AI SDK v5 - handoffs, routing, and coordination for any AI provider (OpenAI, Anthropic, Google) | Jeremy Longshore | 1.0.0 |
 | [anomaly-detection-system](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/anomaly-detection-system) | claude-code-plugins-plus | Detect anomalies and outliers in data | Jeremy Longshore | 1.0.0 |
@@ -550,7 +550,7 @@ Last updated: 2026-06-21 20:26 UTC
 | [classification-model-builder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/classification-model-builder) | claude-code-plugins-plus | Build classification models | Jeremy Longshore | 1.0.0 |
 | [clustering-algorithm-runner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/clustering-algorithm-runner) | claude-code-plugins-plus | Run clustering algorithms on datasets | Jeremy Longshore | 1.0.0 |
 | [computer-vision-processor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/computer-vision-processor) | claude-code-plugins-plus | Computer vision image processing and analysis | Jeremy Longshore | 1.0.0 |
-| [context-management](https://github.com/wshobson/agents/tree/main/plugins/context-management) | claude-code-workflows | Context persistence, restoration, and long-running conversation management | Seth Hobson | 1.2.1 |
+| [context-management](https://github.com/wshobson/agents) | claude-code-workflows | Context persistence, restoration, and long-running conversation management | Seth Hobson | 1.2.1 |
 | [data-preprocessing-pipeline](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/data-preprocessing-pipeline) | claude-code-plugins-plus | Automated data preprocessing and cleaning pipelines | Jeremy Longshore | 1.0.0 |
 | [data-visualization-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/data-visualization-creator) | claude-code-plugins-plus | Create data visualizations and plots | Jeremy Longshore | 1.0.0 |
 | [dataset-splitter](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/dataset-splitter) | claude-code-plugins-plus | Split datasets for training, validation, and testing | Jeremy Longshore | 1.0.0 |
@@ -566,9 +566,9 @@ Last updated: 2026-06-21 20:26 UTC
 | [jeremy-vertex-ai](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/jeremy-vertex-ai) | claude-code-plugins-plus | Build and deploy generative AI agents on Vertex AI: Gemini model selection, RAG with grounded retrieval, function calling, multimodal extraction, e... | Jeremy Longshore | 2.0.0 |
 | [jeremy-vertex-engine](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/jeremy-vertex-engine) | claude-code-plugins-plus | Vertex AI Agent Engine deployment inspector and runtime validator | Jeremy Longshore | 2.0.0 |
 | [jeremy-vertex-validator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/jeremy-vertex-validator) | claude-code-plugins-plus | Production readiness validator for Vertex AI deployments and configurations | Jeremy Longshore | 2.0.0 |
-| [llm-application-dev](https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev) | claude-code-workflows | LLM application development with LangGraph, RAG systems, vector search, and AI agent architectures for Claude 4.6 and GPT-5.4 | Seth Hobson | 2.0.6 |
+| [llm-application-dev](https://github.com/wshobson/agents) | claude-code-workflows | LLM application development with LangGraph, RAG systems, vector search, and AI agent architectures for Claude 4.6 and GPT-5.4 | Seth Hobson | 2.0.6 |
 | [local-tts](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/local-tts) | claude-code-plugins-plus | Offline text-to-speech via VoxCPM2 — 30 languages, voice design, voice cloning. Runs locally on Apple Silicon. | Bubble Invest | 1.0.0 |
-| [machine-learning-ops](https://github.com/wshobson/agents/tree/main/plugins/machine-learning-ops) | claude-code-workflows | ML model training pipelines, hyperparameter tuning, model deployment automation, experiment tracking, and MLOps workflows | Seth Hobson | 1.2.2 |
+| [machine-learning-ops](https://github.com/wshobson/agents) | claude-code-workflows | ML model training pipelines, hyperparameter tuning, model deployment automation, experiment tracking, and MLOps workflows | Seth Hobson | 1.2.2 |
 | [ml-model-trainer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/ml-model-trainer) | claude-code-plugins-plus | Train and optimize machine learning models with automated workflows | Jeremy Longshore | 1.0.0 |
 | [model-deployment-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/model-deployment-helper) | claude-code-plugins-plus | Deploy ML models to production | Jeremy Longshore | 1.0.0 |
 | [model-evaluation-suite](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/model-evaluation-suite) | claude-code-plugins-plus | Comprehensive model evaluation with multiple metrics | Jeremy Longshore | 1.0.0 |
@@ -593,8 +593,8 @@ Last updated: 2026-06-21 20:26 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [api-scaffolding](https://github.com/wshobson/agents/tree/main/plugins/api-scaffolding) | claude-code-workflows | REST and GraphQL API scaffolding, framework selection, backend architecture, and API generation | Seth Hobson | 1.2.3 |
-| [api-testing-observability](https://github.com/wshobson/agents/tree/main/plugins/api-testing-observability) | claude-code-workflows | API testing automation, request mocking, OpenAPI documentation generation, observability setup, and monitoring | Seth Hobson | 1.2.1 |
+| [api-scaffolding](https://github.com/wshobson/agents) | claude-code-workflows | REST and GraphQL API scaffolding, framework selection, backend architecture, and API generation | Seth Hobson | 1.2.3 |
+| [api-testing-observability](https://github.com/wshobson/agents) | claude-code-workflows | API testing automation, request mocking, OpenAPI documentation generation, observability setup, and monitoring | Seth Hobson | 1.2.1 |
 
 ## api-development
 
@@ -930,7 +930,7 @@ Last updated: 2026-06-21 20:26 UTC
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
 | [azure](https://github.com/microsoft/azure-skills.git) | anthropics/claude-plugins-official | Transform Claude into an Azure expert. This plugin integrates the Azure MCP server and specialized Azure skills to move beyond generic advice. It e... | None | 1.0.0 |
-| [cloudflare](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Skills for the Cloudflare developer platform: Workers, Durable Objects, Agents SDK, MCP servers, Wrangler CLI, and web performance. | None | 1.0.0 |
+| [cloudflare](https://github.com/cloudflare/skills.git) | anthropics/claude-plugins-official | Skills for the Cloudflare developer platform: Workers, Durable Objects, Agents SDK, MCP servers, Wrangler CLI, and web performance. | None | 1.0.0 |
 | [deploy-on-aws](https://github.com/awslabs/agent-plugins.git) | anthropics/claude-plugins-official | Deploy applications to AWS with architecture recommendations, cost estimates, and IaC deployment. | None | 1.0.0 |
 | [railway](https://github.com/railwayapp/railway-skills.git) | anthropics/claude-plugins-official | Deploy and manage apps, databases, and infrastructure on Railway. Covers project setup, deploys, environment configuration, networking, troubleshoo... | None | 1.0.0 |
 | [valtown](https://github.com/val-town/plugins.git) | anthropics/claude-plugins-official | Build and deploy on Val Town. Bundles the Val Town MCP server and platform skills (HTTP vals, cron/intervals, SQLite, email, OAuth, React UI, third... | Val Town | 1.0.0 |
