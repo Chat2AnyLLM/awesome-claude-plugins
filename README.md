@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 88 | Total Plugins: 1277
 
-Last updated: 2026-06-21 18:21 UTC
+Last updated: 2026-06-21 20:26 UTC
 
 ## Installation
 
@@ -314,7 +314,7 @@ Last updated: 2026-06-21 18:21 UTC
 | [cc-best](https://github.com/xiaobei930/claude-code-best-practices/tree/main/) | xiaobei930/claude-code-best-practices | Complete development environment with role-based workflows (PM→Lead→Designer→Dev→QA), 30 hook scripts across 20 events with 3-tier profiles, 44 com... | xiaobei930 | 0.11.0 |
 | [claude-api](https://github.com/anthropics/skills/tree/main/) | anthropic-agent-skills | Claude API and SDK documentation skill for building LLM-powered applications | None | 1.0.0 |
 | [claude-bridge](https://github.com/Stigmavlc/claude-bridge) | claude-bridge | When a task needs the web, Claude Code drives the browser itself: your real logged-in Chrome for account work, a headless browser for public lookup... | Ivan Aguilar | 0.1.0 |
-| [claude-mem](https://github.com/thedotmack/claude-mem/tree/main/plugin) | thedotmack | Persistent memory system for Claude Code - context compression across sessions | None | 13.7.0 |
+| [claude-mem](https://github.com/thedotmack/claude-mem/tree/main/plugin) | thedotmack | Persistent memory system for Claude Code - context compression across sessions | None | 13.7.1 |
 | [claude-session-driver](https://github.com/obra/claude-session-driver.git) | superpowers-marketplace | Launch, control, and monitor other Claude Code sessions as workers via tmux | None | 4.0.0 |
 | [cloudinary](https://github.com/cloudinary-devs/cloudinary-plugin.git) | anthropics/claude-plugins-official | Use Cloudinary directly in Claude. Manage assets, apply transformations, optimize media, and more through natural conversation. | None | 1.0.0 |
 | [compound-engineering](https://github.com/EveryInc/compounding-engineering-plugin/tree/main/plugins/compound-engineering) | compounding-engineering | AI-powered development tools that get smarter with every use. Make each unit of engineering work easier than the last. | Kieran Klaassen | 1.0.0 |
@@ -930,7 +930,7 @@ Last updated: 2026-06-21 18:21 UTC
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
 | [azure](https://github.com/microsoft/azure-skills.git) | anthropics/claude-plugins-official | Transform Claude into an Azure expert. This plugin integrates the Azure MCP server and specialized Azure skills to move beyond generic advice. It e... | None | 1.0.0 |
-| [cloudflare](https://github.com/cloudflare/skills.git) | anthropics/claude-plugins-official | Skills for the Cloudflare developer platform: Workers, Durable Objects, Agents SDK, MCP servers, Wrangler CLI, and web performance. | None | 1.0.0 |
+| [cloudflare](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Skills for the Cloudflare developer platform: Workers, Durable Objects, Agents SDK, MCP servers, Wrangler CLI, and web performance. | None | 1.0.0 |
 | [deploy-on-aws](https://github.com/awslabs/agent-plugins.git) | anthropics/claude-plugins-official | Deploy applications to AWS with architecture recommendations, cost estimates, and IaC deployment. | None | 1.0.0 |
 | [railway](https://github.com/railwayapp/railway-skills.git) | anthropics/claude-plugins-official | Deploy and manage apps, databases, and infrastructure on Railway. Covers project setup, deploys, environment configuration, networking, troubleshoo... | None | 1.0.0 |
 | [valtown](https://github.com/val-town/plugins.git) | anthropics/claude-plugins-official | Build and deploy on Val Town. Bundles the Val Town MCP server and platform skills (HTTP vals, cron/intervals, SQLite, email, OAuth, React UI, third... | Val Town | 1.0.0 |
