@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 88 | Total Plugins: 1277
 
-Last updated: 2026-06-21 11:49 UTC
+Last updated: 2026-06-21 14:22 UTC
 
 ## Installation
 
@@ -1508,7 +1508,7 @@ Last updated: 2026-06-21 11:49 UTC
 | [atlassian](https://github.com/atlassian/atlassian-mcp-server.git) | anthropics/claude-plugins-official | Connect to Atlassian products including Jira and Confluence. Search and create issues, access documentation, manage sprints, and integrate your dev... | None | 1.0.0 |
 | [benchmark-due-diligence](https://github.com/daymade/claude-code-skills/tree/main/benchmark-due-diligence) | daymade/claude-code-skills | Adversarial due-diligence on a benchmark you envy (a founder, KOL, company, or product whose claimed success you suspect is inflated). Inline four-... | None | 1.0.1 |
 | [box](https://github.com/box/box-for-ai.git) | anthropics/claude-plugins-official | Work with your Box content directly from Claude Code — search files, organize folders, collaborate with your team, and use Box AI to answer questio... | None | 1.0.0 |
-| [box-cloud-filesystem](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/box-cloud-filesystem) | claude-code-plugins-plus | Transparent cloud filesystem for AI agents using Box CLI (@box/cli). Upload, download, search, share, and sync files to Box cloud storage with oper... | Jeremy Longshore | 1.0.0 |
+| [box-cloud-filesystem](https://github.com/jeremylongshore/claude-code-plugins-plus/blob/main/plugins/productivity/box-cloud-filesystem) | claude-code-plugins-plus | Transparent cloud filesystem for AI agents using Box CLI (@box/cli). Upload, download, search, share, and sync files to Box cloud storage with oper... | Jeremy Longshore | 1.0.0 |
 | [carta-cap-table](https://github.com/carta/plugins.git) | anthropics/claude-plugins-official | Carta Cap Table plugin — skills and hooks for querying cap tables, grants, SAFEs, 409A valuations, waterfall scenarios, and more | Carta Engineering | 1.0.0 |
 | [carta-crm](https://github.com/carta/plugins.git) | anthropics/claude-plugins-official | Manage the Carta CRM conversationally — search, add, update, and enrich investors, companies, contacts, deals, notes, and fundraisings via the Cart... | Carta Engineering | 1.0.0 |
 | [carta-investors](https://github.com/carta/plugins.git) | anthropics/claude-plugins-official | Carta Investors plugin — skills for querying investor data, performance benchmarks, regulatory reporting, AGM deck generation, brand extraction, an... | Carta Engineering | 1.0.0 |
