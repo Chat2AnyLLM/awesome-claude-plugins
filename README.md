@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 77 | Total Plugins: 1275
 
-Last updated: 2026-06-22 17:42 UTC
+Last updated: 2026-06-22 20:54 UTC
 
 ## Installation
 
@@ -963,7 +963,7 @@ Last updated: 2026-06-22 17:42 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 17 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 8.7.1 |
+| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 17 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 8.8.0 |
 | [attune-author](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugins/attune-author) | Smart-AI-Memory/attune-ai | AI-powered authoring companion for attune-help. Generates, maintains, and validates .help/ templates through a 3-stage pipeline with staleness dete... | Smart AI Memory | 0.21.0 |
 | [attune-gui](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugins/attune-gui) | Smart-AI-Memory/attune-ai | Launch the attune-gui dashboard (Cowork sidebar — Health · Templates · Specs · Summaries · Living Docs · Commands · Jobs) in the Cowork preview pan... | Smart AI Memory | 1.1.1 |
 | [attune-help](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugins/attune-help) | Smart-AI-Memory/attune-ai | Lightweight runtime reader for .help/ templates. Progressive depth (concept -> task -> reference). No AI keys required. Install alone to consume he... | Smart AI Memory | 0.11.1 |
