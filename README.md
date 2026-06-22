@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 88 | Total Plugins: 1277
 
-Last updated: 2026-06-22 06:33 UTC
+Last updated: 2026-06-22 12:52 UTC
 
 ## Installation
 
@@ -317,7 +317,7 @@ Last updated: 2026-06-22 06:33 UTC
 | [claude-mem](https://github.com/thedotmack/claude-mem/tree/main/plugin) | thedotmack | Persistent memory system for Claude Code - context compression across sessions | None | 13.8.0 |
 | [claude-session-driver](https://github.com/obra/claude-session-driver.git) | superpowers-marketplace | Launch, control, and monitor other Claude Code sessions as workers via tmux | None | 4.0.0 |
 | [cloudinary](https://github.com/cloudinary-devs/cloudinary-plugin.git) | anthropics/claude-plugins-official | Use Cloudinary directly in Claude. Manage assets, apply transformations, optimize media, and more through natural conversation. | None | 1.0.0 |
-| [compound-engineering](https://github.com/EveryInc/compounding-engineering-plugin/tree/main/plugins/compound-engineering) | compounding-engineering | AI-powered development tools that get smarter with every use. Make each unit of engineering work easier than the last. | Kieran Klaassen | 1.0.0 |
+| [compound-engineering](https://github.com/EveryInc/compounding-engineering-plugin/tree/main/) | compounding-engineering | AI-powered development tools that get smarter with every use. Make each unit of engineering work easier than the last. | Kieran Klaassen | 1.0.0 |
 | [conjure](https://github.com/athola/claude-night-market/tree/main/plugins/conjure) | athola/claude-night-market | Delegate tasks to external LLMs (Gemini, Qwen) with cheapest-capable model selection while retaining strategic oversight | None | 1.9.12 |
 | [conserve](https://github.com/athola/claude-night-market/tree/main/plugins/conserve) | athola/claude-night-market | Context optimization, bloat detection, CPU/GPU monitoring, and token conservation for efficient Claude Code sessions | None | 1.9.12 |
 | [core](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/core) | bradleygolden/claude-marketplace-elixir | Essential Elixir development support with hooks and automation | None | 1.0.0 |
