@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 77 | Total Plugins: 1275
+Total Marketplaces: 77 | Total Plugins: 1276
 
-Last updated: 2026-06-22 20:54 UTC
+Last updated: 2026-06-22 22:49 UTC
 
 ## Installation
 
@@ -1402,6 +1402,7 @@ Last updated: 2026-06-22 20:54 UTC
 | [dash0](https://github.com/dash0hq/dash0-agent-plugin.git) | anthropics/claude-plugins-official | OpenTelemetry observability for Claude Code sessions. Captures tool calls, LLM invocations, token usage, and errors as OTel traces. Send telemetry ... | Dash0 | 1.0.0 |
 | [datadog](https://github.com/datadog-labs/claude-code-plugin.git) | anthropics/claude-plugins-official | Use Datadog directly in Claude Code through a preconfigured Datadog MCP server. Query logs, metrics, traces, dashboards, and more through natural c... | Datadog | 1.0.0 |
 | [fullstory](https://github.com/anthropics/claude-plugins-official) | anthropics/claude-plugins-official | Connect Claude to Fullstory to query behavioral analytics, session replays, and customer experience insights. | Fullstory | 1.0.0 |
+| [langfuse](https://github.com/langfuse/skills.git) | anthropics/claude-plugins-official | Skills for working with Langfuse, the open-source LLM engineering platform for tracing, prompt management, and evaluation. | Langfuse | 1.0.0 |
 | [langfuse-observability](https://github.com/langfuse/claude-observability-plugin.git) | anthropics/claude-plugins-official | The Langfuse x Claude Code Observability Plugin | Langfuse | 1.0.0 |
 | [logfire](https://github.com/pydantic/skills.git) | anthropics/claude-plugins-official | Add Logfire observability to Python applications with auto-instrumentation for FastAPI, httpx, asyncpg, SQLAlchemy, and more | Pydantic | 1.0.0 |
 | [logrocket](https://github.com/LogRocket/logrocket-claude-plugin.git) | anthropics/claude-plugins-official | Connect Claude Code to LogRocket to query session replays, metrics, issues, and user behavior using natural language. | LogRocket | 1.0.0 |
