@@ -4,7 +4,7 @@ A curated list of awesome Claude marketplaces and plugins to enhance your Claude
 
 Total Marketplaces: 88 | Total Plugins: 1277
 
-Last updated: 2026-06-22 00:16 UTC
+Last updated: 2026-06-22 06:33 UTC
 
 ## Installation
 
@@ -965,7 +965,7 @@ Last updated: 2026-06-22 00:16 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 17 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 8.6.2 |
+| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 17 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 8.7.0 |
 | [auto-repo-setup](https://github.com/daymade/claude-code-skills/tree/main/auto-repo-setup) | daymade/claude-code-skills | Automated repository environment configuration, fault diagnosis, and repair for non-technical users. When someone clones a repo and says 'it won't ... | None | 1.0.0 |
 | [bigdata-skill](https://github.com/daymade/claude-code-skills/tree/main/bigdata-skill) | daymade/claude-code-skills | Pull Bigdata.com (RavenPack) financial and news data through the official bigdata-client Python SDK and its /v1/* REST endpoints when the Bigdata M... | None | 1.0.0 |
 | [bilibili-source](https://github.com/daymade/claude-code-skills/tree/main/bilibili-source) | daymade/claude-code-skills | Fetch comprehensive, login-free data for any Bilibili (B站) video — title, UP name and follower count, publish date, partition, tags, per-part cids,... | None | 1.0.0 |
