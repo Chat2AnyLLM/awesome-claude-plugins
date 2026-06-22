@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude marketplaces and plugins to enhance your Claude Code experience.
 
-Total Marketplaces: 88 | Total Plugins: 1277
+Total Marketplaces: 77 | Total Plugins: 1275
 
-Last updated: 2026-06-22 12:52 UTC
+Last updated: 2026-06-22 17:42 UTC
 
 ## Installation
 
@@ -78,7 +78,6 @@ Last updated: 2026-06-22 12:52 UTC
 - [development](#development)
 - [devops](#devops)
 - [documentation](#documentation)
-- [education](#education)
 - [engineering](#engineering)
 - [examples](#examples)
 - [explore](#explore)
@@ -90,7 +89,6 @@ Last updated: 2026-06-22 12:52 UTC
 - [hana](#hana)
 - [infrastructure](#infrastructure)
 - [integrations](#integrations)
-- [knowledge-management](#knowledge-management)
 - [languages](#languages)
 - [learning](#learning)
 - [location](#location)
@@ -965,7 +963,10 @@ Last updated: 2026-06-22 12:52 UTC
 
 | Plugin | Marketplace | Description | Author | Version |
 |--------|-------------|-------------|--------|---------|
-| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 17 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 8.7.0 |
+| [attune-ai](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugin) | Smart-AI-Memory/attune-ai | 17 auto-triggering skills for the developer workflows behind building AI products: security audits, code reviews, test generation, bug prediction, ... | Smart AI Memory | 8.7.1 |
+| [attune-author](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugins/attune-author) | Smart-AI-Memory/attune-ai | AI-powered authoring companion for attune-help. Generates, maintains, and validates .help/ templates through a 3-stage pipeline with staleness dete... | Smart AI Memory | 0.21.0 |
+| [attune-gui](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugins/attune-gui) | Smart-AI-Memory/attune-ai | Launch the attune-gui dashboard (Cowork sidebar — Health · Templates · Specs · Summaries · Living Docs · Commands · Jobs) in the Cowork preview pan... | Smart AI Memory | 1.1.1 |
+| [attune-help](https://github.com/Smart-AI-Memory/attune-ai/tree/main/plugins/attune-help) | Smart-AI-Memory/attune-ai | Lightweight runtime reader for .help/ templates. Progressive depth (concept -> task -> reference). No AI keys required. Install alone to consume he... | Smart AI Memory | 0.11.1 |
 | [auto-repo-setup](https://github.com/daymade/claude-code-skills/tree/main/auto-repo-setup) | daymade/claude-code-skills | Automated repository environment configuration, fault diagnosis, and repair for non-technical users. When someone clones a repo and says 'it won't ... | None | 1.0.0 |
 | [bigdata-skill](https://github.com/daymade/claude-code-skills/tree/main/bigdata-skill) | daymade/claude-code-skills | Pull Bigdata.com (RavenPack) financial and news data through the official bigdata-client Python SDK and its /v1/* REST endpoints when the Bigdata M... | None | 1.0.0 |
 | [bilibili-source](https://github.com/daymade/claude-code-skills/tree/main/bilibili-source) | daymade/claude-code-skills | Fetch comprehensive, login-free data for any Bilibili (B站) video — title, UP name and follower count, publish date, partition, tags, per-part cids,... | None | 1.0.0 |
@@ -1207,12 +1208,6 @@ Last updated: 2026-06-22 12:52 UTC
 | [llm-wiki-setup](https://github.com/daymade/claude-code-skills/tree/main/llm-wiki-setup) | daymade/claude-code-skills | Co-create a personal investment-research LLM Wiki (Andrej Karpathy's pattern) where the user's OWN analysis framework becomes a living CLAUDE.md — ... | None | 1.0.0 |
 | [openapi-expert](https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/openapi-expert) | cc-marketplace | Use this agent to update, synchronize, or validate the OpenAPI specification (openapi.yml) against the actual REST API implementation. This include... | Meiring de Wet | 1.0.0 |
 
-## education
-
-| Plugin | Marketplace | Description | Author | Version |
-|--------|-------------|-------------|--------|---------|
-| [studiomeyer-academy](https://github.com/studiomeyer-io/studiomeyer-marketplace/tree/main/plugins/studiomeyer-academy) | studiomeyer-marketplace | Memory-First AI Operator School. 23 tools — lessons, quiz, recipes, knowledge graph, certificates, AI tutor. Open Source MCP server (npm: mcp-acade... | None | 1.0.0 |
-
 ## engineering
 
 | Plugin | Marketplace | Description | Author | Version |
@@ -1306,12 +1301,6 @@ Last updated: 2026-06-22 12:52 UTC
 |--------|-------------|-------------|--------|---------|
 | [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | Xquik-dev/x-twitter-scraper | 100+ REST API endpoints, 2 MCP tools, 23 extraction types. Search tweets, export followers, inspect engagement, download media, run giveaway draws,... | Xquik | 2.4.16 |
 
-## knowledge-management
-
-| Plugin | Marketplace | Description | Author | Version |
-|--------|-------------|-------------|--------|---------|
-| [studiomeyer-memory](https://github.com/studiomeyer-io/studiomeyer-marketplace/tree/main/plugins/studiomeyer-memory) | studiomeyer-marketplace | Hosted AI memory with 56 tools. Knowledge Graph, semantic search, contradiction detection, multi-agent namespaces, import from ChatGPT/Claude/Gemin... | None | 1.0.0 |
-
 ## languages
 
 | Plugin | Marketplace | Description | Author | Version |
@@ -1353,7 +1342,6 @@ Last updated: 2026-06-22 12:52 UTC
 | [seo-content-creation](https://github.com/wshobson/agents/tree/main/plugins/seo-content-creation) | claude-code-workflows | SEO content writing, planning, and quality auditing with E-E-A-T optimization | Seth Hobson | 1.2.1 |
 | [seo-technical-optimization](https://github.com/wshobson/agents/tree/main/plugins/seo-technical-optimization) | claude-code-workflows | Technical SEO optimization including meta tags, keywords, structure, and featured snippets | Seth Hobson | 1.2.1 |
 | [social-publishing](https://github.com/wshobson/agents/tree/main/plugins/social-publishing) | claude-code-workflows | Schedule and publish social media posts across 13 platforms (X, LinkedIn Profile + Page, Instagram Business + Standalone, Facebook Pages, TikTok, D... | ndesv21 | 1.0.0 |
-| [studiomeyer-geo](https://github.com/studiomeyer-io/studiomeyer-marketplace/tree/main/plugins/studiomeyer-geo) | studiomeyer-marketplace | Generative Engine Optimization (GEO). 23 tools to measure and improve AI visibility across ChatGPT, Gemini, Perplexity, Claude, Grok, DeepSeek, Met... | None | 1.0.0 |
 
 ## math
 
@@ -1571,8 +1559,6 @@ Last updated: 2026-06-22 12:52 UTC
 | [slack](https://github.com/slackapi/slack-mcp-plugin.git) | anthropics/claude-plugins-official | Slack workspace integration. Search messages, access channels, read threads, and stay connected with your team's communications while coding. Find ... | None | 1.0.0 |
 | [spotify-ads-api](https://github.com/spotify/ads-claude-plugin.git) | anthropics/claude-plugins-official | Manage Spotify ad campaigns with natural language. Create campaigns, ad sets, ads, pull reports, and handle OAuth — all through conversation. | None | 1.0.0 |
 | [standup-gen](https://github.com/mturac/pluginpool) | pluginpool | Generate daily standup notes from git activity across one or many repos. | None | 0.1.0 |
-| [studiomeyer-crew](https://github.com/studiomeyer-io/studiomeyer-marketplace/tree/main/plugins/studiomeyer-crew) | studiomeyer-marketplace | 8 expert agent personas (CEO, CFO, CMO, CTO, PM, Analyst, Creative Director, Support Lead) plus 3 multi-persona workflows. Zero extra API cost, run... | None | 1.0.0 |
-| [studiomeyer-crm](https://github.com/studiomeyer-io/studiomeyer-marketplace/tree/main/plugins/studiomeyer-crm) | studiomeyer-marketplace | Headless CRM as MCP server. 33 tools for contacts, companies, deals, pipeline, leads, follow-ups, notes, health scores, Stripe sync. Zero-Knowledge... | None | 1.0.0 |
 | [telegram](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/telegram) | anthropics/claude-plugins-official | Telegram messaging bridge with built-in access control. Manage pairing, allowlists, and policy via /telegram:access. | None | 1.0.0 |
 | [travel-assistant](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/travel-assistant) | claude-code-plugins-plus | Intelligent travel assistant with real-time weather, currency conversion, timezone info, and AI-powered itinerary planning. Your complete travel co... | Jeremy Longshore | 1.0.0 |
 | [vibe-guide](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/vibe-guide) | claude-code-plugins-plus | Non-technical progress summaries for Claude Code work (hides diffs/log noise). | Intent Solutions | 1.0.0 |
