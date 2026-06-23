@@ -1,256 +1,103 @@
 #!/usr/bin/env python3
-"""
-Marketplace Scraper - Generate curated README from Claude marketplace data
-"""
+"""Generate metadata-only README for awesome-claude-plugins."""
 
-import sys
 import argparse
 import logging
-from pathlib import Path
-from typing import List
 
 try:
     from .config import Config
-    from .utils.fetcher import Fetcher
-    from .models import Marketplace, Plugin
-    from .generators.readme_generator import ReadmeGenerator
+    from .metadata_catalog import fetch_repos_from_sources, count_plugins, render_readme
 except ImportError:
-    # Fallback for direct execution - all files are in same directory
     from config import Config
-    from utils.fetcher import Fetcher
-    from models import Marketplace, Plugin
-    from generators.readme_generator import ReadmeGenerator
+    from metadata_catalog import fetch_repos_from_sources, count_plugins, render_readme
+
 
 def setup_logging(level: str = "INFO") -> None:
-    """Setup logging configuration."""
     numeric_level = getattr(logging, level.upper(), logging.INFO)
-    logging.basicConfig(
-        level=numeric_level,
-        format='%(asctime)s - %(levelname)s - %(message)s'
-    )
+    logging.basicConfig(level=numeric_level, format='%(asctime)s - %(levelname)s - %(message)s')
 
-def generate_readme(marketplaces: list, plugins: list, output_file: str) -> bool:
-    """Generate README from marketplace and plugin data."""
-    generator = ReadmeGenerator()
-    # Handle both dict and object formats
-    if marketplaces and isinstance(marketplaces[0], dict):
-        generator.add_marketplaces(marketplaces)
-    else:
-        generator.add_marketplaces([vars(m) for m in marketplaces])
-    generator.add_plugins(plugins)
 
-    content = generator.generate_readme()
-
+def generate_readme(repositories: list, counts: dict, output_file: str) -> bool:
+    content = render_readme(repositories, counts)
     try:
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(content)
-        logger = logging.getLogger(__name__)
-        logger.info("README generated successfully: %s", output_file)
+        logging.getLogger(__name__).info("README generated successfully: %s", output_file)
         return True
     except Exception as e:
-        logger = logging.getLogger(__name__)
-        logger.error("Failed to write README: %s", e)
+        logging.getLogger(__name__).error("Failed to write README: %s", e)
         return False
 
-def parse_marketplace_data(raw_data: dict) -> List[Marketplace]:
-    """Parse raw marketplace data into Marketplace objects."""
-    marketplaces = []
-    for marketplace_id, data in raw_data.items():
-        if isinstance(data, dict):
-            marketplace = Marketplace.from_dict({
-                "id": marketplace_id,
-                "name": data.get("name", marketplace_id),
-                "description": data.get("description", ""),
-                "url": data.get("url"),
-                "source_url": data.get("source_url"),
-                "enabled": data.get("enabled", True)
-            })
-            marketplaces.append(marketplace)
-    return marketplaces
 
 def cmd_generate_readme(args, config, logger):
-    """Handle generate-readme command."""
-    logger.info("Marketplace Scraper starting...")
-
-    # Get enabled sources
+    logger.info("Plugin metadata catalog generation starting...")
     sources = config.get_enabled_sources()
     logger.info("Loaded %d enabled sources", len(sources))
-
     if not sources:
         logger.warning("No enabled sources found in configuration")
         return 0
-
-    # Fetch data from all sources
-    fetcher = Fetcher()
-    all_marketplaces = []
-    all_plugins = []
-
-    for source in sources:
-        logger.info("Processing source: %s", source.get("id"))
-        marketplaces = fetcher.fetch_marketplaces_from_source(source)
-        all_marketplaces.extend(marketplaces)
-
-        # Fetch plugins for each marketplace
-        for marketplace_data in marketplaces:
-            plugins = fetcher.fetch_plugins_from_marketplace(marketplace_data)
-            all_plugins.extend(plugins)
-
-    logger.info("Total marketplaces collected: %d", len(all_marketplaces))
-    logger.info("Total plugins collected (before deduplication): %d", len(all_plugins))
-
-    # Deduplicate plugins based on their unique ID (repo_owner/repo_name:name)
-    # Keep the first occurrence (which comes from higher priority source)
-    seen_plugin_ids = {}
-    deduplicated_plugins = []
-    for plugin in all_plugins:
-        plugin_id = plugin.get("id")
-        if plugin_id and plugin_id not in seen_plugin_ids:
-            seen_plugin_ids[plugin_id] = True
-            deduplicated_plugins.append(plugin)
-        elif plugin_id:
-            logger.debug("Skipping duplicate plugin: %s (marketplace: %s)", plugin.get("name"), plugin.get("marketplace_id"))
-
-    all_plugins = deduplicated_plugins
-    logger.info("Total plugins collected (after deduplication): %d", len(all_plugins))
-
+    repositories = fetch_repos_from_sources(sources)
+    logger.info("Loaded %d enabled repositories from source configs", len(repositories))
+    counts = count_plugins(repositories, max_workers=8)
+    total = sum(v.get('count', 0) for v in counts.values())
+    unavailable = sum(1 for v in counts.values() if v.get('status') != 'ok')
+    logger.info("Counted %d plugins across %d repos (%d unavailable)", total, len(repositories), unavailable)
     if args.dry_run:
-        print(f"Dry run: Would generate README with {len(all_marketplaces)} marketplaces and {len(all_plugins)} plugins")
+        print(f"Dry run: Would generate README with {len(repositories)} repositories and {total} discoverable plugins")
         return 0
+    if generate_readme(repositories, counts, args.output):
+        print(f"Successfully generated README with {len(repositories)} repositories and {total} discoverable plugins!")
+        return 0
+    print("Failed to generate README")
+    return 1
 
-    # Generate README
-    if generate_readme(all_marketplaces, all_plugins, args.output):
-        print(f"Successfully generated README with {len(all_marketplaces)} marketplaces and {len(all_plugins)} plugins!")
-        return 0
-    else:
-        print("Failed to generate README")
-        return 1
 
 def cmd_validate_config(args, config, logger):
-    """Handle validate-config command."""
-    print("Configuration validation:")
-
-    # Check basic config structure
     try:
         sources = config.get_enabled_sources()
         print(f"✓ Found {len(sources)} enabled sources")
-
-        if args.check_sources:
-            fetcher = Fetcher()
-            for source in sources:
-                source_id = source.get("id", "unknown")
-                url = source.get("url", "")
-                try:
-                    # Test basic connectivity (this is a simple check)
-                    logger.debug(f"Testing connectivity to {url}")
-                    print(f"✓ Source '{source_id}' URL is accessible")
-                except Exception as e:
-                    print(f"✗ Source '{source_id}' connectivity failed: {e}")
-                    return 1
-
         print("✓ Configuration is valid")
         return 0
-
     except Exception as e:
         print(f"✗ Configuration validation failed: {e}")
         return 1
 
+
 def cmd_list_sources(args, config, logger):
-    """Handle list-sources command."""
     try:
         sources = config.get_enabled_sources()
-
         if args.format == "json":
             import json
             print(json.dumps(sources, indent=2))
         else:
-            # Table format
             print("Configured Sources:")
             print("-" * 60)
-            print(f"{'ID':<15} {'URL':<30} {'Enabled':<8} {'Priority':<8}")
+            print(f"{'ID':<25} {'URL':<35}")
             print("-" * 60)
             for source in sources:
-                source_id = source.get("id", "unknown")
-                url = source.get("url", "")
-                enabled = "Yes" if source.get("enabled", True) else "No"
-                priority = source.get("priority", 999)
-                print(f"{source_id:<15} {url:<30} {enabled:<8} {priority:<8}")
-
+                print(f"{source.get('id','unknown'):<25} {source.get('url',''):<35}")
         return 0
-
     except Exception as e:
         print(f"Failed to list sources: {e}")
         return 1
 
+
 def main():
-    """Main entry point for the marketplace scraper."""
-    parser = argparse.ArgumentParser(
-        description="Generate curated README from Claude marketplace data"
-    )
-
-    # Global options
-    parser.add_argument(
-        "--config",
-        type=str,
-        default="config.yaml",
-        help="Path to configuration file"
-    )
-
-    parser.add_argument(
-        "--verbose",
-        action="store_true",
-        help="Enable verbose logging"
-    )
-
-    # Create subcommands
+    parser = argparse.ArgumentParser(description="Generate metadata-only README for Claude plugin marketplaces")
+    parser.add_argument("--config", type=str, default="config.yaml", help="Path to configuration file")
+    parser.add_argument("--verbose", action="store_true", help="Enable verbose logging")
     subparsers = parser.add_subparsers(dest="command", help="Available commands")
-
-    # generate-readme command
-    generate_parser = subparsers.add_parser(
-        "generate-readme",
-        help="Generate README.md from configured sources"
-    )
-    generate_parser.add_argument(
-        "--output",
-        type=str,
-        default="README.md",
-        help="Output file path"
-    )
-    generate_parser.add_argument(
-        "--dry-run",
-        action="store_true",
-        help="Validate configuration and sources without writing output"
-    )
-
-    # validate-config command
-    validate_parser = subparsers.add_parser(
-        "validate-config",
-        help="Validate configuration file format and source accessibility"
-    )
-    validate_parser.add_argument(
-        "--check-sources",
-        action="store_true",
-        help="Also test network connectivity to sources"
-    )
-
-    # list-sources command
-    list_parser = subparsers.add_parser(
-        "list-sources",
-        help="List configured sources with status information"
-    )
-    list_parser.add_argument(
-        "--format",
-        choices=["table", "json"],
-        default="table",
-        help="Output format"
-    )
-
+    generate_parser = subparsers.add_parser("generate-readme", help="Generate README.md from configured sources")
+    generate_parser.add_argument("--output", type=str, default="README.md", help="Output file path")
+    generate_parser.add_argument("--dry-run", action="store_true", help="Validate configuration and sources without writing output")
+    validate_parser = subparsers.add_parser("validate-config", help="Validate configuration file format")
+    validate_parser.add_argument("--check-sources", action="store_true", help="No-op compatibility flag")
+    list_parser = subparsers.add_parser("list-sources", help="List configured sources with status information")
+    list_parser.add_argument("--format", choices=["table", "json"], default="table", help="Output format")
     args = parser.parse_args()
-
     if not args.command:
         parser.print_help()
         return 1
-
-    # Load configuration
     try:
         config = Config(args.config)
         log_level = config.logging_config.get("level", "INFO")
@@ -259,21 +106,16 @@ def main():
     except Exception as e:
         print(f"Failed to load configuration: {e}")
         return 1
-
-    # Setup logging
     setup_logging(log_level)
-
     logger = logging.getLogger(__name__)
-
-    # Execute command
     if args.command == "generate-readme":
         return cmd_generate_readme(args, config, logger)
-    elif args.command == "validate-config":
+    if args.command == "validate-config":
         return cmd_validate_config(args, config, logger)
-    elif args.command == "list-sources":
+    if args.command == "list-sources":
         return cmd_list_sources(args, config, logger)
-
     return 0
 
+
 if __name__ == "__main__":
-    sys.exit(main())
+    raise SystemExit(main())
