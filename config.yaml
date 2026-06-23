@@ -1,18 +1,14 @@
 version: "1.0"
 
-# Data sources configuration
+# Data sources configuration — the single source of truth is awesome-repo-configs.
+# Other Chat2AnyLLM repos (code-agent-manager, downstream consumers) also pull
+# their data from awesome-repo-configs, so we avoid layering an extra hop here.
 sources:
-  - id: "claude-marketplaces"
-    url: "https://raw.githubusercontent.com/Chat2AnyLLM/code-agent-manager/main/code_assistant_manager/plugin_repos.json"
+  - id: "awesome-repo-configs"
+    url: "https://raw.githubusercontent.com/Chat2AnyLLM/awesome-repo-configs/main/plugin_repos.json"
     format: "json"
     enabled: true
     priority: 1
-    timeout: 30
-
-  - id: "awesome-repo-configs"
-    url: "https://raw.githubusercontent.com/Chat2AnyLLM/awesome-repo-configs/main/plugin_repos.json"
-    enabled: true
-    priority: 2
     timeout: 30
 
 # Generation settings
