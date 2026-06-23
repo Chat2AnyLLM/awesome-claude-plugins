@@ -36,6 +36,8 @@ jobs:
     - name: Generate README
       run: |
         python scripts/marketplace_scraper.py generate-readme --output README.md
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Check for changes
       id: verify-changed-files
