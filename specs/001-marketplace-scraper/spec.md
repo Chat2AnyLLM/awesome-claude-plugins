@@ -3,7 +3,7 @@
 **Feature Branch**: `001-marketplace-scraper`
 **Created**: 2025-12-23
 **Status**: Draft
-**Input**: User description: "Build scripts that first: 1. Get a list of claude marketplaces from multiple sources, first source is: https://github.com/Chat2AnyLLM/code-assistant-manager/blob/main/code_assistant_manager/plugin_repos.json 2. Then you can use a 'config.yaml' file to specify the sources 3. All sources use the same format as in: https://github.com/Chat2AnyLLM/code-assistant-manager/blob/main/code_assistant_manager/plugin_repos.json 4. You read the repo https://github.com/Chat2AnyLLM/code-assistant-manager, to find out how it retrieves all the plugins from all the configured plugin_repos.json/from marketplaces Then you create content in readme.md with a top 'menu of content', a table of marketplaces, a table of plugins, organized them with categories"
+**Input**: User description: "Build scripts that first: 1. Get a list of claude marketplaces from multiple sources, first source is: https://github.com/Chat2AnyLLM/code-agent-manager/blob/main/code_assistant_manager/plugin_repos.json 2. Then you can use a 'config.yaml' file to specify the sources 3. All sources use the same format as in: https://github.com/Chat2AnyLLM/code-agent-manager/blob/main/code_assistant_manager/plugin_repos.json 4. You read the repo https://github.com/Chat2AnyLLM/code-agent-manager, to find out how it retrieves all the plugins from all the configured plugin_repos.json/from marketplaces Then you create content in readme.md with a top 'menu of content', a table of marketplaces, a table of plugins, organized them with categories"
 
 ## User Scenarios & Testing *(mandatory)*
 
@@ -83,7 +83,7 @@ As a project maintainer, I want plugins automatically organized by categories in
 - **FR-002**: System MUST fetch JSON data from each configured source URL
 - **FR-003**: System MUST parse marketplace data from the fetched JSON using the same format as the reference source
 - **FR-004**: System MUST fetch real plugin manifests from GitHub repositories associated with each marketplace
-- **FR-005**: System MUST analyze the code-assistant-manager repository to understand the plugin retrieval mechanism
+- **FR-005**: System MUST analyze the code-agent-manager repository to understand the plugin retrieval mechanism
 - **FR-006**: System MUST parse plugin data from manifest files (plugin.json, manifest.json, or .claude/plugin.json) in marketplace repositories
 - **FR-007**: System MUST merge data from multiple sources, handling duplicates appropriately
 - **FR-008**: System MUST generate README.md with a table of contents at the top

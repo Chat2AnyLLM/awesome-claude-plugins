@@ -3,7 +3,7 @@ version: "1.0"
 # Data sources configuration
 sources:
   - id: "claude-marketplaces"
-    url: "https://raw.githubusercontent.com/Chat2AnyLLM/code-assistant-manager/main/code_assistant_manager/plugin_repos.json"
+    url: "https://raw.githubusercontent.com/Chat2AnyLLM/code-agent-manager/main/code_assistant_manager/plugin_repos.json"
     format: "json"
     enabled: true
     priority: 1

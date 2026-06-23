@@ -6,12 +6,12 @@
 
 ## Overview
 
-Research phase completed. All technical decisions were already resolved during the clarify phase and initial implementation. The implementation adopts the marketplace.json approach from code-assistant-manager for fetching plugin data from GitHub repositories.
+Research phase completed. All technical decisions were already resolved during the clarify phase and initial implementation. The implementation adopts the marketplace.json approach from code-agent-manager for fetching plugin data from GitHub repositories.
 
 ## Technical Decisions Made
 
 ### Plugin Fetching Architecture
-**Decision**: Adopt `.claude-plugin/marketplace.json` approach from code-assistant-manager
+**Decision**: Adopt `.claude-plugin/marketplace.json` approach from code-agent-manager
 **Rationale**: This provides structured plugin metadata, better organization, and aligns with existing marketplace patterns
 **Alternatives Considered**: Individual manifest files per plugin (rejected due to fragmentation and inconsistent naming)
 
@@ -27,7 +27,7 @@ Research phase completed. All technical decisions were already resolved during t
 
 ## Implementation Patterns Adopted
 
-### From code-assistant-manager:
+### From code-agent-manager:
 - GitHub raw file fetching with retry logic
 - Branch fallback (main → master → develop)
 - marketplace.json validation and parsing

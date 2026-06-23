@@ -7,7 +7,7 @@
 
 ## Summary
 
-Build a Python CLI tool that fetches Claude marketplace and plugin data from configured sources (primarily GitHub repositories) and generates a curated README.md with organized tables of marketplaces and categorized plugins. The tool adopts the marketplace.json approach from code-assistant-manager for fetching plugin data and displays plugins in table format.
+Build a Python CLI tool that fetches Claude marketplace and plugin data from configured sources (primarily GitHub repositories) and generates a curated README.md with organized tables of marketplaces and categorized plugins. The tool adopts the marketplace.json approach from code-agent-manager for fetching plugin data and displays plugins in table format.
 
 ## Technical Context
 
@@ -82,7 +82,7 @@ requirements.txt            # Python dependencies
 
 ## Phase 1 Completion Summary
 
-**✅ Research Phase**: Completed - All technical decisions resolved through clarify phase and implementation analysis. Adopted marketplace.json approach from code-assistant-manager.
+**✅ Research Phase**: Completed - All technical decisions resolved through clarify phase and implementation analysis. Adopted marketplace.json approach from code-agent-manager.
 
 **✅ Design Phase**: Completed - Created comprehensive design artifacts:
 - `data-model.md`: Defined Marketplace, Plugin, and Source entities with relationships and validation rules

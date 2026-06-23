@@ -8,7 +8,7 @@ Last updated: 2026-06-23 00:12 UTC
 
 ## Installation
 
-1. Install CAM: `curl -fsSL https://raw.githubusercontent.com/Chat2AnyLLM/code-assistant-manager/main/install.sh | bash`
+1. Install CAM: `curl -fsSL https://raw.githubusercontent.com/Chat2AnyLLM/code-agent-manager/main/install.sh | bash`
 2. Find the marketplace to install, or install all marketplace
    ```
    cam plugin marketplace install superpowers-marketplace
