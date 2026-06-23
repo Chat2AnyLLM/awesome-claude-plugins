@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **153**
-- Discoverable plugins: **2,354**
+- Discoverable plugins: **2,355**
 - Healthy repos: **132** · Unavailable: **21**
-- Last updated: **2026-06-23 15:54 UTC**
+- Last updated: **2026-06-23 18:03 UTC**
 
 ## Source Catalog
 
@@ -31,7 +31,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [anipotts/claude-code-tips](https://github.com/anipotts/claude-code-tips) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [anthony-chaudhary/dos-kernel](https://github.com/anthony-chaudhary/dos-kernel) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 13 | `main` | `.claude-plugin` | ✅ ok |  |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 235 | `main` | `.claude-plugin` | ✅ ok |  |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 236 | `main` | `.claude-plugin` | ✅ ok |  |
 | [anthropics/skills](https://github.com/anthropics/skills) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ArcBlock/myvibe-skills](https://github.com/ArcBlock/myvibe-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [archcore-ai/plugin](https://github.com/archcore-ai/plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
