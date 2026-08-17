@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2171**
-- Discoverable plugins: **8,469**
+- Discoverable plugins: **8,470**
 - Healthy repos: **1951** · Unavailable: **220**
-- Last updated: **2026-08-17 16:33 UTC**
+- Last updated: **2026-08-17 17:31 UTC**
 
 ## Source Catalog
 
@@ -187,7 +187,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [anthonymaley/MusicTUI](https://github.com/anthonymaley/MusicTUI) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 13 | `main` | `.claude-plugin` | ✅ ok |  |
 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 286 | `main` | `.claude-plugin` | ✅ ok |  |
-| [anthropics/skills](https://github.com/anthropics/skills) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
+| [anthropics/skills](https://github.com/anthropics/skills) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [antonbabenko/deliberation](https://github.com/antonbabenko/deliberation) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [anyshift-io/claude-plugins](https://github.com/anyshift-io/claude-plugins) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [aomi-labs/skills](https://github.com/aomi-labs/skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
