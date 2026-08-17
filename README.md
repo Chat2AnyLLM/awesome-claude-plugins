@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2171**
-- Discoverable plugins: **8,470**
-- Healthy repos: **1952** · Unavailable: **219**
-- Last updated: **2026-08-17 14:33 UTC**
+- Discoverable plugins: **8,469**
+- Healthy repos: **1951** · Unavailable: **220**
+- Last updated: **2026-08-17 16:33 UTC**
 
 ## Source Catalog
 
@@ -1036,7 +1036,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [lukaskellerstein/claude-my-marketplace](https://github.com/lukaskellerstein/claude-my-marketplace) | 12 | `main` | `.claude-plugin` | ✅ ok |  |
 | [LukasNiessen/terrashark](https://github.com/LukasNiessen/terrashark) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [lukasrepublic/agentic-foundry](https://github.com/lukasrepublic/agentic-foundry) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [Lumos221/clock-in](https://github.com/Lumos221/clock-in) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [lunaos-ai/luna-agents](https://github.com/lunaos-ai/luna-agents) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [luoxianzi/praetor](https://github.com/luoxianzi/praetor) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [lutencjusz/listonic-plugin](https://github.com/lutencjusz/listonic-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2081,6 +2080,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [lovepixel-git/skill-forge](https://github.com/lovepixel-git/skill-forge) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [LucioLiu/nuwa](https://github.com/LucioLiu/nuwa) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [LukeRenton/explore-claude-code](https://github.com/LukeRenton/explore-claude-code) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [Lumos221/clock-in](https://github.com/Lumos221/clock-in) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [luxsolari/whiting](https://github.com/luxsolari/whiting) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [ma-nucho-pro/supervisorLLM-plugin](https://github.com/ma-nucho-pro/supervisorLLM-plugin) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [madarco/agentbox](https://github.com/madarco/agentbox) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
