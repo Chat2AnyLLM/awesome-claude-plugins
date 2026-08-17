@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2162**
-- Discoverable plugins: **8,460**
-- Healthy repos: **1944** · Unavailable: **218**
-- Last updated: **2026-08-17 11:31 UTC**
+- Discoverable plugins: **8,459**
+- Healthy repos: **1943** · Unavailable: **219**
+- Last updated: **2026-08-17 12:53 UTC**
 
 ## Source Catalog
 
@@ -920,7 +920,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [kgelster/awesome-ecom-skills](https://github.com/kgelster/awesome-ecom-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [kgraph57/evidentia](https://github.com/kgraph57/evidentia) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [khadinakbarlabs/shopify-app-builder](https://github.com/khadinakbarlabs/shopify-app-builder) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [khalilmaaouni/BrotherSBE](https://github.com/khalilmaaouni/BrotherSBE) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [khendzel/skills-janitor](https://github.com/khendzel/skills-janitor) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [khmm12/solidjs-v2-skills](https://github.com/khmm12/solidjs-v2-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [khujta/gabe-suite](https://github.com/khujta/gabe-suite) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2058,6 +2057,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [kaixin1seu/retrospective-system](https://github.com/kaixin1seu/retrospective-system) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [kanopi/cms-cultivator](https://github.com/kanopi/cms-cultivator) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [KarmaloopAI/Jiva](https://github.com/KarmaloopAI/Jiva) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [khalilmaaouni/BrotherSBE](https://github.com/khalilmaaouni/BrotherSBE) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [kktu6507/universal-dev-flow-plugin](https://github.com/kktu6507/universal-dev-flow-plugin) | 0 | `master` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [Kotty2998/claude-plugins-official](https://github.com/Kotty2998/claude-plugins-official) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [latent-9/eightysix](https://github.com/latent-9/eightysix) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
