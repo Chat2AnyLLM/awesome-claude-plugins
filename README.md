@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2157**
-- Discoverable plugins: **8,446**
+- Discoverable plugins: **8,449**
 - Healthy repos: **1939** · Unavailable: **218**
-- Last updated: **2026-08-17 05:39 UTC**
+- Last updated: **2026-08-17 07:05 UTC**
 
 ## Source Catalog
 
@@ -1122,7 +1122,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [mirkobozzetto/arsenal](https://github.com/mirkobozzetto/arsenal) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
 | [mishafyi/claudus-maximus](https://github.com/mishafyi/claudus-maximus) | 4 | `master` | `.claude-plugin` | ✅ ok |  |
 | [mishahanin/heading-os-marketplace](https://github.com/mishahanin/heading-os-marketplace) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
-| [Misoto22/skills](https://github.com/Misoto22/skills) | 13 | `main` | `.claude-plugin` | ✅ ok |  |
+| [Misoto22/skills](https://github.com/Misoto22/skills) | 14 | `main` | `.claude-plugin` | ✅ ok |  |
 | [MisterRaindrop/agent-router-cc](https://github.com/MisterRaindrop/agent-router-cc) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [MisterVitoPro/esper](https://github.com/MisterVitoPro/esper) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
 | [MisterVitoPro/qa-claude-market](https://github.com/MisterVitoPro/qa-claude-market) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1164,7 +1164,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [mrhinkle/aienterprise-skills](https://github.com/mrhinkle/aienterprise-skills) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [mrieck/claude-plugins](https://github.com/mrieck/claude-plugins) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [MrJoratos/goalglow](https://github.com/MrJoratos/goalglow) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [mrkhachaturov/ccode-personal-plugins](https://github.com/mrkhachaturov/ccode-personal-plugins) | 289 | `main` | `.claude-plugin` | ✅ ok |  |
+| [mrkhachaturov/ccode-personal-plugins](https://github.com/mrkhachaturov/ccode-personal-plugins) | 291 | `main` | `.claude-plugin` | ✅ ok |  |
 | [mrrobertkent/helixlab-plugin](https://github.com/mrrobertkent/helixlab-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [mrsingh86/trimtab-trade-analyst](https://github.com/mrsingh86/trimtab-trade-analyst) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [MrSongP/computer-use](https://github.com/MrSongP/computer-use) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
