@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2171**
-- Discoverable plugins: **8,470**
-- Healthy repos: **1951** · Unavailable: **220**
-- Last updated: **2026-08-17 17:31 UTC**
+- Discoverable plugins: **8,469**
+- Healthy repos: **1950** · Unavailable: **221**
+- Last updated: **2026-08-17 18:47 UTC**
 
 ## Source Catalog
 
@@ -1551,7 +1551,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [serbanghita/plan-critique-skills](https://github.com/serbanghita/plan-critique-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [serejaris/personal-corp-skills](https://github.com/serejaris/personal-corp-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [SergeiGorbatiuk/startup-superpowers](https://github.com/SergeiGorbatiuk/startup-superpowers) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [sergiparpal/Cambrian](https://github.com/sergiparpal/Cambrian) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [sernoxxx/claude-prompt-boost](https://github.com/sernoxxx/claude-prompt-boost) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [sernoxxx/prompt-boost](https://github.com/sernoxxx/prompt-boost) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [serpapi/serpapi-claude-plugin](https://github.com/serpapi/serpapi-claude-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2134,6 +2133,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [sandypoli-boop/sansheng-skills](https://github.com/sandypoli-boop/sansheng-skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [sandypoli-boop/sansheng-write](https://github.com/sandypoli-boop/sansheng-write) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [sergiparpal/Burgess](https://github.com/sergiparpal/Burgess) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [sergiparpal/Cambrian](https://github.com/sergiparpal/Cambrian) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [sergiparpal/Sproutgraph](https://github.com/sergiparpal/Sproutgraph) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [servatusprime/ai_ops](https://github.com/servatusprime/ai_ops) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [shimo4228/search-first](https://github.com/shimo4228/search-first) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
