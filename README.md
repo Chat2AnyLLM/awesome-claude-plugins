@@ -6,8 +6,8 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 
 - Enabled marketplaces: **2207**
 - Discoverable plugins: **8,571**
-- Healthy repos: **1986** · Unavailable: **221**
-- Last updated: **2026-08-18 21:29 UTC**
+- Healthy repos: **1985** · Unavailable: **222**
+- Last updated: **2026-08-18 22:29 UTC**
 
 ## Source Catalog
 
@@ -386,7 +386,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [claylo/claylo-marketplace](https://github.com/claylo/claylo-marketplace) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Clear-Sights/Makoto](https://github.com/Clear-Sights/Makoto) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [clever-cc-plugins/marketplace](https://github.com/clever-cc-plugins/marketplace) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
-| [Clinical-Quality-Artifical-Intelligence/practice-loops](https://github.com/Clinical-Quality-Artifical-Intelligence/practice-loops) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [clomia/claude-automata](https://github.com/clomia/claude-automata) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [club-cog/devin-handoff](https://github.com/club-cog/devin-handoff) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [coachpo/plugins-claude](https://github.com/coachpo/plugins-claude) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -832,7 +831,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [jeltehomminga/figma-design-skills](https://github.com/jeltehomminga/figma-design-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [JeongJaeSoon/agent-guard](https://github.com/JeongJaeSoon/agent-guard) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jeongph/claude-plugins](https://github.com/jeongph/claude-plugins) | 9 | `main` | `.claude-plugin` | ✅ ok |  |
-| [jeremylongshore/claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus) | 467 | `main` | `.claude-plugin` | ✅ ok |  |
+| [jeremylongshore/claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus) | 468 | `main` | `.claude-plugin` | ✅ ok |  |
 | [JeremyPrajwal/angry-gf](https://github.com/JeremyPrajwal/angry-gf) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [JetBrains/teamcity-cli](https://github.com/JetBrains/teamcity-cli) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jhlee0409/claude-harness-kit](https://github.com/jhlee0409/claude-harness-kit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2047,6 +2046,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [ckorhonen/swe-skills](https://github.com/ckorhonen/swe-skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [clever-cc-plugins/cc-concept](https://github.com/clever-cc-plugins/cc-concept) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [clever-cc-plugins/cc-content](https://github.com/clever-cc-plugins/cc-content) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [Clinical-Quality-Artifical-Intelligence/practice-loops](https://github.com/Clinical-Quality-Artifical-Intelligence/practice-loops) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [clochard04/handoff](https://github.com/clochard04/handoff) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [curie-eng/curie](https://github.com/curie-eng/curie) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [DaizeDong/buy-me-a-car](https://github.com/DaizeDong/buy-me-a-car) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
