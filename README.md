@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2201**
-- Discoverable plugins: **8,534**
-- Healthy repos: **1979** · Unavailable: **222**
-- Last updated: **2026-08-18 15:37 UTC**
+- Discoverable plugins: **8,533**
+- Healthy repos: **1977** · Unavailable: **224**
+- Last updated: **2026-08-18 16:37 UTC**
 
 ## Source Catalog
 
@@ -201,7 +201,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [appleboy/skills](https://github.com/appleboy/skills) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
 | [AppVerk/av-marketplace](https://github.com/AppVerk/av-marketplace) | 10 | `master` | `.claude-plugin` | ✅ ok |  |
 | [AqueGen/model-routing](https://github.com/AqueGen/model-routing) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [arbi-elezi/emperor-time](https://github.com/arbi-elezi/emperor-time) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [arbiterForge/codeArbiter](https://github.com/arbiterForge/codeArbiter) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [arcbaslow/google-ads-agents](https://github.com/arcbaslow/google-ads-agents) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [ArcBlock/myvibe-skills](https://github.com/ArcBlock/myvibe-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1339,7 +1338,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [PBNZ/repo-kit](https://github.com/PBNZ/repo-kit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [PBNZ/watch-local](https://github.com/PBNZ/watch-local) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [PCIRCLE-AI/memesh](https://github.com/PCIRCLE-AI/memesh) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [PCIRCLE-AI/memesh-llm-memory](https://github.com/PCIRCLE-AI/memesh-llm-memory) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [PCIRCLE-AI/toonify-mcp](https://github.com/PCIRCLE-AI/toonify-mcp) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [pcvelz/cloudone](https://github.com/pcvelz/cloudone) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [pdugan20/claudelint](https://github.com/pdugan20/claudelint) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1347,7 +1345,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [pebblous/korean-tech-writing](https://github.com/pebblous/korean-tech-writing) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [pegasi-ai/reins](https://github.com/pegasi-ai/reins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [pehcastro/harness](https://github.com/pehcastro/harness) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [pencilrebel/roast-my-design-system](https://github.com/pencilrebel/roast-my-design-system) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [pgoell/pgoell-claude-tools](https://github.com/pgoell/pgoell-claude-tools) | 16 | `master` | `.claude-plugin` | ✅ ok |  |
 | [phazurlabs/install-labs](https://github.com/phazurlabs/install-labs) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [phense/ultra-memory](https://github.com/phense/ultra-memory) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1370,6 +1367,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [popovych-co/witness](https://github.com/popovych-co/witness) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Poppify/poppify-claude-plugin](https://github.com/Poppify/poppify-claude-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [posit-dev/skills](https://github.com/posit-dev/skills) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
+| [PostHog/ai-plugin](https://github.com/PostHog/ai-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Postmodum37/simple-claude-code-statusline](https://github.com/Postmodum37/simple-claude-code-statusline) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [PounceAI/bob-control](https://github.com/PounceAI/bob-control) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [powerofjinbo/phdtaketaketake](https://github.com/powerofjinbo/phdtaketaketake) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1924,7 +1922,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [wow-look-at-my/cc-marketplace](https://github.com/wow-look-at-my/cc-marketplace) | 10 | `master` | `.claude-plugin` | ✅ ok |  |
 | [wshobson/agents](https://github.com/wshobson/agents) | 92 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Wunderlandmedia/launchworthy](https://github.com/Wunderlandmedia/launchworthy) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [wyre-technology/msp-claude-plugins](https://github.com/wyre-technology/msp-claude-plugins) | 79 | `main` | `.claude-plugin` | ✅ ok |  |
+| [wyre-technology/msp-claude-plugins](https://github.com/wyre-technology/msp-claude-plugins) | 80 | `main` | `.claude-plugin` | ✅ ok |  |
 | [x77xdavid-prog/checkup-skills](https://github.com/x77xdavid-prog/checkup-skills) | 30 | `master` | `.claude-plugin` | ✅ ok |  |
 | [xbim08/awesome-claude-code-plugins](https://github.com/xbim08/awesome-claude-code-plugins) | 118 | `main` | `.claude-plugin` | ✅ ok |  |
 | [XBlueSky/cortexes](https://github.com/XBlueSky/cortexes) | 1 | `plugin` | `.claude-plugin` | ✅ ok |  |
@@ -2014,6 +2012,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [apideck-libraries/api-skills](https://github.com/apideck-libraries/api-skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [AR6420/Hail_Hydra](https://github.com/AR6420/Hail_Hydra) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [arabicapp/everything-claude-code](https://github.com/arabicapp/everything-claude-code) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [arbi-elezi/emperor-time](https://github.com/arbi-elezi/emperor-time) | 0 | `main` | `.claude-plugin` | ❌ error | HTTP 503; marketplace.json not found |
 | [arcjet/arcjet-plugin](https://github.com/arcjet/arcjet-plugin) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [arete-aios/skills](https://github.com/arete-aios/skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [Ashikparvez89/larouex-fullstack-plugin](https://github.com/Ashikparvez89/larouex-fullstack-plugin) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
@@ -2139,8 +2138,9 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Paretofilm/superpowers-gstack](https://github.com/Paretofilm/superpowers-gstack) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [parkjui92-tech/policy-research-kits](https://github.com/parkjui92-tech/policy-research-kits) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [Pavel-Kravchenko/Bioinformatics](https://github.com/Pavel-Kravchenko/Bioinformatics) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [PCIRCLE-AI/memesh-llm-memory](https://github.com/PCIRCLE-AI/memesh-llm-memory) | 0 | `main` | `.claude-plugin` | ❌ error | HTTP 503; marketplace.json not found |
+| [pencilrebel/roast-my-design-system](https://github.com/pencilrebel/roast-my-design-system) | 0 | `main` | `.claude-plugin` | ❌ error | HTTP 503; marketplace.json not found |
 | [petermcalister/shared-skills](https://github.com/petermcalister/shared-skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
-| [PostHog/ai-plugin](https://github.com/PostHog/ai-plugin) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [prime-radiant-inc/greenfield](https://github.com/prime-radiant-inc/greenfield) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [product-on-purpose/writing-style-catalog](https://github.com/product-on-purpose/writing-style-catalog) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [produtoramaxvision/maxvision-utilities](https://github.com/produtoramaxvision/maxvision-utilities) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
