@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2201**
-- Discoverable plugins: **8,533**
+- Discoverable plugins: **8,534**
 - Healthy repos: **1979** · Unavailable: **222**
-- Last updated: **2026-08-18 14:38 UTC**
+- Last updated: **2026-08-18 15:37 UTC**
 
 ## Source Catalog
 
@@ -906,7 +906,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [kanopi/claude-toolbox](https://github.com/kanopi/claude-toolbox) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [kaposty/context-kit](https://github.com/kaposty/context-kit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [KAppMaker/KAppMaker-CLI](https://github.com/KAppMaker/KAppMaker-CLI) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [karanb192/claude-code-hooks](https://github.com/karanb192/claude-code-hooks) | 19 | `main` | `.claude-plugin` | ✅ ok |  |
+| [karanb192/claude-code-hooks](https://github.com/karanb192/claude-code-hooks) | 20 | `main` | `.claude-plugin` | ✅ ok |  |
 | [karanb192/itr-wala](https://github.com/karanb192/itr-wala) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [karlkfi/claude-branch-guard](https://github.com/karlkfi/claude-branch-guard) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [karlkfi/claude-workspace-guard](https://github.com/karlkfi/claude-workspace-guard) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
