@@ -7,7 +7,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 - Enabled marketplaces: **2207**
 - Discoverable plugins: **8,571**
 - Healthy repos: **1986** · Unavailable: **221**
-- Last updated: **2026-08-18 19:32 UTC**
+- Last updated: **2026-08-18 20:32 UTC**
 
 ## Source Catalog
 
