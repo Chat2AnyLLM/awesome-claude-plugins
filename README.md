@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2219**
-- Discoverable plugins: **8,592**
+- Discoverable plugins: **8,594**
 - Healthy repos: **1992** · Unavailable: **227**
-- Last updated: **2026-08-19 04:42 UTC**
+- Last updated: **2026-08-19 05:35 UTC**
 
 ## Source Catalog
 
@@ -1196,7 +1196,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [mryll/skills](https://github.com/mryll/skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [MSApps-Mobile/claude-plugins](https://github.com/MSApps-Mobile/claude-plugins) | 30 | `main` | `.claude-plugin` | ✅ ok |  |
 | [msmorgan/jj-kata](https://github.com/msmorgan/jj-kata) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [msshives-gif/subagent-context](https://github.com/msshives-gif/subagent-context) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
+| [msshives-gif/subagent-context](https://github.com/msshives-gif/subagent-context) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [mstephenn/taskloop](https://github.com/mstephenn/taskloop) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [mtkhawaja/java-skills](https://github.com/mtkhawaja/java-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [mturac/pluginpool](https://github.com/mturac/pluginpool) | 10 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1957,7 +1957,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [yaniv-golan/skill-creator-plus](https://github.com/yaniv-golan/skill-creator-plus) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [yanmxa/cc-plugins](https://github.com/yanmxa/cc-plugins) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
 | [yash161004/context-guardian](https://github.com/yash161004/context-guardian) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [YasuakiOmokawa/skills](https://github.com/YasuakiOmokawa/skills) | 19 | `main` | `.claude-plugin` | ✅ ok |  |
+| [YasuakiOmokawa/skills](https://github.com/YasuakiOmokawa/skills) | 20 | `main` | `.claude-plugin` | ✅ ok |  |
 | [yasyf/cc-transcript](https://github.com/yasyf/cc-transcript) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [yeaight7/agent-powerups](https://github.com/yeaight7/agent-powerups) | 21 | `main` | `.claude-plugin` | ✅ ok |  |
 | [yerros/context-forge](https://github.com/yerros/context-forge) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
