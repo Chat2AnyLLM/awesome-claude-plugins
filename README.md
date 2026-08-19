@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2219**
-- Discoverable plugins: **8,594**
+- Discoverable plugins: **8,595**
 - Healthy repos: **1992** · Unavailable: **227**
-- Last updated: **2026-08-19 05:35 UTC**
+- Last updated: **2026-08-19 06:53 UTC**
 
 ## Source Catalog
 
@@ -330,7 +330,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [cagatayuncu/marketing-machine](https://github.com/cagatayuncu/marketing-machine) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [caglarbaranbora/Apple-Agent-Kit](https://github.com/caglarbaranbora/Apple-Agent-Kit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [CallMeTechie/fleet-manager](https://github.com/CallMeTechie/fleet-manager) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [camomilekr/claude-code-plugins](https://github.com/camomilekr/claude-code-plugins) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
+| [camomilekr/claude-code-plugins](https://github.com/camomilekr/claude-code-plugins) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [carlosrberto/cc-plugins](https://github.com/carlosrberto/cc-plugins) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Cassette-Editor/oh-my-cassette](https://github.com/Cassette-Editor/oh-my-cassette) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Cavalry-Collective/visual-stack](https://github.com/Cavalry-Collective/visual-stack) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
