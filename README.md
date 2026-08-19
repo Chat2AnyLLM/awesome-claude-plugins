@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2225**
-- Discoverable plugins: **8,606**
+- Discoverable plugins: **8,607**
 - Healthy repos: **1998** · Unavailable: **227**
-- Last updated: **2026-08-19 11:30 UTC**
+- Last updated: **2026-08-19 12:56 UTC**
 
 ## Source Catalog
 
@@ -1244,7 +1244,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [nekohasekai/my-codex-plugin](https://github.com/nekohasekai/my-codex-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [neotherapper/claude-plugins](https://github.com/neotherapper/claude-plugins) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
 | [netopsengineer/axiom](https://github.com/netopsengineer/axiom) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
-| [netresearch/claude-code-marketplace](https://github.com/netresearch/claude-code-marketplace) | 39 | `main` | `.claude-plugin` | ✅ ok |  |
+| [netresearch/claude-code-marketplace](https://github.com/netresearch/claude-code-marketplace) | 40 | `main` | `.claude-plugin` | ✅ ok |  |
 | [neuralinitiative/claude-dnd-skill](https://github.com/neuralinitiative/claude-dnd-skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Nevaberry/nevaberry-plugins](https://github.com/Nevaberry/nevaberry-plugins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [NexaDuo/mARC](https://github.com/NexaDuo/mARC) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
