@@ -4,10 +4,10 @@
 
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
-- Enabled marketplaces: **2219**
-- Discoverable plugins: **8,595**
-- Healthy repos: **1992** · Unavailable: **227**
-- Last updated: **2026-08-19 06:53 UTC**
+- Enabled marketplaces: **2225**
+- Discoverable plugins: **8,603**
+- Healthy repos: **1998** · Unavailable: **227**
+- Last updated: **2026-08-19 07:43 UTC**
 
 ## Source Catalog
 
@@ -213,6 +213,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [ArchitektApx/Vibe-Driven-Development](https://github.com/ArchitektApx/Vibe-Driven-Development) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [arcobaleno64/gemini-plugin-cc](https://github.com/arcobaleno64/gemini-plugin-cc) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ArieGoldkin/claude-forge](https://github.com/ArieGoldkin/claude-forge) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
+| [arifszn/slide-wright](https://github.com/arifszn/slide-wright) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [armoriq/armorClaude](https://github.com/armoriq/armorClaude) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [arome3/code-to-content](https://github.com/arome3/code-to-content) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Arsxxi/Iterative-dev-workflow](https://github.com/Arsxxi/Iterative-dev-workflow) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -670,6 +671,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [gordon1210/agent-goodies](https://github.com/gordon1210/agent-goodies) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [gr8monk3ys/claude-code-config](https://github.com/gr8monk3ys/claude-code-config) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [gr8monk3ys/lorenzos-claude-code](https://github.com/gr8monk3ys/lorenzos-claude-code) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [gr8monk3ys/skills](https://github.com/gr8monk3ys/skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [granthiaai/granthiaai-plugins](https://github.com/granthiaai/granthiaai-plugins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [GRCEngClub/claude-grc-engineering](https://github.com/GRCEngClub/claude-grc-engineering) | 66 | `main` | `.claude-plugin` | ✅ ok |  |
 | [grimaldost/craft-collection](https://github.com/grimaldost/craft-collection) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -877,6 +879,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [jordantplows/STARTUP-OS.MD](https://github.com/jordantplows/STARTUP-OS.MD) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [joris887/exosuit](https://github.com/joris887/exosuit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Jose-Ribeir/claude-code-review-gate](https://github.com/Jose-Ribeir/claude-code-review-gate) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [joshtune/mx-workflow](https://github.com/joshtune/mx-workflow) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [josix/agentic-retrieval](https://github.com/josix/agentic-retrieval) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jotterhans/malaysian-chinese-skill](https://github.com/jotterhans/malaysian-chinese-skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jovesun-lab/arcgram](https://github.com/jovesun-lab/arcgram) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1099,6 +1102,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [martinffx/atelier](https://github.com/martinffx/atelier) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [MartinHar/qa-bug-hunter](https://github.com/MartinHar/qa-bug-hunter) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [MartinOlivero/saas-builder](https://github.com/MartinOlivero/saas-builder) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [martynjsimpson/workManagementClaudePlugin](https://github.com/martynjsimpson/workManagementClaudePlugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Master0fFate/parallax-claudecode](https://github.com/Master0fFate/parallax-claudecode) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [matcra587/claude-themes](https://github.com/matcra587/claude-themes) | 11 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1229,6 +1233,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [NatChung/english-recap](https://github.com/NatChung/english-recap) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [natthasath/natthasath-marketplace](https://github.com/natthasath/natthasath-marketplace) | 16 | `main` | `.claude-plugin` | ✅ ok |  |
 | [naveedharri/benai-skills](https://github.com/naveedharri/benai-skills) | 21 | `develop` | `.claude-plugin` | ✅ ok |  |
+| [NavistAu/claude-marketplace](https://github.com/NavistAu/claude-marketplace) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [navox-labs/agents](https://github.com/navox-labs/agents) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ncaq/konoka](https://github.com/ncaq/konoka) | 12 | `master` | `.claude-plugin` | ✅ ok |  |
 | [ncoevoet/claude-review-all](https://github.com/ncoevoet/claude-review-all) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1876,6 +1881,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [vib795/agent-memory](https://github.com/vib795/agent-memory) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [vibecodingmd/clawdius](https://github.com/vibecodingmd/clawdius) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [vibhasdutta/loop-engineer](https://github.com/vibhasdutta/loop-engineer) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [vicky-tiq/skill-interview](https://github.com/vicky-tiq/skill-interview) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [victor-hac-work/ai-unknowns-resolver](https://github.com/victor-hac-work/ai-unknowns-resolver) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [victoraguilarsantamariadev/qa-explore](https://github.com/victoraguilarsantamariadev/qa-explore) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [VincentChuWaiChow/vanguard-frontier-agentic](https://github.com/VincentChuWaiChow/vanguard-frontier-agentic) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
