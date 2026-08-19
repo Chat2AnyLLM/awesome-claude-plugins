@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2225**
-- Discoverable plugins: **8,604**
+- Discoverable plugins: **8,606**
 - Healthy repos: **1998** · Unavailable: **227**
-- Last updated: **2026-08-19 09:39 UTC**
+- Last updated: **2026-08-19 10:34 UTC**
 
 ## Source Catalog
 
@@ -296,7 +296,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [bogheorghiu/ex-cog-dev](https://github.com/bogheorghiu/ex-cog-dev) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [bold-minds/bots](https://github.com/bold-minds/bots) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [boranesn/agentic-base](https://github.com/boranesn/agentic-base) | 4 | `master` | `.claude-plugin` | ✅ ok |  |
-| [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
+| [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Borelchu/menhera-loop](https://github.com/Borelchu/menhera-loop) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [borghei/AI-Skills-German-Law](https://github.com/borghei/AI-Skills-German-Law) | 66 | `main` | `.claude-plugin` | ✅ ok |  |
 | [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) | 20 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1481,7 +1481,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [RiskAverseTech/createa-meme-skill](https://github.com/RiskAverseTech/createa-meme-skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ritesh31/claude-pre-merge-conflict-predictor](https://github.com/ritesh31/claude-pre-merge-conflict-predictor) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [rithwik-01/claude-code-plugin-kubernetes](https://github.com/rithwik-01/claude-code-plugin-kubernetes) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [ritmillio/skills](https://github.com/ritmillio/skills) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
+| [ritmillio/skills](https://github.com/ritmillio/skills) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
 | [rizonetech/claude-plugins](https://github.com/rizonetech/claude-plugins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [rjroy/vibe-garden](https://github.com/rjroy/vibe-garden) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [rjvim/ai-skills](https://github.com/rjvim/ai-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
