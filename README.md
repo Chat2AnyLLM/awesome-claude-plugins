@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2234**
-- Discoverable plugins: **8,638**
+- Discoverable plugins: **8,639**
 - Healthy repos: **2005** · Unavailable: **229**
-- Last updated: **2026-08-19 14:39 UTC**
+- Last updated: **2026-08-19 15:36 UTC**
 
 ## Source Catalog
 
@@ -1804,7 +1804,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [tigerless-labs/design-harness](https://github.com/tigerless-labs/design-harness) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [tim-nish/tanuki](https://github.com/tim-nish/tanuki) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [timharris707/skills](https://github.com/timharris707/skills) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
+| [timharris707/skills](https://github.com/timharris707/skills) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
 | [timoncool/prompt-warrior](https://github.com/timoncool/prompt-warrior) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [tjdrhs90/flutter-flame-harness](https://github.com/tjdrhs90/flutter-flame-harness) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [tjdwls101010/Codex-in-Claude](https://github.com/tjdwls101010/Codex-in-Claude) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
