@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2207**
-- Discoverable plugins: **8,571**
+- Discoverable plugins: **8,572**
 - Healthy repos: **1985** · Unavailable: **222**
-- Last updated: **2026-08-18 23:27 UTC**
+- Last updated: **2026-08-19 01:36 UTC**
 
 ## Source Catalog
 
@@ -381,7 +381,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [claude-contrib/claude-skills](https://github.com/claude-contrib/claude-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [claude-hangar/claude-hangar](https://github.com/claude-hangar/claude-hangar) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [claude-world/director-mode-lite](https://github.com/claude-world/director-mode-lite) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [ClaudeRegistry/marketplace](https://github.com/ClaudeRegistry/marketplace) | 18 | `main` | `.claude-plugin` | ✅ ok |  |
+| [ClaudeRegistry/marketplace](https://github.com/ClaudeRegistry/marketplace) | 19 | `main` | `.claude-plugin` | ✅ ok |  |
 | [claudifytech/claude-code-skills-starter](https://github.com/claudifytech/claude-code-skills-starter) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [claylo/claylo-marketplace](https://github.com/claylo/claylo-marketplace) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Clear-Sights/Makoto](https://github.com/Clear-Sights/Makoto) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
