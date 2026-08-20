@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2251**
-- Discoverable plugins: **8,669**
+- Discoverable plugins: **8,671**
 - Healthy repos: **2022** · Unavailable: **229**
-- Last updated: **2026-08-20 05:36 UTC**
+- Last updated: **2026-08-20 06:54 UTC**
 
 ## Source Catalog
 
@@ -849,7 +849,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [JetBrains/teamcity-cli](https://github.com/JetBrains/teamcity-cli) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jhlee0409/claude-harness-kit](https://github.com/jhlee0409/claude-harness-kit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jhlee0409/omni-harness-kit](https://github.com/jhlee0409/omni-harness-kit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) | 37 | `main` | `.claude-plugin` | ✅ ok |  |
+| [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) | 38 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jianzhichun/permafrost](https://github.com/jianzhichun/permafrost) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [JiaWeiXie/swarm-pi-code-plugin](https://github.com/JiaWeiXie/swarm-pi-code-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jiayou20021120-afk/paper-conductor](https://github.com/jiayou20021120-afk/paper-conductor) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1516,7 +1516,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [ronnieiscoo/bootstrap-expert](https://github.com/ronnieiscoo/bootstrap-expert) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ronniepinnell/casper](https://github.com/ronniepinnell/casper) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [roomi-fields/claude-plugins](https://github.com/roomi-fields/claude-plugins) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
-| [rs2pydev/claude-skills](https://github.com/rs2pydev/claude-skills) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
+| [rs2pydev/claude-skills](https://github.com/rs2pydev/claude-skills) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [rse/ase](https://github.com/rse/ase) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [rterakedis/leanwheel-skills](https://github.com/rterakedis/leanwheel-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [runverdict/plugins](https://github.com/runverdict/plugins) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
