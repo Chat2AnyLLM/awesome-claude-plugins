@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2277**
-- Discoverable plugins: **8,708**
+- Discoverable plugins: **8,710**
 - Healthy repos: **2046** · Unavailable: **231**
-- Last updated: **2026-08-20 20:35 UTC**
+- Last updated: **2026-08-20 21:33 UTC**
 
 ## Source Catalog
 
@@ -1823,8 +1823,8 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [thedigitalorganizer/soloship](https://github.com/thedigitalorganizer/soloship) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [TheEdoRan/skills](https://github.com/TheEdoRan/skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [theophile-wallez/boomer](https://github.com/theophile-wallez/boomer) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [theophile-wallez/persona-ai](https://github.com/theophile-wallez/persona-ai) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [theophile-wallez/boomer](https://github.com/theophile-wallez/boomer) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
+| [theophile-wallez/persona-ai](https://github.com/theophile-wallez/persona-ai) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [thephw/claude-meseeks](https://github.com/thephw/claude-meseeks) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [thepushkarp/cc-gemini-plugin](https://github.com/thepushkarp/cc-gemini-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [thevibeworks/deadman](https://github.com/thevibeworks/deadman) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
