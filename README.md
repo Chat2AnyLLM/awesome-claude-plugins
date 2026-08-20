@@ -6,8 +6,8 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 
 - Enabled marketplaces: **2259**
 - Discoverable plugins: **8,679**
-- Healthy repos: **2030** · Unavailable: **229**
-- Last updated: **2026-08-20 07:45 UTC**
+- Healthy repos: **2029** · Unavailable: **230**
+- Last updated: **2026-08-20 08:45 UTC**
 
 ## Source Catalog
 
@@ -564,7 +564,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Endika/eskills](https://github.com/Endika/eskills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [endorphin-ai/hasbrains-agent-kit](https://github.com/endorphin-ai/hasbrains-agent-kit) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [enmanuelmag/cardor-skills](https://github.com/enmanuelmag/cardor-skills) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
-| [enverkocak/framework](https://github.com/enverkocak/framework) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [EodHistoricalData/eodhd-claude-skills](https://github.com/EodHistoricalData/eodhd-claude-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [EpicVillage/Hyperloop-Skill](https://github.com/EpicVillage/Hyperloop-Skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1245,7 +1244,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [nasimubd/claude-council](https://github.com/nasimubd/claude-council) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [NatChung/english-recap](https://github.com/NatChung/english-recap) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [natthasath/natthasath-marketplace](https://github.com/natthasath/natthasath-marketplace) | 16 | `main` | `.claude-plugin` | ✅ ok |  |
-| [naveedharri/benai-skills](https://github.com/naveedharri/benai-skills) | 21 | `develop` | `.claude-plugin` | ✅ ok |  |
+| [naveedharri/benai-skills](https://github.com/naveedharri/benai-skills) | 22 | `develop` | `.claude-plugin` | ✅ ok |  |
 | [NavistAu/claude-marketplace](https://github.com/NavistAu/claude-marketplace) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [navox-labs/agents](https://github.com/navox-labs/agents) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ncaq/konoka](https://github.com/ncaq/konoka) | 13 | `master` | `.claude-plugin` | ✅ ok |  |
@@ -2112,6 +2111,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [eins78/meteoswiss-llm-tools](https://github.com/eins78/meteoswiss-llm-tools) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [ejentum/ejentum-mcp](https://github.com/ejentum/ejentum-mcp) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [Elnora-AI/elnora-cli](https://github.com/Elnora-AI/elnora-cli) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [enverkocak/framework](https://github.com/enverkocak/framework) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [Eslam3bed/claude-atlas](https://github.com/Eslam3bed/claude-atlas) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [exmergo/dex](https://github.com/exmergo/dex) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [fablerlabs/relay](https://github.com/fablerlabs/relay) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
