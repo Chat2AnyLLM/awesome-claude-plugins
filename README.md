@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2259**
-- Discoverable plugins: **8,679**
-- Healthy repos: **2029** · Unavailable: **230**
-- Last updated: **2026-08-20 09:40 UTC**
+- Discoverable plugins: **8,681**
+- Healthy repos: **2030** · Unavailable: **229**
+- Last updated: **2026-08-20 10:35 UTC**
 
 ## Source Catalog
 
@@ -1085,6 +1085,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [maee-co/cc-autoship](https://github.com/maee-co/cc-autoship) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Magos-Biologis/nb-claude-skill](https://github.com/Magos-Biologis/nb-claude-skill) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [maicon76/sundayhao-plugins](https://github.com/maicon76/sundayhao-plugins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [makieali/claude-code-engineer](https://github.com/makieali/claude-code-engineer) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [malekokour/clinpharm-pmx-skills](https://github.com/malekokour/clinpharm-pmx-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Malo-T/claude-toolbelt](https://github.com/Malo-T/claude-toolbelt) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2165,7 +2166,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [luxsolari/whiting](https://github.com/luxsolari/whiting) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [ma-nucho-pro/supervisorLLM-plugin](https://github.com/ma-nucho-pro/supervisorLLM-plugin) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [madarco/agentbox](https://github.com/madarco/agentbox) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
-| [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [Malo-T/branch-review](https://github.com/Malo-T/branch-review) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [malob/nix-config](https://github.com/malob/nix-config) | 0 | `master` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [mantoufan/seedance-prompts-skill](https://github.com/mantoufan/seedance-prompts-skill) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
