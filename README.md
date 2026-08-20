@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2270**
-- Discoverable plugins: **8,697**
-- Healthy repos: **2041** · Unavailable: **229**
-- Last updated: **2026-08-20 16:40 UTC**
+- Discoverable plugins: **8,696**
+- Healthy repos: **2040** · Unavailable: **230**
+- Last updated: **2026-08-20 17:35 UTC**
 
 ## Source Catalog
 
@@ -1520,7 +1520,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [rodrigopg/claude-plugins](https://github.com/rodrigopg/claude-plugins) | 12 | `main` | `.claude-plugin` | ✅ ok |  |
 | [rodrigopg/claude-skill-prime-context](https://github.com/rodrigopg/claude-skill-prime-context) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [rolandobenitez/the-unofficial-swift-concurrency-migration-skill](https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [romiluz13/cc10x](https://github.com/romiluz13/cc10x) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [roney492/ui-review](https://github.com/roney492/ui-review) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [RoninForge/claude-code-cost](https://github.com/RoninForge/claude-code-cost) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2221,6 +2220,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [respira-press/agent-skills-wordpress](https://github.com/respira-press/agent-skills-wordpress) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [robertguss/claude-code-toolkit](https://github.com/robertguss/claude-code-toolkit) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [robmclarty/plumbbob](https://github.com/robmclarty/plumbbob) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [rolandobenitez/the-unofficial-swift-concurrency-migration-skill](https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [ronnythedev/dotnet-clean-architecture-skills](https://github.com/ronnythedev/dotnet-clean-architecture-skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [runverdict/repo-standard-toolkit](https://github.com/runverdict/repo-standard-toolkit) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [runverdict/sf-security-review-toolkit](https://github.com/runverdict/sf-security-review-toolkit) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
