@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2251**
-- Discoverable plugins: **8,668**
+- Discoverable plugins: **8,669**
 - Healthy repos: **2022** · Unavailable: **229**
-- Last updated: **2026-08-20 04:42 UTC**
+- Last updated: **2026-08-20 05:36 UTC**
 
 ## Source Catalog
 
@@ -1245,7 +1245,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [naveedharri/benai-skills](https://github.com/naveedharri/benai-skills) | 21 | `develop` | `.claude-plugin` | ✅ ok |  |
 | [NavistAu/claude-marketplace](https://github.com/NavistAu/claude-marketplace) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [navox-labs/agents](https://github.com/navox-labs/agents) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [ncaq/konoka](https://github.com/ncaq/konoka) | 12 | `master` | `.claude-plugin` | ✅ ok |  |
+| [ncaq/konoka](https://github.com/ncaq/konoka) | 13 | `master` | `.claude-plugin` | ✅ ok |  |
 | [ncoevoet/claude-review-all](https://github.com/ncoevoet/claude-review-all) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [NDDev-it-com/rldyour-claudecode](https://github.com/NDDev-it-com/rldyour-claudecode) | 10 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
