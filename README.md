@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2259**
-- Discoverable plugins: **8,681**
+- Discoverable plugins: **8,682**
 - Healthy repos: **2030** · Unavailable: **229**
-- Last updated: **2026-08-20 11:32 UTC**
+- Last updated: **2026-08-20 12:59 UTC**
 
 ## Source Catalog
 
@@ -1725,7 +1725,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [stanmaygo/dotsweep](https://github.com/stanmaygo/dotsweep) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [StartupBros-com/hov-marketplace](https://github.com/StartupBros-com/hov-marketplace) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
 | [startx-founders/claude-skills](https://github.com/startx-founders/claude-skills) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
-| [SteerSpec/.claude](https://github.com/SteerSpec/.claude) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [SteerSpec/.claude](https://github.com/SteerSpec/.claude) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [stereobooster/software-quality-skills](https://github.com/stereobooster/software-quality-skills) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [StielChancellor/VibeGod-Tech-Team](https://github.com/StielChancellor/VibeGod-Tech-Team) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Stigmavlc/claude-bridge](https://github.com/Stigmavlc/claude-bridge) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
