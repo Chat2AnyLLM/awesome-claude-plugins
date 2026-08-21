@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2308**
-- Discoverable plugins: **8,873**
+- Discoverable plugins: **8,879**
 - Healthy repos: **2076** · Unavailable: **232**
-- Last updated: **2026-08-21 19:29 UTC**
+- Last updated: **2026-08-21 20:31 UTC**
 
 ## Source Catalog
 
@@ -1208,7 +1208,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [MohamedEmbarak/Supreme-Leader](https://github.com/MohamedEmbarak/Supreme-Leader) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [mohamedzhioua/pixelproof](https://github.com/mohamedzhioua/pixelproof) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [MohdAljahdali/mjloop](https://github.com/MohdAljahdali/mjloop) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 124 | `main` | `.claude-plugin` | ✅ ok |  |
+| [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 130 | `main` | `.claude-plugin` | ✅ ok |  |
 | [moiri-gamboni/praxis](https://github.com/moiri-gamboni/praxis) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [MoizIbnYousaf/marketing-cli](https://github.com/MoizIbnYousaf/marketing-cli) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [moonlight-lupin/data-toolkit](https://github.com/moonlight-lupin/data-toolkit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
