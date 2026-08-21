@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2299**
-- Discoverable plugins: **8,817**
+- Discoverable plugins: **8,818**
 - Healthy repos: **2067** · Unavailable: **232**
-- Last updated: **2026-08-21 13:51 UTC**
+- Last updated: **2026-08-21 14:40 UTC**
 
 ## Source Catalog
 
@@ -2007,7 +2007,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [wow-look-at-my/cc-marketplace](https://github.com/wow-look-at-my/cc-marketplace) | 10 | `master` | `.claude-plugin` | ✅ ok |  |
 | [wshobson/agents](https://github.com/wshobson/agents) | 92 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Wunderlandmedia/launchworthy](https://github.com/Wunderlandmedia/launchworthy) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [wyre-technology/msp-claude-plugins](https://github.com/wyre-technology/msp-claude-plugins) | 81 | `main` | `.claude-plugin` | ✅ ok |  |
+| [wyre-technology/msp-claude-plugins](https://github.com/wyre-technology/msp-claude-plugins) | 82 | `main` | `.claude-plugin` | ✅ ok |  |
 | [x77xdavid-prog/checkup-skills](https://github.com/x77xdavid-prog/checkup-skills) | 30 | `master` | `.claude-plugin` | ✅ ok |  |
 | [xbim08/awesome-claude-code-plugins](https://github.com/xbim08/awesome-claude-code-plugins) | 118 | `main` | `.claude-plugin` | ✅ ok |  |
 | [XBlueSky/cortexes](https://github.com/XBlueSky/cortexes) | 1 | `plugin` | `.claude-plugin` | ✅ ok |  |
