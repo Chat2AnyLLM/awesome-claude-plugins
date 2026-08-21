@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2281**
-- Discoverable plugins: **8,737**
+- Discoverable plugins: **8,735**
 - Healthy repos: **2050** · Unavailable: **231**
-- Last updated: **2026-08-21 03:08 UTC**
+- Last updated: **2026-08-21 04:44 UTC**
 
 ## Source Catalog
 
@@ -1489,8 +1489,8 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [rennf93/opus-fable-playbook](https://github.com/rennf93/opus-fable-playbook) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [replica0909xx/oh-my-claude](https://github.com/replica0909xx/oh-my-claude) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [reticlehq/reticle](https://github.com/reticlehq/reticle) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [revenantworks/citadel](https://github.com/revenantworks/citadel) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
-| [revenantworks/claude-skills](https://github.com/revenantworks/claude-skills) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
+| [revenantworks/citadel](https://github.com/revenantworks/citadel) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [revenantworks/claude-skills](https://github.com/revenantworks/claude-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [rfxlamia/pocketto](https://github.com/rfxlamia/pocketto) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [rga-rt/claude-nuxt-fullstack-scaffold](https://github.com/rga-rt/claude-nuxt-fullstack-scaffold) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [rhein1/agoragentic-integrations](https://github.com/rhein1/agoragentic-integrations) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
