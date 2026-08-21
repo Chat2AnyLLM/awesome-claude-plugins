@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2299**
-- Discoverable plugins: **8,851**
+- Discoverable plugins: **8,862**
 - Healthy repos: **2067** · Unavailable: **232**
-- Last updated: **2026-08-21 17:34 UTC**
+- Last updated: **2026-08-21 18:43 UTC**
 
 ## Source Catalog
 
@@ -76,7 +76,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [aby-studio-works/garelier](https://github.com/aby-studio-works/garelier) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [activeloopai/hivemind](https://github.com/activeloopai/hivemind) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [adamjali/claude-skills](https://github.com/adamjali/claude-skills) | 9 | `main` | `.claude-plugin` | ✅ ok |  |
-| [adammatthewsteinberger/vibey-skills](https://github.com/adammatthewsteinberger/vibey-skills) | 117 | `develop` | `.claude-plugin` | ✅ ok |  |
+| [adammatthewsteinberger/vibey-skills](https://github.com/adammatthewsteinberger/vibey-skills) | 127 | `develop` | `.claude-plugin` | ✅ ok |  |
 | [adamradek-ux/claude-code-personal-pack](https://github.com/adamradek-ux/claude-code-personal-pack) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [adamriofc/indonesian-business-agent-skills](https://github.com/adamriofc/indonesian-business-agent-skills) | 6 | `master` | `.claude-plugin` | ✅ ok |  |
 | [adaptocms/adapto-cms-agent-skills](https://github.com/adaptocms/adapto-cms-agent-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1583,7 +1583,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [saqqdy/kafka-log-analyzer](https://github.com/saqqdy/kafka-log-analyzer) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [sascha-gruesshaber/claudify](https://github.com/sascha-gruesshaber/claudify) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [sasha-deneux/claude-skills-cre](https://github.com/sasha-deneux/claude-skills-cre) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [SashaMarchuk/claude-plugins](https://github.com/SashaMarchuk/claude-plugins) | 10 | `main` | `.claude-plugin` | ✅ ok |  |
+| [SashaMarchuk/claude-plugins](https://github.com/SashaMarchuk/claude-plugins) | 11 | `main` | `.claude-plugin` | ✅ ok |  |
 | [SatanshuMishra/logbook](https://github.com/SatanshuMishra/logbook) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Sateezg/codex-bridge](https://github.com/Sateezg/codex-bridge) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [sauravvarma/garage](https://github.com/sauravvarma/garage) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
