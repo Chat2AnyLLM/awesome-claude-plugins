@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2277**
-- Discoverable plugins: **8,725**
+- Discoverable plugins: **8,722**
 - Healthy repos: **2046** · Unavailable: **231**
-- Last updated: **2026-08-20 23:30 UTC**
+- Last updated: **2026-08-21 01:40 UTC**
 
 ## Source Catalog
 
@@ -638,7 +638,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Fyzel/claude-skills](https://github.com/Fyzel/claude-skills) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
 | [gabelul/stitch-kit](https://github.com/gabelul/stitch-kit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [gabrieldabbah/genesis](https://github.com/gabrieldabbah/genesis) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [gaelic-ghost/socket](https://github.com/gaelic-ghost/socket) | 27 | `main` | `.claude-plugin` | ✅ ok |  |
+| [gaelic-ghost/socket](https://github.com/gaelic-ghost/socket) | 24 | `main` | `.claude-plugin` | ✅ ok |  |
 | [gageracer/svelte5-migration-analyst](https://github.com/gageracer/svelte5-migration-analyst) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [gagip/gagip-dev](https://github.com/gagip/gagip-dev) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [GaimsDevSoftware/glaze-coder](https://github.com/GaimsDevSoftware/glaze-coder) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
