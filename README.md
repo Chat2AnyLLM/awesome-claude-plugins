@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2289**
-- Discoverable plugins: **8,792**
+- Discoverable plugins: **8,804**
 - Healthy repos: **2057** · Unavailable: **232**
-- Last updated: **2026-08-21 07:48 UTC**
+- Last updated: **2026-08-21 08:48 UTC**
 
 ## Source Catalog
 
@@ -76,7 +76,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [aby-studio-works/garelier](https://github.com/aby-studio-works/garelier) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [activeloopai/hivemind](https://github.com/activeloopai/hivemind) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [adamjali/claude-skills](https://github.com/adamjali/claude-skills) | 9 | `main` | `.claude-plugin` | ✅ ok |  |
-| [adammatthewsteinberger/vibey-skills](https://github.com/adammatthewsteinberger/vibey-skills) | 73 | `develop` | `.claude-plugin` | ✅ ok |  |
+| [adammatthewsteinberger/vibey-skills](https://github.com/adammatthewsteinberger/vibey-skills) | 84 | `develop` | `.claude-plugin` | ✅ ok |  |
 | [adamriofc/indonesian-business-agent-skills](https://github.com/adamriofc/indonesian-business-agent-skills) | 6 | `master` | `.claude-plugin` | ✅ ok |  |
 | [adaptocms/adapto-cms-agent-skills](https://github.com/adaptocms/adapto-cms-agent-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [adarshpuri20/flow-surface](https://github.com/adarshpuri20/flow-surface) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1260,7 +1260,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [naveedharri/benai-skills](https://github.com/naveedharri/benai-skills) | 22 | `develop` | `.claude-plugin` | ✅ ok |  |
 | [NavistAu/claude-marketplace](https://github.com/NavistAu/claude-marketplace) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [navox-labs/agents](https://github.com/navox-labs/agents) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [ncaq/konoka](https://github.com/ncaq/konoka) | 13 | `master` | `.claude-plugin` | ✅ ok |  |
+| [ncaq/konoka](https://github.com/ncaq/konoka) | 14 | `master` | `.claude-plugin` | ✅ ok |  |
 | [ncoevoet/claude-review-all](https://github.com/ncoevoet/claude-review-all) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [NDDev-it-com/rldyour-claudecode](https://github.com/NDDev-it-com/rldyour-claudecode) | 10 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
