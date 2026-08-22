@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2322**
-- Discoverable plugins: **8,909**
+- Discoverable plugins: **8,911**
 - Healthy repos: **2086** · Unavailable: **236**
-- Last updated: **2026-08-22 08:36 UTC**
+- Last updated: **2026-08-22 09:32 UTC**
 
 ## Source Catalog
 
@@ -1758,8 +1758,8 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [spawahh/openpilot-claude-kit](https://github.com/spawahh/openpilot-claude-kit) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) | 1 | `dev` | `.claude-plugin` | ✅ ok |  |
 | [spencermarx/open-code-review](https://github.com/spencermarx/open-code-review) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [SpencerPresley/everyday-engineering-skills](https://github.com/SpencerPresley/everyday-engineering-skills) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
-| [SpencerPresley/spencer-and-claude-sitting-in-a-tree](https://github.com/SpencerPresley/spencer-and-claude-sitting-in-a-tree) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
+| [SpencerPresley/everyday-engineering-skills](https://github.com/SpencerPresley/everyday-engineering-skills) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
+| [SpencerPresley/spencer-and-claude-sitting-in-a-tree](https://github.com/SpencerPresley/spencer-and-claude-sitting-in-a-tree) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
 | [spikelab/multiplai-cc-mktplace](https://github.com/spikelab/multiplai-cc-mktplace) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
 | [SpillwaveSolutions/automating-mac-apps-plugin](https://github.com/SpillwaveSolutions/automating-mac-apps-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [spxrogers/oura-toolkit](https://github.com/spxrogers/oura-toolkit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
