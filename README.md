@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2332**
-- Discoverable plugins: **8,927**
-- Healthy repos: **2095** · Unavailable: **237**
-- Last updated: **2026-08-22 13:36 UTC**
+- Discoverable plugins: **8,926**
+- Healthy repos: **2094** · Unavailable: **238**
+- Last updated: **2026-08-22 14:27 UTC**
 
 ## Source Catalog
 
@@ -408,7 +408,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [clever-cc-plugins/marketplace](https://github.com/clever-cc-plugins/marketplace) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [clomia/claude-automata](https://github.com/clomia/claude-automata) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [club-cog/devin-handoff](https://github.com/club-cog/devin-handoff) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [coachpo/plugins-claude](https://github.com/coachpo/plugins-claude) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [coalesce-labs/catalyst](https://github.com/coalesce-labs/catalyst) | 10 | `main` | `.claude-plugin` | ✅ ok |  |
 | [codearranger/claude-legal](https://github.com/codearranger/claude-legal) | 15 | `main` | `.claude-plugin` | ✅ ok |  |
 | [codingSamss/all-my-ai-needs](https://github.com/codingSamss/all-my-ai-needs) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
@@ -2158,6 +2157,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [clever-cc-plugins/cc-content](https://github.com/clever-cc-plugins/cc-content) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [Clinical-Quality-Artifical-Intelligence/practice-loops](https://github.com/Clinical-Quality-Artifical-Intelligence/practice-loops) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [clochard04/handoff](https://github.com/clochard04/handoff) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [coachpo/plugins-claude](https://github.com/coachpo/plugins-claude) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [curie-eng/curie](https://github.com/curie-eng/curie) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [DaizeDong/buy-me-a-car](https://github.com/DaizeDong/buy-me-a-car) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
