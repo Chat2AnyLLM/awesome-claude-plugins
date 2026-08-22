@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2340**
-- Discoverable plugins: **8,945**
-- Healthy repos: **2101** · Unavailable: **239**
-- Last updated: **2026-08-22 22:27 UTC**
+- Discoverable plugins: **8,926**
+- Healthy repos: **2100** · Unavailable: **240**
+- Last updated: **2026-08-22 23:26 UTC**
 
 ## Source Catalog
 
@@ -2048,7 +2048,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [xiaobei930/cc-best](https://github.com/xiaobei930/cc-best) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [xiaobei930/claude-code-best-practices](https://github.com/xiaobei930/claude-code-best-practices) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [xoonjaeho/ollama-cc-plugin](https://github.com/xoonjaeho/ollama-cc-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [Xopoko/plug-n-skills](https://github.com/Xopoko/plug-n-skills) | 19 | `main` | `.claude-plugin` | ✅ ok |  |
 | [xplusplusai/autoxpp-marketplace](https://github.com/xplusplusai/autoxpp-marketplace) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [XPOZpublic/xpoz-agent-skills](https://github.com/XPOZpublic/xpoz-agent-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [xr843/Master-skill](https://github.com/xr843/Master-skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2348,6 +2347,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Wolfgangrush/indian-hc-drafting-litigation](https://github.com/Wolfgangrush/indian-hc-drafting-litigation) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [WRG-11/wrg-sigma-rules](https://github.com/WRG-11/wrg-sigma-rules) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [XIYO/plug-hole](https://github.com/XIYO/plug-hole) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [Xopoko/plug-n-skills](https://github.com/Xopoko/plug-n-skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [Xquik-dev/hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) | 0 | `master` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [yumesaka/cc-marketplace](https://github.com/yumesaka/cc-marketplace) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
