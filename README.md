@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2332**
-- Discoverable plugins: **8,926**
+- Discoverable plugins: **8,928**
 - Healthy repos: **2094** · Unavailable: **238**
-- Last updated: **2026-08-22 14:27 UTC**
+- Last updated: **2026-08-22 15:27 UTC**
 
 ## Source Catalog
 
@@ -516,7 +516,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [dkstm95/hope](https://github.com/dkstm95/hope) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [dlectronique/adhd-tools-marketplace](https://github.com/dlectronique/adhd-tools-marketplace) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [DmitriyYukhanov/claude-plugins](https://github.com/DmitriyYukhanov/claude-plugins) | 13 | `main` | `.claude-plugin` | ✅ ok |  |
-| [DocketDrafter/docketdrafter-plugins](https://github.com/DocketDrafter/docketdrafter-plugins) | 7 | `master` | `.claude-plugin` | ✅ ok |  |
+| [DocketDrafter/docketdrafter-plugins](https://github.com/DocketDrafter/docketdrafter-plugins) | 8 | `master` | `.claude-plugin` | ✅ ok |  |
 | [DollarDill/beads-superpowers](https://github.com/DollarDill/beads-superpowers) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [dominikwozniak/dw-solo-skills](https://github.com/dominikwozniak/dw-solo-skills) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [donald-ada/workinggenius](https://github.com/donald-ada/workinggenius) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1937,7 +1937,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [uizze/uizze](https://github.com/uizze/uizze) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Ultimatrixman/claude-flightdeck](https://github.com/Ultimatrixman/claude-flightdeck) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
-| [umar-s/devpowers](https://github.com/umar-s/devpowers) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
+| [umar-s/devpowers](https://github.com/umar-s/devpowers) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
 | [umputun/cc-thingz](https://github.com/umputun/cc-thingz) | 7 | `master` | `.claude-plugin` | ✅ ok |  |
 | [unbounce/agent-plugins](https://github.com/unbounce/agent-plugins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [unbrainedgmbh/pluno-claude-plugin](https://github.com/unbrainedgmbh/pluno-claude-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
