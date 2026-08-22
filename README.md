@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2318**
-- Discoverable plugins: **8,909**
+- Discoverable plugins: **8,908**
 - Healthy repos: **2085** · Unavailable: **233**
-- Last updated: **2026-08-22 02:59 UTC**
+- Last updated: **2026-08-22 03:50 UTC**
 
 ## Source Catalog
 
@@ -404,7 +404,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [clever-cc-plugins/marketplace](https://github.com/clever-cc-plugins/marketplace) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [clomia/claude-automata](https://github.com/clomia/claude-automata) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [club-cog/devin-handoff](https://github.com/club-cog/devin-handoff) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [coachpo/plugins-claude](https://github.com/coachpo/plugins-claude) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
+| [coachpo/plugins-claude](https://github.com/coachpo/plugins-claude) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [coalesce-labs/catalyst](https://github.com/coalesce-labs/catalyst) | 10 | `main` | `.claude-plugin` | ✅ ok |  |
 | [codearranger/claude-legal](https://github.com/codearranger/claude-legal) | 15 | `main` | `.claude-plugin` | ✅ ok |  |
 | [codingSamss/all-my-ai-needs](https://github.com/codingSamss/all-my-ai-needs) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
