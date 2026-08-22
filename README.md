@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2322**
-- Discoverable plugins: **8,910**
-- Healthy repos: **2087** · Unavailable: **235**
-- Last updated: **2026-08-22 07:36 UTC**
+- Discoverable plugins: **8,909**
+- Healthy repos: **2086** · Unavailable: **236**
+- Last updated: **2026-08-22 08:36 UTC**
 
 ## Source Catalog
 
@@ -1832,7 +1832,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [tanchunzhuo/ultimate-viral-writer](https://github.com/tanchunzhuo/ultimate-viral-writer) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Tangoal/site-audit-skill](https://github.com/Tangoal/site-audit-skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Tannnnhauser/pivot-web-search](https://github.com/Tannnnhauser/pivot-web-search) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [tanrendev/jig](https://github.com/tanrendev/jig) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [tanvoid0/claude-code-plugins](https://github.com/tanvoid0/claude-code-plugins) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [tartinerlabs/skills](https://github.com/tartinerlabs/skills) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
 | [tarujg/azure-support-ticket](https://github.com/tarujg/azure-support-ticket) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2307,6 +2306,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [suxrobGM/jobpilot](https://github.com/suxrobGM/jobpilot) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [svenhorvath/claude-marketplace](https://github.com/svenhorvath/claude-marketplace) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [swapnil-agrim/loopsmith](https://github.com/swapnil-agrim/loopsmith) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [tanrendev/jig](https://github.com/tanrendev/jig) | 0 | `master` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [tchow-twistedxcom/claude-marketplace](https://github.com/tchow-twistedxcom/claude-marketplace) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [teambrilliant/dev-skills](https://github.com/teambrilliant/dev-skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [tercel/code-forge](https://github.com/tercel/code-forge) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
