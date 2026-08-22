@@ -4,10 +4,10 @@
 
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
-- Enabled marketplaces: **2318**
-- Discoverable plugins: **8,907**
-- Healthy repos: **2084** · Unavailable: **234**
-- Last updated: **2026-08-22 06:49 UTC**
+- Enabled marketplaces: **2322**
+- Discoverable plugins: **8,910**
+- Healthy repos: **2087** · Unavailable: **235**
+- Last updated: **2026-08-22 07:36 UTC**
 
 ## Source Catalog
 
@@ -806,6 +806,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [immigration2000/unreal-mcp-kit](https://github.com/immigration2000/unreal-mcp-kit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [impravin22/my-claude-maestro](https://github.com/impravin22/my-claude-maestro) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [imsaif/design-with-claude](https://github.com/imsaif/design-with-claude) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [inakaegg/pair-watch](https://github.com/inakaegg/pair-watch) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [indradhanush/skills](https://github.com/indradhanush/skills) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [indranilbanerjee/neels-plugins](https://github.com/indranilbanerjee/neels-plugins) | 3 | `master` | `.claude-plugin` | ✅ ok |  |
 | [infiniV/ultra-ml-intern](https://github.com/infiniV/ultra-ml-intern) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1802,6 +1803,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [sushiHex/sushi-bar](https://github.com/sushiHex/sushi-bar) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [suxrobGM/claude-plugins](https://github.com/suxrobGM/claude-plugins) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [suyu-creator/deep-analysis-skills](https://github.com/suyu-creator/deep-analysis-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [svedbg/trz](https://github.com/svedbg/trz) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [svy04/ballast](https://github.com/svy04/ballast) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Swellshinider/janitor](https://github.com/Swellshinider/janitor) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [SWEStash/swe-workflow-skills](https://github.com/SWEStash/swe-workflow-skills) | 15 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1881,6 +1883,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [tjdrhs90/flutter-flame-harness](https://github.com/tjdrhs90/flutter-flame-harness) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [tjdwls101010/Codex-in-Claude](https://github.com/tjdwls101010/Codex-in-Claude) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [tmoody1973/pasteup](https://github.com/tmoody1973/pasteup) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [tms-tungnguyen3/daily_working](https://github.com/tms-tungnguyen3/daily_working) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [TNT-Likely/honeycomb](https://github.com/TNT-Likely/honeycomb) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [toBzh30/Claude-Project-Bootstrap](https://github.com/toBzh30/Claude-Project-Bootstrap) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [tokenmaxxxer/on-the-record](https://github.com/tokenmaxxxer/on-the-record) | 33 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2231,6 +2234,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [mickzijdel/rails-toolkit](https://github.com/mickzijdel/rails-toolkit) | 0 | `master` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [mka-codelake/agenticaiplugin](https://github.com/mka-codelake/agenticaiplugin) | 0 | `master` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [Moliboy5000/.claude](https://github.com/Moliboy5000/.claude) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [murphytrueman/design-system-ops](https://github.com/murphytrueman/design-system-ops) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [murtazatouqeer/f5-framework-claude](https://github.com/murtazatouqeer/f5-framework-claude) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [mustafahasanain/frappe-workflow](https://github.com/mustafahasanain/frappe-workflow) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [netresearch/matrix-skill](https://github.com/netresearch/matrix-skill) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
