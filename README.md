@@ -6,8 +6,8 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 
 - Enabled marketplaces: **2322**
 - Discoverable plugins: **8,911**
-- Healthy repos: **2086** · Unavailable: **236**
-- Last updated: **2026-08-22 10:29 UTC**
+- Healthy repos: **2085** · Unavailable: **237**
+- Last updated: **2026-08-22 11:25 UTC**
 
 ## Source Catalog
 
@@ -618,7 +618,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [fernando-bertholdo/4-successful-AI-life](https://github.com/fernando-bertholdo/4-successful-AI-life) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
 | [fernandox2/portafolio-docente-chile](https://github.com/fernandox2/portafolio-docente-chile) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Ferousco-dev/anti-slop-design](https://github.com/Ferousco-dev/anti-slop-design) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [filippolmt/skills](https://github.com/filippolmt/skills) | 83 | `main` | `.claude-plugin` | ✅ ok |  |
+| [filippolmt/skills](https://github.com/filippolmt/skills) | 84 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Flagrare/agent-skills](https://github.com/Flagrare/agent-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [FlashGalatine/claude-govee-lights](https://github.com/FlashGalatine/claude-govee-lights) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [FlorianBruniaux/github-roast-tpc](https://github.com/FlorianBruniaux/github-roast-tpc) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -705,7 +705,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [guhcostan/claude-mega-brain](https://github.com/guhcostan/claude-mega-brain) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [guildshelf/free-skills](https://github.com/guildshelf/free-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [GuillaumeLessard/qector-claude-plugin](https://github.com/GuillaumeLessard/qector-claude-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [GuillaumeLessard/qector-claude-skills](https://github.com/GuillaumeLessard/qector-claude-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [guinacio/claude-image-gen](https://github.com/guinacio/claude-image-gen) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [gulmezeren2-byte/claude-skills-doctor](https://github.com/gulmezeren2-byte/claude-skills-doctor) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [GusGaiotti/vibecode.fm](https://github.com/GusGaiotti/vibecode.fm) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2183,6 +2182,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [gonoff/claude-todos-skill](https://github.com/gonoff/claude-todos-skill) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [greglas75/zuvo](https://github.com/greglas75/zuvo) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [gshepptech/bits-and-mortar](https://github.com/gshepptech/bits-and-mortar) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [GuillaumeLessard/qector-claude-skills](https://github.com/GuillaumeLessard/qector-claude-skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [gxgeek-n/wenqu-mem](https://github.com/gxgeek-n/wenqu-mem) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [haiggoh/claude-code-desktop-sync](https://github.com/haiggoh/claude-code-desktop-sync) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [hex/claude-council](https://github.com/hex/claude-council) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
