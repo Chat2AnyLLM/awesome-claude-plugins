@@ -4,10 +4,10 @@
 
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
-- Enabled marketplaces: **2308**
-- Discoverable plugins: **8,879**
-- Healthy repos: **2076** · Unavailable: **232**
-- Last updated: **2026-08-21 23:28 UTC**
+- Enabled marketplaces: **2309**
+- Discoverable plugins: **8,880**
+- Healthy repos: **2077** · Unavailable: **232**
+- Last updated: **2026-08-22 01:33 UTC**
 
 ## Source Catalog
 
@@ -1053,6 +1053,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [LH8PPL/core-memory-kit](https://github.com/LH8PPL/core-memory-kit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [liatrio-labs/claude-code-gauntlet](https://github.com/liatrio-labs/claude-code-gauntlet) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Lifecycle-Innovations-Limited/claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
+| [likemusic/climits](https://github.com/likemusic/climits) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [liminalshruti/liminal-agents](https://github.com/liminalshruti/liminal-agents) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [limingnanyue/novel-creation-omnibus](https://github.com/limingnanyue/novel-creation-omnibus) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [linehaul-ai/linehaulai-claude-marketplace](https://github.com/linehaul-ai/linehaulai-claude-marketplace) | 20 | `main` | `.claude-plugin` | ✅ ok |  |
