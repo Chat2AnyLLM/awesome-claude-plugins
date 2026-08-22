@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2318**
-- Discoverable plugins: **8,908**
-- Healthy repos: **2085** · Unavailable: **233**
-- Last updated: **2026-08-22 03:50 UTC**
+- Discoverable plugins: **8,907**
+- Healthy repos: **2084** · Unavailable: **234**
+- Last updated: **2026-08-22 04:38 UTC**
 
 ## Source Catalog
 
@@ -1788,7 +1788,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [sturec5/claude-audit-protocol](https://github.com/sturec5/claude-audit-protocol) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [suboss87/FDEOps](https://github.com/suboss87/FDEOps) | 1 | `Main` | `.claude-plugin` | ✅ ok |  |
 | [sudeepgupta90/extended-andrej-karpathy-skill](https://github.com/sudeepgupta90/extended-andrej-karpathy-skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [suhang56/awesome-autoloop](https://github.com/suhang56/awesome-autoloop) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [sukoji/loadout](https://github.com/sukoji/loadout) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [sumeetmi2/architecture-debt-visualizer](https://github.com/sumeetmi2/architecture-debt-visualizer) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [sumitake/agent-collab](https://github.com/sumitake/agent-collab) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2299,6 +2298,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [spideynolove/hekate](https://github.com/spideynolove/hekate) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [SreeDharshan-GJ/experiment-audit](https://github.com/SreeDharshan-GJ/experiment-audit) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [StartupBros-com/skill-tuner](https://github.com/StartupBros-com/skill-tuner) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [suhang56/awesome-autoloop](https://github.com/suhang56/awesome-autoloop) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [sunchaokun/PPT-Design-Skill](https://github.com/sunchaokun/PPT-Design-Skill) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [suxrobGM/jobpilot](https://github.com/suxrobGM/jobpilot) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [svenhorvath/claude-marketplace](https://github.com/svenhorvath/claude-marketplace) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
