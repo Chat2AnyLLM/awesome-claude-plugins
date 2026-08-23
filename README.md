@@ -4,10 +4,10 @@
 
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
-- Enabled marketplaces: **2355**
-- Discoverable plugins: **8,951**
-- Healthy repos: **2111** · Unavailable: **244**
-- Last updated: **2026-08-23 12:50 UTC**
+- Enabled marketplaces: **2357**
+- Discoverable plugins: **8,954**
+- Healthy repos: **2113** · Unavailable: **244**
+- Last updated: **2026-08-23 13:36 UTC**
 
 ## Source Catalog
 
@@ -112,6 +112,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [ahmadghoniem/claude-cursor-delegate](https://github.com/ahmadghoniem/claude-cursor-delegate) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ahmetkumass/skilld](https://github.com/ahmetkumass/skilld) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ahundt/autorun](https://github.com/ahundt/autorun) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
+| [ai-edu-ch/ai-edu-plugins](https://github.com/ai-edu-ch/ai-edu-plugins) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [AI-Enablement-Academy/agentic-marketplace](https://github.com/AI-Enablement-Academy/agentic-marketplace) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ai-screams/howl](https://github.com/ai-screams/howl) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ai4paper/apaper-plugin](https://github.com/ai4paper/apaper-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1042,6 +1043,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [lamemustafa/complyeaze-skills](https://github.com/lamemustafa/complyeaze-skills) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [lancegui/causal-powers](https://github.com/lancegui/causal-powers) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [LandingRabbit/landingrabbit-skills](https://github.com/LandingRabbit/landingrabbit-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [LarryStanley/pi-delegate](https://github.com/LarryStanley/pi-delegate) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [larya-dot-eu/pmcontext-plugin](https://github.com/larya-dot-eu/pmcontext-plugin) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [lawzava/megapowers](https://github.com/lawzava/megapowers) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [lbk-open/super-spec](https://github.com/lbk-open/super-spec) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
