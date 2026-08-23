@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2355**
-- Discoverable plugins: **8,949**
+- Discoverable plugins: **8,951**
 - Healthy repos: **2111** · Unavailable: **244**
-- Last updated: **2026-08-23 11:26 UTC**
+- Last updated: **2026-08-23 12:50 UTC**
 
 ## Source Catalog
 
@@ -1556,7 +1556,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [RiskAverseTech/createa-meme-skill](https://github.com/RiskAverseTech/createa-meme-skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ritesh31/claude-pre-merge-conflict-predictor](https://github.com/ritesh31/claude-pre-merge-conflict-predictor) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [rithwik-01/claude-code-plugin-kubernetes](https://github.com/rithwik-01/claude-code-plugin-kubernetes) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [ritmillio/skills](https://github.com/ritmillio/skills) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
+| [ritmillio/skills](https://github.com/ritmillio/skills) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
 | [rizonetech/claude-plugins](https://github.com/rizonetech/claude-plugins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [rjroy/vibe-garden](https://github.com/rjroy/vibe-garden) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [rjvim/ai-skills](https://github.com/rjvim/ai-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
