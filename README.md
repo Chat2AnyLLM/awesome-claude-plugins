@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2349**
-- Discoverable plugins: **8,942**
-- Healthy repos: **2108** · Unavailable: **241**
-- Last updated: **2026-08-23 03:08 UTC**
+- Discoverable plugins: **8,938**
+- Healthy repos: **2106** · Unavailable: **243**
+- Last updated: **2026-08-23 04:42 UTC**
 
 ## Source Catalog
 
@@ -1932,8 +1932,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [trelio-ru/agent-workspaces](https://github.com/trelio-ru/agent-workspaces) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [trevhud/rote](https://github.com/trevhud/rote) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [trevor-ryan-burkholder/adventure-claude](https://github.com/trevor-ryan-burkholder/adventure-claude) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
-| [trevor-ryan-burkholder/dare-to-be-stupid](https://github.com/trevor-ryan-burkholder/dare-to-be-stupid) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
-| [trevor-ryan-burkholder/meeseeks](https://github.com/trevor-ryan-burkholder/meeseeks) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [TropinAlexey/continuum](https://github.com/TropinAlexey/continuum) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Truncuso/cogwright](https://github.com/Truncuso/cogwright) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [trvux/skills](https://github.com/trvux/skills) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2342,6 +2340,8 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [tomoking2004/claude-plugins](https://github.com/tomoking2004/claude-plugins) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [tomzion90/superstack](https://github.com/tomzion90/superstack) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [TranDenyDFW/claude-code-extension-engineering](https://github.com/TranDenyDFW/claude-code-extension-engineering) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [trevor-ryan-burkholder/dare-to-be-stupid](https://github.com/trevor-ryan-burkholder/dare-to-be-stupid) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [trevor-ryan-burkholder/meeseeks](https://github.com/trevor-ryan-burkholder/meeseeks) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [ttncode/ttnplugins](https://github.com/ttncode/ttnplugins) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [ttncode/unioss-plugins](https://github.com/ttncode/unioss-plugins) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [tuanle96/odoo-ai-skills](https://github.com/tuanle96/odoo-ai-skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
