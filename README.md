@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **2349**
-- Discoverable plugins: **8,939**
+- Discoverable plugins: **8,940**
 - Healthy repos: **2106** · Unavailable: **243**
-- Last updated: **2026-08-23 05:34 UTC**
+- Last updated: **2026-08-23 06:50 UTC**
 
 ## Source Catalog
 
@@ -471,7 +471,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [davdittrich/gsd-beads](https://github.com/davdittrich/gsd-beads) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [davebream/claude-of-alexandria](https://github.com/davebream/claude-of-alexandria) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [davejj1530/planflow-greenlight](https://github.com/davejj1530/planflow-greenlight) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) | 82 | `main` | `.claude-plugin` | ✅ ok |  |
+| [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) | 83 | `main` | `.claude-plugin` | ✅ ok |  |
 | [davidteren/hotwire-codex-skills](https://github.com/davidteren/hotwire-codex-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [davidteren/intent-engineering](https://github.com/davidteren/intent-engineering) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [davorrunje/honest-scholar](https://github.com/davorrunje/honest-scholar) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
