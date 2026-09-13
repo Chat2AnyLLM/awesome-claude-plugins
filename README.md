@@ -1188,6 +1188,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Max-Levitskiy/skills](https://github.com/Max-Levitskiy/skills) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
 | [maxi3777/claritykit](https://github.com/maxi3777/claritykit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [mbackschat/a12-dmtool-releases](https://github.com/mbackschat/a12-dmtool-releases) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [mblode/agent-skills](https://github.com/mblode/agent-skills) | Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. |
 | [mdorf/agent-skills](https://github.com/mdorf/agent-skills) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [medy-gribkov/arcana](https://github.com/medy-gribkov/arcana) | 74 | `master` | `.claude-plugin` | ✅ ok |  |
 | [meganemura/headsign](https://github.com/meganemura/headsign) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
