@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **4020**
-- Discoverable plugins: **13,333**
+- Discoverable plugins: **13,338**
 - Healthy repos: **3582** · Unavailable: **438**
-- Last updated: **2026-10-07 16:16 UTC**
+- Last updated: **2026-10-07 21:52 UTC**
 
 ## Source Catalog
 
@@ -1286,14 +1286,14 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Heretyc/subagent-mcp](https://github.com/Heretyc/subagent-mcp) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [hermes-labs-ai/agent-signage](https://github.com/hermes-labs-ai/agent-signage) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [hermes-labs-ai/agent-trash-guard](https://github.com/hermes-labs-ai/agent-trash-guard) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
-| [hermes-labs-ai/claude-plugins](https://github.com/hermes-labs-ai/claude-plugins) | 13 | `main` | `.claude-plugin` | ✅ ok |  |
+| [hermes-labs-ai/claude-plugins](https://github.com/hermes-labs-ai/claude-plugins) | 14 | `main` | `.claude-plugin` | ✅ ok |  |
 | [hermes-labs-ai/csv-quality-gate](https://github.com/hermes-labs-ai/csv-quality-gate) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [hermes-labs-ai/hermes-blind](https://github.com/hermes-labs-ai/hermes-blind) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [hermes-labs-ai/hermes-jailbench](https://github.com/hermes-labs-ai/hermes-jailbench) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [hermes-labs-ai/intent-verify](https://github.com/hermes-labs-ai/intent-verify) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [hermes-labs-ai/lintlang](https://github.com/hermes-labs-ai/lintlang) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [hermes-labs-ai/little-canary](https://github.com/hermes-labs-ai/little-canary) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [hermes-labs-ai/plugins](https://github.com/hermes-labs-ai/plugins) | 13 | `main` | `.claude-plugin` | ✅ ok |  |
+| [hermes-labs-ai/plugins](https://github.com/hermes-labs-ai/plugins) | 14 | `main` | `.claude-plugin` | ✅ ok |  |
 | [hermes-labs-ai/quick-gate-js](https://github.com/hermes-labs-ai/quick-gate-js) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [hermes-labs-ai/quick-gate-python](https://github.com/hermes-labs-ai/quick-gate-python) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [HermeticOrmus/claude-code-game-development](https://github.com/HermeticOrmus/claude-code-game-development) | 87 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1888,7 +1888,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [lucagattoni/TidyClaudeMD](https://github.com/lucagattoni/TidyClaudeMD) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Lucas-Belucci-Bellini/Veritas](https://github.com/Lucas-Belucci-Bellini/Veritas) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [lucas-saldanha-werneck/Claude-1Password](https://github.com/lucas-saldanha-werneck/Claude-1Password) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [LucasAntunesdeAlmeida/laa-claude](https://github.com/LucasAntunesdeAlmeida/laa-claude) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
+| [LucasAntunesdeAlmeida/laa-claude](https://github.com/LucasAntunesdeAlmeida/laa-claude) | 9 | `main` | `.claude-plugin` | ✅ ok |  |
 | [lucasyhzhu-debug/claude-skills](https://github.com/lucasyhzhu-debug/claude-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ludeo-labs/cosmos-os](https://github.com/ludeo-labs/cosmos-os) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Ludovic33Fr/product-ai-toolbox](https://github.com/Ludovic33Fr/product-ai-toolbox) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2117,7 +2117,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [mohocp/dataecho](https://github.com/mohocp/dataecho) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [moiri-gamboni/praxis](https://github.com/moiri-gamboni/praxis) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [MoizIbnYousaf/marketing-cli](https://github.com/MoizIbnYousaf/marketing-cli) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [moneymikeMD/moneymike-plugins](https://github.com/moneymikeMD/moneymike-plugins) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
+| [moneymikeMD/moneymike-plugins](https://github.com/moneymikeMD/moneymike-plugins) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [mongdang/elp-notes-method](https://github.com/mongdang/elp-notes-method) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [mongdang/girok](https://github.com/mongdang/girok) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [moonlight-lupin/data-toolkit](https://github.com/moonlight-lupin/data-toolkit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -3531,7 +3531,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [yousiki/claude-plugins](https://github.com/yousiki/claude-plugins) | 27 | `main` | `.claude-plugin` | ✅ ok |  |
 | [yraveragework/yraverage-officeaddins](https://github.com/yraveragework/yraverage-officeaddins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [yschimke/skills](https://github.com/yschimke/skills) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
-| [ysskrishna/ai-agent-skills](https://github.com/ysskrishna/ai-agent-skills) | 17 | `main` | `.claude-plugin` | ✅ ok |  |
+| [ysskrishna/ai-agent-skills](https://github.com/ysskrishna/ai-agent-skills) | 18 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ysys143/pg-extension-lab](https://github.com/ysys143/pg-extension-lab) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ysys143/xsm](https://github.com/ysys143/xsm) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ytvee-dev/webdev-agent-kit](https://github.com/ytvee-dev/webdev-agent-kit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
