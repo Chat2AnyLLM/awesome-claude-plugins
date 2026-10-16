@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **4374**
-- Discoverable plugins: **14,746**
-- Healthy repos: **3912** · Unavailable: **462**
-- Last updated: **2026-10-15 22:04 UTC**
+- Discoverable plugins: **14,764**
+- Healthy repos: **3913** · Unavailable: **461**
+- Last updated: **2026-10-16 01:06 UTC**
 
 ## Source Catalog
 
@@ -172,7 +172,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [AI-Marketing-OS-LTD/cmo-so-skills](https://github.com/AI-Marketing-OS-LTD/cmo-so-skills) | 14 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ai-screams/howl](https://github.com/ai-screams/howl) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [AI4Outcomes/thinqos-plugins](https://github.com/AI4Outcomes/thinqos-plugins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [ai4science-skills/skills](https://github.com/ai4science-skills/skills) | 13 | `main` | `.claude-plugin` | ✅ ok |  |
+| [ai4science-skills/skills](https://github.com/ai4science-skills/skills) | 14 | `main` | `.claude-plugin` | ✅ ok |  |
 | [AiBJohnson/scale-systems-skills](https://github.com/AiBJohnson/scale-systems-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [AiGuangInc/suxiaoqiang-cli](https://github.com/AiGuangInc/suxiaoqiang-cli) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -305,8 +305,9 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Andy1314Chen/architecture-drawer](https://github.com/Andy1314Chen/architecture-drawer) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [andyed/muriel](https://github.com/andyed/muriel) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [andypitcher/ponytail-sec](https://github.com/andypitcher/ponytail-sec) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [anhermon/claude-public](https://github.com/anhermon/claude-public) | 15 | `main` | `.claude-plugin` | ✅ ok |  |
 | [AnilBurcu/claude-code-react-native](https://github.com/AnilBurcu/claude-code-react-native) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [anilcancakir/claude-code](https://github.com/anilcancakir/claude-code) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [anilcancakir/claude-code](https://github.com/anilcancakir/claude-code) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [anipotts/claude-code-tips](https://github.com/anipotts/claude-code-tips) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ankitai-s/superdialog-playbook-skill](https://github.com/ankitai-s/superdialog-playbook-skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Ankitrai97/rai-claude-mods](https://github.com/Ankitrai97/rai-claude-mods) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1432,7 +1433,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [HermeticOrmus/LibreSecOps-Claude-Code](https://github.com/HermeticOrmus/LibreSecOps-Claude-Code) | 33 | `main` | `.claude-plugin` | ✅ ok |  |
 | [HermeticOrmus/LibreUIUX-Claude-Code](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code) | 71 | `main` | `.claude-plugin` | ✅ ok |  |
 | [hesreallyhim/ultracode-workflows](https://github.com/hesreallyhim/ultracode-workflows) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [HeyCubit/effortless](https://github.com/HeyCubit/effortless) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [HeyCubit/effortless](https://github.com/HeyCubit/effortless) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [heyimjames/ultrapolish](https://github.com/heyimjames/ultrapolish) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [heyparsadev/claude-plugins](https://github.com/heyparsadev/claude-plugins) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [heyparsadev/claude-venture-plugin](https://github.com/heyparsadev/claude-venture-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -3965,7 +3966,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [amjad1233/claude-skills](https://github.com/amjad1233/claude-skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [AnaCataVC/amiga-ia](https://github.com/AnaCataVC/amiga-ia) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [anaidenko/claude-video-digest](https://github.com/anaidenko/claude-video-digest) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
-| [anhermon/claude-public](https://github.com/anhermon/claude-public) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [anyshift-io/sre-skills](https://github.com/anyshift-io/sre-skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [apatheticus/z2s](https://github.com/apatheticus/z2s) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [apideck-libraries/api-skills](https://github.com/apideck-libraries/api-skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
