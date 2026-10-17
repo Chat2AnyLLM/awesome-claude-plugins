@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **4434**
-- Discoverable plugins: **14,917**
+- Discoverable plugins: **14,916**
 - Healthy repos: **3960** · Unavailable: **474**
-- Last updated: **2026-10-16 23:24 UTC**
+- Last updated: **2026-10-17 03:52 UTC**
 
 ## Source Catalog
 
@@ -1485,7 +1485,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [hopp1395/cc-outline](https://github.com/hopp1395/cc-outline) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [host452b/polish](https://github.com/host452b/polish) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Houseofmvps/ultraship](https://github.com/Houseofmvps/ultraship) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [HoussemDjeghri/plugins](https://github.com/HoussemDjeghri/plugins) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
+| [HoussemDjeghri/plugins](https://github.com/HoussemDjeghri/plugins) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [howar31/howar31-marketplace](https://github.com/howar31/howar31-marketplace) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [howard-lynn-ye/Fin-RSI](https://github.com/howard-lynn-ye/Fin-RSI) | 109 | `master` | `.claude-plugin` | ✅ ok |  |
 | [howard-lynn-ye/fin-skills](https://github.com/howard-lynn-ye/fin-skills) | 109 | `master` | `.claude-plugin` | ✅ ok |  |
@@ -3859,8 +3859,8 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [XPOZpublic/xpoz-agent-skills](https://github.com/XPOZpublic/xpoz-agent-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [xr843/Master-skill](https://github.com/xr843/Master-skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [xs2tariqrasheed/strict-property-access](https://github.com/xs2tariqrasheed/strict-property-access) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [xsyetopz/claudetto](https://github.com/xsyetopz/claudetto) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
-| [xsyetopz/dotclaude](https://github.com/xsyetopz/dotclaude) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
+| [xsyetopz/claudetto](https://github.com/xsyetopz/claudetto) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
+| [xsyetopz/dotclaude](https://github.com/xsyetopz/dotclaude) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
 | [xtieume/testcase](https://github.com/xtieume/testcase) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [XTSoftwareLabs/neatcontext-plugins](https://github.com/XTSoftwareLabs/neatcontext-plugins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [XuGuanghaiGoogle/interactive-diagram-html](https://github.com/XuGuanghaiGoogle/interactive-diagram-html) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
