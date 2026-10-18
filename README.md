@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **4493**
-- Discoverable plugins: **15,068**
+- Discoverable plugins: **15,070**
 - Healthy repos: **4010** · Unavailable: **483**
-- Last updated: **2026-10-18 05:38 UTC**
+- Last updated: **2026-10-18 10:45 UTC**
 
 ## Source Catalog
 
@@ -2058,7 +2058,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [leonoronhas/attest-ai](https://github.com/leonoronhas/attest-ai) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [leosimini/keelokit](https://github.com/leosimini/keelokit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Lesleybs2/powerbi-custom-visual-skill](https://github.com/Lesleybs2/powerbi-custom-visual-skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [Lesz-Xi/twin-sparrow-agent-adapter](https://github.com/Lesz-Xi/twin-sparrow-agent-adapter) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [LetA-Tech/mellions-coxen](https://github.com/LetA-Tech/mellions-coxen) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [levainlabs/skills](https://github.com/levainlabs/skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [LevKorm/product-landing-skill](https://github.com/LevKorm/product-landing-skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2088,7 +2087,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [linxule/memex-plugin](https://github.com/linxule/memex-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [lippdev/lippstack](https://github.com/lippdev/lippstack) | 9 | `main` | `.claude-plugin` | ✅ ok |  |
 | [litestar-org/litestar-skills](https://github.com/litestar-org/litestar-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [littlebearapps/lba-plugins](https://github.com/littlebearapps/lba-plugins) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
+| [littlebearapps/lba-plugins](https://github.com/littlebearapps/lba-plugins) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [littlestjames82-sys/agent-seatbelt](https://github.com/littlestjames82-sys/agent-seatbelt) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [liu-x27/XavierJev](https://github.com/liu-x27/XavierJev) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [liu1700/gw](https://github.com/liu1700/gw) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2226,6 +2225,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [martinciu/gruppo](https://github.com/martinciu/gruppo) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [martineserios/thebrana](https://github.com/martineserios/thebrana) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [martinffx/atelier](https://github.com/martinffx/atelier) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [MartinHar/qa-bug-hunter](https://github.com/MartinHar/qa-bug-hunter) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [MartinOlivero/saas-builder](https://github.com/MartinOlivero/saas-builder) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [MartinPuli/cvfit](https://github.com/MartinPuli/cvfit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2728,7 +2728,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [petersonsenadevs/senzu](https://github.com/petersonsenadevs/senzu) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [petmakris/claude-annotate](https://github.com/petmakris/claude-annotate) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [petrovicistefan/claude-code-plugins](https://github.com/petrovicistefan/claude-code-plugins) | 38 | `main` | `.claude-plugin` | ✅ ok |  |
-| [pgoell/pgoell-claude-tools](https://github.com/pgoell/pgoell-claude-tools) | 24 | `master` | `.claude-plugin` | ✅ ok |  |
+| [pgoell/pgoell-claude-tools](https://github.com/pgoell/pgoell-claude-tools) | 25 | `master` | `.claude-plugin` | ✅ ok |  |
 | [ph3on1x/agent-plugins-skills](https://github.com/ph3on1x/agent-plugins-skills) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
 | [pharn-dev/skills](https://github.com/pharn-dev/skills) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [phazurlabs/install-labs](https://github.com/phazurlabs/install-labs) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -4237,6 +4237,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [latent-9/eightysix](https://github.com/latent-9/eightysix) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [lenar-amirov/product-pipeline-public](https://github.com/lenar-amirov/product-pipeline-public) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [lendtrain/autoresearch-for-skills](https://github.com/lendtrain/autoresearch-for-skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [Lesz-Xi/twin-sparrow-agent-adapter](https://github.com/Lesz-Xi/twin-sparrow-agent-adapter) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [lets-forge/forge-plugins](https://github.com/lets-forge/forge-plugins) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [letsloose501/skill-quality-suite](https://github.com/letsloose501/skill-quality-suite) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [letsloose501/sqs-skills](https://github.com/letsloose501/sqs-skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
@@ -4267,7 +4268,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [marcus-at-localhost/market-context-kit](https://github.com/marcus-at-localhost/market-context-kit) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [markusbegerow/board-of-directors](https://github.com/markusbegerow/board-of-directors) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [marsmike/agentic-toolkit](https://github.com/marsmike/agentic-toolkit) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
-| [MartinHar/qa-bug-hunter](https://github.com/MartinHar/qa-bug-hunter) | 0 | `master` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [martinwolve/DEC-aanbestedingen-plugin](https://github.com/martinwolve/DEC-aanbestedingen-plugin) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [mathisk2095/jko-claude-plugins](https://github.com/mathisk2095/jko-claude-plugins) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [mclayer/plugin-codeforge](https://github.com/mclayer/plugin-codeforge) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
