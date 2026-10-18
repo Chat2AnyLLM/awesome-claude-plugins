@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **4485**
-- Discoverable plugins: **15,059**
-- Healthy repos: **4005** · Unavailable: **480**
-- Last updated: **2026-10-17 22:07 UTC**
+- Discoverable plugins: **15,060**
+- Healthy repos: **4004** · Unavailable: **481**
+- Last updated: **2026-10-18 00:48 UTC**
 
 ## Source Catalog
 
@@ -957,7 +957,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [discolike/discolike-skills](https://github.com/discolike/discolike-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [display-dev/skill](https://github.com/display-dev/skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Djarvur/cc-mplace](https://github.com/Djarvur/cc-mplace) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
-| [djethino/asymptomatik-claude-plugins](https://github.com/djethino/asymptomatik-claude-plugins) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
+| [djethino/asymptomatik-claude-plugins](https://github.com/djethino/asymptomatik-claude-plugins) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [djfksjd/sole-search](https://github.com/djfksjd/sole-search) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [djjay0131/agentic-governance](https://github.com/djjay0131/agentic-governance) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [dkstm95/hope](https://github.com/dkstm95/hope) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -3810,7 +3810,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [wagneripjr/skills](https://github.com/wagneripjr/skills) | 11 | `master` | `.claude-plugin` | ✅ ok |  |
 | [wakatime/claude-code-wakatime](https://github.com/wakatime/claude-code-wakatime) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [walangstudio/marketplace](https://github.com/walangstudio/marketplace) | 10 | `main` | `.claude-plugin` | ✅ ok |  |
-| [walkwithedi/evergreen-wiki](https://github.com/walkwithedi/evergreen-wiki) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [wan-huiyan/agent-traffic-control](https://github.com/wan-huiyan/agent-traffic-control) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [wan-huiyan/claude-ecosystem-hygiene](https://github.com/wan-huiyan/claude-ecosystem-hygiene) | 10 | `main` | `.claude-plugin` | ✅ ok |  |
 | [wan-huiyan/context-baton](https://github.com/wan-huiyan/context-baton) | 2 | `master` | `.claude-plugin` | ✅ ok |  |
@@ -3970,7 +3969,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [yuting0624/antigravity-for-claude-code](https://github.com/yuting0624/antigravity-for-claude-code) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [yutna/gherkin-specification-skills](https://github.com/yutna/gherkin-specification-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [YuvalSarel1/claude-plugins](https://github.com/YuvalSarel1/claude-plugins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [yybd/app-factory](https://github.com/yybd/app-factory) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
+| [yybd/app-factory](https://github.com/yybd/app-factory) | 9 | `main` | `.claude-plugin` | ✅ ok |  |
 | [yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [z29k/notabene](https://github.com/z29k/notabene) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Zachariah9420/embedded-systems-architect](https://github.com/Zachariah9420/embedded-systems-architect) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -4479,6 +4478,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [vibecodedapps-official/repo-docs](https://github.com/vibecodedapps-official/repo-docs) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [voxpelli/claude-beads](https://github.com/voxpelli/claude-beads) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [vsdudakov/troika](https://github.com/vsdudakov/troika) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [walkwithedi/evergreen-wiki](https://github.com/walkwithedi/evergreen-wiki) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [WarmerlyApp/claude-plugin](https://github.com/WarmerlyApp/claude-plugin) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [weakened-fixedinvestmenttrust229/pm-skills-ko](https://github.com/weakened-fixedinvestmenttrust229/pm-skills-ko) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [Wolfgangrush/indian-hc-drafting-litigation](https://github.com/Wolfgangrush/indian-hc-drafting-litigation) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
