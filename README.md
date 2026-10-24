@@ -4,10 +4,10 @@
 
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
-- Enabled marketplaces: **4808**
-- Discoverable plugins: **15,688**
-- Healthy repos: **4302** · Unavailable: **506**
-- Last updated: **2026-10-24 18:01 UTC**
+- Enabled marketplaces: **4813**
+- Discoverable plugins: **15,695**
+- Healthy repos: **4307** · Unavailable: **506**
+- Last updated: **2026-10-24 20:42 UTC**
 
 ## Source Catalog
 
@@ -1776,6 +1776,11 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [jabrena/cursor-rules-java](https://github.com/jabrena/cursor-rules-java) | 61 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jabrena/plinth](https://github.com/jabrena/plinth) | 61 | `main` | `.claude-plugin` | ✅ ok |  |
 | [JaceProgramming/naver-seo-expert](https://github.com/JaceProgramming/naver-seo-expert) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [jack-reson8/copy-that](https://github.com/jack-reson8/copy-that) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
+| [jack-reson8/post-skill](https://github.com/jack-reson8/post-skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [jack-reson8/pro-launch](https://github.com/jack-reson8/pro-launch) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [jack-reson8/pro-motion](https://github.com/jack-reson8/pro-motion) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [jack-reson8/renhua](https://github.com/jack-reson8/renhua) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jack-reson8/skill-skill](https://github.com/jack-reson8/skill-skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jackburrus/topology-index](https://github.com/jackburrus/topology-index) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jackiectl/research-agent-pitfalls](https://github.com/jackiectl/research-agent-pitfalls) | 1 | `universal-core` | `.claude-plugin` | ✅ ok |  |
@@ -1834,10 +1839,10 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [JeongJaeSoon/agent-guard](https://github.com/JeongJaeSoon/agent-guard) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jeongph/claude-plugins](https://github.com/jeongph/claude-plugins) | 10 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jeremehancock/cinemetric](https://github.com/jeremehancock/cinemetric) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [jeremylongshore/claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus) | 434 | `main` | `.claude-plugin` | ✅ ok |  |
+| [jeremylongshore/claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus) | 433 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jeremylongshore/dolt-mcp-vcs-plugin](https://github.com/jeremylongshore/dolt-mcp-vcs-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jeremylongshore/omarchy-ship](https://github.com/jeremylongshore/omarchy-ship) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) | 434 | `main` | `.claude-plugin` | ✅ ok |  |
+| [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) | 433 | `main` | `.claude-plugin` | ✅ ok |  |
 | [JeremyPrajwal/angry-gf](https://github.com/JeremyPrajwal/angry-gf) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jerrydboonstra/neckbeard](https://github.com/jerrydboonstra/neckbeard) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jesmarcelo/gera-pdf-premium](https://github.com/jesmarcelo/gera-pdf-premium) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
