@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **4767**
-- Discoverable plugins: **15,651**
-- Healthy repos: **4270** · Unavailable: **497**
-- Last updated: **2026-10-23 22:02 UTC**
+- Discoverable plugins: **15,656**
+- Healthy repos: **4269** · Unavailable: **498**
+- Last updated: **2026-10-24 00:34 UTC**
 
 ## Source Catalog
 
@@ -166,7 +166,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Agulhas-Labs/claude-plugins](https://github.com/Agulhas-Labs/claude-plugins) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [AH-Merii/claude-plugins](https://github.com/AH-Merii/claude-plugins) | 9 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Ahad690/fiverr-gig-optimizer](https://github.com/Ahad690/fiverr-gig-optimizer) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [ahartzog/agent-plugins](https://github.com/ahartzog/agent-plugins) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
+| [ahartzog/agent-plugins](https://github.com/ahartzog/agent-plugins) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Ahmad-Jaradat-Space/scientistos](https://github.com/Ahmad-Jaradat-Space/scientistos) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Ahmad8864/cc-side](https://github.com/Ahmad8864/cc-side) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ahmadghoniem/claude-cursor-delegate](https://github.com/ahmadghoniem/claude-cursor-delegate) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -923,7 +923,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [davdittrich/gsd-beads](https://github.com/davdittrich/gsd-beads) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [davebream/claude-of-alexandria](https://github.com/davebream/claude-of-alexandria) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [davekruse/phaser](https://github.com/davekruse/phaser) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) | 156 | `main` | `.claude-plugin` | ✅ ok |  |
+| [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) | 161 | `main` | `.claude-plugin` | ✅ ok |  |
 | [davidteren/hotwire-codex-skills](https://github.com/davidteren/hotwire-codex-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [davorrunje/honest-scholar](https://github.com/davorrunje/honest-scholar) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) | 64 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2131,7 +2131,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [kwp490/tldr-output-style](https://github.com/kwp490/tldr-output-style) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [kyisaiah47/kynth-claude-plugin](https://github.com/kyisaiah47/kynth-claude-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [kyle-chalmers/streamsnow](https://github.com/kyle-chalmers/streamsnow) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [kylechoi101/slopstore-claude-plugin](https://github.com/kylechoi101/slopstore-claude-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [kylehughes/the-unofficial-swift-programming-language-skill](https://github.com/kylehughes/the-unofficial-swift-programming-language-skill) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [KyoMio/zcode-executor](https://github.com/KyoMio/zcode-executor) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [KyongSik-Yoon/cc-desktop-mod](https://github.com/KyongSik-Yoon/cc-desktop-mod) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -4497,6 +4496,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [kindsusu/su-multi-geo](https://github.com/kindsusu/su-multi-geo) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [kktu6507/universal-dev-flow-plugin](https://github.com/kktu6507/universal-dev-flow-plugin) | 0 | `master` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [Kotty2998/claude-plugins-official](https://github.com/Kotty2998/claude-plugins-official) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [kylechoi101/slopstore-claude-plugin](https://github.com/kylechoi101/slopstore-claude-plugin) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [KyongSik-Yoon/claude-mods](https://github.com/KyongSik-Yoon/claude-mods) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [l4ci/hv-skills](https://github.com/l4ci/hv-skills) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [Langerrr/zforge](https://github.com/Langerrr/zforge) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
