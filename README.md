@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **4823**
-- Discoverable plugins: **15,719**
+- Discoverable plugins: **15,721**
 - Healthy repos: **4317** · Unavailable: **506**
-- Last updated: **2026-10-24 23:04 UTC**
+- Last updated: **2026-10-25 04:07 UTC**
 
 ## Source Catalog
 
@@ -1842,10 +1842,10 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [JeongJaeSoon/agent-guard](https://github.com/JeongJaeSoon/agent-guard) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jeongph/claude-plugins](https://github.com/jeongph/claude-plugins) | 10 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jeremehancock/cinemetric](https://github.com/jeremehancock/cinemetric) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [jeremylongshore/claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus) | 432 | `main` | `.claude-plugin` | ✅ ok |  |
+| [jeremylongshore/claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus) | 431 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jeremylongshore/dolt-mcp-vcs-plugin](https://github.com/jeremylongshore/dolt-mcp-vcs-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jeremylongshore/omarchy-ship](https://github.com/jeremylongshore/omarchy-ship) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) | 432 | `main` | `.claude-plugin` | ✅ ok |  |
+| [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) | 431 | `main` | `.claude-plugin` | ✅ ok |  |
 | [JeremyPrajwal/angry-gf](https://github.com/JeremyPrajwal/angry-gf) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jerrydboonstra/neckbeard](https://github.com/jerrydboonstra/neckbeard) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [jesmarcelo/gera-pdf-premium](https://github.com/jesmarcelo/gera-pdf-premium) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2883,7 +2883,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [pablocaeg/claude-army](https://github.com/pablocaeg/claude-army) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [pactflow/pactflow-agent-skills](https://github.com/pactflow/pactflow-agent-skills) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [padosoft/skills](https://github.com/padosoft/skills) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
-| [pahlevikun/levistack](https://github.com/pahlevikun/levistack) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
+| [pahlevikun/levistack](https://github.com/pahlevikun/levistack) | 11 | `main` | `.claude-plugin` | ✅ ok |  |
 | [pairbrowse/pairbrowse](https://github.com/pairbrowse/pairbrowse) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [PALAMBUR/palambur-method](https://github.com/PALAMBUR/palambur-method) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [panbanda/omen](https://github.com/panbanda/omen) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -3315,7 +3315,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [SakuraPuare/commitron](https://github.com/SakuraPuare/commitron) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [SalesforceAIResearch/agentforce-adlc](https://github.com/SalesforceAIResearch/agentforce-adlc) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Salish-Studios/quotacove](https://github.com/Salish-Studios/quotacove) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [sallzzbr/hefesto-publico](https://github.com/sallzzbr/hefesto-publico) | 6 | `master` | `.claude-plugin` | ✅ ok |  |
+| [sallzzbr/hefesto-publico](https://github.com/sallzzbr/hefesto-publico) | 7 | `master` | `.claude-plugin` | ✅ ok |  |
 | [saloprj/dialogbrain-claude-plugin](https://github.com/saloprj/dialogbrain-claude-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [samalyarov/learning-assistant](https://github.com/samalyarov/learning-assistant) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [samber/dev-event-organizer-skills](https://github.com/samber/dev-event-organizer-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
