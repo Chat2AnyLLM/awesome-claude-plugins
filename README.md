@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **4870**
-- Discoverable plugins: **16,144**
+- Discoverable plugins: **16,156**
 - Healthy repos: **4359** · Unavailable: **511**
-- Last updated: **2026-10-25 21:36 UTC**
+- Last updated: **2026-10-26 00:01 UTC**
 
 ## Source Catalog
 
@@ -1559,7 +1559,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [HECer/yoke](https://github.com/HECer/yoke) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Hedde/trigger_tree](https://github.com/Hedde/trigger_tree) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Hefrock/agent-skills](https://github.com/Hefrock/agent-skills) | 19 | `main` | `.claude-plugin` | ✅ ok |  |
-| [HehewCrew/claude-skills](https://github.com/HehewCrew/claude-skills) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
+| [HehewCrew/claude-skills](https://github.com/HehewCrew/claude-skills) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
 | [heiyuneo/claude-skills](https://github.com/heiyuneo/claude-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [helenkwok/gsd-status-mod](https://github.com/helenkwok/gsd-status-mod) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [heliohq/ship](https://github.com/heliohq/ship) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2323,7 +2323,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [lunati228/CLI-Subagents](https://github.com/lunati228/CLI-Subagents) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Lunik/gmz-claude-marketplace](https://github.com/Lunik/gmz-claude-marketplace) | 6 | `master` | `.claude-plugin` | ✅ ok |  |
 | [luoxianzi/praetor](https://github.com/luoxianzi/praetor) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [LupusMalusDeviant/mod-box](https://github.com/LupusMalusDeviant/mod-box) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [LupusMalusDeviant/mod-box](https://github.com/LupusMalusDeviant/mod-box) | 12 | `main` | `.claude-plugin` | ✅ ok |  |
 | [lutencjusz/listonic-plugin](https://github.com/lutencjusz/listonic-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [lutfitek/2026-job-hunt](https://github.com/lutfitek/2026-job-hunt) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [lxhelili/dsgvo-audit](https://github.com/lxhelili/dsgvo-audit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
