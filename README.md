@@ -4,10 +4,10 @@
 
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
-- Enabled marketplaces: **5114**
-- Discoverable plugins: **16,890**
-- Healthy repos: **4591** · Unavailable: **523**
-- Last updated: **2026-10-31 23:16 UTC**
+- Enabled marketplaces: **5115**
+- Discoverable plugins: **16,914**
+- Healthy repos: **4591** · Unavailable: **524**
+- Last updated: **2026-11-01 05:27 UTC**
 
 ## Source Catalog
 
@@ -826,6 +826,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [CircularBlox/Clarity](https://github.com/CircularBlox/Clarity) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Citability/claude-code-adhd-skills](https://github.com/Citability/claude-code-adhd-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [CitiesSkylinesModding/agents-plugins](https://github.com/CitiesSkylinesModding/agents-plugins) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
+| [civai-technologies/nova-catalog-mcp-plugins-by-nova-civai](https://github.com/civai-technologies/nova-catalog-mcp-plugins-by-nova-civai) | 24 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ckelsoe/prompt-architect](https://github.com/ckelsoe/prompt-architect) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ckryptickunal/OpenDesigner](https://github.com/ckryptickunal/OpenDesigner) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [claude-code-mods/best-claude-code-mods](https://github.com/claude-code-mods/best-claude-code-mods) | 43 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -980,7 +981,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [danmackenz/ghostspend](https://github.com/danmackenz/ghostspend) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [DannyKeys/mobile-canvas-claude](https://github.com/DannyKeys/mobile-canvas-claude) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [Dannykkh/skill-olympus](https://github.com/Dannykkh/skill-olympus) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [dantaspaulo/check-pre-lancamento](https://github.com/dantaspaulo/check-pre-lancamento) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [dapih/cobaduluk](https://github.com/dapih/cobaduluk) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Darcos-Loft/fluid](https://github.com/Darcos-Loft/fluid) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -3760,7 +3760,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Simbastack-hq/slopit-skills](https://github.com/Simbastack-hq/slopit-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [simiancraft/simiancraft-skills](https://github.com/simiancraft/simiancraft-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [SimianX-AI/simianx-skills](https://github.com/SimianX-AI/simianx-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [simota/claude-mods](https://github.com/simota/claude-mods) | 29 | `main` | `.claude-plugin` | ✅ ok |  |
+| [simota/claude-mods](https://github.com/simota/claude-mods) | 30 | `main` | `.claude-plugin` | ✅ ok |  |
 | [simplecore-inc/claude-mods](https://github.com/simplecore-inc/claude-mods) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [sinan/hemingway](https://github.com/sinan/hemingway) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Singh-AP/awesome-claude-mods](https://github.com/Singh-AP/awesome-claude-mods) | 47 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -4710,6 +4710,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [ctxrs/agentpostage](https://github.com/ctxrs/agentpostage) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [curie-eng/curie](https://github.com/curie-eng/curie) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [DaizeDong/buy-me-a-car](https://github.com/DaizeDong/buy-me-a-car) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [Dannykkh/skill-olympus](https://github.com/Dannykkh/skill-olympus) | 0 | `master` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [davejj1530/planflow-greenlight](https://github.com/davejj1530/planflow-greenlight) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [davidteren/intent-engineering](https://github.com/davidteren/intent-engineering) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
