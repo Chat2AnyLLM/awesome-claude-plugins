@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **5151**
-- Discoverable plugins: **16,993**
+- Discoverable plugins: **16,997**
 - Healthy repos: **4622** · Unavailable: **529**
-- Last updated: **2026-11-01 22:41 UTC**
+- Last updated: **2026-11-02 02:16 UTC**
 
 ## Source Catalog
 
@@ -2355,7 +2355,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [le-19-stvn/creative-stack](https://github.com/le-19-stvn/creative-stack) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
 | [LeadMagic/gtm-skills](https://github.com/LeadMagic/gtm-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [LeadMagic/leadmagic-claude-plugin](https://github.com/LeadMagic/leadmagic-claude-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [LeahyCC/claude-skills](https://github.com/LeahyCC/claude-skills) | 18 | `main` | `.claude-plugin` | ✅ ok |  |
+| [LeahyCC/claude-skills](https://github.com/LeahyCC/claude-skills) | 19 | `main` | `.claude-plugin` | ✅ ok |  |
 | [leancodepl/ai-plugins](https://github.com/leancodepl/ai-plugins) | 17 | `main` | `.claude-plugin` | ✅ ok |  |
 | [LearnDataLive/BurnItAllDown](https://github.com/LearnDataLive/BurnItAllDown) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [LeaveMyYard/herdr-inbox](https://github.com/LeaveMyYard/herdr-inbox) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2660,7 +2660,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [metrikia-io/marketing-skills](https://github.com/metrikia-io/marketing-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [mfoureyes/vibeupslides](https://github.com/mfoureyes/vibeupslides) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [MGNetworking/claude-forge](https://github.com/MGNetworking/claude-forge) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
-| [MHermand/SaiyanMod](https://github.com/MHermand/SaiyanMod) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [MHermand/SaiyanMod](https://github.com/MHermand/SaiyanMod) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Mhitaryan-Tigran/claude-plugins](https://github.com/Mhitaryan-Tigran/claude-plugins) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [michael-L-i/cadence-code](https://github.com/michael-L-i/cadence-code) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -3012,7 +3012,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [O6lvl4/onomly](https://github.com/O6lvl4/onomly) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [oaris-dev/diviops](https://github.com/oaris-dev/diviops) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [oarthurbg/orchestra](https://github.com/oarthurbg/orchestra) | 9 | `main` | `.claude-plugin` | ✅ ok |  |
-| [oaustegard/claude-skills](https://github.com/oaustegard/claude-skills) | 13 | `main` | `.claude-plugin` | ✅ ok |  |
+| [oaustegard/claude-skills](https://github.com/oaustegard/claude-skills) | 14 | `main` | `.claude-plugin` | ✅ ok |  |
 | [oborchers/fractional-cto](https://github.com/oborchers/fractional-cto) | 13 | `main` | `.claude-plugin` | ✅ ok |  |
 | [obra/superpowers](https://github.com/obra/superpowers) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [obra/superpowers-marketplace](https://github.com/obra/superpowers-marketplace) | 10 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -4574,7 +4574,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [yura-okilka/claude-plugins](https://github.com/yura-okilka/claude-plugins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Yurakonoplya/unmark-checker](https://github.com/Yurakonoplya/unmark-checker) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [yurukusa/cc-safe-setup](https://github.com/yurukusa/cc-safe-setup) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
-| [yuryalencar/ai-skills](https://github.com/yuryalencar/ai-skills) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
+| [yuryalencar/ai-skills](https://github.com/yuryalencar/ai-skills) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
 | [yuting0624/antigravity-for-claude-code](https://github.com/yuting0624/antigravity-for-claude-code) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
 | [yutna/gherkin-specification-skills](https://github.com/yutna/gherkin-specification-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [YuvalSarel1/claude-plugins](https://github.com/YuvalSarel1/claude-plugins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
