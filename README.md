@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **5212**
-- Discoverable plugins: **17,206**
-- Healthy repos: **4675** · Unavailable: **537**
-- Last updated: **2026-11-03 23:57 UTC**
+- Discoverable plugins: **17,207**
+- Healthy repos: **4674** · Unavailable: **538**
+- Last updated: **2026-11-04 05:45 UTC**
 
 ## Source Catalog
 
@@ -1009,7 +1009,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [dariovr1/sixth-sense](https://github.com/dariovr1/sixth-sense) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [DarkWorldCoder/market-mirror](https://github.com/DarkWorldCoder/market-mirror) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [dassjaylabs/filmwright](https://github.com/dassjaylabs/filmwright) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [dat999zx/knowl](https://github.com/dat999zx/knowl) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [DATA-AI-XYZ/Tandem](https://github.com/DATA-AI-XYZ/Tandem) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [datarobot-oss/datarobot-agent-skills](https://github.com/datarobot-oss/datarobot-agent-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [DataSantosh/claude-design-flow](https://github.com/DataSantosh/claude-design-flow) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1459,7 +1458,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [futuresearch/futuresearch-python](https://github.com/futuresearch/futuresearch-python) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [fvadicamo/dev-agent-skills](https://github.com/fvadicamo/dev-agent-skills) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [fworks-tech/agenthood](https://github.com/fworks-tech/agenthood) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
-| [FynnXland/fynn-mods](https://github.com/FynnXland/fynn-mods) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
+| [FynnXland/fynn-mods](https://github.com/FynnXland/fynn-mods) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Fyzel/claude-skills](https://github.com/Fyzel/claude-skills) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
 | [g761007/figloo](https://github.com/g761007/figloo) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [gabelul/stitch-kit](https://github.com/gabelul/stitch-kit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -3071,7 +3070,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [omar-y-abdi/furl-ctx](https://github.com/omar-y-abdi/furl-ctx) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [omarcevi/claudemods](https://github.com/omarcevi/claudemods) | 74 | `main` | `.claude-plugin` | ✅ ok |  |
 | [omeerdvrn/o-mods](https://github.com/omeerdvrn/o-mods) | 11 | `main` | `.claude-plugin` | ✅ ok |  |
-| [omnigami-ai/skills](https://github.com/omnigami-ai/skills) | 34 | `main` | `.claude-plugin` | ✅ ok |  |
+| [omnigami-ai/skills](https://github.com/omnigami-ai/skills) | 35 | `main` | `.claude-plugin` | ✅ ok |  |
 | [OmriGM/standup](https://github.com/OmriGM/standup) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [On-mission96/janaabg-operations](https://github.com/On-mission96/janaabg-operations) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [oneafrikan/the-grid](https://github.com/oneafrikan/the-grid) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -4799,6 +4798,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [curie-eng/curie](https://github.com/curie-eng/curie) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [DaizeDong/buy-me-a-car](https://github.com/DaizeDong/buy-me-a-car) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [Dannykkh/skill-olympus](https://github.com/Dannykkh/skill-olympus) | 0 | `master` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [dat999zx/knowl](https://github.com/dat999zx/knowl) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [davejj1530/planflow-greenlight](https://github.com/davejj1530/planflow-greenlight) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [davidteren/intent-engineering](https://github.com/davidteren/intent-engineering) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
