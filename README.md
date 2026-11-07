@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **5299**
-- Discoverable plugins: **17,535**
-- Healthy repos: **4746** · Unavailable: **553**
-- Last updated: **2026-11-06 20:48 UTC**
+- Discoverable plugins: **17,544**
+- Healthy repos: **4745** · Unavailable: **554**
+- Last updated: **2026-11-07 00:48 UTC**
 
 ## Source Catalog
 
@@ -875,7 +875,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [clever-cc-plugins/marketplace](https://github.com/clever-cc-plugins/marketplace) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
 | [cliffmeyers/cliff-code](https://github.com/cliffmeyers/cliff-code) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [clomia/claude-automata](https://github.com/clomia/claude-automata) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
-| [club-cog/devin-handoff](https://github.com/club-cog/devin-handoff) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [clutcher/laminar-skills](https://github.com/clutcher/laminar-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [coalesce-labs/catalyst](https://github.com/coalesce-labs/catalyst) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [codearranger/claude-legal](https://github.com/codearranger/claude-legal) | 15 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1117,7 +1116,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Din0saur5/ocrdeskew-claude-plugin](https://github.com/Din0saur5/ocrdeskew-claude-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [dinglebear-ai/unraid-mcp](https://github.com/dinglebear-ai/unraid-mcp) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
-| [dinhanhthi/coding-friend](https://github.com/dinhanhthi/coding-friend) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [dinhanhthi/coding-friend](https://github.com/dinhanhthi/coding-friend) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [DiogoMMP/syntraq](https://github.com/DiogoMMP/syntraq) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [dip497/onmywatch](https://github.com/dip497/onmywatch) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [discolike/discolike-skills](https://github.com/discolike/discolike-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1396,7 +1395,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Feynman520/d06-p01-self-improve](https://github.com/Feynman520/d06-p01-self-improve) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [fib7/acf-tools](https://github.com/fib7/acf-tools) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ficilcom/otame4-work-skills](https://github.com/ficilcom/otame4-work-skills) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
-| [filippolmt/skills](https://github.com/filippolmt/skills) | 95 | `main` | `.claude-plugin` | ✅ ok |  |
+| [filippolmt/skills](https://github.com/filippolmt/skills) | 97 | `main` | `.claude-plugin` | ✅ ok |  |
 | [financial-reports/financial-reports-mcp-server](https://github.com/financial-reports/financial-reports-mcp-server) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [FindAgent/plugins](https://github.com/FindAgent/plugins) | 29 | `main` | `.claude-plugin` | ✅ ok |  |
 | [findot-ai/ant-nest](https://github.com/findot-ai/ant-nest) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2948,7 +2947,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [navinramharak-rgb/website-audit](https://github.com/navinramharak-rgb/website-audit) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [NavistAu/claude-marketplace](https://github.com/NavistAu/claude-marketplace) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
 | [navox-labs/agents](https://github.com/navox-labs/agents) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [Nawii99/arsenal-piezas](https://github.com/Nawii99/arsenal-piezas) | 100 | `main` | `.claude-plugin` | ✅ ok |  |
+| [Nawii99/arsenal-piezas](https://github.com/Nawii99/arsenal-piezas) | 104 | `main` | `.claude-plugin` | ✅ ok |  |
 | [nazarov-design/pixel-whisperer](https://github.com/nazarov-design/pixel-whisperer) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ncaq/konoka](https://github.com/ncaq/konoka) | 14 | `master` | `.claude-plugin` | ✅ ok |  |
 | [nchuguevskiy/tattoo](https://github.com/nchuguevskiy/tattoo) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -3672,7 +3671,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [samuel-stidham/smithy](https://github.com/samuel-stidham/smithy) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
 | [SamuraiZac/desktop-ui-mastery](https://github.com/SamuraiZac/desktop-ui-mastery) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [samuryann/ronin-toolkit](https://github.com/samuryann/ronin-toolkit) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
-| [sananthanarayan/skilldrop](https://github.com/sananthanarayan/skilldrop) | 23 | `main` | `.claude-plugin` | ✅ ok |  |
+| [sananthanarayan/skilldrop](https://github.com/sananthanarayan/skilldrop) | 25 | `main` | `.claude-plugin` | ✅ ok |  |
 | [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [sanghyun-io/sanghyun-skills](https://github.com/sanghyun-io/sanghyun-skills) | 7 | `main` | `.claude-plugin` | ✅ ok |  |
 | [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -3803,7 +3802,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Sertac0708/github-repo-pruefer](https://github.com/Sertac0708/github-repo-pruefer) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Sertelegger/astir](https://github.com/Sertelegger/astir) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Sertelegger/claude-sesh-mover](https://github.com/Sertelegger/claude-sesh-mover) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [Servosity/msp-skills](https://github.com/Servosity/msp-skills) | 109 | `main` | `.claude-plugin` | ✅ ok |  |
+| [Servosity/msp-skills](https://github.com/Servosity/msp-skills) | 110 | `main` | `.claude-plugin` | ✅ ok |  |
 | [sethatwood/belay](https://github.com/sethatwood/belay) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [SethGammon/Citadel](https://github.com/SethGammon/Citadel) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [setkernel/agent-plugins](https://github.com/setkernel/agent-plugins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -4866,6 +4865,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Clinical-Quality-Artifical-Intelligence/practice-loops](https://github.com/Clinical-Quality-Artifical-Intelligence/practice-loops) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [clochard04/handoff](https://github.com/clochard04/handoff) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [clownware/product-dev](https://github.com/clownware/product-dev) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [club-cog/devin-handoff](https://github.com/club-cog/devin-handoff) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [coachpo/plugins-claude](https://github.com/coachpo/plugins-claude) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [CrossRead/scholion](https://github.com/CrossRead/scholion) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [crsmithdev/aleph](https://github.com/crsmithdev/aleph) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
