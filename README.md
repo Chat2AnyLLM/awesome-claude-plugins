@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **5336**
-- Discoverable plugins: **17,689**
-- Healthy repos: **4776** · Unavailable: **560**
-- Last updated: **2026-11-07 22:38 UTC**
+- Discoverable plugins: **17,728**
+- Healthy repos: **4775** · Unavailable: **561**
+- Last updated: **2026-11-08 02:14 UTC**
 
 ## Source Catalog
 
@@ -2720,7 +2720,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [melsayedx/learning-mode](https://github.com/melsayedx/learning-mode) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [memcell-ai/cli](https://github.com/memcell-ai/cli) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [memtomem/memtomem](https://github.com/memtomem/memtomem) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
-| [mengjiasun1992/structural-llm-wiki](https://github.com/mengjiasun1992/structural-llm-wiki) | 1 | `mainline` | `.claude-plugin` | ✅ ok |  |
 | [Ments123/dmd-costs-mcp](https://github.com/Ments123/dmd-costs-mcp) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [mephistopheles4/grimoire](https://github.com/mephistopheles4/grimoire) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [merge-api/merge-unified-skills](https://github.com/merge-api/merge-unified-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -4328,7 +4327,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [tong-wang/auto-mdp-solver](https://github.com/tong-wang/auto-mdp-solver) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [tonmoy007/forge-plugins](https://github.com/tonmoy007/forge-plugins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [tonone-ai/elephant](https://github.com/tonone-ai/elephant) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [tonone-ai/tonone](https://github.com/tonone-ai/tonone) | 112 | `main` | `.claude-plugin` | ✅ ok |  |
+| [tonone-ai/tonone](https://github.com/tonone-ai/tonone) | 152 | `main` | `.claude-plugin` | ✅ ok |  |
 | [tony/skills](https://github.com/tony/skills) | 35 | `main` | `.claude-plugin` | ✅ ok |  |
 | [tonydzi/second-brain-starter-kit](https://github.com/tonydzi/second-brain-starter-kit) | 2 | `master` | `.claude-plugin` | ✅ ok |  |
 | [tonykipkemboi/skill-foundry](https://github.com/tonykipkemboi/skill-foundry) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -5088,6 +5087,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [mclayer/plugin-codeforge](https://github.com/mclayer/plugin-codeforge) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [mdedit-ai/mdedit-agent-plugin](https://github.com/mdedit-ai/mdedit-agent-plugin) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [meganemura/headsign](https://github.com/meganemura/headsign) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [mengjiasun1992/structural-llm-wiki](https://github.com/mengjiasun1992/structural-llm-wiki) | 0 | `mainline` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [meoghetanca/aris](https://github.com/meoghetanca/aris) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [mhmtsrfglu/superwiki](https://github.com/mhmtsrfglu/superwiki) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [mi4646/my-skills](https://github.com/mi4646/my-skills) | 0 | `master` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
