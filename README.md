@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **5360**
-- Discoverable plugins: **17,857**
+- Discoverable plugins: **17,860**
 - Healthy repos: **4799** · Unavailable: **561**
-- Last updated: **2026-11-08 17:00 UTC**
+- Last updated: **2026-11-08 21:06 UTC**
 
 ## Source Catalog
 
@@ -219,8 +219,8 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Ajarallah/sard](https://github.com/Ajarallah/sard) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ajinkyalahade/iOS-Dev-ClaudeCode-Skills](https://github.com/ajinkyalahade/iOS-Dev-ClaudeCode-Skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [ajitta/claude-plugins](https://github.com/ajitta/claude-plugins) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
-| [ajitta/dialectic-skills](https://github.com/ajitta/dialectic-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [ajitta/claude-plugins](https://github.com/ajitta/claude-plugins) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
+| [ajitta/dialectic-skills](https://github.com/ajitta/dialectic-skills) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ajitta/Game-Engagement-Retention-Skills](https://github.com/ajitta/Game-Engagement-Retention-Skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ajitta/know-your-unknowns](https://github.com/ajitta/know-your-unknowns) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ajwann/installed-api](https://github.com/ajwann/installed-api) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1382,7 +1382,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [FavioVazquez/showtime](https://github.com/FavioVazquez/showtime) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [fazer-ai/skills](https://github.com/fazer-ai/skills) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Fazzani/claude-mods](https://github.com/Fazzani/claude-mods) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
-| [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) | 41 | `main` | `.claude-plugin` | ✅ ok |  |
+| [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) | 42 | `main` | `.claude-plugin` | ✅ ok |  |
 | [fcakyon/labrat](https://github.com/fcakyon/labrat) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [fclairamb/solidping-plugin](https://github.com/fclairamb/solidping-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [fcms14/agents-foundation](https://github.com/fcms14/agents-foundation) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1411,7 +1411,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [filippolmt/skills](https://github.com/filippolmt/skills) | 97 | `main` | `.claude-plugin` | ✅ ok |  |
 | [financeailab/skills-financas-br](https://github.com/financeailab/skills-financas-br) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [financial-reports/financial-reports-mcp-server](https://github.com/financial-reports/financial-reports-mcp-server) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [FindAgent/plugins](https://github.com/FindAgent/plugins) | 29 | `main` | `.claude-plugin` | ✅ ok |  |
+| [FindAgent/plugins](https://github.com/FindAgent/plugins) | 30 | `main` | `.claude-plugin` | ✅ ok |  |
 | [findot-ai/ant-nest](https://github.com/findot-ai/ant-nest) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [finestructure-ai/humanizer-multilingual](https://github.com/finestructure-ai/humanizer-multilingual) | 8 | `main` | `.claude-plugin` | ✅ ok |  |
 | [finestructure-ai/share-live](https://github.com/finestructure-ai/share-live) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -3301,7 +3301,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [PickleBoxer/claude-plugins](https://github.com/PickleBoxer/claude-plugins) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
 | [PicsArt/gen-ai-skills](https://github.com/PicsArt/gen-ai-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [pidgeon-ai/pidgeon-plugins](https://github.com/pidgeon-ai/pidgeon-plugins) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [Piebald-AI/claude-code-lsps](https://github.com/Piebald-AI/claude-code-lsps) | 38 | `main` | `.claude-plugin` | ✅ ok |  |
+| [Piebald-AI/claude-code-lsps](https://github.com/Piebald-AI/claude-code-lsps) | 37 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Pika-Labs/pika-create-plugin](https://github.com/Pika-Labs/pika-create-plugin) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [Pilot2Service/AI-Business-Designer](https://github.com/Pilot2Service/AI-Business-Designer) | 13 | `main` | `.claude-plugin` | ✅ ok |  |
 | [pilotspace/ADD](https://github.com/pilotspace/ADD) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
